@@ -1,0 +1,11 @@
+streamlit
+pandas
+geopandas
+folium
+streamlit-folium
+scikit-learn
+xgboost
+openai
+langchain
+faiss-cpu
+python-dotenv
