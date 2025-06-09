@@ -16,7 +16,7 @@ driver = webdriver.Chrome(service=service)
 
 # 3) Headless Chrome options
 opts = Options()
-# opts.add_argument("--headless")
+opts.add_argument("--headless")
 opts.add_argument("--disable-gpu")
 driver = webdriver.Chrome(options=opts)  # or webdriver.Chrome(service=service, options=opts)
 

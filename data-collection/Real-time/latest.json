@@ -1,0 +1,20 @@
+{
+  "grhosp": {
+    "timestamp": "2025-06-09T16:35:26.128493-04:00",
+    "wait_minutes": 239,
+    "patients_waiting": 51,
+    "website_last_update": "2025-06-09T16:26:31-04:00"
+  },
+  "smgh": {
+    "timestamp": "2025-06-09T16:35:26.573882-04:00",
+    "wait_minutes": 201,
+    "patients_waiting": 25,
+    "website_last_update": "2025-06-09T16:33:06.509557-04:00"
+  },
+  "wrhn": {
+    "timestamp": "2025-06-09T16:35:36.522657-04:00",
+    "wait_minutes": 254,
+    "patients_waiting": 27,
+    "website_last_update": "2025-06-09T16:18:00-04:00"
+  }
+}

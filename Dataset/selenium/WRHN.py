@@ -4,7 +4,7 @@ from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
-
+#Waterloo Regional Health Network's Emergency
 # 1) Point to your chromedriver; use a raw string to avoid invalid‐escape warnings
 service = Service(r"P:\ML-Project\HospitalCare\chromedriver-win32\chromedriver.exe")
 
