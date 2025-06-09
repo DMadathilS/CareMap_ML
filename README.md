@@ -1,5 +1,10 @@
 # Welcome to CareMap_ML
+
 This project aims to identify, analyze, and reduce disparities in healthcare access across rural regions of Canada by building an interactive, intelligent dashboard integrated with a smart chatbot. The tool will serve both the public and health policy stakeholders by helping visualize service gaps and enabling query-based exploration.
+
+# System Design Diagram
+
+![alt text](Documents\images\CareMap.jpg)
 
 ## Features
 
@@ -9,10 +14,10 @@ This project aims to identify, analyze, and reduce disparities in healthcare acc
 - Geo-based insights using CSV datasets on health facilities
 
 ## Usage Example
- 
- - View Dashboard: Explore facility availability by city or region.
 
- - Ask Chatbot: "Show me areas with low facility density."
+- View Dashboard: Explore facility availability by city or region.
+
+- Ask Chatbot: "Show me areas with low facility density."
 
 Interpret Results: Use heatmaps, charts, and chatbot suggestions to make informed decisions
 
@@ -41,3 +46,4 @@ pip install -r requirements.txt
 # Run the application
 python main.py
 
+```
