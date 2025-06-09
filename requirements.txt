@@ -9,3 +9,5 @@ openai
 langchain
 faiss-cpu
 python-dotenv
+fastapi 
+uvicorn 
