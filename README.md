@@ -4,7 +4,7 @@ This project aims to identify, analyze, and reduce disparities in healthcare acc
 
 # System Design Diagram
 
-![alt text](Documents\images\CareMap.jpg)
+![alt text](Documents/images/CareMap.jpg)
 
 ## Features
 
