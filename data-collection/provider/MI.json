@@ -1,0 +1,3900 @@
+{
+  "totalCount": 41,
+  "results": [
+    {
+      "providerId": 3774939,
+      "providerName": "STRONG DENTURE & SNORING-KITCHENER",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "B-100 VICTORIA ST S",
+      "addressSecondLine": null,
+      "city": "KITCHENER",
+      "postalCode": "N2G2B3",
+      "province": "ON",
+      "phoneNumber": "5195792002",
+      "licenceNumber": null,
+      "providerTypeCode": "3000",
+      "providerTypeDescription": {
+        "en": "Medical Items w/o footwear",
+        "fr": "Articles m\u00e9dicaux - excluant des chaussures"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.5007269,
+      "latitude": 43.4502882,
+      "googlePlaceData": {
+        "place_id": "ChIJE2XGN2b0K4gRXiJU3StUXOg",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "0000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 0,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 1,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 6,
+                "time": "0500",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 0,
+                "time": "0000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 6,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "http://www.peaksleep.ca/",
+        "utc_offset": -300,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 0.66,
+      "sourceDistance": 0.66,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 302096,
+      "providerName": "NATIONAL HOME HEALTH CARE",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "148 WEBER ST E",
+      "addressSecondLine": "                              ",
+      "city": "KITCHENER ",
+      "postalCode": "N2H1C9",
+      "province": "ON",
+      "phoneNumber": "5195783188",
+      "licenceNumber": null,
+      "providerTypeCode": "3000",
+      "providerTypeDescription": {
+        "en": "Medical Items w/o footwear",
+        "fr": "Articles m\u00e9dicaux - excluant des chaussures"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.4795913696289,
+      "latitude": 43.4485359191895,
+      "googlePlaceData": {
+        "place_id": "ChIJM2j6Uer0K4gRUPy6FZhsQOw",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "http://www.nationalhomehealthcare.ca/",
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 1.08,
+      "sourceDistance": 1.08,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 145245,
+      "providerName": "MEDIGAS INC",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "1-450 BELMONT AVE W",
+      "addressSecondLine": null,
+      "city": "KITCHENER",
+      "postalCode": "N2M1N3",
+      "province": "ON",
+      "phoneNumber": "5198933250",
+      "licenceNumber": null,
+      "providerTypeCode": "3000",
+      "providerTypeDescription": {
+        "en": "Medical Items w/o footwear",
+        "fr": "Articles m\u00e9dicaux - excluant des chaussures"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.51274,
+      "latitude": 43.44587,
+      "googlePlaceData": {
+        "place_id": "ChIJf8BQc0X0K4gRC66Vct_Q_ik",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "http://www.medigas.com/",
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 1.72,
+      "sourceDistance": 1.72,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": true
+    },
+    {
+      "providerId": 2505326,
+      "providerName": "LIFELABS",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "751 VICTORIA ST S",
+      "addressSecondLine": null,
+      "city": "KITCHENER",
+      "postalCode": "N2M5N4",
+      "province": "ON",
+      "phoneNumber": "8778493637",
+      "licenceNumber": null,
+      "providerTypeCode": "3002",
+      "providerTypeDescription": {
+        "en": "Lab / Diagnostic Provider",
+        "fr": "Fournisseur de tests de laboratoire/de diagnostic"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.51545,
+      "latitude": 43.45023,
+      "googlePlaceData": {
+        "place_id": "ChIJu0-m5UP0K4gRJWQ-ejbOWa0",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "https://www.lifelabs.com/",
+        "utc_offset": -300,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 1.84,
+      "sourceDistance": 1.84,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 143451,
+      "providerName": "SOS PHYSIOTHERAPY",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "301-564 BELMONT AVE W         ",
+      "addressSecondLine": "                              ",
+      "city": "KITCHENER ",
+      "postalCode": "N2M5N6",
+      "province": "ON",
+      "phoneNumber": "5197438787",
+      "licenceNumber": null,
+      "providerTypeCode": "3000",
+      "providerTypeDescription": {
+        "en": "Medical Items w/o footwear",
+        "fr": "Articles m\u00e9dicaux - excluant des chaussures"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.5154876708984,
+      "latitude": 43.450325012207,
+      "googlePlaceData": {
+        "place_id": "ChIJu0-m5UP0K4gR-gfF7tuVtj8",
+        "opening_hours": null,
+        "website": "http://www.pedorthic.com/kitchenerwaterloo/",
+        "utc_offset": -300,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 1.84,
+      "sourceDistance": 1.84,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 2835109,
+      "providerName": "ORTHOMED CANADA LTD",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "101-50 OTTAWA ST S",
+      "addressSecondLine": null,
+      "city": "KITCHENER",
+      "postalCode": "N2G3S7",
+      "province": "ON",
+      "phoneNumber": "8883000063",
+      "licenceNumber": null,
+      "providerTypeCode": "3000",
+      "providerTypeDescription": {
+        "en": "Medical Items w/o footwear",
+        "fr": "Articles m\u00e9dicaux - excluant des chaussures"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.4730682373047,
+      "latitude": 43.4410514831543,
+      "googlePlaceData": {
+        "place_id": "ChIJh5LiDL2ELIgRQX7u5DDQkRQ",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": null,
+              "open": {
+                "day": 0,
+                "time": "0000",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "http://www.orthomed.ca/",
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 1.93,
+      "sourceDistance": 1.93,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 2844042,
+      "providerName": "ORTHO MED CANADA",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "101-50 OTTAWA ST S",
+      "addressSecondLine": null,
+      "city": "KITCHENER",
+      "postalCode": "N2G3S7",
+      "province": "ON",
+      "phoneNumber": "5196283754",
+      "licenceNumber": null,
+      "providerTypeCode": "3000",
+      "providerTypeDescription": {
+        "en": "Medical Items w/o footwear",
+        "fr": "Articles m\u00e9dicaux - excluant des chaussures"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.4740044,
+      "latitude": 43.4395751,
+      "googlePlaceData": null,
+      "distance": 1.97,
+      "sourceDistance": 1.97,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 2107780,
+      "providerName": "SLEEP MANAGEMENT GROUP LTD - KITCHENER",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "1-25 BRUCE ST",
+      "addressSecondLine": null,
+      "city": "KITCHENER",
+      "postalCode": "N2B1Y4",
+      "province": "ON",
+      "phoneNumber": "5197410099",
+      "licenceNumber": null,
+      "providerTypeCode": "3000",
+      "providerTypeDescription": {
+        "en": "Medical Items w/o footwear",
+        "fr": "Articles m\u00e9dicaux - excluant des chaussures"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.46992,
+      "latitude": 43.46207,
+      "googlePlaceData": {
+        "place_id": "ChIJyauk7KT0K4gRPPQ_Zr_6K5E",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "http://www.sleepmanagement.ca/",
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 2.19,
+      "sourceDistance": 2.19,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": true
+    },
+    {
+      "providerId": 2001098,
+      "providerName": "SHOPPERS HOME HEALTH CARE",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "379 GAGE AVE",
+      "addressSecondLine": null,
+      "city": "KITCHENER",
+      "postalCode": "N2M5E1",
+      "province": "ON",
+      "phoneNumber": "5195796200",
+      "licenceNumber": null,
+      "providerTypeCode": "3000",
+      "providerTypeDescription": {
+        "en": "Medical Items w/o footwear",
+        "fr": "Articles m\u00e9dicaux - excluant des chaussures"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.5209,
+      "latitude": 43.44562,
+      "googlePlaceData": {
+        "place_id": "ChIJU4Kv40f0K4gRXvR4D34aTpQ",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 0,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 0,
+                "time": "1100",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 1,
+                "time": "1800",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1800",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1800",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1800",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1800",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 6,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 6,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "https://www.wellwise.ca/stores/store/8467?utm_source=G&utm_medium=lpm&utm_campaign=shoppershomehealthcare",
+        "utc_offset": -300,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 2.36,
+      "sourceDistance": 2.36,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 147443,
+      "providerName": "ORTHOPEDIC BRACING SOLUTIONS INC",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "1-386 GAGE AVE",
+      "addressSecondLine": "                              ",
+      "city": "KITCHENER ",
+      "postalCode": "N2M5C9",
+      "province": "ON",
+      "phoneNumber": "5197484848",
+      "licenceNumber": null,
+      "providerTypeCode": "3000",
+      "providerTypeDescription": {
+        "en": "Medical Items w/o footwear",
+        "fr": "Articles m\u00e9dicaux - excluant des chaussures"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.52081,
+      "latitude": 43.44495,
+      "googlePlaceData": {
+        "place_id": "ChIJ450PBkj0K4gRWEJ-F6yT7oI",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1630",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1630",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1630",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1630",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1530",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "https://www.obsinc.ca/",
+        "utc_offset": -300,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 2.37,
+      "sourceDistance": 2.37,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 2055026,
+      "providerName": "PROSTHETIC ABILITY",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "1-407 GAGE AVE",
+      "addressSecondLine": null,
+      "city": "KITCHENER",
+      "postalCode": "N2M5E1",
+      "province": "ON",
+      "phoneNumber": "5197429622",
+      "licenceNumber": null,
+      "providerTypeCode": "3000",
+      "providerTypeDescription": {
+        "en": "Medical Items w/o footwear",
+        "fr": "Articles m\u00e9dicaux - excluant des chaussures"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.52168,
+      "latitude": 43.44535,
+      "googlePlaceData": {
+        "place_id": "ChIJVYBdAEj0K4gRxg7EXV0LwqE",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1300",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "http://prostheticability.com/",
+        "utc_offset": -300,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 2.43,
+      "sourceDistance": 2.43,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 140264,
+      "providerName": "BIO PED FOOT CARE AND FOOT WEAR",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "842 VICTORIA ST N             ",
+      "addressSecondLine": "                              ",
+      "city": "KITCHENER ",
+      "postalCode": "N2B3C1",
+      "province": "ON",
+      "phoneNumber": "5195769440",
+      "licenceNumber": null,
+      "providerTypeCode": "3000",
+      "providerTypeDescription": {
+        "en": "Medical Items w/o footwear",
+        "fr": "Articles m\u00e9dicaux - excluant des chaussures"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.4660873413086,
+      "latitude": 43.4640655517578,
+      "googlePlaceData": {
+        "place_id": "ChIJy1ouSq_0K4gRH3V5YGWbFPo",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1900",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 6,
+                "time": "1500",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 6,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": null,
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 2.57,
+      "sourceDistance": 2.57,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 2022920,
+      "providerName": "KW ATHLETICS",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "11-525 HIGHLAND RD W",
+      "addressSecondLine": null,
+      "city": "KITCHENER",
+      "postalCode": "N2M5K2",
+      "province": "ON",
+      "phoneNumber": "5195799223",
+      "licenceNumber": null,
+      "providerTypeCode": "3000",
+      "providerTypeDescription": {
+        "en": "Medical Items w/o footwear",
+        "fr": "Articles m\u00e9dicaux - excluant des chaussures"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.51537,
+      "latitude": 43.43436,
+      "googlePlaceData": {
+        "place_id": "ChIJn1INhDX0K4gRVmV_g8MzTuc",
+        "opening_hours": null,
+        "website": "http://www.kwathletics.ca/",
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 2.61,
+      "sourceDistance": 2.61,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 2172682,
+      "providerName": "HOME SLEEP CARE",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "28 LAUREL ST",
+      "addressSecondLine": null,
+      "city": "WATERLOO",
+      "postalCode": "N2J2H2",
+      "province": "ON",
+      "phoneNumber": "5195709600",
+      "licenceNumber": null,
+      "providerTypeCode": "3000",
+      "providerTypeDescription": {
+        "en": "Medical Items w/o footwear",
+        "fr": "Articles m\u00e9dicaux - excluant des chaussures"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.51821,
+      "latitude": 43.4668212,
+      "googlePlaceData": {
+        "place_id": "ChIJY6cr0xL0K4gR7P7VherUcMM",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "https://www.homesleepcare.com/",
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 2.7,
+      "sourceDistance": 2.7,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": true
+    },
+    {
+      "providerId": 3711691,
+      "providerName": "FRONTLINE FORWARD",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "45 SHIRLEY AVE",
+      "addressSecondLine": null,
+      "city": "KITCHENER",
+      "postalCode": "N2B2E2",
+      "province": "ON",
+      "phoneNumber": "5197425409",
+      "licenceNumber": null,
+      "providerTypeCode": "3000",
+      "providerTypeDescription": {
+        "en": "Medical Items w/o footwear",
+        "fr": "Articles m\u00e9dicaux - excluant des chaussures"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.464464,
+      "latitude": 43.4668238,
+      "googlePlaceData": {
+        "place_id": "ChIJd9KW2XL0K4gRbCA6nBT3HT8",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1900",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "1200",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "1000",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "http://drmichaelamcclure.com/",
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 2.86,
+      "sourceDistance": 2.86,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 147726,
+      "providerName": "PASS BRACING/PHYSICALLY ACTIVE SUPPORTS & SUPPLIES",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "10-65 UNIVERSITY AVE E",
+      "addressSecondLine": null,
+      "city": "WATERLOO",
+      "postalCode": "N2J2V9",
+      "province": "ON",
+      "phoneNumber": "5198841600",
+      "licenceNumber": null,
+      "providerTypeCode": "3000",
+      "providerTypeDescription": {
+        "en": "Medical Items w/o footwear",
+        "fr": "Articles m\u00e9dicaux - excluant des chaussures"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.52113,
+      "latitude": 43.47715,
+      "googlePlaceData": {
+        "place_id": "ChIJ5QTVOovzK4gRx13vrMId_Ac",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1800",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1800",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1800",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1800",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1800",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "https://www.passbracing.ca/",
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 3.69,
+      "sourceDistance": 3.69,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 2037939,
+      "providerName": "VITALAIRE",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "4-1373 VICTORIA ST N",
+      "addressSecondLine": null,
+      "city": "KITCHENER",
+      "postalCode": "N2B3R6",
+      "province": "ON",
+      "phoneNumber": "5197444104",
+      "licenceNumber": null,
+      "providerTypeCode": "3000",
+      "providerTypeDescription": {
+        "en": "Medical Items w/o footwear",
+        "fr": "Articles m\u00e9dicaux - excluant des chaussures"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.44543,
+      "latitude": 43.46963,
+      "googlePlaceData": {
+        "place_id": "ChIJGYWsjaiMK4gRv-9BkDxH00E",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "https://www.vitalaire.ca/find-oxygen-sleep-clinic/kitchener-cpap-supplies",
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 4.32,
+      "sourceDistance": 4.32,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": true
+    },
+    {
+      "providerId": 2206889,
+      "providerName": "MOTION SPECAILTIES -KITCHENER",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "1362 VICTORIA ST N",
+      "addressSecondLine": null,
+      "city": "KITCHENER",
+      "postalCode": "N2B3E2",
+      "province": "ON",
+      "phoneNumber": "5198853160",
+      "licenceNumber": null,
+      "providerTypeCode": "3000",
+      "providerTypeDescription": {
+        "en": "Medical Items w/o footwear",
+        "fr": "Articles m\u00e9dicaux - excluant des chaussures"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.4452056884766,
+      "latitude": 43.4711380004883,
+      "googlePlaceData": {
+        "place_id": "ChIJW9bP-aiMK4gR7KHSiHuirD4",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0830",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0830",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0830",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0830",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0830",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "http://www.motioncares.ca/locations/kitchener",
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 4.42,
+      "sourceDistance": 4.42,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 3621751,
+      "providerName": "ORTHOPAEDIC ASSOCIATES OF KITCHENER",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "435 KING ST N",
+      "addressSecondLine": null,
+      "city": "WATERLOO",
+      "postalCode": "N2J2Z5",
+      "province": "ON",
+      "phoneNumber": "5196030657",
+      "licenceNumber": null,
+      "providerTypeCode": "3000",
+      "providerTypeDescription": {
+        "en": "Medical Items w/o footwear",
+        "fr": "Articles m\u00e9dicaux - excluant des chaussures"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.5290424,
+      "latitude": 43.4878028,
+      "googlePlaceData": null,
+      "distance": 5.03,
+      "sourceDistance": 5.03,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 2019634,
+      "providerName": "PRO RESP KITCHENER",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "340-1193 FISCHER HALLMAN RD",
+      "addressSecondLine": null,
+      "city": "KITCHENER",
+      "postalCode": "N2R0H3",
+      "province": "ON",
+      "phoneNumber": "5198860202",
+      "licenceNumber": null,
+      "providerTypeCode": "3000",
+      "providerTypeDescription": {
+        "en": "Medical Items w/o footwear",
+        "fr": "Articles m\u00e9dicaux - excluant des chaussures"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.49751,
+      "latitude": 43.40284,
+      "googlePlaceData": {
+        "place_id": "ChIJHx_7R3j1K4gRSto1NfvBgaI",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "http://www.proresp.com/",
+        "utc_offset": -300,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 5.38,
+      "sourceDistance": 5.38,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 142777,
+      "providerName": "WILDER MEDICAL/TRUDELL MEDICAL SUPPLIES",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "85 Northland Road",
+      "addressSecondLine": "                              ",
+      "city": "Waterloo",
+      "postalCode": "N2V1Y8",
+      "province": "ON",
+      "phoneNumber": "5198880618",
+      "licenceNumber": null,
+      "providerTypeCode": "3000",
+      "providerTypeDescription": {
+        "en": "Medical Items w/o footwear",
+        "fr": "Articles m\u00e9dicaux - excluant des chaussures"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.53098,
+      "latitude": 43.50777,
+      "googlePlaceData": {
+        "place_id": "ChIJ01M-2M3zK4gRwkcvf-Nivmc",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "http://wildermobility.com/",
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 7.02,
+      "sourceDistance": 7.02,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 142437,
+      "providerName": "ORTHO KINETICS INC",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "908 KING ST E                 ",
+      "addressSecondLine": "                              ",
+      "city": "CAMBRIDGE",
+      "postalCode": "N3H3P3",
+      "province": "ON",
+      "phoneNumber": "5196509883",
+      "licenceNumber": null,
+      "providerTypeCode": "3000",
+      "providerTypeDescription": {
+        "en": "Medical Items w/o footwear",
+        "fr": "Articles m\u00e9dicaux - excluant des chaussures"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.35555,
+      "latitude": 43.39423,
+      "googlePlaceData": {
+        "place_id": "ChIJ-WxVPfCJK4gRWxRwYqlVKY8",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1800",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "1000",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1500",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1600",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1300",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "http://orthokineticsinc.com/",
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 12.74,
+      "sourceDistance": 12.74,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 2082186,
+      "providerName": "FRAN'S MASTECTOMY BOUTIQUE",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "106-927 KING ST E",
+      "addressSecondLine": null,
+      "city": "CAMBRIDGE",
+      "postalCode": "N3H3P4",
+      "province": "ON",
+      "phoneNumber": "5196216080",
+      "licenceNumber": null,
+      "providerTypeCode": "3000",
+      "providerTypeDescription": {
+        "en": "Medical Items w/o footwear",
+        "fr": "Articles m\u00e9dicaux - excluant des chaussures"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.3551330566406,
+      "latitude": 43.3943176269531,
+      "googlePlaceData": {
+        "place_id": "ChIJDRTS2it2LIgRAxjozRwSMSM",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "1000",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "1000",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "1000",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1900",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "1000",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "1000",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 6,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 6,
+                "time": "1000",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "http://www.fransmastectomyboutique.ca/",
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 12.77,
+      "sourceDistance": 12.77,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 3338955,
+      "providerName": "INCONTROL DIAPERS",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "C539 COLLIER MACMILLAN DR",
+      "addressSecondLine": null,
+      "city": "CAMBRIDGE",
+      "postalCode": "N1R7P3",
+      "province": "ON",
+      "phoneNumber": "5196217060",
+      "licenceNumber": null,
+      "providerTypeCode": "3000",
+      "providerTypeDescription": {
+        "en": "Medical Items w/o footwear",
+        "fr": "Articles m\u00e9dicaux - excluant des chaussures"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.321705,
+      "latitude": 43.4010459,
+      "googlePlaceData": null,
+      "distance": 14.88,
+      "sourceDistance": 14.88,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 3827419,
+      "providerName": "HOME SLEEP CARE",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "11-695 CORONATION BLVD",
+      "addressSecondLine": null,
+      "city": "CAMBRIDGE",
+      "postalCode": "N1R7J9",
+      "province": "ON",
+      "phoneNumber": "2268950975",
+      "licenceNumber": null,
+      "providerTypeCode": "3000",
+      "providerTypeDescription": {
+        "en": "Medical Items w/o footwear",
+        "fr": "Articles m\u00e9dicaux - excluant des chaussures"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.3291089,
+      "latitude": 43.3807951,
+      "googlePlaceData": null,
+      "distance": 15.34,
+      "sourceDistance": 15.34,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": true
+    },
+    {
+      "providerId": 3851288,
+      "providerName": "HOME SLEEP CARE",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "11-695 CORONATION BLVD",
+      "addressSecondLine": null,
+      "city": "CAMBRIDGE",
+      "postalCode": "N1R7J9",
+      "province": "ON",
+      "phoneNumber": "2269750975",
+      "licenceNumber": null,
+      "providerTypeCode": "3000",
+      "providerTypeDescription": {
+        "en": "Medical Items w/o footwear",
+        "fr": "Articles m\u00e9dicaux - excluant des chaussures"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.3291089,
+      "latitude": 43.3807951,
+      "googlePlaceData": null,
+      "distance": 15.34,
+      "sourceDistance": 15.34,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 140680,
+      "providerName": "CAMBRIDGE MEMORIAL HOSPITAL",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "700 CORONATION BLVD           ",
+      "addressSecondLine": "                    ",
+      "city": "CAMBRIDGE",
+      "postalCode": "N1R3G2",
+      "province": "ON",
+      "phoneNumber": "5196212330",
+      "licenceNumber": null,
+      "providerTypeCode": "3000",
+      "providerTypeDescription": {
+        "en": "Medical Items w/o footwear",
+        "fr": "Articles m\u00e9dicaux - excluant des chaussures"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.32858,
+      "latitude": 43.37833,
+      "googlePlaceData": {
+        "place_id": "ChIJufn_DCl2LIgR_rjg9NDX01Q",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": null,
+              "open": {
+                "day": 0,
+                "time": "0000",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "https://www.cmh.org/",
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 15.52,
+      "sourceDistance": 15.52,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 2330522,
+      "providerName": "RESPIRATORY HOMECARE SOLUTIONS",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "B2B-350 CONESTOGA BLVD",
+      "addressSecondLine": null,
+      "city": "CAMBRIDGE",
+      "postalCode": "N1R7L7",
+      "province": "ON",
+      "phoneNumber": "5195915202",
+      "licenceNumber": null,
+      "providerTypeCode": "3000",
+      "providerTypeDescription": {
+        "en": "Medical Items w/o footwear",
+        "fr": "Articles m\u00e9dicaux - excluant des chaussures"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.3139987,
+      "latitude": 43.3904799,
+      "googlePlaceData": null,
+      "distance": 15.92,
+      "sourceDistance": 15.92,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": true
+    },
+    {
+      "providerId": 2026760,
+      "providerName": "MOBILITY IN MOTION CAMBRIDGE",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "7-1710 BISHOP ST N",
+      "addressSecondLine": null,
+      "city": "CAMBRIDGE",
+      "postalCode": "N1T1T2",
+      "province": "ON",
+      "phoneNumber": "5196239930",
+      "licenceNumber": null,
+      "providerTypeCode": "3000",
+      "providerTypeDescription": {
+        "en": "Medical Items w/o footwear",
+        "fr": "Articles m\u00e9dicaux - excluant des chaussures"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.3024597167969,
+      "latitude": 43.3983001708984,
+      "googlePlaceData": {
+        "place_id": "ChIJl6LogkCIK4gR5qZPl7QSvl4",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "http://www.mobilityinmotion.net/",
+        "utc_offset": -300,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 16.43,
+      "sourceDistance": 16.43,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 2088545,
+      "providerName": "SHOPPERS HOME HEALTH CARE",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "1 HESPELER RD",
+      "addressSecondLine": null,
+      "city": "CAMBRIDGE",
+      "postalCode": "N1R8L4",
+      "province": "ON",
+      "phoneNumber": "5196246020",
+      "licenceNumber": null,
+      "providerTypeCode": "3000",
+      "providerTypeDescription": {
+        "en": "Medical Items w/o footwear",
+        "fr": "Articles m\u00e9dicaux - excluant des chaussures"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.31811,
+      "latitude": 43.37417,
+      "googlePlaceData": {
+        "place_id": "ChIJ4bTzh9R3LIgRgjlZoc8_xzE",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1800",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1800",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1800",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1800",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1800",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 6,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 6,
+                "time": "1000",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "https://www.wellwise.ca/stores/store/8485?utm_source=G&utm_medium=lpm&utm_campaign=shoppershomehealthcare",
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 16.48,
+      "sourceDistance": 16.48,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 2070050,
+      "providerName": "FOOT FOUNDATION",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "11 CHURCH ST E",
+      "addressSecondLine": null,
+      "city": "ELMIRA",
+      "postalCode": "N3B2K7",
+      "province": "ON",
+      "phoneNumber": "5196693030",
+      "licenceNumber": null,
+      "providerTypeCode": "3000",
+      "providerTypeDescription": {
+        "en": "Medical Items w/o footwear",
+        "fr": "Articles m\u00e9dicaux - excluant des chaussures"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.5570571,
+      "latitude": 43.5997492,
+      "googlePlaceData": {
+        "place_id": "ChIJEduayI_uK4gRtcE3byQSYl0",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1730",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1730",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1730",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1730",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1730",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 6,
+                "time": "1300",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 6,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "http://www.footfoundation.ca/",
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 17.32,
+      "sourceDistance": 17.32,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 3097957,
+      "providerName": "TRI-CITY PHYSIOTHERAPY & REHAB",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "27 WATER ST N",
+      "addressSecondLine": null,
+      "city": "CAMBRIDGE",
+      "postalCode": "N1R3B2",
+      "province": "ON",
+      "phoneNumber": "5196202229",
+      "licenceNumber": null,
+      "providerTypeCode": "3000",
+      "providerTypeDescription": {
+        "en": "Medical Items w/o footwear",
+        "fr": "Articles m\u00e9dicaux - excluant des chaussures"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.3151327,
+      "latitude": 43.3597812,
+      "googlePlaceData": {
+        "place_id": "ChIJMx5fMCh2LIgRD_EbqVdRV5w",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1900",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1900",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1900",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1900",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1800",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "http://www.tricityphysio.ca/",
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 17.56,
+      "sourceDistance": 17.56,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "DE",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 2288854,
+      "providerName": "MEDIGAS",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "11-485 SILVERCREEK PARKWAY",
+      "addressSecondLine": null,
+      "city": "GUELPH",
+      "postalCode": "N1H7K5",
+      "province": "ON",
+      "phoneNumber": "5197802521",
+      "licenceNumber": null,
+      "providerTypeCode": "3000",
+      "providerTypeDescription": {
+        "en": "Medical Items w/o footwear",
+        "fr": "Articles m\u00e9dicaux - excluant des chaussures"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.2951,
+      "latitude": 43.55117,
+      "googlePlaceData": {
+        "place_id": "ChIJQ4EYKGuQK4gRx_7tD2FwQE0",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "http://www.medigas.com/",
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 19.43,
+      "sourceDistance": 19.43,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": true
+    },
+    {
+      "providerId": 147425,
+      "providerName": "APPLIED BIOMECHANICS",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "7-214 SPEEDVALE AVE W",
+      "addressSecondLine": null,
+      "city": "GUELPH",
+      "postalCode": "N1H1C4",
+      "province": "ON",
+      "phoneNumber": "5198364755",
+      "licenceNumber": null,
+      "providerTypeCode": "3000",
+      "providerTypeDescription": {
+        "en": "Medical Items w/o footwear",
+        "fr": "Articles m\u00e9dicaux - excluant des chaussures"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.28062,
+      "latitude": 43.5486,
+      "googlePlaceData": {
+        "place_id": "ChIJxaO4qtKEK4gRGJE8sVghumo",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 2,
+                "time": "1730",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1730",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1730",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1500",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "https://appliedbiomechanics.com/?utm_source=gmb&utm_medium=organic",
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 20.24,
+      "sourceDistance": 20.24,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 2342564,
+      "providerName": "ACTION MOBILITY",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "249 EDINBURGH RD N",
+      "addressSecondLine": null,
+      "city": "GUELPH",
+      "postalCode": "N1H5S2",
+      "province": "ON",
+      "phoneNumber": "5197671300",
+      "licenceNumber": null,
+      "providerTypeCode": "3000",
+      "providerTypeDescription": {
+        "en": "Medical Items w/o footwear",
+        "fr": "Articles m\u00e9dicaux - excluant des chaussures"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.27784,
+      "latitude": 43.5515,
+      "googlePlaceData": {
+        "place_id": "ChIJ7xvTbKOaK4gR_xblM7npEho",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "https://www.actionmobilityrentals.com/",
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 20.6,
+      "sourceDistance": 20.6,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 2011893,
+      "providerName": "COMPLETE FOOT CLINIC",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "112-77 WESTMOUNT RD",
+      "addressSecondLine": null,
+      "city": "GUELPH",
+      "postalCode": "N1H5J1",
+      "province": "ON",
+      "phoneNumber": "5198373141",
+      "licenceNumber": null,
+      "providerTypeCode": "3000",
+      "providerTypeDescription": {
+        "en": "Medical Items w/o footwear",
+        "fr": "Articles m\u00e9dicaux - excluant des chaussures"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.2689814,
+      "latitude": 43.5499775,
+      "googlePlaceData": null,
+      "distance": 21.12,
+      "sourceDistance": 21.12,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": true
+    },
+    {
+      "providerId": 2902507,
+      "providerName": "VICANIES",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "731 WOOLWICH ST",
+      "addressSecondLine": null,
+      "city": "GUELPH",
+      "postalCode": "N1H3Z2",
+      "province": "ON",
+      "phoneNumber": "5197802103",
+      "licenceNumber": null,
+      "providerTypeCode": "3000",
+      "providerTypeDescription": {
+        "en": "Medical Items w/o footwear",
+        "fr": "Articles m\u00e9dicaux - excluant des chaussures"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.27357,
+      "latitude": 43.56279,
+      "googlePlaceData": {
+        "place_id": "ChIJfachCeqaK4gRRRqLnSLXfEg",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 2,
+                "time": "1730",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "1000",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1730",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "1000",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1900",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "1000",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1730",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "1000",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 6,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 6,
+                "time": "1000",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "http://www.vicanies.com/",
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 21.59,
+      "sourceDistance": 21.59,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 140708,
+      "providerName": "NORFOLK SURGICAL SUPPLIES",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "100-85 NORFOLK ST                 ",
+      "addressSecondLine": "                              ",
+      "city": "GUELPH",
+      "postalCode": "N1H4J4",
+      "province": "ON",
+      "phoneNumber": "5198371820",
+      "licenceNumber": null,
+      "providerTypeCode": "3000",
+      "providerTypeDescription": {
+        "en": "Medical Items w/o footwear",
+        "fr": "Articles m\u00e9dicaux - excluant des chaussures"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.25152,
+      "latitude": 43.54509,
+      "googlePlaceData": {
+        "place_id": "ChIJ36MbL1mbK4gRupLPIE0OCnU",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1800",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1800",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1800",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1800",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1800",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "https://www.guardian-ida-remedysrx.ca/en/ontario/guelph/norfolk-pharmacy-surgical-supplies-inc-7019242?utm_source=Google&utm_medium=maps&utm_campaign=Local_Presence",
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 22.07,
+      "sourceDistance": 22.07,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 2203081,
+      "providerName": "GUELPH MEDICAL STOCKINGS",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "202-73 DELHI ST",
+      "addressSecondLine": null,
+      "city": "GUELPH",
+      "postalCode": "N1E6L9",
+      "province": "ON",
+      "phoneNumber": "5198369441",
+      "licenceNumber": null,
+      "providerTypeCode": "3000",
+      "providerTypeDescription": {
+        "en": "Medical Items w/o footwear",
+        "fr": "Articles m\u00e9dicaux - excluant des chaussures"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.25174,
+      "latitude": 43.55505,
+      "googlePlaceData": {
+        "place_id": "ChIJw7qgEu2aK4gRDOcknIywEC4",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "https://kwveinclinic.ca/our-clinic/",
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 22.6,
+      "sourceDistance": 22.6,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": true
+    },
+    {
+      "providerId": 2011094,
+      "providerName": "HEALTH & PERFORMANCE CENTRE",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "J-50 STONE RD E",
+      "addressSecondLine": "T POWELL",
+      "city": "GUELPH",
+      "postalCode": "N1G2W1",
+      "province": "ON",
+      "phoneNumber": "5197675011",
+      "licenceNumber": null,
+      "providerTypeCode": "3000",
+      "providerTypeDescription": {
+        "en": "Medical Items w/o footwear",
+        "fr": "Articles m\u00e9dicaux - excluant des chaussures"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.22376,
+      "latitude": 43.53328,
+      "googlePlaceData": {
+        "place_id": "ChIJVVVVUiybK4gR56bB6Ij3X-w",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1600",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "https://www.uoguelph.ca/hpc",
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 23.53,
+      "sourceDistance": 23.53,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 2243793,
+      "providerName": "HOME SLEEP CARE-PARIS",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "139 GRAND RIVER ST N",
+      "addressSecondLine": "SUITE 202",
+      "city": "PARIS",
+      "postalCode": "N3L2M4",
+      "province": "ON",
+      "phoneNumber": "5194429284",
+      "licenceNumber": null,
+      "providerTypeCode": "3000",
+      "providerTypeDescription": {
+        "en": "Medical Items w/o footwear",
+        "fr": "Articles m\u00e9dicaux - excluant des chaussures"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.38462,
+      "latitude": 43.19486,
+      "googlePlaceData": {
+        "place_id": "ChIJ746rI8ttLIgRoDwM0g0h9mc",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "https://www.homesleepcare.com/",
+        "utc_offset": -300,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 29.8,
+      "sourceDistance": 29.8,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": true
+    }
+  ],
+  "pageSize": 200,
+  "start": 1
+}

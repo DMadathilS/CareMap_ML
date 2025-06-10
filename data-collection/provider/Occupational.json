@@ -1,0 +1,1513 @@
+{
+  "totalCount": 18,
+  "results": [
+    {
+      "providerId": 3814680,
+      "providerName": "E BAJAC",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "202-130 WEBER ST W",
+      "addressSecondLine": null,
+      "city": "KITCHENER",
+      "postalCode": "N2H4A2",
+      "province": "ON",
+      "phoneNumber": "5195787070",
+      "licenceNumber": null,
+      "providerTypeCode": "5015",
+      "providerTypeDescription": {
+        "en": "Occupational Therapist",
+        "fr": "Ergoth\u00e9rapeute"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.4943577,
+      "latitude": 43.4563536,
+      "googlePlaceData": {
+        "place_id": "ChIJjcN4eGQzK4gRvbObJCKZfW4",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "1400",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1900",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "1300",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1400",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1600",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "1000",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "http://encompasshealth.ca/",
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 0.6,
+      "sourceDistance": 0.6,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 3534627,
+      "providerName": "H MUIR",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "D-136 MOORE AVE S",
+      "addressSecondLine": null,
+      "city": "WATERLOO",
+      "postalCode": "N2J1X5",
+      "province": "ON",
+      "phoneNumber": "5199545026",
+      "licenceNumber": null,
+      "providerTypeCode": "5015",
+      "providerTypeDescription": {
+        "en": "Occupational Therapist",
+        "fr": "Ergoth\u00e9rapeute"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.5100872,
+      "latitude": 43.462644,
+      "googlePlaceData": {
+        "place_id": "ChIJdaATXGX0K4gR3zx1yGQRS5U",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "https://www.creativeot.com/",
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 1.9,
+      "sourceDistance": 1.9,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 2789427,
+      "providerName": "B LABRON",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "6A-509 WILSON AVE",
+      "addressSecondLine": null,
+      "city": "KITCHENER",
+      "postalCode": "N2C2M4",
+      "province": "ON",
+      "phoneNumber": "5195786627",
+      "licenceNumber": null,
+      "providerTypeCode": "5015",
+      "providerTypeDescription": {
+        "en": "Occupational Therapist",
+        "fr": "Ergoth\u00e9rapeute"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.470100402832,
+      "latitude": 43.4415054321289,
+      "googlePlaceData": {
+        "place_id": "ChIJrdv086X0K4gR9oU3NU9Puto",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1915",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1715",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1715",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1915",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1715",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "http://portal1670.corpgbkdnn.ca/AboutUs.aspx",
+        "utc_offset": -300,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 2.1,
+      "sourceDistance": 2.1,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 2777898,
+      "providerName": "S PERRY",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "1-405 MAPLE GROVE RD",
+      "addressSecondLine": null,
+      "city": "CAMBRIDGE",
+      "postalCode": "N3E1B6",
+      "province": "ON",
+      "phoneNumber": "5196539203",
+      "licenceNumber": null,
+      "providerTypeCode": "5015",
+      "providerTypeDescription": {
+        "en": "Occupational Therapist",
+        "fr": "Ergoth\u00e9rapeute"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.3305181,
+      "latitude": 43.3815465,
+      "googlePlaceData": null,
+      "distance": 15.2,
+      "sourceDistance": 15.2,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 2777486,
+      "providerName": "L BEDARD",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "1-405 MAPLE GROVE RD",
+      "addressSecondLine": null,
+      "city": "CAMBRIDGE",
+      "postalCode": "N3E1B6",
+      "province": "ON",
+      "phoneNumber": "5196539203",
+      "licenceNumber": null,
+      "providerTypeCode": "5015",
+      "providerTypeDescription": {
+        "en": "Occupational Therapist",
+        "fr": "Ergoth\u00e9rapeute"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.3305181,
+      "latitude": 43.3815465,
+      "googlePlaceData": null,
+      "distance": 15.2,
+      "sourceDistance": 15.2,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 3644895,
+      "providerName": "S ELHAYEK",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "250 HESPELER RD",
+      "addressSecondLine": null,
+      "city": "CAMBRIDGE",
+      "postalCode": "N1R3H3",
+      "province": "ON",
+      "phoneNumber": "5196201370",
+      "licenceNumber": null,
+      "providerTypeCode": "5015",
+      "providerTypeDescription": {
+        "en": "Occupational Therapist",
+        "fr": "Ergoth\u00e9rapeute"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.3221124,
+      "latitude": 43.3861485,
+      "googlePlaceData": {
+        "place_id": "ChIJ-SAcViuIK4gRl8lQ_n4jTq0",
+        "opening_hours": null,
+        "website": null,
+        "utc_offset": -300,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 15.54,
+      "sourceDistance": 15.54,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": true
+    },
+    {
+      "providerId": 3554096,
+      "providerName": "K ROBINSON",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "250 HESPELER RD",
+      "addressSecondLine": null,
+      "city": "CAMBRIDGE",
+      "postalCode": "N1R3H3",
+      "province": "ON",
+      "phoneNumber": "5196201370",
+      "licenceNumber": null,
+      "providerTypeCode": "5015",
+      "providerTypeDescription": {
+        "en": "Occupational Therapist",
+        "fr": "Ergoth\u00e9rapeute"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.3221124,
+      "latitude": 43.3861485,
+      "googlePlaceData": {
+        "place_id": "ChIJ-SAcViuIK4gRl8lQ_n4jTq0",
+        "opening_hours": null,
+        "website": null,
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 15.54,
+      "sourceDistance": 15.54,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 3644893,
+      "providerName": "C KOVACS",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "250 HESPELER RD",
+      "addressSecondLine": null,
+      "city": "CAMBRIDGE",
+      "postalCode": "N1R3H3",
+      "province": "ON",
+      "phoneNumber": "5196201370",
+      "licenceNumber": null,
+      "providerTypeCode": "5015",
+      "providerTypeDescription": {
+        "en": "Occupational Therapist",
+        "fr": "Ergoth\u00e9rapeute"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.3221124,
+      "latitude": 43.3861485,
+      "googlePlaceData": {
+        "place_id": "ChIJ-SAcViuIK4gRl8lQ_n4jTq0",
+        "opening_hours": null,
+        "website": null,
+        "utc_offset": -300,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 15.54,
+      "sourceDistance": 15.54,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 3377018,
+      "providerName": "G GAULIN",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "250 HESPELER RD",
+      "addressSecondLine": null,
+      "city": "CAMBRIDGE",
+      "postalCode": "N1R3H3",
+      "province": "ON",
+      "phoneNumber": "5196201370",
+      "licenceNumber": null,
+      "providerTypeCode": "5015",
+      "providerTypeDescription": {
+        "en": "Occupational Therapist",
+        "fr": "Ergoth\u00e9rapeute"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.3220904,
+      "latitude": 43.3861475,
+      "googlePlaceData": {
+        "place_id": "ChIJ-SAcViuIK4gRl8lQ_n4jTq0",
+        "opening_hours": null,
+        "website": null,
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 15.55,
+      "sourceDistance": 15.55,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 3377014,
+      "providerName": "R OATMAN",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "250 HESPELER RD",
+      "addressSecondLine": null,
+      "city": "CAMBRIDGE",
+      "postalCode": "N1R3H3",
+      "province": "ON",
+      "phoneNumber": "5196201370",
+      "licenceNumber": null,
+      "providerTypeCode": "5015",
+      "providerTypeDescription": {
+        "en": "Occupational Therapist",
+        "fr": "Ergoth\u00e9rapeute"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.3220904,
+      "latitude": 43.3861475,
+      "googlePlaceData": {
+        "place_id": "ChIJ-SAcViuIK4gRl8lQ_n4jTq0",
+        "opening_hours": null,
+        "website": null,
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 15.55,
+      "sourceDistance": 15.55,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 3833570,
+      "providerName": "B PULYK",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "B4D-350 CONESTOGA BLVD",
+      "addressSecondLine": null,
+      "city": "CAMBRIDGE",
+      "postalCode": "N1R7L7",
+      "province": "ON",
+      "phoneNumber": "5196249994",
+      "licenceNumber": null,
+      "providerTypeCode": "5015",
+      "providerTypeDescription": {
+        "en": "Occupational Therapist",
+        "fr": "Ergoth\u00e9rapeute"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.3136558,
+      "latitude": 43.3900938,
+      "googlePlaceData": {
+        "place_id": "ChIJBcMBzDGIK4gRZ0jNVi6lv_U",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1930",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1930",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1930",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1930",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1400",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "https://www.cbihealth.ca/locations/cambridge-conestoga",
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 15.96,
+      "sourceDistance": 15.96,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 3403770,
+      "providerName": "C KNIGHT",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "201-21 SURREY ST W",
+      "addressSecondLine": null,
+      "city": "GUELPH",
+      "postalCode": "N1H3R3",
+      "province": "ON",
+      "phoneNumber": "5198222002",
+      "licenceNumber": null,
+      "providerTypeCode": "5015",
+      "providerTypeDescription": {
+        "en": "Occupational Therapist",
+        "fr": "Ergoth\u00e9rapeute"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.2467139,
+      "latitude": 43.540627,
+      "googlePlaceData": {
+        "place_id": "ChIJrzFsvf2bK4gRnQrymnUdeb0",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1800",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1900",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1800",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1900",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1800",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "https://mscorthopedicsurgeonsandphysio.ca/",
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 22.19,
+      "sourceDistance": 22.19,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 2428166,
+      "providerName": "C KNIGHT",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "5-23 WELLINGTON ST E",
+      "addressSecondLine": null,
+      "city": "GUELPH",
+      "postalCode": "N1H3R7",
+      "province": "ON",
+      "phoneNumber": "5198248185",
+      "licenceNumber": null,
+      "providerTypeCode": "5015",
+      "providerTypeDescription": {
+        "en": "Occupational Therapist",
+        "fr": "Ergoth\u00e9rapeute"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.2433,
+      "latitude": 43.54225,
+      "googlePlaceData": {
+        "place_id": "ChIJA3NZNMOaK4gRMfvcAKWDCHg",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0730",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0730",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0730",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0730",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1600",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0730",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "http://www.wellingtonphysiotherapy.ca/",
+        "utc_offset": -300,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 22.51,
+      "sourceDistance": 22.51,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 3479297,
+      "providerName": "R FOOTMAN",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "5-23 WELLINGTON ST E",
+      "addressSecondLine": null,
+      "city": "GUELPH",
+      "postalCode": "N1H3R7",
+      "province": "ON",
+      "phoneNumber": "5198248185",
+      "licenceNumber": null,
+      "providerTypeCode": "5015",
+      "providerTypeDescription": {
+        "en": "Occupational Therapist",
+        "fr": "Ergoth\u00e9rapeute"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.2433274,
+      "latitude": 43.5422324,
+      "googlePlaceData": {
+        "place_id": "ChIJA3NZNMOaK4gRMfvcAKWDCHg",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0730",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0730",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0730",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0730",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1600",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0730",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "http://www.wellingtonphysiotherapy.ca/",
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 22.51,
+      "sourceDistance": 22.51,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 3816872,
+      "providerName": "L JEAUROND",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "23 WELLINGTON ST E 5&6",
+      "addressSecondLine": null,
+      "city": "GUELPH",
+      "postalCode": "N1H3R7",
+      "province": "ON",
+      "phoneNumber": "5198248185",
+      "licenceNumber": null,
+      "providerTypeCode": "5015",
+      "providerTypeDescription": {
+        "en": "Occupational Therapist",
+        "fr": "Ergoth\u00e9rapeute"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.2433274,
+      "latitude": 43.5422324,
+      "googlePlaceData": {
+        "place_id": "ChIJA3NZNMOaK4gRMfvcAKWDCHg",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0730",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0730",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0730",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0730",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1600",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0730",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "http://www.wellingtonphysiotherapy.ca/",
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 22.51,
+      "sourceDistance": 22.51,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 3641153,
+      "providerName": "L DESROSIERS",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "1453 GORDON ST",
+      "addressSecondLine": null,
+      "city": "GUELPH",
+      "postalCode": "N1L1C9",
+      "province": "ON",
+      "phoneNumber": "5197800606",
+      "licenceNumber": null,
+      "providerTypeCode": "5015",
+      "providerTypeDescription": {
+        "en": "Occupational Therapist",
+        "fr": "Ergoth\u00e9rapeute"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.1968145,
+      "latitude": 43.5108258,
+      "googlePlaceData": {
+        "place_id": "ChIJw0ih4qSEK4gRZFWgHq9juAo",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1900",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1900",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1600",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "https://gwha.ca/",
+        "utc_offset": -300,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 24.77,
+      "sourceDistance": 24.77,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 2958876,
+      "providerName": "D LEGGE-NEVETT",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "2-6488 WELLINGTON RD 7",
+      "addressSecondLine": null,
+      "city": "ELORA",
+      "postalCode": "N0B1S0",
+      "province": "ON",
+      "phoneNumber": "5198469919",
+      "licenceNumber": null,
+      "providerTypeCode": "5015",
+      "providerTypeDescription": {
+        "en": "Occupational Therapist",
+        "fr": "Ergoth\u00e9rapeute"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.430134,
+      "latitude": 43.6768851,
+      "googlePlaceData": {
+        "place_id": "ChIJh1mWtQTAK4gRVLQh0POKov8",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0700",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0700",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "https://eramosaphysio.com/",
+        "utc_offset": -300,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 25.6,
+      "sourceDistance": 25.6,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 3805363,
+      "providerName": "K GEORGE",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "2-6488 WELLINGTON RD 7",
+      "addressSecondLine": null,
+      "city": "ELORA",
+      "postalCode": "N0B1S0",
+      "province": "ON",
+      "phoneNumber": "5198469919",
+      "licenceNumber": null,
+      "providerTypeCode": "5015",
+      "providerTypeDescription": {
+        "en": "Occupational Therapist",
+        "fr": "Ergoth\u00e9rapeute"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.430134,
+      "latitude": 43.6768851,
+      "googlePlaceData": {
+        "place_id": "ChIJh1mWtQTAK4gRVLQh0POKov8",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0700",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0700",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "https://eramosaphysio.com/",
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 25.6,
+      "sourceDistance": 25.6,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    }
+  ],
+  "pageSize": 200,
+  "start": 1
+}

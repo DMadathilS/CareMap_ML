@@ -1,0 +1,750 @@
+{
+  "totalCount": 14,
+  "results": [
+    {
+      "providerId": 2628047,
+      "providerName": "H POLA",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "750 OTTAWA ST S",
+      "addressSecondLine": null,
+      "city": "KITCHENER ",
+      "postalCode": "N2E1B6",
+      "province": "ON",
+      "phoneNumber": "5194042476",
+      "licenceNumber": null,
+      "providerTypeCode": "5011",
+      "providerTypeDescription": {
+        "en": "Dietitian",
+        "fr": "Di\u00e9t\u00e9tiste"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.4873962402344,
+      "latitude": 43.4237861633301,
+      "googlePlaceData": {
+        "place_id": "ChIJ3-N2kqH1K4gRSsOPkwx2I3Y",
+        "opening_hours": null,
+        "website": "http://www.zehrs.ca/dietitians",
+        "utc_offset": -300,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 3.06,
+      "sourceDistance": 3.06,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 3011568,
+      "providerName": "K SUTHERLAND",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "1005 OTTAWA ST N",
+      "addressSecondLine": null,
+      "city": "KITCHENER",
+      "postalCode": "N2A1H2",
+      "province": "ON",
+      "phoneNumber": "5194890721",
+      "licenceNumber": null,
+      "providerTypeCode": "5011",
+      "providerTypeDescription": {
+        "en": "Dietitian",
+        "fr": "Di\u00e9t\u00e9tiste"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.44553,
+      "latitude": 43.44947,
+      "googlePlaceData": {
+        "place_id": "ChIJ-fxkxpibK4gRq5WblnTDz6E",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 0,
+                "time": "1900",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 0,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 1,
+                "time": "1900",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1900",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1900",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1900",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1900",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 6,
+                "time": "1900",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 6,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "http://www.zehrs.ca/dietitians",
+        "utc_offset": -300,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 3.8,
+      "sourceDistance": 3.8,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 3532374,
+      "providerName": "R KING",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "1005 OTTAWA ST N",
+      "addressSecondLine": null,
+      "city": "KITCHENER",
+      "postalCode": "N2A1H2",
+      "province": "ON",
+      "phoneNumber": "4379902041",
+      "licenceNumber": null,
+      "providerTypeCode": "5011",
+      "providerTypeDescription": {
+        "en": "Dietitian",
+        "fr": "Di\u00e9t\u00e9tiste"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.4455343,
+      "latitude": 43.4494707,
+      "googlePlaceData": null,
+      "distance": 3.8,
+      "sourceDistance": 3.8,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 2887303,
+      "providerName": "D SUTHERLAND",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "450 ERB ST W",
+      "addressSecondLine": null,
+      "city": "WATERLOO",
+      "postalCode": "N2T1H4",
+      "province": "ON",
+      "phoneNumber": "2267493631",
+      "licenceNumber": null,
+      "providerTypeCode": "5011",
+      "providerTypeDescription": {
+        "en": "Dietitian",
+        "fr": "Di\u00e9t\u00e9tiste"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.5558242797852,
+      "latitude": 43.4533729553223,
+      "googlePlaceData": {
+        "place_id": "ChIJGRF3RNb3K4gR7LOG_Mki_Iw",
+        "opening_hours": null,
+        "website": "http://www.zehrs.ca/dietitians",
+        "utc_offset": -300,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 5.11,
+      "sourceDistance": 5.11,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 2885492,
+      "providerName": "D SUTHERLAND",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "555 DAVENPORT RD",
+      "addressSecondLine": null,
+      "city": "WATERLOO",
+      "postalCode": "N2L6L2",
+      "province": "ON",
+      "phoneNumber": "2267493631",
+      "licenceNumber": null,
+      "providerTypeCode": "5011",
+      "providerTypeDescription": {
+        "en": "Dietitian",
+        "fr": "Di\u00e9t\u00e9tiste"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.52473,
+      "latitude": 43.49701,
+      "googlePlaceData": {
+        "place_id": "ChIJQQ0eSD_zK4gRicGnLe5XeW0",
+        "opening_hours": null,
+        "website": "https://www.dietitianservices.ca/",
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 5.72,
+      "sourceDistance": 5.72,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 3328470,
+      "providerName": "R KING",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "400 CONESTOGA BLVD",
+      "addressSecondLine": null,
+      "city": "CAMBRIDGE",
+      "postalCode": "N1R7L7",
+      "province": "ON",
+      "phoneNumber": "5195322280",
+      "licenceNumber": null,
+      "providerTypeCode": "5011",
+      "providerTypeDescription": {
+        "en": "Dietitian",
+        "fr": "Di\u00e9t\u00e9tiste"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.3163143,
+      "latitude": 43.3939692,
+      "googlePlaceData": {
+        "place_id": "ChIJd1D2I6SJK4gRmchmODJjwj8",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 0,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 0,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 1,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 6,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 6,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "https://booking.medeohealth.com/zehrs-cambridge-cntr",
+        "utc_offset": -300,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 15.59,
+      "sourceDistance": 15.59,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 2628168,
+      "providerName": "K WOOD",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "1045 PAISLEY RD",
+      "addressSecondLine": null,
+      "city": "GUELPH",
+      "postalCode": "N1K1X6",
+      "province": "ON",
+      "phoneNumber": "2268212800",
+      "licenceNumber": null,
+      "providerTypeCode": "5011",
+      "providerTypeDescription": {
+        "en": "Dietitian",
+        "fr": "Di\u00e9t\u00e9tiste"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.2894503,
+      "latitude": 43.5225904,
+      "googlePlaceData": null,
+      "distance": 18.21,
+      "sourceDistance": 18.21,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 3058068,
+      "providerName": "T KING",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "400 CONESTOGA BLVD",
+      "addressSecondLine": null,
+      "city": "CAMBRIDGE",
+      "postalCode": "N1R7L7",
+      "province": "ON",
+      "phoneNumber": "5195322280",
+      "licenceNumber": null,
+      "providerTypeCode": "5011",
+      "providerTypeDescription": {
+        "en": "Dietitian",
+        "fr": "Di\u00e9t\u00e9tiste"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.28929,
+      "latitude": 43.35691,
+      "googlePlaceData": {
+        "place_id": "ChIJ0a9_W9N3LIgRaF2kNyWwCyo",
+        "opening_hours": null,
+        "website": "http://bookadietitian.ca/",
+        "utc_offset": -300,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 19.47,
+      "sourceDistance": 19.47,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 3058070,
+      "providerName": "T KING",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "200 FRANKLIN BLVD",
+      "addressSecondLine": null,
+      "city": "CAMBRIDGE",
+      "postalCode": "N1R8N8",
+      "province": "ON",
+      "phoneNumber": "5195322280",
+      "licenceNumber": null,
+      "providerTypeCode": "5011",
+      "providerTypeDescription": {
+        "en": "Dietitian",
+        "fr": "Di\u00e9t\u00e9tiste"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.28929,
+      "latitude": 43.35691,
+      "googlePlaceData": {
+        "place_id": "ChIJ0a9_W9N3LIgRaF2kNyWwCyo",
+        "opening_hours": null,
+        "website": "http://bookadietitian.ca/",
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 19.47,
+      "sourceDistance": 19.47,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": true
+    },
+    {
+      "providerId": 3057151,
+      "providerName": "K YOUNG",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "297 ERAMOSA RD",
+      "addressSecondLine": null,
+      "city": "GUELPH",
+      "postalCode": "N1E2M7",
+      "province": "ON",
+      "phoneNumber": "5194002031",
+      "licenceNumber": null,
+      "providerTypeCode": "5011",
+      "providerTypeDescription": {
+        "en": "Dietitian",
+        "fr": "Di\u00e9t\u00e9tiste"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.2477205,
+      "latitude": 43.5587936,
+      "googlePlaceData": {
+        "place_id": "ChIJf2vElRObK4gRAvrEVOpQIiI",
+        "opening_hours": null,
+        "website": "https://www.zehrs.ca/dietitians",
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 23.09,
+      "sourceDistance": 23.09,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 2628591,
+      "providerName": "K YOUNG",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "160 KORTRIGHT RD W",
+      "addressSecondLine": null,
+      "city": "GUELPH",
+      "postalCode": "N1G4W2",
+      "province": "ON",
+      "phoneNumber": "5194002031",
+      "licenceNumber": null,
+      "providerTypeCode": "5011",
+      "providerTypeDescription": {
+        "en": "Dietitian",
+        "fr": "Di\u00e9t\u00e9tiste"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.2477188110352,
+      "latitude": 43.5587921142578,
+      "googlePlaceData": {
+        "place_id": "ChIJf2vElRObK4gRAvrEVOpQIiI",
+        "opening_hours": null,
+        "website": "https://www.zehrs.ca/dietitians",
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 23.09,
+      "sourceDistance": 23.09,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 3532347,
+      "providerName": "R KING",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "124 CLAIR RD E",
+      "addressSecondLine": null,
+      "city": "GUELPH",
+      "postalCode": "N1L0G6",
+      "province": "ON",
+      "phoneNumber": "4379902041",
+      "licenceNumber": null,
+      "providerTypeCode": "5011",
+      "providerTypeDescription": {
+        "en": "Dietitian",
+        "fr": "Di\u00e9t\u00e9tiste"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.1898604,
+      "latitude": 43.5031154,
+      "googlePlaceData": null,
+      "distance": 25.1,
+      "sourceDistance": 25.1,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 3394078,
+      "providerName": "O MCALLISTER",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "410 FAIRVIEW DR",
+      "addressSecondLine": null,
+      "city": "BRANTFORD",
+      "postalCode": "N3R7V7",
+      "province": "ON",
+      "phoneNumber": "5192092647",
+      "licenceNumber": null,
+      "providerTypeCode": "5011",
+      "providerTypeDescription": {
+        "en": "Dietitian",
+        "fr": "Di\u00e9t\u00e9tiste"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.2786524,
+      "latitude": 43.1813884,
+      "googlePlaceData": {
+        "place_id": "ChIJKRKZKT5vLIgR_nbsSxAPegY",
+        "opening_hours": null,
+        "website": "https://www.zehrs.ca/dietitians?navid=dieticians",
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 34.62,
+      "sourceDistance": 34.62,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 3394094,
+      "providerName": "O MCALLISTER",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "290 KING GEORGE RD",
+      "addressSecondLine": null,
+      "city": "BRANTFORD",
+      "postalCode": "N3R7Y8",
+      "province": "ON",
+      "phoneNumber": "5192092647",
+      "licenceNumber": null,
+      "providerTypeCode": "5011",
+      "providerTypeDescription": {
+        "en": "Dietitian",
+        "fr": "Di\u00e9t\u00e9tiste"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.2786524,
+      "latitude": 43.1813884,
+      "googlePlaceData": {
+        "place_id": "ChIJKRKZKT5vLIgR_nbsSxAPegY",
+        "opening_hours": null,
+        "website": "https://www.zehrs.ca/dietitians?navid=dieticians",
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 34.62,
+      "sourceDistance": 34.62,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": true
+    }
+  ],
+  "pageSize": 200,
+  "start": 1
+}

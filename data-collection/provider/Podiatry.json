@@ -1,0 +1,315 @@
+{
+  "totalCount": 4,
+  "results": [
+    {
+      "providerId": 301300,
+      "providerName": "P STAVROPOULOS",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "1354 KING ST E                ",
+      "addressSecondLine": "                    ",
+      "city": "KITCHENER ",
+      "postalCode": "N2G2N7",
+      "province": "ON",
+      "phoneNumber": "5195768960",
+      "licenceNumber": null,
+      "providerTypeCode": "5001",
+      "providerTypeDescription": {
+        "en": "Podiatrist",
+        "fr": "Podiatre"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.46714,
+      "latitude": 43.44034,
+      "googlePlaceData": {
+        "place_id": "ChIJQX1dttr0K4gRXpMNhCkMc9U",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1600",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0845",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1800",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0845",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1300",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0845",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1300",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0845",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "https://www.podiatricconsultants.ca/",
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 2.37,
+      "sourceDistance": 2.37,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 301301,
+      "providerName": "DWF ROTH",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "1354 KING ST E                ",
+      "addressSecondLine": "                    ",
+      "city": "KITCHENER ",
+      "postalCode": "N2G2N7",
+      "province": "ON",
+      "phoneNumber": "5195768960",
+      "licenceNumber": null,
+      "providerTypeCode": "5001",
+      "providerTypeDescription": {
+        "en": "Podiatrist",
+        "fr": "Podiatre"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.46714,
+      "latitude": 43.44034,
+      "googlePlaceData": {
+        "place_id": "ChIJQX1dttr0K4gRXpMNhCkMc9U",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1600",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0845",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1800",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0845",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1300",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0845",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1300",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0845",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "https://www.podiatricconsultants.ca/",
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 2.37,
+      "sourceDistance": 2.37,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 143904,
+      "providerName": "A S ZAMOJC",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "1-56 GRAND AVE N              ",
+      "addressSecondLine": "                              ",
+      "city": "CAMBRIDGE",
+      "postalCode": "N1S2K9",
+      "province": "ON",
+      "phoneNumber": "5196234410",
+      "licenceNumber": null,
+      "providerTypeCode": "5001",
+      "providerTypeDescription": {
+        "en": "Podiatrist",
+        "fr": "Podiatre"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.31779,
+      "latitude": 43.36117,
+      "googlePlaceData": {
+        "place_id": "ChIJgc1RiLV3LIgRSH4-A7K2oB0",
+        "opening_hours": null,
+        "website": null,
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 17.3,
+      "sourceDistance": 17.3,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 171403,
+      "providerName": "S J WEINBERG",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "202-55 CORK ST E",
+      "addressSecondLine": null,
+      "city": "GUELPH",
+      "postalCode": "N1H2W7",
+      "province": "ON",
+      "phoneNumber": "5198362740",
+      "licenceNumber": null,
+      "providerTypeCode": "5001",
+      "providerTypeDescription": {
+        "en": "Podiatrist",
+        "fr": "Podiatre"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.24886,
+      "latitude": 43.54511,
+      "googlePlaceData": {
+        "place_id": "ChIJiXZV9MGaK4gRW_RSkotPq9E",
+        "opening_hours": null,
+        "website": null,
+        "utc_offset": -300,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 22.26,
+      "sourceDistance": 22.26,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    }
+  ],
+  "pageSize": 200,
+  "start": 1
+}
