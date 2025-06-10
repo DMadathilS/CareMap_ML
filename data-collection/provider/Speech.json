@@ -1,0 +1,1298 @@
+{
+  "totalCount": 15,
+  "results": [
+    {
+      "providerId": 3064204,
+      "providerName": "R MCARTHUR",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "256 BOWMAN ST",
+      "addressSecondLine": null,
+      "city": "WATERLOO",
+      "postalCode": "N2J1W5",
+      "province": "ON",
+      "phoneNumber": "6479624552",
+      "licenceNumber": null,
+      "providerTypeCode": "5008",
+      "providerTypeDescription": {
+        "en": "Speech Therapist/Pathologist",
+        "fr": "Orthophoniste/pathologiste"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.5117721,
+      "latitude": 43.461085,
+      "googlePlaceData": null,
+      "distance": 1.9,
+      "sourceDistance": 1.9,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 2059149,
+      "providerName": "HEATHER MCLENNAN",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "117 ROSLIN AVE S",
+      "addressSecondLine": null,
+      "city": "WATERLOO",
+      "postalCode": "N2L2H3",
+      "province": "ON",
+      "phoneNumber": "5197437498",
+      "licenceNumber": null,
+      "providerTypeCode": "5008",
+      "providerTypeDescription": {
+        "en": "Speech Therapist/Pathologist",
+        "fr": "Orthophoniste/pathologiste"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.5260902,
+      "latitude": 43.4552626,
+      "googlePlaceData": null,
+      "distance": 2.74,
+      "sourceDistance": 2.74,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 3052743,
+      "providerName": "M BUTTLE",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "PO BOX 28026 RPO PARKDALE",
+      "addressSecondLine": null,
+      "city": "WATERLOO",
+      "postalCode": "N2L6J8",
+      "province": "ON",
+      "phoneNumber": "4167050261",
+      "licenceNumber": null,
+      "providerTypeCode": "5008",
+      "providerTypeDescription": {
+        "en": "Speech Therapist/Pathologist",
+        "fr": "Orthophoniste/pathologiste"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.5398195,
+      "latitude": 43.4840253,
+      "googlePlaceData": null,
+      "distance": 5.28,
+      "sourceDistance": 5.28,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": true
+    },
+    {
+      "providerId": 2442054,
+      "providerName": "K DZELME",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "500 HALLMARK DR",
+      "addressSecondLine": null,
+      "city": "WATERLOO",
+      "postalCode": "N2K3P5",
+      "province": "ON",
+      "phoneNumber": "5198868886",
+      "licenceNumber": null,
+      "providerTypeCode": "5008",
+      "providerTypeDescription": {
+        "en": "Speech Therapist/Pathologist",
+        "fr": "Orthophoniste/pathologiste"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.51827,
+      "latitude": 43.49829,
+      "googlePlaceData": {
+        "place_id": "ChIJ3V3tLb_zK4gRs6dQPgFhXQ8",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1830",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1930",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1830",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1830",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1830",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "http://www.kidsability.ca/",
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 5.64,
+      "sourceDistance": 5.64,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 2591674,
+      "providerName": "J VENHUIZEN",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "B9-550 PARKSIDE DR",
+      "addressSecondLine": null,
+      "city": "WATERLOO",
+      "postalCode": "N2L5V4",
+      "province": "ON",
+      "phoneNumber": "5197423405",
+      "licenceNumber": null,
+      "providerTypeCode": "5008",
+      "providerTypeDescription": {
+        "en": "Speech Therapist/Pathologist",
+        "fr": "Orthophoniste/pathologiste"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.5428378,
+      "latitude": 43.4933917,
+      "googlePlaceData": {
+        "place_id": "ChIJtYomffL0K4gRp94qclKJxaQ",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1800",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1800",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1800",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1800",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1800",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "http://www.soundexpression.ca/",
+        "utc_offset": -300,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 6.2,
+      "sourceDistance": 6.2,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 2591668,
+      "providerName": "J REUSSER",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "B9-550 PARKSIDE DR",
+      "addressSecondLine": null,
+      "city": "WATERLOO",
+      "postalCode": "N2L5V4",
+      "province": "ON",
+      "phoneNumber": "5197423405",
+      "licenceNumber": null,
+      "providerTypeCode": "5008",
+      "providerTypeDescription": {
+        "en": "Speech Therapist/Pathologist",
+        "fr": "Orthophoniste/pathologiste"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.5428378,
+      "latitude": 43.4933917,
+      "googlePlaceData": {
+        "place_id": "ChIJtYomffL0K4gRp94qclKJxaQ",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1800",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1800",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1800",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1800",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1800",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "http://www.soundexpression.ca/",
+        "utc_offset": -300,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 6.2,
+      "sourceDistance": 6.2,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 2591664,
+      "providerName": "A FOSTER",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "B9-550 PARKSIDE DR",
+      "addressSecondLine": null,
+      "city": "WATERLOO",
+      "postalCode": "N2L5V4",
+      "province": "ON",
+      "phoneNumber": "5197423405",
+      "licenceNumber": null,
+      "providerTypeCode": "5008",
+      "providerTypeDescription": {
+        "en": "Speech Therapist/Pathologist",
+        "fr": "Orthophoniste/pathologiste"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.5428378,
+      "latitude": 43.4933917,
+      "googlePlaceData": {
+        "place_id": "ChIJtYomffL0K4gRp94qclKJxaQ",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1800",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1800",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1800",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1800",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1800",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "http://www.soundexpression.ca/",
+        "utc_offset": -300,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 6.2,
+      "sourceDistance": 6.2,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 3734486,
+      "providerName": "M G BRULE",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "B9-550 PARKSIDE DR",
+      "addressSecondLine": null,
+      "city": "WATERLOO",
+      "postalCode": "N2L5V4",
+      "province": "ON",
+      "phoneNumber": "5197423405",
+      "licenceNumber": null,
+      "providerTypeCode": "5008",
+      "providerTypeDescription": {
+        "en": "Speech Therapist/Pathologist",
+        "fr": "Orthophoniste/pathologiste"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.5428378,
+      "latitude": 43.4933917,
+      "googlePlaceData": {
+        "place_id": "ChIJtYomffL0K4gRp94qclKJxaQ",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1800",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1800",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1800",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1800",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1800",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "http://www.soundexpression.ca/",
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 6.2,
+      "sourceDistance": 6.2,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 2085112,
+      "providerName": "L MACDONALD",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "101-2415 UNIVERSITY AVE E",
+      "addressSecondLine": null,
+      "city": "WATERLOO",
+      "postalCode": "N2K0H5",
+      "province": "ON",
+      "phoneNumber": "5197468172",
+      "licenceNumber": null,
+      "providerTypeCode": "5008",
+      "providerTypeDescription": {
+        "en": "Speech Therapist/Pathologist",
+        "fr": "Orthophoniste/pathologiste"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.5163392,
+      "latitude": 43.5180905,
+      "googlePlaceData": {
+        "place_id": "ChIJjYR8wcjzK4gRZe8xbADg4IE",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1630",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "https://www.backworksphysiotherapy.ca/",
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 7.69,
+      "sourceDistance": 7.69,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 303386,
+      "providerName": "D MCKELVEY BRIGGS",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "212 SPEEDVALE AVE W",
+      "addressSecondLine": "                    ",
+      "city": "GUELPH",
+      "postalCode": "N1H1C4",
+      "province": "ON",
+      "phoneNumber": "5198369610",
+      "licenceNumber": null,
+      "providerTypeCode": "5008",
+      "providerTypeDescription": {
+        "en": "Speech Therapist/Pathologist",
+        "fr": "Orthophoniste/pathologiste"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.2804412841797,
+      "latitude": 43.5491409301758,
+      "googlePlaceData": {
+        "place_id": "ChIJpTaJe8qEK4gRN_5W87uuPW8",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "http://letstalkguelph.ca/",
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 20.28,
+      "sourceDistance": 20.28,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 2039672,
+      "providerName": "L HUTCHINSON",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "27 ROBERTSON DR",
+      "addressSecondLine": null,
+      "city": "GUELPH",
+      "postalCode": "N1H4S8",
+      "province": "ON",
+      "phoneNumber": "5195461974",
+      "licenceNumber": null,
+      "providerTypeCode": "5008",
+      "providerTypeDescription": {
+        "en": "Speech Therapist/Pathologist",
+        "fr": "Orthophoniste/pathologiste"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.2686984,
+      "latitude": 43.5534327,
+      "googlePlaceData": null,
+      "distance": 21.34,
+      "sourceDistance": 21.34,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 2823961,
+      "providerName": "A CHAMP",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "160 KORTRIGHT RD W",
+      "addressSecondLine": null,
+      "city": "GUELPH",
+      "postalCode": "N1G4W2",
+      "province": "ON",
+      "phoneNumber": "5197310050",
+      "licenceNumber": null,
+      "providerTypeCode": "5008",
+      "providerTypeDescription": {
+        "en": "Speech Therapist/Pathologist",
+        "fr": "Orthophoniste/pathologiste"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.218199,
+      "latitude": 43.513663,
+      "googlePlaceData": null,
+      "distance": 23.2,
+      "sourceDistance": 23.2,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 3097457,
+      "providerName": "C DUNPHY",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "C-311 WOOLWICH ST",
+      "addressSecondLine": null,
+      "city": "GUELPH",
+      "postalCode": "N1H3W4",
+      "province": "ON",
+      "phoneNumber": "5192664479",
+      "licenceNumber": null,
+      "providerTypeCode": "5008",
+      "providerTypeDescription": {
+        "en": "Speech Therapist/Pathologist",
+        "fr": "Orthophoniste/pathologiste"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.2169031,
+      "latitude": 43.5245682,
+      "googlePlaceData": {
+        "place_id": "ChIJPV8TPr2aK4gReTc6axFNBe8",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "2100",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "2100",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "1300",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "2100",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "2100",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "https://voiceandspeech.ca/",
+        "utc_offset": -300,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 23.69,
+      "sourceDistance": 23.69,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 3811599,
+      "providerName": "J E WILSON",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "2-6488 WELLINGTON RD 7",
+      "addressSecondLine": null,
+      "city": "ELORA",
+      "postalCode": "N0B1S0",
+      "province": "ON",
+      "phoneNumber": "5198469919",
+      "licenceNumber": null,
+      "providerTypeCode": "5008",
+      "providerTypeDescription": {
+        "en": "Speech Therapist/Pathologist",
+        "fr": "Orthophoniste/pathologiste"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.430134,
+      "latitude": 43.6768851,
+      "googlePlaceData": {
+        "place_id": "ChIJh1mWtQTAK4gRVLQh0POKov8",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0700",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0700",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "https://eramosaphysio.com/",
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 25.6,
+      "sourceDistance": 25.6,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 2871493,
+      "providerName": "E MERRITT",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "3-855 ST DAVID ST N",
+      "addressSecondLine": null,
+      "city": "FERGUS",
+      "postalCode": "N1M2W3",
+      "province": "ON",
+      "phoneNumber": "5197874100",
+      "licenceNumber": null,
+      "providerTypeCode": "5008",
+      "providerTypeDescription": {
+        "en": "Speech Therapist/Pathologist",
+        "fr": "Orthophoniste/pathologiste"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.39079,
+      "latitude": 43.7131,
+      "googlePlaceData": {
+        "place_id": "ChIJmfFIpUG-K4gRaNrq9R87mDI",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1400",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "https://www.ontariohealth.org/",
+        "utc_offset": -300,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 30.26,
+      "sourceDistance": 30.26,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    }
+  ],
+  "pageSize": 200,
+  "start": 1
+}

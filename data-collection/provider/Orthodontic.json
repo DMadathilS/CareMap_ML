@@ -1,0 +1,5975 @@
+{
+  "totalCount": 61,
+  "results": [
+    {
+      "providerId": 2312645,
+      "providerName": "DR C N NICOLUCCI",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "720 KING ST EAST",
+      "addressSecondLine": null,
+      "city": "KITCHENER",
+      "postalCode": "N2G2M5",
+      "province": "ON",
+      "phoneNumber": "5197458441",
+      "licenceNumber": null,
+      "providerTypeCode": "8005",
+      "providerTypeDescription": {
+        "en": "Orthodontist",
+        "fr": "Orthodontiste"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.47745,
+      "latitude": 43.44478,
+      "googlePlaceData": {
+        "place_id": "ChIJbWHk2en0K4gRSs9KqGGK-HU",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1200",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "http://www.nicolucciortho.ca/",
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 1.41,
+      "sourceDistance": 1.41,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "DE",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 3719985,
+      "providerName": "DR O E EISSA",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "65 GLASGOW ST",
+      "addressSecondLine": null,
+      "city": "KITCHENER",
+      "postalCode": "N2G2G8",
+      "province": "ON",
+      "phoneNumber": "5197499713",
+      "licenceNumber": null,
+      "providerTypeCode": "8005",
+      "providerTypeDescription": {
+        "en": "Orthodontist",
+        "fr": "Orthodontiste"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.5111297,
+      "latitude": 43.4537421,
+      "googlePlaceData": {
+        "place_id": "ChIJIZvep0L0K4gRE7_aKc6CI7w",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0830",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0830",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0830",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0830",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1400",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0830",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "https://docbraces.com/clinics/kitchener",
+        "utc_offset": -300,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 1.52,
+      "sourceDistance": 1.52,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "DE",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 2341467,
+      "providerName": "DR R BURTON",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "65 GLASGOW STREET",
+      "addressSecondLine": null,
+      "city": "KITCHENER",
+      "postalCode": "N2G2G8",
+      "province": "ON",
+      "phoneNumber": "5197499713",
+      "licenceNumber": null,
+      "providerTypeCode": "8005",
+      "providerTypeDescription": {
+        "en": "Orthodontist",
+        "fr": "Orthodontiste"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.51113,
+      "latitude": 43.4538,
+      "googlePlaceData": {
+        "place_id": "ChIJIZvep0L0K4gRE7_aKc6CI7w",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0830",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0830",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0830",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0830",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1600",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0830",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "http://www.glasgoworthodontics.ca/",
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 1.52,
+      "sourceDistance": 1.52,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "DE",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 115727,
+      "providerName": "DR K P MCSWEENY",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "201-966 KING ST W",
+      "addressSecondLine": null,
+      "city": "KITCHENER ",
+      "postalCode": "N2G1G4",
+      "province": "ON",
+      "phoneNumber": "5195793300",
+      "licenceNumber": null,
+      "providerTypeCode": "8005",
+      "providerTypeDescription": {
+        "en": "Orthodontist",
+        "fr": "Orthodontiste"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.51424,
+      "latitude": 43.45827,
+      "googlePlaceData": {
+        "place_id": "ChIJ2wqJafP0K4gReGlurVSPSRE",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1400",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "http://kevinmcsweenybraces.com/",
+        "utc_offset": -300,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 1.92,
+      "sourceDistance": 1.92,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "DE",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 3325641,
+      "providerName": "DR M H GREENE",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "96 UNION ST E",
+      "addressSecondLine": null,
+      "city": "WATERLOO",
+      "postalCode": "N2J1C2",
+      "province": "ON",
+      "phoneNumber": "5198842556",
+      "licenceNumber": null,
+      "providerTypeCode": "8005",
+      "providerTypeDescription": {
+        "en": "Orthodontist",
+        "fr": "Orthodontiste"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.5127229,
+      "latitude": 43.4626822,
+      "googlePlaceData": {
+        "place_id": "ChIJD4NexG_0K4gRiSXWcVWE1YE",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1600",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1600",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1600",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1600",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1200",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "http://www.kuppersgreeneortho.com/",
+        "utc_offset": -300,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 2.07,
+      "sourceDistance": 2.07,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "DE",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 108012,
+      "providerName": "DR B KUPPERS",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "96 UNION ST E",
+      "addressSecondLine": null,
+      "city": "WATERLOO",
+      "postalCode": "N2J1C2",
+      "province": "ON",
+      "phoneNumber": "5198842556",
+      "licenceNumber": null,
+      "providerTypeCode": "8005",
+      "providerTypeDescription": {
+        "en": "Orthodontist",
+        "fr": "Orthodontiste"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.51275,
+      "latitude": 43.4627,
+      "googlePlaceData": {
+        "place_id": "ChIJD4NexG_0K4gRiSXWcVWE1YE",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1600",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1600",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1600",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1600",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "http://www.kuppersgreeneortho.com/",
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 2.07,
+      "sourceDistance": 2.07,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "DE",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 3798672,
+      "providerName": "DR N GHAFFARI",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "UNIT C-188 KING STREET SOUTH",
+      "addressSecondLine": null,
+      "city": "WATERLOO",
+      "postalCode": "N2J0C6",
+      "province": "ON",
+      "phoneNumber": "5198886063",
+      "licenceNumber": null,
+      "providerTypeCode": "8005",
+      "providerTypeDescription": {
+        "en": "Orthodontist",
+        "fr": "Orthodontiste"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.51848,
+      "latitude": 43.46013,
+      "googlePlaceData": {
+        "place_id": "ChIJ13d983P0K4gRXEZqN5jL0pA",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1900",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "1000",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1600",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1400",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "https://www.waterloosmiles.com/",
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 2.31,
+      "sourceDistance": 2.31,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "DE",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 2947972,
+      "providerName": "DR L PIEDADE",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "102-60 BRIDGEPORT RD E",
+      "addressSecondLine": null,
+      "city": "WATERLOO",
+      "postalCode": "N2J2J9",
+      "province": "ON",
+      "phoneNumber": "5195796010",
+      "licenceNumber": null,
+      "providerTypeCode": "8005",
+      "providerTypeDescription": {
+        "en": "Orthodontist",
+        "fr": "Orthodontiste"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.5172635,
+      "latitude": 43.4688181,
+      "googlePlaceData": {
+        "place_id": "ChIJ13d983P0K4gR7d0b619TVPY",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1630",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1630",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1630",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1630",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "https://www.ritebite.ca/",
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 2.8,
+      "sourceDistance": 2.8,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "DE",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 2587136,
+      "providerName": "DR D ENGEL",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "104-60 BRIDGEPORT RD E",
+      "addressSecondLine": null,
+      "city": "WATERLOO",
+      "postalCode": "N2J2J9",
+      "province": "ON",
+      "phoneNumber": "5197465600",
+      "licenceNumber": null,
+      "providerTypeCode": "8005",
+      "providerTypeDescription": {
+        "en": "Orthodontist",
+        "fr": "Orthodontiste"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.51731,
+      "latitude": 43.46884,
+      "googlePlaceData": {
+        "place_id": "ChIJq_VZ8XP0K4gR6zOtDP8E3z0",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1900",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1900",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 6,
+                "time": "1500",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 6,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "https://www.bridgeportfamilydentistry.com/",
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 2.8,
+      "sourceDistance": 2.8,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "DE",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 3841819,
+      "providerName": "DR O E EISSA",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "102-60 BRIDGEPORT RD E",
+      "addressSecondLine": null,
+      "city": "WATERLOO",
+      "postalCode": "N2J2J9",
+      "province": "ON",
+      "phoneNumber": "5195796010",
+      "licenceNumber": null,
+      "providerTypeCode": "8005",
+      "providerTypeDescription": {
+        "en": "Orthodontist",
+        "fr": "Orthodontiste"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.5172635,
+      "latitude": 43.4688181,
+      "googlePlaceData": {
+        "place_id": "ChIJ13d983P0K4gR7d0b619TVPY",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0830",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0830",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0830",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0830",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "https://docbraces.com/clinics/waterloo",
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 2.8,
+      "sourceDistance": 2.8,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "DE",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": true
+    },
+    {
+      "providerId": 2274610,
+      "providerName": "DR P H LING",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "110- 3 FATHER DAVID BAUER DR",
+      "addressSecondLine": null,
+      "city": "WATERLOO",
+      "postalCode": "N2L6M1",
+      "province": "ON",
+      "phoneNumber": "5199542946",
+      "licenceNumber": null,
+      "providerTypeCode": "8005",
+      "providerTypeDescription": {
+        "en": "Orthodontist",
+        "fr": "Orthodontiste"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.5247878,
+      "latitude": 43.462465,
+      "googlePlaceData": null,
+      "distance": 2.88,
+      "sourceDistance": 2.88,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "DE",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 108241,
+      "providerName": "DR C F TJAN",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "204-851 FISCHER-HALLMAN RD",
+      "addressSecondLine": null,
+      "city": "KITCHENER",
+      "postalCode": "N2M5N8",
+      "province": "ON",
+      "phoneNumber": "5195700529",
+      "licenceNumber": null,
+      "providerTypeCode": "8005",
+      "providerTypeDescription": {
+        "en": "Orthodontist",
+        "fr": "Orthodontiste"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.54438,
+      "latitude": 43.44263,
+      "googlePlaceData": {
+        "place_id": "ChIJxwB9Gsj1K4gRRHbG1gUzafQ",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1800",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0830",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1800",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0830",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1800",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0830",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1900",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0830",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1800",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0830",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "http://kwortho.ca/",
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 4.28,
+      "sourceDistance": 4.28,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "DE",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 2775819,
+      "providerName": "DR X PHAN",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "15-105 LEXINGTON ROAD",
+      "addressSecondLine": null,
+      "city": "WATERLOO",
+      "postalCode": "N2J4R7",
+      "province": "ON",
+      "phoneNumber": "5198842002",
+      "licenceNumber": null,
+      "providerTypeCode": "8005",
+      "providerTypeDescription": {
+        "en": "Orthodontist",
+        "fr": "Orthodontiste"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.51719,
+      "latitude": 43.48678,
+      "googlePlaceData": {
+        "place_id": "ChIJ5XUAwJPzK4gRlckqHsJGc8c",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1600",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1600",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "http://www.tricityorthodontics.ca/",
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 4.43,
+      "sourceDistance": 4.43,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "DE",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 2271825,
+      "providerName": "DR S CZIRAKI",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "CLEAR ADVANTAGE ORTHODONTICS",
+      "addressSecondLine": "209 LEXINGTON RD UNIT C",
+      "city": "WATERLOO",
+      "postalCode": "N2K2E1",
+      "province": "ON",
+      "phoneNumber": "5198842002",
+      "licenceNumber": null,
+      "providerTypeCode": "8005",
+      "providerTypeDescription": {
+        "en": "Orthodontist",
+        "fr": "Orthodontiste"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.5171897,
+      "latitude": 43.4867777,
+      "googlePlaceData": {
+        "place_id": "ChIJ5XUAwJPzK4gRlckqHsJGc8c",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 6,
+                "time": "1500",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 6,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "http://www.tricityorthodontics.ca/",
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 4.43,
+      "sourceDistance": 4.43,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "DE",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 3619777,
+      "providerName": "DR A PHUONG",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "15-105 LEXINGTON RD",
+      "addressSecondLine": null,
+      "city": "WATERLOO",
+      "postalCode": "N2J4R7",
+      "province": "ON",
+      "phoneNumber": "5198842002",
+      "licenceNumber": null,
+      "providerTypeCode": "8005",
+      "providerTypeDescription": {
+        "en": "Orthodontist",
+        "fr": "Orthodontiste"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.5177688,
+      "latitude": 43.4865875,
+      "googlePlaceData": {
+        "place_id": "ChIJ5XUAwJPzK4gRlckqHsJGc8c",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1600",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1600",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "http://www.tricityorthodontics.ca/",
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 4.43,
+      "sourceDistance": 4.43,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "DE",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 3645061,
+      "providerName": "DR W KASSAS",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "2-560 FAIRWAY RD S",
+      "addressSecondLine": null,
+      "city": "KITCHENER",
+      "postalCode": "N2C1X3",
+      "province": "ON",
+      "phoneNumber": "5192791620",
+      "licenceNumber": null,
+      "providerTypeCode": "8005",
+      "providerTypeDescription": {
+        "en": "Orthodontist",
+        "fr": "Orthodontiste"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.4491233,
+      "latitude": 43.4206145,
+      "googlePlaceData": {
+        "place_id": "ChIJWzNV-NGKK4gRwmkG93L15SE",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1630",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1630",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1630",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1630",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "https://www.ritebite.ca/",
+        "utc_offset": -300,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 4.87,
+      "sourceDistance": 4.87,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "DE",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 2927802,
+      "providerName": "DR P X PHAN",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "202-500 FAIRWAY RD S",
+      "addressSecondLine": null,
+      "city": "KITCHENER",
+      "postalCode": "N2C1X3",
+      "province": "ON",
+      "phoneNumber": "5198966500",
+      "licenceNumber": null,
+      "providerTypeCode": "8005",
+      "providerTypeDescription": {
+        "en": "Orthodontist",
+        "fr": "Orthodontiste"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.44804,
+      "latitude": 43.42056,
+      "googlePlaceData": {
+        "place_id": "ChIJHYiABJD0K4gRfP5-NraJRic",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1600",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1600",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "http://www.tricityorthodontics.ca/",
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 4.94,
+      "sourceDistance": 4.94,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "DE",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 3702041,
+      "providerName": "DR A PHUONG",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "202-500 FAIRWAY RD",
+      "addressSecondLine": null,
+      "city": "KITCHENER",
+      "postalCode": "N2C1X3",
+      "province": "ON",
+      "phoneNumber": "5198966500",
+      "licenceNumber": null,
+      "providerTypeCode": "8005",
+      "providerTypeDescription": {
+        "en": "Orthodontist",
+        "fr": "Orthodontiste"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.4480354,
+      "latitude": 43.4205632,
+      "googlePlaceData": {
+        "place_id": "ChIJHYiABJD0K4gRfP5-NraJRic",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1600",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1600",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "http://www.tricityorthodontics.ca/",
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 4.94,
+      "sourceDistance": 4.94,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "DE",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 2206133,
+      "providerName": "DR S CZIRAKI",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "207-340 HAGEY BLVD",
+      "addressSecondLine": null,
+      "city": "WATERLOO",
+      "postalCode": "N2L6R6",
+      "province": "ON",
+      "phoneNumber": "5197467333",
+      "licenceNumber": null,
+      "providerTypeCode": "8005",
+      "providerTypeDescription": {
+        "en": "Orthodontist",
+        "fr": "Orthodontiste"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.54833,
+      "latitude": 43.47918,
+      "googlePlaceData": {
+        "place_id": "ChIJi7SuaFTxK4gR5gdsxnW73KI",
+        "opening_hours": null,
+        "website": "http://www.techtowndentistry.com/",
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 5.47,
+      "sourceDistance": 5.47,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "DE",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 3334912,
+      "providerName": "DR C A H\u00d6EDIONO",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "201-235 THE BOARDWALK",
+      "addressSecondLine": null,
+      "city": "KITCHENER",
+      "postalCode": "N2N0B1",
+      "province": "ON",
+      "phoneNumber": "2269298983",
+      "licenceNumber": null,
+      "providerTypeCode": "8005",
+      "providerTypeDescription": {
+        "en": "Orthodontist",
+        "fr": "Orthodontiste"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.5614658,
+      "latitude": 43.4358545,
+      "googlePlaceData": {
+        "place_id": "ChIJ82I3ECr3K4gRgY9tXmB_9Cg",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 2,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1900",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "1200",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1500",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "https://orthodonticsmilestudio.com/",
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 5.81,
+      "sourceDistance": 5.81,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "DE",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 2890112,
+      "providerName": "DR A TASSI",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "550 KING STREET NORTH",
+      "addressSecondLine": null,
+      "city": "WATERLOO",
+      "postalCode": "N2L5W6",
+      "province": "ON",
+      "phoneNumber": "5197464000",
+      "licenceNumber": null,
+      "providerTypeCode": "8005",
+      "providerTypeDescription": {
+        "en": "Orthodontist",
+        "fr": "Orthodontiste"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.5265197753906,
+      "latitude": 43.4985961914063,
+      "googlePlaceData": {
+        "place_id": "ChIJoSeBo8bzK4gRfRxPz4g_Qqk",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "2100",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "2100",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "2100",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "2100",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 6,
+                "time": "1500",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 6,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "http://www.trilliumdentalcentre.com/",
+        "utc_offset": -300,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 5.94,
+      "sourceDistance": 5.94,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "DE",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 2424932,
+      "providerName": "DR H SADEK",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "668 ERB STREET W",
+      "addressSecondLine": null,
+      "city": "WATERLOO",
+      "postalCode": "N2T2Z7",
+      "province": "ON",
+      "phoneNumber": "5193421166",
+      "licenceNumber": null,
+      "providerTypeCode": "8005",
+      "providerTypeDescription": {
+        "en": "Orthodontist",
+        "fr": "Orthodontiste"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.57487,
+      "latitude": 43.44645,
+      "googlePlaceData": {
+        "place_id": "ChIJP97WO_H2K4gRx9fuGF6WIJc",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "http://www.erbsvilledental.ca/",
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 6.66,
+      "sourceDistance": 6.66,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "DE",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": true
+    },
+    {
+      "providerId": 2480974,
+      "providerName": "DR R A HODGE",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "600 LAURELWOOD DR UNIT 145",
+      "addressSecondLine": "LAURELWOOD DENTAL CARE",
+      "city": "WATERLOO",
+      "postalCode": "N2V0A2",
+      "province": "ON",
+      "phoneNumber": "5197468558",
+      "licenceNumber": null,
+      "providerTypeCode": "8005",
+      "providerTypeDescription": {
+        "en": "Orthodontist",
+        "fr": "Orthodontiste"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.5927096,
+      "latitude": 43.4724032,
+      "googlePlaceData": {
+        "place_id": "ChIJ09D4uCj3K4gREPqdc1cDqV0",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1900",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "1000",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "1200",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 6,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 6,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "http://www.laurelwooddental.ca/",
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 8.41,
+      "sourceDistance": 8.41,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "DE",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 3571684,
+      "providerName": "DR W KASSAS",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "15-1 BARTLEY BULL PKWY",
+      "addressSecondLine": null,
+      "city": "BRAMPTON",
+      "postalCode": "L6W3T7",
+      "province": "ON",
+      "phoneNumber": "5197400670",
+      "licenceNumber": null,
+      "providerTypeCode": "8005",
+      "providerTypeDescription": {
+        "en": "Orthodontist",
+        "fr": "Orthodontiste"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.3227904,
+      "latitude": 43.3950369,
+      "googlePlaceData": {
+        "place_id": "ChIJ9Vt3jsyJK4gRJTxvuZnKtdI",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1630",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1630",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1630",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1630",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "https://www.ritebite.ca/",
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 15.06,
+      "sourceDistance": 15.06,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "DE",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 3191148,
+      "providerName": "DR L PIEDADE",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "15-1 BARTLEY BULL PKWY",
+      "addressSecondLine": null,
+      "city": "BRAMPTON",
+      "postalCode": "L6W3T7",
+      "province": "ON",
+      "phoneNumber": "5197400670",
+      "licenceNumber": null,
+      "providerTypeCode": "8005",
+      "providerTypeDescription": {
+        "en": "Orthodontist",
+        "fr": "Orthodontiste"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.3227904,
+      "latitude": 43.3950369,
+      "googlePlaceData": {
+        "place_id": "ChIJ9Vt3jsyJK4gRJTxvuZnKtdI",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1630",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1630",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1630",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1630",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "https://www.ritebite.ca/",
+        "utc_offset": -300,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 15.06,
+      "sourceDistance": 15.06,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "DE",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 2001165,
+      "providerName": "DR G J VASIGA",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "7 GRAND AVE S",
+      "addressSecondLine": "SUITE 104",
+      "city": "CAMBRIDGE",
+      "postalCode": "N1S2L3",
+      "province": "ON",
+      "phoneNumber": "5197400670",
+      "licenceNumber": null,
+      "providerTypeCode": "8005",
+      "providerTypeDescription": {
+        "en": "Orthodontist",
+        "fr": "Orthodontiste"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.322747,
+      "latitude": 43.394921,
+      "googlePlaceData": {
+        "place_id": "ChIJ9Vt3jsyJK4gRJTxvuZnKtdI",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1630",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1630",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1630",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1630",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1630",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "http://www.ritebite.ca/",
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 15.07,
+      "sourceDistance": 15.07,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "DE",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 2947983,
+      "providerName": "DR L PIEDADE",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "1317 EXMOUTH ST",
+      "addressSecondLine": null,
+      "city": "SARNIA",
+      "postalCode": "N7S3Y1",
+      "province": "ON",
+      "phoneNumber": "5197400670",
+      "licenceNumber": null,
+      "providerTypeCode": "8005",
+      "providerTypeDescription": {
+        "en": "Orthodontist",
+        "fr": "Orthodontiste"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.322747,
+      "latitude": 43.394921,
+      "googlePlaceData": {
+        "place_id": "ChIJ9Vt3jsyJK4gRJTxvuZnKtdI",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1630",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1630",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1630",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1630",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1630",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "http://www.ritebite.ca/",
+        "utc_offset": -300,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 15.07,
+      "sourceDistance": 15.07,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "DE",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 3074091,
+      "providerName": "DR L PIEDADE",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "2-560 FAIRWAY RD S",
+      "addressSecondLine": null,
+      "city": "KITCHENER",
+      "postalCode": "N2C1X3",
+      "province": "ON",
+      "phoneNumber": "5197400670",
+      "licenceNumber": null,
+      "providerTypeCode": "8005",
+      "providerTypeDescription": {
+        "en": "Orthodontist",
+        "fr": "Orthodontiste"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.3227462768555,
+      "latitude": 43.3949203491211,
+      "googlePlaceData": {
+        "place_id": "ChIJ9Vt3jsyJK4gRJTxvuZnKtdI",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1630",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1630",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1630",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1630",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1300",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "http://www.ritebite.ca/",
+        "utc_offset": -300,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 15.07,
+      "sourceDistance": 15.07,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "DE",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 170913,
+      "providerName": "DR B E WILK",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "350 CONESTOGA BLVD",
+      "addressSecondLine": "UNIT A",
+      "city": "CAMBRIDGE",
+      "postalCode": "N1R7L7",
+      "province": "ON",
+      "phoneNumber": "5196249455",
+      "licenceNumber": null,
+      "providerTypeCode": "8005",
+      "providerTypeDescription": {
+        "en": "Orthodontist",
+        "fr": "Orthodontiste"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.3143997192383,
+      "latitude": 43.3909149169922,
+      "googlePlaceData": {
+        "place_id": "ChIJBznyxnBeK4gRreGu9jpW_2o",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1630",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0830",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1530",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0730",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1630",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0830",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1530",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0730",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1200",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "http://www.wilkandwilk.com/",
+        "utc_offset": -300,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 15.87,
+      "sourceDistance": 15.87,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "DE",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 2202558,
+      "providerName": "DR R A HODGE",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "WESTGATE DENTAL CARE",
+      "addressSecondLine": "130 CEDAR STREET UNIT #35",
+      "city": "CAMBRIDGE",
+      "postalCode": "N1S1W4",
+      "province": "ON",
+      "phoneNumber": "5196232400",
+      "licenceNumber": null,
+      "providerTypeCode": "8005",
+      "providerTypeDescription": {
+        "en": "Orthodontist",
+        "fr": "Orthodontiste"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.3292922973633,
+      "latitude": 43.3527641296387,
+      "googlePlaceData": {
+        "place_id": "ChIJn-wz5lF2LIgRLdi3sb3vbaU",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1600",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "1200",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1900",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "1100",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 6,
+                "time": "1530",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 6,
+                "time": "0830",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "https://www.cambridgedentistry.ca/",
+        "utc_offset": -300,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 17.13,
+      "sourceDistance": 17.13,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "DE",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 130044,
+      "providerName": "DR G W KEYES",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "70 GRAND AVENUE N             ",
+      "addressSecondLine": "                              ",
+      "city": "CAMBRIDGE",
+      "postalCode": "N1S2K9",
+      "province": "ON",
+      "phoneNumber": "5196233351",
+      "licenceNumber": null,
+      "providerTypeCode": "8005",
+      "providerTypeDescription": {
+        "en": "Orthodontist",
+        "fr": "Orthodontiste"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.31803,
+      "latitude": 43.36229,
+      "googlePlaceData": {
+        "place_id": "ChIJe4VEs7V3LIgRqpIj0wkTOyY",
+        "opening_hours": null,
+        "website": null,
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 17.21,
+      "sourceDistance": 17.21,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "DE",
+      "providerScore": 0,
+      "participatingStatusCode": "NP",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 3098700,
+      "providerName": "DR P X PHAN",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "81 MAIN ST",
+      "addressSecondLine": null,
+      "city": "CAMBRIDGE",
+      "postalCode": "N1R1W1",
+      "province": "ON",
+      "phoneNumber": "5198966500",
+      "licenceNumber": null,
+      "providerTypeCode": "8005",
+      "providerTypeDescription": {
+        "en": "Orthodontist",
+        "fr": "Orthodontiste"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.3129755,
+      "latitude": 43.3586399,
+      "googlePlaceData": {
+        "place_id": "ChIJJZzKVLZ3LIgRiRo43sUbKhQ",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 3,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "http://www.tricityorthodontics.ca/",
+        "utc_offset": -300,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 17.78,
+      "sourceDistance": 17.78,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "DE",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 3576478,
+      "providerName": "DR A PHUONG",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "81 MAIN ST",
+      "addressSecondLine": null,
+      "city": "CAMBRIDGE",
+      "postalCode": "N1R1W1",
+      "province": "ON",
+      "phoneNumber": "5198966500",
+      "licenceNumber": null,
+      "providerTypeCode": "8005",
+      "providerTypeDescription": {
+        "en": "Orthodontist",
+        "fr": "Orthodontiste"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.3129755,
+      "latitude": 43.3586399,
+      "googlePlaceData": {
+        "place_id": "ChIJJZzKVLZ3LIgRiRo43sUbKhQ",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 3,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "http://www.tricityorthodontics.ca/",
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 17.78,
+      "sourceDistance": 17.78,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "DE",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 2025205,
+      "providerName": "Dr. I. Meldrum",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "36 CAMERON ST",
+      "addressSecondLine": null,
+      "city": "CAMBRIDGE",
+      "postalCode": "N1R4G7",
+      "province": "ON",
+      "phoneNumber": "5196222270",
+      "licenceNumber": null,
+      "providerTypeCode": "8005",
+      "providerTypeDescription": {
+        "en": "Orthodontist",
+        "fr": "Orthodontiste"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.30753,
+      "latitude": 43.35492,
+      "googlePlaceData": {
+        "place_id": "ChIJ4YQqzbt3LIgRzQh7HUV7J88",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1800",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1300",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "http://www.concessionstdental.ca/",
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 18.38,
+      "sourceDistance": 18.38,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "DE",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 3565688,
+      "providerName": "DR M E RYKISS",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "100-89 DAWSON RD",
+      "addressSecondLine": null,
+      "city": "GUELPH",
+      "postalCode": "N1H1B1",
+      "province": "ON",
+      "phoneNumber": "5198243275",
+      "licenceNumber": null,
+      "providerTypeCode": "8005",
+      "providerTypeDescription": {
+        "en": "Orthodontist",
+        "fr": "Orthodontiste"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.2782715,
+      "latitude": 43.5491235,
+      "googlePlaceData": {
+        "place_id": "ChIJ9ea4KHWQK4gReq7hdN0LDy4",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1900",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0830",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1900",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0830",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1900",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0830",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1900",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0830",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1600",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0830",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 6,
+                "time": "1400",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 6,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "https://dawsondental.ca/locations/guelph-dawson-road/?s=g",
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 20.43,
+      "sourceDistance": 20.43,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "DE",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": true
+    },
+    {
+      "providerId": 2077399,
+      "providerName": "DR Z BEG",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "100 EDINBURGH RD S",
+      "addressSecondLine": null,
+      "city": "GUELPH",
+      "postalCode": "N1H5P4",
+      "province": "ON",
+      "phoneNumber": "5198215090",
+      "licenceNumber": null,
+      "providerTypeCode": "8005",
+      "providerTypeDescription": {
+        "en": "Orthodontist",
+        "fr": "Orthodontiste"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.2547549,
+      "latitude": 43.5351508,
+      "googlePlaceData": {
+        "place_id": "ChIJoT6p1reaK4gRbRi2TA0FY6k",
+        "opening_hours": {
+          "periods": null,
+          "weekday_text": null
+        },
+        "website": null,
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 21.34,
+      "sourceDistance": 21.34,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "DE",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 103667,
+      "providerName": "DR D G ANNIS",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "100 EDINBURGH RD S",
+      "addressSecondLine": null,
+      "city": "GUELPH",
+      "postalCode": "N1H5P4",
+      "province": "ON",
+      "phoneNumber": "5198215090",
+      "licenceNumber": null,
+      "providerTypeCode": "8005",
+      "providerTypeDescription": {
+        "en": "Orthodontist",
+        "fr": "Orthodontiste"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.25459,
+      "latitude": 43.53546,
+      "googlePlaceData": {
+        "place_id": "ChIJoT6p1reaK4gRbRi2TA0FY6k",
+        "opening_hours": null,
+        "website": null,
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 21.36,
+      "sourceDistance": 21.36,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "DE",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 3578076,
+      "providerName": "DR S N BACCHUS",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "301-9 WOODLAWN RD E",
+      "addressSecondLine": null,
+      "city": "GUELPH",
+      "postalCode": "N1H1G5",
+      "province": "ON",
+      "phoneNumber": "5199637788",
+      "licenceNumber": null,
+      "providerTypeCode": "8005",
+      "providerTypeDescription": {
+        "en": "Orthodontist",
+        "fr": "Orthodontiste"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.2762299,
+      "latitude": 43.5654753,
+      "googlePlaceData": {
+        "place_id": "ChIJvxQm1e2bK4gROnF3X6rAUig",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "http://woodlawnortho.ca/",
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 21.59,
+      "sourceDistance": 21.59,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "DE",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 3798719,
+      "providerName": "DR N GHAFFARI",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "301-9 WOODLAWN RD E",
+      "addressSecondLine": null,
+      "city": "GUELPH",
+      "postalCode": "N1H1G5",
+      "province": "ON",
+      "phoneNumber": "5199637788",
+      "licenceNumber": null,
+      "providerTypeCode": "8005",
+      "providerTypeDescription": {
+        "en": "Orthodontist",
+        "fr": "Orthodontiste"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.2762299,
+      "latitude": 43.5654753,
+      "googlePlaceData": {
+        "place_id": "ChIJvxQm1e2bK4gROnF3X6rAUig",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "http://woodlawnortho.ca/",
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 21.59,
+      "sourceDistance": 21.59,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "DE",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": true
+    },
+    {
+      "providerId": 3647565,
+      "providerName": "DR B A CHEKAY",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "301-9 WOODLAWN RD E",
+      "addressSecondLine": null,
+      "city": "GUELPH",
+      "postalCode": "N1H1G5",
+      "province": "ON",
+      "phoneNumber": "5199637788",
+      "licenceNumber": null,
+      "providerTypeCode": "8005",
+      "providerTypeDescription": {
+        "en": "Orthodontist",
+        "fr": "Orthodontiste"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.2762299,
+      "latitude": 43.5654753,
+      "googlePlaceData": {
+        "place_id": "ChIJvxQm1e2bK4gROnF3X6rAUig",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "http://woodlawnortho.ca/",
+        "utc_offset": -300,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 21.59,
+      "sourceDistance": 21.59,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "DE",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 2632942,
+      "providerName": "DR B W WHITE",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "435 STONE ROAD WEST - SUITE 203",
+      "addressSecondLine": null,
+      "city": "GUELPH",
+      "postalCode": "N1G2X6",
+      "province": "ON",
+      "phoneNumber": "5197633252",
+      "licenceNumber": null,
+      "providerTypeCode": "8005",
+      "providerTypeDescription": {
+        "en": "Orthodontist",
+        "fr": "Orthodontiste"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.2390073,
+      "latitude": 43.5160283,
+      "googlePlaceData": null,
+      "distance": 21.69,
+      "sourceDistance": 21.69,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "DE",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 2109748,
+      "providerName": "DR A M BOURKE",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "L3A-435 STONE ROAD WEST",
+      "addressSecondLine": null,
+      "city": "GUELPH",
+      "postalCode": "N1G2X6",
+      "province": "ON",
+      "phoneNumber": "5198369330",
+      "licenceNumber": null,
+      "providerTypeCode": "8005",
+      "providerTypeDescription": {
+        "en": "Orthodontist",
+        "fr": "Orthodontiste"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.236701965332,
+      "latitude": 43.519157409668,
+      "googlePlaceData": {
+        "place_id": "ChIJVeMk0iiFK4gRxgt2kP3hzsM",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "2100",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "2100",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "2100",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "2100",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1400",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 6,
+                "time": "1300",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 6,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": null,
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 21.98,
+      "sourceDistance": 21.98,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "DE",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 3772033,
+      "providerName": "DR E F MURRELL",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "8-304 STONE RD W",
+      "addressSecondLine": null,
+      "city": "GUELPH",
+      "postalCode": "N1G3C4",
+      "province": "ON",
+      "phoneNumber": "5198215370",
+      "licenceNumber": null,
+      "providerTypeCode": "8005",
+      "providerTypeDescription": {
+        "en": "Orthodontist",
+        "fr": "Orthodontiste"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.234375,
+      "latitude": 43.518438,
+      "googlePlaceData": {
+        "place_id": "ChIJc-2ew7eaK4gRMf9agTSlB9g",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 3,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 6,
+                "time": "1400",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 6,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "https://www.villageortho.ca/site/contact-us-orthodontist-guelph",
+        "utc_offset": -300,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 22.13,
+      "sourceDistance": 22.13,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "DE",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 2350279,
+      "providerName": "DR B KONARSKI",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "304 STONE RD W, UNIT 8",
+      "addressSecondLine": null,
+      "city": "GUELPH",
+      "postalCode": "N1G3C4",
+      "province": "ON",
+      "phoneNumber": "5198215370",
+      "licenceNumber": null,
+      "providerTypeCode": "8005",
+      "providerTypeDescription": {
+        "en": "Orthodontist",
+        "fr": "Orthodontiste"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.2340818,
+      "latitude": 43.5180769,
+      "googlePlaceData": {
+        "place_id": "ChIJc-2ew7eaK4gRMf9agTSlB9g",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 3,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 6,
+                "time": "1400",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 6,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "http://www.villageortho.ca/",
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 22.14,
+      "sourceDistance": 22.14,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "DE",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 2763659,
+      "providerName": "DR M N HAROUN",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "8-304 STONE RD W",
+      "addressSecondLine": null,
+      "city": "GUELPH",
+      "postalCode": "N1G3C4",
+      "province": "ON",
+      "phoneNumber": "5198215370",
+      "licenceNumber": null,
+      "providerTypeCode": "8005",
+      "providerTypeDescription": {
+        "en": "Orthodontist",
+        "fr": "Orthodontiste"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.2340818,
+      "latitude": 43.5180769,
+      "googlePlaceData": {
+        "place_id": "ChIJc-2ew7eaK4gRMf9agTSlB9g",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 3,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 6,
+                "time": "1400",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 6,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "http://www.villageortho.ca/",
+        "utc_offset": -300,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 22.14,
+      "sourceDistance": 22.14,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "DE",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 2370423,
+      "providerName": "DR B DEWHIRST",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "304 STONE RD W",
+      "addressSecondLine": "UNIT 8",
+      "city": "GUELPH",
+      "postalCode": "N1G3C4",
+      "province": "ON",
+      "phoneNumber": "5198215370",
+      "licenceNumber": null,
+      "providerTypeCode": "8005",
+      "providerTypeDescription": {
+        "en": "Orthodontist",
+        "fr": "Orthodontiste"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.2340818,
+      "latitude": 43.5180769,
+      "googlePlaceData": {
+        "place_id": "ChIJc-2ew7eaK4gRMf9agTSlB9g",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 3,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 6,
+                "time": "1400",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 6,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "http://www.villageortho.ca/",
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 22.14,
+      "sourceDistance": 22.14,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "DE",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 2067646,
+      "providerName": "DR P H LING",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "21 SURREY ST WEST",
+      "addressSecondLine": null,
+      "city": "GUELPH",
+      "postalCode": "N1H3R3",
+      "province": "ON",
+      "phoneNumber": "5193410255",
+      "licenceNumber": null,
+      "providerTypeCode": "8005",
+      "providerTypeDescription": {
+        "en": "Orthodontist",
+        "fr": "Orthodontiste"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.2467139,
+      "latitude": 43.540627,
+      "googlePlaceData": null,
+      "distance": 22.19,
+      "sourceDistance": 22.19,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "DE",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 2162774,
+      "providerName": "DR P H LING",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "89 SURREY ST EAST",
+      "addressSecondLine": null,
+      "city": "GUELPH",
+      "postalCode": "N1H3P7",
+      "province": "ON",
+      "phoneNumber": "5199934355",
+      "licenceNumber": null,
+      "providerTypeCode": "8005",
+      "providerTypeDescription": {
+        "en": "Orthodontist",
+        "fr": "Orthodontiste"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.2440189,
+      "latitude": 43.5438458,
+      "googlePlaceData": null,
+      "distance": 22.54,
+      "sourceDistance": 22.54,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "DE",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 2026780,
+      "providerName": "DR R K SHUKLA",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "320 ERAMOSA ROAD",
+      "addressSecondLine": "UPPER LEVEL",
+      "city": "GUELPH",
+      "postalCode": "N1E2M8",
+      "province": "ON",
+      "phoneNumber": "5197801000",
+      "licenceNumber": null,
+      "providerTypeCode": "8005",
+      "providerTypeDescription": {
+        "en": "Orthodontist",
+        "fr": "Orthodontiste"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.24938,
+      "latitude": 43.55953,
+      "googlePlaceData": {
+        "place_id": "ChIJb0_a5vOaK4gRH1BN303_rH4",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1800",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1400",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "1000",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "http://www.guelphorthodontics.ca/",
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 23.02,
+      "sourceDistance": 23.02,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "DE",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 2590442,
+      "providerName": "DR P R FIORE",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "320 ERAMOSA ROAD",
+      "addressSecondLine": "GUELPH ORTHODONTICS",
+      "city": "GUELPH",
+      "postalCode": "N1E2M8",
+      "province": "ON",
+      "phoneNumber": "5197801000",
+      "licenceNumber": null,
+      "providerTypeCode": "8005",
+      "providerTypeDescription": {
+        "en": "Orthodontist",
+        "fr": "Orthodontiste"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.2494112,
+      "latitude": 43.5595496,
+      "googlePlaceData": {
+        "place_id": "ChIJb0_a5vOaK4gRH1BN303_rH4",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1800",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1400",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "1000",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "http://www.guelphorthodontics.ca/",
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 23.02,
+      "sourceDistance": 23.02,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "DE",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 2331226,
+      "providerName": "DR K SHARMA",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "3-1398 GORDON STREET",
+      "addressSecondLine": null,
+      "city": "GUELPH",
+      "postalCode": "N1L1C8",
+      "province": "ON",
+      "phoneNumber": "5199937411",
+      "licenceNumber": null,
+      "providerTypeCode": "8005",
+      "providerTypeDescription": {
+        "en": "Orthodontist",
+        "fr": "Orthodontiste"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.19737,
+      "latitude": 43.51261,
+      "googlePlaceData": {
+        "place_id": "ChIJu48ERaWEK4gRfWZ8uWAUcCI",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1900",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1900",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1300",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "http://www.drnsheikh.ca/",
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 24.78,
+      "sourceDistance": 24.78,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "DE",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 2383162,
+      "providerName": "DR X PHAN",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "4-5 CLAIR ROAD WEST",
+      "addressSecondLine": null,
+      "city": "GUELPH",
+      "postalCode": "N1L0A6",
+      "province": "ON",
+      "phoneNumber": "5198279666",
+      "licenceNumber": null,
+      "providerTypeCode": "8005",
+      "providerTypeDescription": {
+        "en": "Orthodontist",
+        "fr": "Orthodontiste"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.19088,
+      "latitude": 43.50047,
+      "googlePlaceData": {
+        "place_id": "ChIJtdQKT56EK4gRWhcXPvkxlaM",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "1000",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "1000",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 6,
+                "time": "1500",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 6,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "http://www.clairdental.ca/",
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 24.95,
+      "sourceDistance": 24.95,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "DE",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": true
+    },
+    {
+      "providerId": 3407195,
+      "providerName": "DR B AL AKAD",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "3-120 MCQUEEN BLVD",
+      "addressSecondLine": null,
+      "city": "FERGUS",
+      "postalCode": "N1M3T8",
+      "province": "ON",
+      "phoneNumber": "5194892900",
+      "licenceNumber": null,
+      "providerTypeCode": "8005",
+      "providerTypeDescription": {
+        "en": "Orthodontist",
+        "fr": "Orthodontiste"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.3656475,
+      "latitude": 43.6971651,
+      "googlePlaceData": {
+        "place_id": "ChIJjfj1tzC9K4gR7XQNIkHfuEg",
+        "opening_hours": null,
+        "website": "https://fergusorthodontics.ca/",
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 29.2,
+      "sourceDistance": 29.2,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "DE",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 2841661,
+      "providerName": "DR M FATHIMANI",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "804 TOWER STREET SOUTH",
+      "addressSecondLine": null,
+      "city": "FERGUS",
+      "postalCode": "N1M2R3",
+      "province": "ON",
+      "phoneNumber": "5197877878",
+      "licenceNumber": null,
+      "providerTypeCode": "8005",
+      "providerTypeDescription": {
+        "en": "Orthodontist",
+        "fr": "Orthodontiste"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.3680927,
+      "latitude": 43.6979812,
+      "googlePlaceData": {
+        "place_id": "ChIJC35INQa-K4gROUr28ZoELoI",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 0,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 0,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 1,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 6,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 6,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "http://countrydental.ca/",
+        "utc_offset": -300,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 29.22,
+      "sourceDistance": 29.22,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "DE",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 2839327,
+      "providerName": "DR B SHARMA",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "804 TOWER ST S",
+      "addressSecondLine": null,
+      "city": "FERGUS",
+      "postalCode": "N1M2R3",
+      "province": "ON",
+      "phoneNumber": "5197877878",
+      "licenceNumber": null,
+      "providerTypeCode": "8005",
+      "providerTypeDescription": {
+        "en": "Orthodontist",
+        "fr": "Orthodontiste"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.3680953979492,
+      "latitude": 43.6979827880859,
+      "googlePlaceData": {
+        "place_id": "ChIJC35INQa-K4gROUr28ZoELoI",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 0,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 0,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 1,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 6,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 6,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "http://countrydental.ca/",
+        "utc_offset": -300,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 29.22,
+      "sourceDistance": 29.22,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "DE",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 2274237,
+      "providerName": "DR M BERCO",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "400-16775 YONGE STREET",
+      "addressSecondLine": null,
+      "city": "NEWMARKET",
+      "postalCode": "L3Y8J4",
+      "province": "ON",
+      "phoneNumber": "5194424452",
+      "licenceNumber": null,
+      "providerTypeCode": "8005",
+      "providerTypeDescription": {
+        "en": "Orthodontist",
+        "fr": "Orthodontiste"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.3848037719727,
+      "latitude": 43.1945533752441,
+      "googlePlaceData": {
+        "place_id": "ChIJrfIk0zRsLIgRHUyTobDB82U",
+        "opening_hours": null,
+        "website": null,
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 29.82,
+      "sourceDistance": 29.82,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "DE",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 2268369,
+      "providerName": "DR M BERCO",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "120 GRAND RIVER ST. N.",
+      "addressSecondLine": null,
+      "city": "PARIS",
+      "postalCode": "N3L2M5",
+      "province": "ON",
+      "phoneNumber": "5194424452",
+      "licenceNumber": null,
+      "providerTypeCode": "8005",
+      "providerTypeDescription": {
+        "en": "Orthodontist",
+        "fr": "Orthodontiste"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.3849544,
+      "latitude": 43.1944937,
+      "googlePlaceData": {
+        "place_id": "ChIJrfIk0zRsLIgRkxrzqHEr0SM",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 6,
+                "time": "1600",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 6,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "http://parisdentalcentre.com/",
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 29.83,
+      "sourceDistance": 29.83,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "DE",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 2272373,
+      "providerName": "DR S DELUCA",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "120 GRAND RIVER ST N",
+      "addressSecondLine": null,
+      "city": "PARIS",
+      "postalCode": "N3L2M5",
+      "province": "ON",
+      "phoneNumber": "5194424452",
+      "licenceNumber": null,
+      "providerTypeCode": "8005",
+      "providerTypeDescription": {
+        "en": "Orthodontist",
+        "fr": "Orthodontiste"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.3849563598633,
+      "latitude": 43.1944923400879,
+      "googlePlaceData": {
+        "place_id": "ChIJrfIk0zRsLIgRkxrzqHEr0SM",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 6,
+                "time": "1600",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 6,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": null,
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 29.83,
+      "sourceDistance": 29.83,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "DE",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 3752489,
+      "providerName": "DR B KONARSKI",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "95 BLANDFORD STREET, UNIT#2",
+      "addressSecondLine": null,
+      "city": "INNERKIP",
+      "postalCode": "N0J1M0",
+      "province": "ON",
+      "phoneNumber": "6472930245",
+      "licenceNumber": null,
+      "providerTypeCode": "8005",
+      "providerTypeDescription": {
+        "en": "Orthodontist",
+        "fr": "Orthodontiste"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.6998885,
+      "latitude": 43.2030657,
+      "googlePlaceData": null,
+      "distance": 32.27,
+      "sourceDistance": 32.27,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "DE",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 2916902,
+      "providerName": "DR E BOERSMA",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "D-175 ALMA ST",
+      "addressSecondLine": "PO BOX 179",
+      "city": "ROCKWOOD",
+      "postalCode": "N0B2K0",
+      "province": "ON",
+      "phoneNumber": "5198564831",
+      "licenceNumber": null,
+      "providerTypeCode": "8005",
+      "providerTypeDescription": {
+        "en": "Orthodontist",
+        "fr": "Orthodontiste"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.146261,
+      "latitude": 43.616574,
+      "googlePlaceData": {
+        "place_id": "ChIJBXo2W_SeK4gR-uasHSPF4y4",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1800",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1800",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1900",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1400",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 6,
+                "time": "1500",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 6,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "http://www.rockwooddental.ca/",
+        "utc_offset": -300,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 33.43,
+      "sourceDistance": 33.43,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "DE",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 3172996,
+      "providerName": "DR C A H\u00d6EDIONO",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "D-175 ALMA ST",
+      "addressSecondLine": "P.O. BOX 179",
+      "city": "ROCKWOOD",
+      "postalCode": "N0B2K0",
+      "province": "ON",
+      "phoneNumber": "5198564831",
+      "licenceNumber": null,
+      "providerTypeCode": "8005",
+      "providerTypeDescription": {
+        "en": "Orthodontist",
+        "fr": "Orthodontiste"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.1461791,
+      "latitude": 43.6166496,
+      "googlePlaceData": {
+        "place_id": "ChIJBXo2W_SeK4gR-uasHSPF4y4",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1800",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1800",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1900",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1400",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 6,
+                "time": "1500",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 6,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "http://www.rockwooddental.ca/",
+        "utc_offset": -300,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 33.44,
+      "sourceDistance": 33.44,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "DE",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    }
+  ],
+  "pageSize": 200,
+  "start": 1
+}

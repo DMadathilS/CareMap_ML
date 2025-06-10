@@ -1,0 +1,5482 @@
+{
+  "totalCount": 57,
+  "results": [
+    {
+      "providerId": 3436848,
+      "providerName": "V DOKTER",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "202-130 WEBER ST W",
+      "addressSecondLine": null,
+      "city": "KITCHENER",
+      "postalCode": "N2H4A2",
+      "province": "ON",
+      "phoneNumber": "5195787070",
+      "licenceNumber": null,
+      "providerTypeCode": "5010",
+      "providerTypeDescription": {
+        "en": "Osteopath",
+        "fr": "Ost\u00e9opathe"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.4943577,
+      "latitude": 43.4563536,
+      "googlePlaceData": {
+        "place_id": "ChIJjcN4eGQzK4gRvbObJCKZfW4",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "1400",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1900",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "1300",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1400",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1600",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "1000",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "http://encompasshealth.ca/",
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 0.6,
+      "sourceDistance": 0.6,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": true
+    },
+    {
+      "providerId": 3560037,
+      "providerName": "J BECHTOLD",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "15 SCHNEIDER AVE",
+      "addressSecondLine": null,
+      "city": "KITCHENER",
+      "postalCode": "N2G1K7",
+      "province": "ON",
+      "phoneNumber": "5195910603",
+      "licenceNumber": null,
+      "providerTypeCode": "5010",
+      "providerTypeDescription": {
+        "en": "Osteopath",
+        "fr": "Ost\u00e9opathe"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.4952308,
+      "latitude": 43.4442765,
+      "googlePlaceData": {
+        "place_id": "ChIJ0bBHs-r1K4gRChiEh9c8e6I",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "http://jbosteopathy.com/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=6266695735984877340",
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 0.78,
+      "sourceDistance": 0.78,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 2606047,
+      "providerName": "A MAJKUTEWICZ WOOD",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "1050 QUEENS BLVD",
+      "addressSecondLine": null,
+      "city": "KITCHENER",
+      "postalCode": "N2M1C2",
+      "province": "ON",
+      "phoneNumber": "5197721188",
+      "licenceNumber": null,
+      "providerTypeCode": "5010",
+      "providerTypeDescription": {
+        "en": "Osteopath",
+        "fr": "Ost\u00e9opathe"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.5042,
+      "latitude": 43.43653,
+      "googlePlaceData": {
+        "place_id": "ChIJ32CIiFT0K4gRFqgfeve9N-g",
+        "opening_hours": null,
+        "website": "http://www.osteopathyinkw.com/",
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 1.87,
+      "sourceDistance": 1.87,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 3569500,
+      "providerName": "A PATTON",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "125 BEDFORD RD",
+      "addressSecondLine": null,
+      "city": "KITCHENER",
+      "postalCode": "N2G3A3",
+      "province": "ON",
+      "phoneNumber": "5198041697",
+      "licenceNumber": null,
+      "providerTypeCode": "5010",
+      "providerTypeDescription": {
+        "en": "Osteopath",
+        "fr": "Ost\u00e9opathe"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.4775847,
+      "latitude": 43.4381274,
+      "googlePlaceData": {
+        "place_id": "ChIJ9ZXPYOf0K4gR5NRl88dn1YE",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0830",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0830",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0830",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0830",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1200",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0830",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "http://www.perfectbalancewc.ca/Contact.html",
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 1.88,
+      "sourceDistance": 1.88,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 2373712,
+      "providerName": "L KEAST",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "125 BEDFORD ROAD",
+      "addressSecondLine": null,
+      "city": "KITCHENER",
+      "postalCode": "N2G3A3",
+      "province": "ON",
+      "phoneNumber": "5198041697",
+      "licenceNumber": null,
+      "providerTypeCode": "5010",
+      "providerTypeDescription": {
+        "en": "Osteopath",
+        "fr": "Ost\u00e9opathe"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.4775847,
+      "latitude": 43.4381274,
+      "googlePlaceData": {
+        "place_id": "ChIJ9ZXPYOf0K4gR5NRl88dn1YE",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0830",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0830",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0830",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0830",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1200",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0830",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "http://perfectbalancewc.ca/Contact.html",
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 1.88,
+      "sourceDistance": 1.88,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 2537833,
+      "providerName": "M CABALSE",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "101-678 BELMONT AVE W",
+      "addressSecondLine": null,
+      "city": "KITCHENER",
+      "postalCode": "N2M1N6",
+      "province": "ON",
+      "phoneNumber": "5194043997",
+      "licenceNumber": null,
+      "providerTypeCode": "5010",
+      "providerTypeDescription": {
+        "en": "Osteopath",
+        "fr": "Ost\u00e9opathe"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.5174,
+      "latitude": 43.45308,
+      "googlePlaceData": {
+        "place_id": "ChIJyyNlv0H0K4gRAE3WnJp-uSI",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1900",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1900",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1900",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1900",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1900",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 6,
+                "time": "1400",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 6,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "https://belmont-osteopathy-clinic.business.site/",
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 2.01,
+      "sourceDistance": 2.01,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 3654148,
+      "providerName": "L MUSTARD",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "281 LAWRENCE AVE",
+      "addressSecondLine": null,
+      "city": "KITCHENER ",
+      "postalCode": "N2M1Y5",
+      "province": "ON",
+      "phoneNumber": "5195790328",
+      "licenceNumber": null,
+      "providerTypeCode": "5010",
+      "providerTypeDescription": {
+        "en": "Osteopath",
+        "fr": "Ost\u00e9opathe"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.5136055,
+      "latitude": 43.4407371,
+      "googlePlaceData": {
+        "place_id": "ChIJ__kIYU70K4gRREBBoE7J-Ew",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1900",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0830",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1800",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1830",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1800",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1500",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0730",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "https://walshhealth.com/",
+        "utc_offset": -300,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 2.05,
+      "sourceDistance": 2.05,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 3482314,
+      "providerName": "K LAMOUREUX",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "660 FREDERICK ST",
+      "addressSecondLine": null,
+      "city": "KITCHENER",
+      "postalCode": "N2B2B1",
+      "province": "ON",
+      "phoneNumber": "5195717292",
+      "licenceNumber": null,
+      "providerTypeCode": "5010",
+      "providerTypeDescription": {
+        "en": "Osteopath",
+        "fr": "Ost\u00e9opathe"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.4652796,
+      "latitude": 43.4611936,
+      "googlePlaceData": {
+        "place_id": "ChIJn7yklK_0K4gRQgHZ4fa9XEE",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "2100",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "2100",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "2100",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "2100",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "2100",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 6,
+                "time": "1500",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 6,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "http://www.anaturalalternative.ca/",
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 2.47,
+      "sourceDistance": 2.47,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 3499430,
+      "providerName": "T BURCH",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "160 KING ST S",
+      "addressSecondLine": null,
+      "city": "WATERLOO",
+      "postalCode": "N2J1P6",
+      "province": "ON",
+      "phoneNumber": "2266460780",
+      "licenceNumber": null,
+      "providerTypeCode": "5010",
+      "providerTypeDescription": {
+        "en": "Osteopath",
+        "fr": "Ost\u00e9opathe"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.5204737,
+      "latitude": 43.4616226,
+      "googlePlaceData": {
+        "place_id": "ChIJ61rrXgiQK4gR7IfIXtyAxDs",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 6,
+                "time": "1600",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 6,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "http://www.fleurishwithmarilia.com/",
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 2.53,
+      "sourceDistance": 2.53,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 2428135,
+      "providerName": "C WANG",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "109-308 LESTER ST",
+      "addressSecondLine": null,
+      "city": "WATERLOO",
+      "postalCode": "N2L0H9",
+      "province": "ON",
+      "phoneNumber": "5195683743",
+      "licenceNumber": null,
+      "providerTypeCode": "5010",
+      "providerTypeDescription": {
+        "en": "Osteopath",
+        "fr": "Ost\u00e9opathe"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.5227846,
+      "latitude": 43.4390755,
+      "googlePlaceData": {
+        "place_id": "ChIJt-dOtpj1K4gRV0CCvN35p3I",
+        "opening_hours": null,
+        "website": null,
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 2.78,
+      "sourceDistance": 2.78,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 3654522,
+      "providerName": "M COOPER",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "103-3 FATHER DAVID BAUER DR",
+      "addressSecondLine": null,
+      "city": "KITCHENER",
+      "postalCode": "N2M6M1",
+      "province": "ON",
+      "phoneNumber": "5199548850",
+      "licenceNumber": null,
+      "providerTypeCode": "5010",
+      "providerTypeDescription": {
+        "en": "Osteopath",
+        "fr": "Ost\u00e9opathe"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.5249432,
+      "latitude": 43.4624644,
+      "googlePlaceData": {
+        "place_id": "ChIJv4HB2hr0K4gRB8WANkG5ixE",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1800",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 6,
+                "time": "1600",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 6,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "http://www.achievewellness.ca/",
+        "utc_offset": -300,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 2.9,
+      "sourceDistance": 2.9,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 3745031,
+      "providerName": "M MAJUERY",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "9-907 FREDERICK ST",
+      "addressSecondLine": null,
+      "city": "KITCHENER",
+      "postalCode": "N2B2B9",
+      "province": "ON",
+      "phoneNumber": "5196032639",
+      "licenceNumber": null,
+      "providerTypeCode": "5010",
+      "providerTypeDescription": {
+        "en": "Osteopath",
+        "fr": "Ost\u00e9opathe"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.4574937,
+      "latitude": 43.4653597,
+      "googlePlaceData": {
+        "place_id": "ChIJmd1RHa91LIgRQGkXdBrQy7I",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1800",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1800",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1800",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1800",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1400",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": null,
+        "utc_offset": -300,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 3.24,
+      "sourceDistance": 3.24,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 3745208,
+      "providerName": "J FREY",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "9-907 FREDERICK ST",
+      "addressSecondLine": null,
+      "city": "KITCHENER",
+      "postalCode": "N2B2B9",
+      "province": "ON",
+      "phoneNumber": "5196032639",
+      "licenceNumber": null,
+      "providerTypeCode": "5010",
+      "providerTypeDescription": {
+        "en": "Osteopath",
+        "fr": "Ost\u00e9opathe"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.4574937,
+      "latitude": 43.4653597,
+      "googlePlaceData": {
+        "place_id": "ChIJmd1RHa91LIgRQGkXdBrQy7I",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1800",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1800",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1800",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1800",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1400",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": null,
+        "utc_offset": -300,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 3.24,
+      "sourceDistance": 3.24,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 3093615,
+      "providerName": "V FIK",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "1118-100 CONESTOGA COLLEGE BLVD",
+      "addressSecondLine": null,
+      "city": "KITCHENER",
+      "postalCode": "N2P2N6",
+      "province": "ON",
+      "phoneNumber": "5196032639",
+      "licenceNumber": null,
+      "providerTypeCode": "5010",
+      "providerTypeDescription": {
+        "en": "Osteopath",
+        "fr": "Ost\u00e9opathe"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.4574937,
+      "latitude": 43.4653597,
+      "googlePlaceData": {
+        "place_id": "ChIJmd1RHa91LIgRQGkXdBrQy7I",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1800",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1800",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1800",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1800",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1400",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": null,
+        "utc_offset": -300,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 3.24,
+      "sourceDistance": 3.24,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 3088530,
+      "providerName": "T WINTER",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "1118-100 CONESTOGA COLLEGE BLVD",
+      "addressSecondLine": null,
+      "city": "KITCHENER",
+      "postalCode": "N2P2N6",
+      "province": "ON",
+      "phoneNumber": "5196032639",
+      "licenceNumber": null,
+      "providerTypeCode": "5010",
+      "providerTypeDescription": {
+        "en": "Osteopath",
+        "fr": "Ost\u00e9opathe"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.4574937,
+      "latitude": 43.4653597,
+      "googlePlaceData": {
+        "place_id": "ChIJmd1RHa91LIgRQGkXdBrQy7I",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1800",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1800",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1800",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1800",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1400",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": null,
+        "utc_offset": -300,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 3.24,
+      "sourceDistance": 3.24,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 3095827,
+      "providerName": "S VAN ENGEN PESCHKE",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "1118-100 CONESTOGA COLLEGE BLVD",
+      "addressSecondLine": null,
+      "city": "KITCHENER",
+      "postalCode": "N2P2N6",
+      "province": "ON",
+      "phoneNumber": "5196032639",
+      "licenceNumber": null,
+      "providerTypeCode": "5010",
+      "providerTypeDescription": {
+        "en": "Osteopath",
+        "fr": "Ost\u00e9opathe"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.4574937,
+      "latitude": 43.4653597,
+      "googlePlaceData": {
+        "place_id": "ChIJmd1RHa91LIgRQGkXdBrQy7I",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1800",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1800",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1800",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1800",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1400",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": null,
+        "utc_offset": -300,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 3.24,
+      "sourceDistance": 3.24,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 2899551,
+      "providerName": "N PENNY",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "10-105 LEXINGTON RD",
+      "addressSecondLine": null,
+      "city": "WATERLOO",
+      "postalCode": "N2J4R7",
+      "province": "ON",
+      "phoneNumber": "5198844848",
+      "licenceNumber": null,
+      "providerTypeCode": "5010",
+      "providerTypeDescription": {
+        "en": "Osteopath",
+        "fr": "Ost\u00e9opathe"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.51727,
+      "latitude": 43.4865,
+      "googlePlaceData": {
+        "place_id": "ChIJKb3b65PzK4gRzYrswBMYU0Q",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0700",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0700",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0700",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0700",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0700",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 6,
+                "time": "1400",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 6,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "https://www.dearbornhealth.com/?UTM_source=GBL",
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 4.41,
+      "sourceDistance": 4.41,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 3661265,
+      "providerName": "M SADEGHI",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "2-373 BRIDGE ST W",
+      "addressSecondLine": null,
+      "city": "WATERLOO",
+      "postalCode": "N2K3K3",
+      "province": "ON",
+      "phoneNumber": "5198886609",
+      "licenceNumber": null,
+      "providerTypeCode": "5010",
+      "providerTypeDescription": {
+        "en": "Osteopath",
+        "fr": "Ost\u00e9opathe"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.5015778,
+      "latitude": 43.4956237,
+      "googlePlaceData": {
+        "place_id": "ChIJeZeMpxXzK4gRycn9zsB9tFQ",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1800",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1800",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 6,
+                "time": "1500",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 6,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "http://www.novelphysio.ca/",
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 5,
+      "sourceDistance": 5,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 3534423,
+      "providerName": "M FORSTER",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "8C-450 WESTHEIGHTS DR",
+      "addressSecondLine": null,
+      "city": "KITCHENER",
+      "postalCode": "N2N2B9",
+      "province": "ON",
+      "phoneNumber": "5195704247",
+      "licenceNumber": null,
+      "providerTypeCode": "5010",
+      "providerTypeDescription": {
+        "en": "Osteopath",
+        "fr": "Ost\u00e9opathe"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.5361185,
+      "latitude": 43.4177723,
+      "googlePlaceData": {
+        "place_id": "ChIJK3pR5cD1K4gR_2fwc6-774g",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1930",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "1400",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1930",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "1400",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1400",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0830",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1400",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0830",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "https://julieschrothrmt.com/",
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 5.1,
+      "sourceDistance": 5.1,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 3846122,
+      "providerName": "E DEBRUIN",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "201-445 BEECHWOOD PL",
+      "addressSecondLine": null,
+      "city": "WATERLOO",
+      "postalCode": "N2T1Z2",
+      "province": "ON",
+      "phoneNumber": "5195897234",
+      "licenceNumber": null,
+      "providerTypeCode": "5010",
+      "providerTypeDescription": {
+        "en": "Osteopath",
+        "fr": "Ost\u00e9opathe"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.5568504,
+      "latitude": 43.4516629,
+      "googlePlaceData": null,
+      "distance": 5.18,
+      "sourceDistance": 5.18,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 2599549,
+      "providerName": "H LI",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "3-496 ALBERT ST",
+      "addressSecondLine": null,
+      "city": "WATERLOO",
+      "postalCode": "N2L3V4",
+      "province": "ON",
+      "phoneNumber": "5198801619",
+      "licenceNumber": null,
+      "providerTypeCode": "5010",
+      "providerTypeDescription": {
+        "en": "Osteopath",
+        "fr": "Ost\u00e9opathe"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.54004,
+      "latitude": 43.48665,
+      "googlePlaceData": {
+        "place_id": "ChIJ_SJ8EePzK4gR1MN3MK2VlfU",
+        "opening_hours": null,
+        "website": null,
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 5.5,
+      "sourceDistance": 5.5,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 3255537,
+      "providerName": "A COSTELLO-TOFT",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "201-245 THE BOARDWALK",
+      "addressSecondLine": null,
+      "city": "WATERLOO",
+      "postalCode": "N2T0A6",
+      "province": "ON",
+      "phoneNumber": "2262369447",
+      "licenceNumber": null,
+      "providerTypeCode": "5010",
+      "providerTypeDescription": {
+        "en": "Osteopath",
+        "fr": "Ost\u00e9opathe"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.5621335,
+      "latitude": 43.4364336,
+      "googlePlaceData": null,
+      "distance": 5.84,
+      "sourceDistance": 5.84,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 3721624,
+      "providerName": "P WELCH",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "201-245 THE BOARDWALK",
+      "addressSecondLine": null,
+      "city": "WATERLOO",
+      "postalCode": "N2T0A6",
+      "province": "ON",
+      "phoneNumber": "2263368961",
+      "licenceNumber": null,
+      "providerTypeCode": "5010",
+      "providerTypeDescription": {
+        "en": "Osteopath",
+        "fr": "Ost\u00e9opathe"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.5621335,
+      "latitude": 43.4364336,
+      "googlePlaceData": {
+        "place_id": "ChIJx90vCGH2K4gRaJ-6pkpbgwU",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0700",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "https://thearmouryclinic.ca/",
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 5.84,
+      "sourceDistance": 5.84,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 3821362,
+      "providerName": "M YOUSSEF",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "201-245 THE BOARDWALK",
+      "addressSecondLine": null,
+      "city": "WATERLOO",
+      "postalCode": "N2T0A6",
+      "province": "ON",
+      "phoneNumber": "2263368961",
+      "licenceNumber": null,
+      "providerTypeCode": "5010",
+      "providerTypeDescription": {
+        "en": "Osteopath",
+        "fr": "Ost\u00e9opathe"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.5621664,
+      "latitude": 43.4364648,
+      "googlePlaceData": {
+        "place_id": "ChIJx90vCGH2K4gRaJ-6pkpbgwU",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0700",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 6,
+                "time": "1400",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 6,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "https://thearmouryclinic.ca/",
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 5.84,
+      "sourceDistance": 5.84,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 2901836,
+      "providerName": "N ENNS",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "305-99 NORTHFIELD DR E",
+      "addressSecondLine": null,
+      "city": "WATERLOO",
+      "postalCode": "N2K3P9",
+      "province": "ON",
+      "phoneNumber": "2268084529",
+      "licenceNumber": null,
+      "providerTypeCode": "5010",
+      "providerTypeDescription": {
+        "en": "Osteopath",
+        "fr": "Ost\u00e9opathe"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.5256195068359,
+      "latitude": 43.5046348571777,
+      "googlePlaceData": {
+        "place_id": "ChIJ2zRg6MjzK4gRXtVCsSlHMYI",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": null,
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 6.52,
+      "sourceDistance": 6.52,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 2057808,
+      "providerName": "D CHASE",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "620 DAVENPORT RD",
+      "addressSecondLine": null,
+      "city": "WATERLOO",
+      "postalCode": "N2V2C2",
+      "province": "ON",
+      "phoneNumber": "5198848186",
+      "licenceNumber": null,
+      "providerTypeCode": "5010",
+      "providerTypeDescription": {
+        "en": "Osteopath",
+        "fr": "Ost\u00e9opathe"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.5284296,
+      "latitude": 43.504557,
+      "googlePlaceData": {
+        "place_id": "ChIJO69UnGDxK4gRv-0ytWf-wVo",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1500",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0730",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1930",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "1230",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1500",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0730",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1930",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "1230",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "https://www.thephysioroom.ca/",
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 6.6,
+      "sourceDistance": 6.6,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 3742390,
+      "providerName": "M PETRESCU",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "5-620 DAVENPORT RD",
+      "addressSecondLine": null,
+      "city": "WATERLOO",
+      "postalCode": "N2V2C2",
+      "province": "ON",
+      "phoneNumber": "5198848186",
+      "licenceNumber": null,
+      "providerTypeCode": "5010",
+      "providerTypeDescription": {
+        "en": "Osteopath",
+        "fr": "Ost\u00e9opathe"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.5284296,
+      "latitude": 43.504557,
+      "googlePlaceData": {
+        "place_id": "ChIJO69UnGDxK4gRv-0ytWf-wVo",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1500",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0730",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1930",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "1230",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1500",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0730",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1930",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "1230",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "https://www.thephysioroom.ca/",
+        "utc_offset": -300,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 6.6,
+      "sourceDistance": 6.6,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 3721238,
+      "providerName": "E THOMPSON",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "21-620 DAVENPORT RD",
+      "addressSecondLine": null,
+      "city": "WATERLOO",
+      "postalCode": "N2V2C2",
+      "province": "ON",
+      "phoneNumber": "5197254242",
+      "licenceNumber": null,
+      "providerTypeCode": "5010",
+      "providerTypeDescription": {
+        "en": "Osteopath",
+        "fr": "Ost\u00e9opathe"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.5285824,
+      "latitude": 43.504715,
+      "googlePlaceData": {
+        "place_id": "ChIJpycIXs_zK4gRG8C0pU6dCrY",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1100",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0700",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 1,
+                "time": "1730",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "1500",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1100",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0700",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1730",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "1500",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1830",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "1500",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1100",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0700",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "http://barnesfamilychiropractic.ca/",
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 6.63,
+      "sourceDistance": 6.63,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 3763019,
+      "providerName": "A MILLER",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "F118-155 FROBISHER DR",
+      "addressSecondLine": null,
+      "city": "WATERLOO",
+      "postalCode": "N2V2E1",
+      "province": "ON",
+      "phoneNumber": "5198834188",
+      "licenceNumber": null,
+      "providerTypeCode": "5010",
+      "providerTypeDescription": {
+        "en": "Osteopath",
+        "fr": "Ost\u00e9opathe"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.5263024,
+      "latitude": 43.5062528,
+      "googlePlaceData": {
+        "place_id": "ChIJQXFpf8j2K4gRy8a3Xs8NqIE",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1830",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1800",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0730",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1800",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0730",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1830",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1800",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0730",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 6,
+                "time": "1500",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 6,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "https://www.bepainfree.ca/",
+        "utc_offset": -300,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 6.7,
+      "sourceDistance": 6.7,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 2909691,
+      "providerName": "G SINGRA",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "215 TOMAN DR",
+      "addressSecondLine": null,
+      "city": "WATERLOO",
+      "postalCode": "N2K4H1",
+      "province": "ON",
+      "phoneNumber": "5198043332",
+      "licenceNumber": null,
+      "providerTypeCode": "5010",
+      "providerTypeDescription": {
+        "en": "Osteopath",
+        "fr": "Ost\u00e9opathe"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.5182061,
+      "latitude": 43.5129308,
+      "googlePlaceData": {
+        "place_id": "ChIJ0c6yz6DzK4gRjmJW3DlxsAs",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1900",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1900",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1800",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0730",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1900",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1900",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "http://lavenderlaneptw.ca/",
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 7.17,
+      "sourceDistance": 7.17,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 3638272,
+      "providerName": "V WOOLRIDGE",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "215 TOMAN DR",
+      "addressSecondLine": null,
+      "city": "WATERLOO",
+      "postalCode": "N2K4H1",
+      "province": "ON",
+      "phoneNumber": "5198043332",
+      "licenceNumber": null,
+      "providerTypeCode": "5010",
+      "providerTypeDescription": {
+        "en": "Osteopath",
+        "fr": "Ost\u00e9opathe"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.5182061,
+      "latitude": 43.5129308,
+      "googlePlaceData": {
+        "place_id": "ChIJ0c6yz6DzK4gRjmJW3DlxsAs",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1900",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1900",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1800",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0730",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1900",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1900",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "http://lavenderlaneptw.ca/",
+        "utc_offset": -300,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 7.17,
+      "sourceDistance": 7.17,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 3749080,
+      "providerName": "L ETHIER",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "7-1600 KING ST N ",
+      "addressSecondLine": null,
+      "city": "ST JACOBS",
+      "postalCode": "N0B2N0",
+      "province": "ON",
+      "phoneNumber": "5195024827",
+      "licenceNumber": null,
+      "providerTypeCode": "5010",
+      "providerTypeDescription": {
+        "en": "Osteopath",
+        "fr": "Ost\u00e9opathe"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.55174,
+      "latitude": 43.54765,
+      "googlePlaceData": {
+        "place_id": "ChIJ6UuMUi_vK4gRw3trvqdvq1U",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 2,
+                "time": "1300",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "1600",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1500",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "https://lauraethierosteopathy.noterro.com/",
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 11.74,
+      "sourceDistance": 11.74,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 3804761,
+      "providerName": "Z JOVIC",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "112 WESTMINSTER DR S",
+      "addressSecondLine": null,
+      "city": "CAMBRIDGE",
+      "postalCode": "N3H1S8",
+      "province": "ON",
+      "phoneNumber": "5197226607",
+      "licenceNumber": null,
+      "providerTypeCode": "5010",
+      "providerTypeDescription": {
+        "en": "Osteopath",
+        "fr": "Ost\u00e9opathe"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.3588288,
+      "latitude": 43.3955882,
+      "googlePlaceData": null,
+      "distance": 12.44,
+      "sourceDistance": 12.44,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": true
+    },
+    {
+      "providerId": 2871069,
+      "providerName": "S JARMAN",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "167 HESPELER RD",
+      "addressSecondLine": null,
+      "city": "CAMBRIDGE",
+      "postalCode": "N1R3H7",
+      "province": "ON",
+      "phoneNumber": "5196244001",
+      "licenceNumber": null,
+      "providerTypeCode": "5010",
+      "providerTypeDescription": {
+        "en": "Osteopath",
+        "fr": "Ost\u00e9opathe"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.31937,
+      "latitude": 43.38152,
+      "googlePlaceData": {
+        "place_id": "ChIJJ4w4lCqIK4gRNgiHnj4kys0",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 6,
+                "time": "1500",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 6,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "https://www.grandviewmassage.ca/",
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 15.98,
+      "sourceDistance": 15.98,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 2629725,
+      "providerName": "M FORD",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "167 HESPELER RD",
+      "addressSecondLine": null,
+      "city": "CAMBRIDGE",
+      "postalCode": "N1R3H7",
+      "province": "ON",
+      "phoneNumber": "5196244001",
+      "licenceNumber": null,
+      "providerTypeCode": "5010",
+      "providerTypeDescription": {
+        "en": "Osteopath",
+        "fr": "Ost\u00e9opathe"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.3195648193359,
+      "latitude": 43.3814010620117,
+      "googlePlaceData": {
+        "place_id": "ChIJJ4w4lCqIK4gRNgiHnj4kys0",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 6,
+                "time": "1500",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 6,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": null,
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 15.98,
+      "sourceDistance": 15.98,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 2231636,
+      "providerName": "R HUFGART",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "564 CORONATION BLVD",
+      "addressSecondLine": null,
+      "city": "CAMBRIDGE",
+      "postalCode": "N1R5Y3",
+      "province": "ON",
+      "phoneNumber": "5196226892",
+      "licenceNumber": null,
+      "providerTypeCode": "5010",
+      "providerTypeDescription": {
+        "en": "Osteopath",
+        "fr": "Ost\u00e9opathe"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.3214452,
+      "latitude": 43.3747997,
+      "googlePlaceData": {
+        "place_id": "ChIJbwnNtCx2LIgR84lFOG1a-iQ",
+        "opening_hours": null,
+        "website": "http://www.itherapy.ca/",
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 16.22,
+      "sourceDistance": 16.22,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 3668063,
+      "providerName": "P LACERDA CAVALCANTI",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "2-30 GLAMIS RD",
+      "addressSecondLine": null,
+      "city": "CAMBRIDGE",
+      "postalCode": "N1R7H5",
+      "province": "ON",
+      "phoneNumber": "5196222202",
+      "licenceNumber": null,
+      "providerTypeCode": "5010",
+      "providerTypeDescription": {
+        "en": "Osteopath",
+        "fr": "Ost\u00e9opathe"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.3055191,
+      "latitude": 43.381771,
+      "googlePlaceData": {
+        "place_id": "ChIJu-bVo9h3LIgRfc4f8uT_xwg",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1900",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0930",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1900",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0930",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1900",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0930",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0930",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1900",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0930",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 6,
+                "time": "1400",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 6,
+                "time": "0930",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "http://www.galtphysio.com/",
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 16.96,
+      "sourceDistance": 16.96,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 3445360,
+      "providerName": "Y HAN",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "C9-10-800 FRANKLIN BLVD",
+      "addressSecondLine": "OFFICE 9",
+      "city": "CAMBRIDGE",
+      "postalCode": "N1R7Z1",
+      "province": "ON",
+      "phoneNumber": "2266988588",
+      "licenceNumber": null,
+      "providerTypeCode": "5010",
+      "providerTypeDescription": {
+        "en": "Osteopath",
+        "fr": "Ost\u00e9opathe"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.2998112,
+      "latitude": 43.3792695,
+      "googlePlaceData": {
+        "place_id": "ChIJSTxcqk6JK4gR5Uz0JEyT0R0",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1500",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "1000",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1500",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "1000",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1500",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "1000",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1500",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "1000",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1600",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "1000",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "https://hansosteopathy.square.site/",
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 17.5,
+      "sourceDistance": 17.5,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 2144514,
+      "providerName": "B KWIECINSKI",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "202-150 WATER ST S",
+      "addressSecondLine": null,
+      "city": "CAMBRIDGE",
+      "postalCode": "N1R3E2",
+      "province": "ON",
+      "phoneNumber": "5196237388",
+      "licenceNumber": null,
+      "providerTypeCode": "5010",
+      "providerTypeDescription": {
+        "en": "Osteopath",
+        "fr": "Ost\u00e9opathe"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.3153205,
+      "latitude": 43.3520075,
+      "googlePlaceData": {
+        "place_id": "ChIJITM0c90YWkARbCvZjAJCR2s",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1900",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1900",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1900",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1900",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1600",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "https://www.coronationphysiotherapy.com/",
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 18.07,
+      "sourceDistance": 18.07,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 3853194,
+      "providerName": "R YANTZI",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "10-148 PEEL ST",
+      "addressSecondLine": null,
+      "city": "NEW HAMBURG",
+      "postalCode": "N3A1E3",
+      "province": "ON",
+      "phoneNumber": "5195452442",
+      "licenceNumber": null,
+      "providerTypeCode": "5010",
+      "providerTypeDescription": {
+        "en": "Osteopath",
+        "fr": "Ost\u00e9opathe"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.7095614,
+      "latitude": 43.377184,
+      "googlePlaceData": null,
+      "distance": 19.35,
+      "sourceDistance": 19.35,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 3735108,
+      "providerName": "K AGNEW",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "7A-250 DUNDAS ST S",
+      "addressSecondLine": null,
+      "city": "CAMBRIDGE",
+      "postalCode": "N1R8A8",
+      "province": "ON",
+      "phoneNumber": "5197401444",
+      "licenceNumber": null,
+      "providerTypeCode": "5010",
+      "providerTypeDescription": {
+        "en": "Osteopath",
+        "fr": "Ost\u00e9opathe"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.2887592,
+      "latitude": 43.3544117,
+      "googlePlaceData": {
+        "place_id": "ChIJR41ABfx3LIgRpWMesks8szo",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1930",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1930",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1930",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1930",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1900",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 6,
+                "time": "1600",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 6,
+                "time": "1000",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "http://rejoicephysiotherapyclinic.ca/",
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 19.66,
+      "sourceDistance": 19.66,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 3852976,
+      "providerName": "M AL-RAWASHDEN",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "211-89 DAWSON RD",
+      "addressSecondLine": null,
+      "city": "GUELPH",
+      "postalCode": "N1H1B1",
+      "province": "ON",
+      "phoneNumber": "5198228080",
+      "licenceNumber": null,
+      "providerTypeCode": "5010",
+      "providerTypeDescription": {
+        "en": "Osteopath",
+        "fr": "Ost\u00e9opathe"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.2784301,
+      "latitude": 43.5492282,
+      "googlePlaceData": {
+        "place_id": "ChIJZdw86XGQK4gRzL8Dfz2XsZ8",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1800",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 6,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 6,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "https://guelphbodyintune.ca/",
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 20.43,
+      "sourceDistance": 20.43,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 3818682,
+      "providerName": "R MIROTTA",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "4-115 DOWNEY RD",
+      "addressSecondLine": null,
+      "city": "GUELPH",
+      "postalCode": "N1C1A2",
+      "province": "ON",
+      "phoneNumber": "5195152962",
+      "licenceNumber": null,
+      "providerTypeCode": "5010",
+      "providerTypeDescription": {
+        "en": "Osteopath",
+        "fr": "Ost\u00e9opathe"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.2373048,
+      "latitude": 43.4993331,
+      "googlePlaceData": null,
+      "distance": 21.28,
+      "sourceDistance": 21.28,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 3704783,
+      "providerName": "P LACERDA CAVALCANTI",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "101-86 NORFOLK ST",
+      "addressSecondLine": null,
+      "city": "GUELPH",
+      "postalCode": "N1H4J2",
+      "province": "ON",
+      "phoneNumber": "5198270040",
+      "licenceNumber": null,
+      "providerTypeCode": "5010",
+      "providerTypeDescription": {
+        "en": "Osteopath",
+        "fr": "Ost\u00e9opathe"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.2518909,
+      "latitude": 43.544585,
+      "googlePlaceData": {
+        "place_id": "ChIJ3V_oTMCaK4gRCNdsOqzpvWA",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1830",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0730",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1830",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0730",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1830",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0730",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1830",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0730",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1830",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0730",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 6,
+                "time": "1200",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 6,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "http://www.norfolkwellness.com/",
+        "utc_offset": -300,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 22.02,
+      "sourceDistance": 22.02,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 3793130,
+      "providerName": "N CUDNEY",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "4-570 KORTRIGHT RD W",
+      "addressSecondLine": null,
+      "city": "GUELPH",
+      "postalCode": "N1G3W8",
+      "province": "ON",
+      "phoneNumber": "5198292636",
+      "licenceNumber": null,
+      "providerTypeCode": "5010",
+      "providerTypeDescription": {
+        "en": "Osteopath",
+        "fr": "Ost\u00e9opathe"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.2310086,
+      "latitude": 43.5083153,
+      "googlePlaceData": {
+        "place_id": "ChIJdZDsm9-EK4gRuQvHyWeyQfY",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1200",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 1,
+                "time": "1800",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "1400",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1800",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "1400",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1200",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1800",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "1400",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1800",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "1400",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1200",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1800",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "1400",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 6,
+                "time": "1000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 6,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "http://vitalitychiropractic.ca/",
+        "utc_offset": -300,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 22.04,
+      "sourceDistance": 22.04,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 3557789,
+      "providerName": "S HOPE",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "185 WOOLWICH ST",
+      "addressSecondLine": null,
+      "city": "GUELPH",
+      "postalCode": "N1H3V4",
+      "province": "ON",
+      "phoneNumber": "5192658035",
+      "licenceNumber": null,
+      "providerTypeCode": "5010",
+      "providerTypeDescription": {
+        "en": "Osteopath",
+        "fr": "Ost\u00e9opathe"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.252931,
+      "latitude": 43.5486368,
+      "googlePlaceData": {
+        "place_id": "ChIJVVUV-5iaK4gRfg5Omk3E6ck",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1630",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "http://www.naturalchoicemedicalclinic.com/",
+        "utc_offset": -300,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 22.16,
+      "sourceDistance": 22.16,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": true
+    },
+    {
+      "providerId": 3604971,
+      "providerName": "M PANESAR",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "492 EDINBURGH RD S",
+      "addressSecondLine": null,
+      "city": "GUELPH",
+      "postalCode": "N1G4Z1",
+      "province": "ON",
+      "phoneNumber": "5195466061",
+      "licenceNumber": null,
+      "providerTypeCode": "5010",
+      "providerTypeDescription": {
+        "en": "Osteopath",
+        "fr": "Ost\u00e9opathe"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.2353553,
+      "latitude": 43.5217807,
+      "googlePlaceData": {
+        "place_id": "ChIJoxUnvp6FK4gRRUsNX5LkN3A",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1930",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "1000",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1930",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "1000",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1930",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "1000",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1930",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "1000",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "1000",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 6,
+                "time": "1500",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 6,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "https://edinburghmedical.ca/physiotherapy/",
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 22.19,
+      "sourceDistance": 22.19,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": true
+    },
+    {
+      "providerId": 2179890,
+      "providerName": "S HALLER",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "205-1515 GORDON ST",
+      "addressSecondLine": null,
+      "city": "GUELPH",
+      "postalCode": "N9A6W1",
+      "province": "ON",
+      "phoneNumber": "5198222226",
+      "licenceNumber": null,
+      "providerTypeCode": "5010",
+      "providerTypeDescription": {
+        "en": "Osteopath",
+        "fr": "Ost\u00e9opathe"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.19607,
+      "latitude": 43.50864,
+      "googlePlaceData": {
+        "place_id": "ChIJLaTNTTebK4gRiTUcG9gxhtQ",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1900",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1800",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1800",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1900",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1200",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "http://www.theshift.ca/",
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 24.76,
+      "sourceDistance": 24.76,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 3833140,
+      "providerName": "H JANZEN",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "1453 GORDON ST",
+      "addressSecondLine": null,
+      "city": "GUELPH",
+      "postalCode": "N1L1C9",
+      "province": "ON",
+      "phoneNumber": "5198219483",
+      "licenceNumber": null,
+      "providerTypeCode": "5010",
+      "providerTypeDescription": {
+        "en": "Osteopath",
+        "fr": "Ost\u00e9opathe"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.1968917,
+      "latitude": 43.5108108,
+      "googlePlaceData": {
+        "place_id": "ChIJK_J6_aSEK4gR2ywVhM9Tf1o",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 0,
+                "time": "1330",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 0,
+                "time": "1000",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 1,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0830",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0830",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0830",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0830",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1800",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0830",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 6,
+                "time": "1400",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 6,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "http://www.bodyworksrmt.com/",
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 24.76,
+      "sourceDistance": 24.76,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 3836973,
+      "providerName": "J BALEKA",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "196 INDUSTRIAL BLVD BOX 964",
+      "addressSecondLine": null,
+      "city": "ST GEORGE",
+      "postalCode": "N0E1N0",
+      "province": "ON",
+      "phoneNumber": "5194481313",
+      "licenceNumber": null,
+      "providerTypeCode": "5010",
+      "providerTypeDescription": {
+        "en": "Osteopath",
+        "fr": "Ost\u00e9opathe"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.2688508,
+      "latitude": 43.2408351,
+      "googlePlaceData": {
+        "place_id": "ChIJU2meEP17LIgRvGe-HR3jo4Y",
+        "opening_hours": null,
+        "website": "http://stgeorgewellness.ca/",
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 29.56,
+      "sourceDistance": 29.56,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 3564498,
+      "providerName": "J MACCULLOCH",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "196 INDUSTRIAL BLVD BOX 964",
+      "addressSecondLine": null,
+      "city": "ST. GEORGE",
+      "postalCode": "N0E1N0",
+      "province": "ON",
+      "phoneNumber": "5194481313",
+      "licenceNumber": null,
+      "providerTypeCode": "5010",
+      "providerTypeDescription": {
+        "en": "Osteopath",
+        "fr": "Ost\u00e9opathe"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.2688508,
+      "latitude": 43.2408351,
+      "googlePlaceData": {
+        "place_id": "ChIJU2meEP17LIgRvGe-HR3jo4Y",
+        "opening_hours": null,
+        "website": "http://stgeorgewellness.ca/",
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 29.56,
+      "sourceDistance": 29.56,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 3443926,
+      "providerName": "M FORD",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "20 MECHANIC ST",
+      "addressSecondLine": null,
+      "city": "PARIS",
+      "postalCode": "N3L1J9",
+      "province": "ON",
+      "phoneNumber": "5194424001",
+      "licenceNumber": null,
+      "providerTypeCode": "5010",
+      "providerTypeDescription": {
+        "en": "Osteopath",
+        "fr": "Ost\u00e9opathe"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.384502,
+      "latitude": 43.1925789,
+      "googlePlaceData": {
+        "place_id": "ChIJB1mNh9ptLIgRQjI84pBX8BE",
+        "opening_hours": null,
+        "website": "https://kcosteopathy.ca/",
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 30.04,
+      "sourceDistance": 30.04,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": true
+    },
+    {
+      "providerId": 3493419,
+      "providerName": "S JARMAN",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "20 MECHANIC ST",
+      "addressSecondLine": null,
+      "city": "PARIS",
+      "postalCode": "N3L1J9",
+      "province": "ON",
+      "phoneNumber": "5194424001",
+      "licenceNumber": null,
+      "providerTypeCode": "5010",
+      "providerTypeDescription": {
+        "en": "Osteopath",
+        "fr": "Ost\u00e9opathe"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.384502,
+      "latitude": 43.1925789,
+      "googlePlaceData": {
+        "place_id": "ChIJB1mNh9ptLIgRQjI84pBX8BE",
+        "opening_hours": null,
+        "website": "https://kcosteopathy.ca/",
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 30.04,
+      "sourceDistance": 30.04,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 3663986,
+      "providerName": "K COLLIE",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "20 MECHANIC ST",
+      "addressSecondLine": null,
+      "city": "PARIS",
+      "postalCode": "N3L1J9",
+      "province": "ON",
+      "phoneNumber": "5194424001",
+      "licenceNumber": null,
+      "providerTypeCode": "5010",
+      "providerTypeDescription": {
+        "en": "Osteopath",
+        "fr": "Ost\u00e9opathe"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.384502,
+      "latitude": 43.1925789,
+      "googlePlaceData": {
+        "place_id": "ChIJB1mNh9ptLIgRQjI84pBX8BE",
+        "opening_hours": null,
+        "website": "https://kcosteopathy.ca/",
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 30.04,
+      "sourceDistance": 30.04,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": true
+    },
+    {
+      "providerId": 3713391,
+      "providerName": "J POTTRUFF",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "3-11 MECHANIC ST",
+      "addressSecondLine": null,
+      "city": "PARIS ",
+      "postalCode": "N3L1K1",
+      "province": "ON",
+      "phoneNumber": "5193044803",
+      "licenceNumber": null,
+      "providerTypeCode": "5010",
+      "providerTypeDescription": {
+        "en": "Osteopath",
+        "fr": "Ost\u00e9opathe"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.3841759,
+      "latitude": 43.1922702,
+      "googlePlaceData": null,
+      "distance": 30.08,
+      "sourceDistance": 30.08,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 3263478,
+      "providerName": "O WOODLEY",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "525 PARK RD N",
+      "addressSecondLine": null,
+      "city": "BRANTFORD",
+      "postalCode": "N3R7K8",
+      "province": "ON",
+      "phoneNumber": "5197718620",
+      "licenceNumber": null,
+      "providerTypeCode": "5010",
+      "providerTypeDescription": {
+        "en": "Osteopath",
+        "fr": "Ost\u00e9opathe"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.2493338,
+      "latitude": 43.1823595,
+      "googlePlaceData": null,
+      "distance": 35.78,
+      "sourceDistance": 35.78,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 2969319,
+      "providerName": "B YACOUB",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "7B-515 PARK RD N",
+      "addressSecondLine": null,
+      "city": "BRANTFORD",
+      "postalCode": "N3R7K8",
+      "province": "ON",
+      "phoneNumber": "5193048388",
+      "licenceNumber": null,
+      "providerTypeCode": "5010",
+      "providerTypeDescription": {
+        "en": "Osteopath",
+        "fr": "Ost\u00e9opathe"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.24877,
+      "latitude": 43.18205,
+      "googlePlaceData": {
+        "place_id": "ChIJVcWjs6BlLIgRbHtTPS4aYXU",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1800",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1800",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1900",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1500",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "https://grandriverosteopathy.ca/",
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 35.83,
+      "sourceDistance": 35.83,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    }
+  ],
+  "pageSize": 200,
+  "start": 1
+}

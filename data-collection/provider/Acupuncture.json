@@ -1,0 +1,6285 @@
+{
+  "totalCount": 59,
+  "results": [
+    {
+      "providerId": 3837030,
+      "providerName": "J KIM",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "202-130 WEBER ST W",
+      "addressSecondLine": null,
+      "city": "KITCHENER",
+      "postalCode": "N2H4A2",
+      "province": "ON",
+      "phoneNumber": "5195787070",
+      "licenceNumber": null,
+      "providerTypeCode": "5009",
+      "providerTypeDescription": {
+        "en": "Acupuncture",
+        "fr": "Acupuncture"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.4943577,
+      "latitude": 43.4563536,
+      "googlePlaceData": {
+        "place_id": "ChIJjcN4eGQzK4gRvbObJCKZfW4",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "1400",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1900",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "1300",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1400",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1600",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "1000",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "http://encompasshealth.ca/",
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 0.6,
+      "sourceDistance": 0.6,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": true
+    },
+    {
+      "providerId": 3023501,
+      "providerName": "D D MILOVANOVIC",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "2B-800 KING ST W",
+      "addressSecondLine": null,
+      "city": "KITCHENER",
+      "postalCode": "N2G1E8",
+      "province": "ON",
+      "phoneNumber": "5197415692",
+      "licenceNumber": null,
+      "providerTypeCode": "5009",
+      "providerTypeDescription": {
+        "en": "Acupuncture",
+        "fr": "Acupuncture"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.50813,
+      "latitude": 43.45645,
+      "googlePlaceData": {
+        "place_id": "ChIJTYxKkof1K4gRhFSydT58Hak",
+        "opening_hours": null,
+        "website": "http://www.handsofcare.ca/",
+        "utc_offset": -300,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 1.38,
+      "sourceDistance": 1.38,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": true
+    },
+    {
+      "providerId": 2423034,
+      "providerName": "H YU",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "2-900 KING ST W",
+      "addressSecondLine": null,
+      "city": "KITCHENER",
+      "postalCode": "N2G1G5",
+      "province": "ON",
+      "phoneNumber": "5195760881",
+      "licenceNumber": null,
+      "providerTypeCode": "5009",
+      "providerTypeDescription": {
+        "en": "Acupuncture",
+        "fr": "Acupuncture"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.51198,
+      "latitude": 43.45747,
+      "googlePlaceData": {
+        "place_id": "ChIJY9oO62j0K4gRjLdhDQliCdg",
+        "opening_hours": null,
+        "website": null,
+        "utc_offset": -300,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 1.71,
+      "sourceDistance": 1.71,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 2499587,
+      "providerName": "A KASAJ-DEJONGE",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "201-690 BELMONT AVE W",
+      "addressSecondLine": null,
+      "city": "KITCHENER",
+      "postalCode": "N2M1N6",
+      "province": "ON",
+      "phoneNumber": "5195787489",
+      "licenceNumber": null,
+      "providerTypeCode": "5009",
+      "providerTypeDescription": {
+        "en": "Acupuncture",
+        "fr": "Acupuncture"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.517672,
+      "latitude": 43.4533005,
+      "googlePlaceData": {
+        "place_id": "ChIJ65tlv0H0K4gRzFWk9s5Ams4",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1900",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "1000",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1900",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "1000",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1500",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 6,
+                "time": "1300",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 6,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "http://belmontnaturalhealth.com/",
+        "utc_offset": -300,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 2.03,
+      "sourceDistance": 2.03,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": true
+    },
+    {
+      "providerId": 2070847,
+      "providerName": "P WALSH",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "281 LAWRENCE AVE",
+      "addressSecondLine": null,
+      "city": "KITCHENER",
+      "postalCode": "N2M1Y5",
+      "province": "ON",
+      "phoneNumber": "5195790328",
+      "licenceNumber": null,
+      "providerTypeCode": "5009",
+      "providerTypeDescription": {
+        "en": "Acupuncture",
+        "fr": "Acupuncture"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.51361,
+      "latitude": 43.44073,
+      "googlePlaceData": {
+        "place_id": "ChIJ__kIYU70K4gRREBBoE7J-Ew",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1900",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1800",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1830",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1800",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1500",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0700",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "https://walshhealth.com/",
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 2.05,
+      "sourceDistance": 2.05,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": true
+    },
+    {
+      "providerId": 2247348,
+      "providerName": "D P SCHROEVALIER",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "144 ANN ST",
+      "addressSecondLine": null,
+      "city": "KITCHENER",
+      "postalCode": "N2B1Y3",
+      "province": "ON",
+      "phoneNumber": "5198856401",
+      "licenceNumber": null,
+      "providerTypeCode": "5009",
+      "providerTypeDescription": {
+        "en": "Acupuncture",
+        "fr": "Acupuncture"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.46868,
+      "latitude": 43.45847,
+      "googlePlaceData": {
+        "place_id": "ChIJRT3Oe5jzK4gRylpVjeu0XK0",
+        "opening_hours": null,
+        "website": "http://www.stherapy.com/",
+        "utc_offset": -300,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 2.09,
+      "sourceDistance": 2.09,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 3391930,
+      "providerName": "T AKUNA",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "177 PARK ST",
+      "addressSecondLine": null,
+      "city": "WATERLOO ",
+      "postalCode": "N2L1Y7",
+      "province": "ON",
+      "phoneNumber": "5199540177",
+      "licenceNumber": null,
+      "providerTypeCode": "5009",
+      "providerTypeDescription": {
+        "en": "Acupuncture",
+        "fr": "Acupuncture"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.5187378,
+      "latitude": 43.45749,
+      "googlePlaceData": {
+        "place_id": "ChIJHeNGqGv0K4gRkSEOsVAThKA",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1430",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0830",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1930",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "1200",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1730",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0830",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1730",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0830",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "http://www.juliestarkrmt.com/",
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 2.22,
+      "sourceDistance": 2.22,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": true
+    },
+    {
+      "providerId": 2598599,
+      "providerName": "J TURNBULL",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "160 KING ST S",
+      "addressSecondLine": null,
+      "city": "WATERLOO",
+      "postalCode": "N2J1P6",
+      "province": "ON",
+      "phoneNumber": "2263395179",
+      "licenceNumber": null,
+      "providerTypeCode": "5009",
+      "providerTypeDescription": {
+        "en": "Acupuncture",
+        "fr": "Acupuncture"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.5204142,
+      "latitude": 43.461628,
+      "googlePlaceData": {
+        "place_id": "ChIJZWmrhmL1K4gRfT_1Oss0ZqM",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1330",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "1400",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "1400",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "1400",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1330",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "http://www.threetideswellness.ca/",
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 2.53,
+      "sourceDistance": 2.53,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 2849859,
+      "providerName": "X YU",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "2-871 VICTORIA STREET NORTH",
+      "addressSecondLine": null,
+      "city": "KITCHENER",
+      "postalCode": "N2B3S4",
+      "province": "ON",
+      "phoneNumber": "5197492372",
+      "licenceNumber": null,
+      "providerTypeCode": "5009",
+      "providerTypeDescription": {
+        "en": "Acupuncture",
+        "fr": "Acupuncture"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.46571,
+      "latitude": 43.46313,
+      "googlePlaceData": {
+        "place_id": "ChIJZf0YBWf0K4gRPaBnvnlb2bg",
+        "opening_hours": null,
+        "website": "http://www.cdpc.info/",
+        "utc_offset": -300,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 2.54,
+      "sourceDistance": 2.54,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": true
+    },
+    {
+      "providerId": 3804212,
+      "providerName": "S J LEE",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "104 KING STREET S",
+      "addressSecondLine": null,
+      "city": "WATERLOO",
+      "postalCode": "N2J1P5",
+      "province": "ON",
+      "phoneNumber": "5197259555",
+      "licenceNumber": null,
+      "providerTypeCode": "5009",
+      "providerTypeDescription": {
+        "en": "Acupuncture",
+        "fr": "Acupuncture"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.5214664,
+      "latitude": 43.4628409,
+      "googlePlaceData": {
+        "place_id": "ChIJcaeDjUX1K4gRkoHbAE7SjOc",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 0,
+                "time": "1500",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 0,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 1,
+                "time": "2100",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "2100",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "2100",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "2100",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "2100",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 6,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 6,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "https://www.massageaddict.ca/waterloouptown/?utm_source=google_business_profile&utm_medium=organic",
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 2.67,
+      "sourceDistance": 2.67,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 3394893,
+      "providerName": "Y WANG",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "104 KING ST S",
+      "addressSecondLine": null,
+      "city": "WATERLOO",
+      "postalCode": "N2J1P5",
+      "province": "ON",
+      "phoneNumber": "5197259555",
+      "licenceNumber": null,
+      "providerTypeCode": "5009",
+      "providerTypeDescription": {
+        "en": "Acupuncture",
+        "fr": "Acupuncture"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.5214664,
+      "latitude": 43.4628409,
+      "googlePlaceData": {
+        "place_id": "ChIJcaeDjUX1K4gRkoHbAE7SjOc",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 0,
+                "time": "1500",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 0,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 1,
+                "time": "2100",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "2100",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "2100",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "2100",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "2100",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 6,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 6,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "https://www.massageaddict.ca/waterloouptown/",
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 2.67,
+      "sourceDistance": 2.67,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": true
+    },
+    {
+      "providerId": 3078092,
+      "providerName": "A AUDETTE",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "104 KING ST S",
+      "addressSecondLine": null,
+      "city": "WATERLOO",
+      "postalCode": "N2J1P5",
+      "province": "ON",
+      "phoneNumber": "5197259555",
+      "licenceNumber": null,
+      "providerTypeCode": "5009",
+      "providerTypeDescription": {
+        "en": "Acupuncture",
+        "fr": "Acupuncture"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.5214664,
+      "latitude": 43.4628409,
+      "googlePlaceData": {
+        "place_id": "ChIJcaeDjUX1K4gRkoHbAE7SjOc",
+        "opening_hours": null,
+        "website": "https://www.massageaddict.ca/waterloouptown/",
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 2.67,
+      "sourceDistance": 2.67,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 3023588,
+      "providerName": "K SMITH",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "101-487 RIVERBEND DR",
+      "addressSecondLine": null,
+      "city": "KITCHENER",
+      "postalCode": "N2K3S3",
+      "province": "ON",
+      "phoneNumber": "5197453231",
+      "licenceNumber": null,
+      "providerTypeCode": "5009",
+      "providerTypeDescription": {
+        "en": "Acupuncture",
+        "fr": "Acupuncture"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.4767562,
+      "latitude": 43.4735928,
+      "googlePlaceData": null,
+      "distance": 2.8,
+      "sourceDistance": 2.8,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 2954107,
+      "providerName": "E HOLENSKI",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "204-30 DUPONT ST E",
+      "addressSecondLine": null,
+      "city": "WATERLOO",
+      "postalCode": "N2J2G9",
+      "province": "ON",
+      "phoneNumber": "5195762222",
+      "licenceNumber": null,
+      "providerTypeCode": "5009",
+      "providerTypeDescription": {
+        "en": "Acupuncture",
+        "fr": "Acupuncture"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.5207907,
+      "latitude": 43.4665304,
+      "googlePlaceData": {
+        "place_id": "ChIJjUeDLvX0K4gRPFZQO23Nd8A",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1800",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1900",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1830",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1900",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1800",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "http://www.kwhealth.ca/?utm_source=GBL",
+        "utc_offset": -300,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 2.84,
+      "sourceDistance": 2.84,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 3670754,
+      "providerName": "D MULLER",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "45 SHIRLEY AVE",
+      "addressSecondLine": null,
+      "city": "KITCHENER",
+      "postalCode": "N2B2E2",
+      "province": "ON",
+      "phoneNumber": "5197425409",
+      "licenceNumber": null,
+      "providerTypeCode": "5009",
+      "providerTypeDescription": {
+        "en": "Acupuncture",
+        "fr": "Acupuncture"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.464464,
+      "latitude": 43.4668238,
+      "googlePlaceData": {
+        "place_id": "ChIJd9KW2XL0K4gRbCA6nBT3HT8",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1900",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "1200",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "1000",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "http://drmichaelamcclure.com/",
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 2.86,
+      "sourceDistance": 2.86,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 2486773,
+      "providerName": "S XIAO",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "134 WEBER ST N",
+      "addressSecondLine": null,
+      "city": "WATERLOO",
+      "postalCode": "N2J4E7",
+      "province": "ON",
+      "phoneNumber": "5192790126",
+      "licenceNumber": null,
+      "providerTypeCode": "5009",
+      "providerTypeDescription": {
+        "en": "Acupuncture",
+        "fr": "Acupuncture"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.5144805908203,
+      "latitude": 43.4723320007324,
+      "googlePlaceData": {
+        "place_id": "ChIJX4_cFHb0K4gRJ-2iUmEoV4U",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1900",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "1000",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1900",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "1000",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1900",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "1000",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1900",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "1000",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1900",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "1000",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 6,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 6,
+                "time": "1000",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": null,
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 2.94,
+      "sourceDistance": 2.94,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 2480409,
+      "providerName": "S XIAO",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "1414 QUEENS BLVD",
+      "addressSecondLine": null,
+      "city": "KITCHENER",
+      "postalCode": "N2M1E1",
+      "province": "ON",
+      "phoneNumber": "5192790126",
+      "licenceNumber": null,
+      "providerTypeCode": "5009",
+      "providerTypeDescription": {
+        "en": "Acupuncture",
+        "fr": "Acupuncture"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.5144799,
+      "latitude": 43.4723312,
+      "googlePlaceData": {
+        "place_id": "ChIJX4_cFHb0K4gRJ-2iUmEoV4U",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1900",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "1000",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1900",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "1000",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1900",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "1000",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1900",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "1000",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1900",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "1000",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 6,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 6,
+                "time": "1000",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "http://www.icaretcm.ca/",
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 2.94,
+      "sourceDistance": 2.94,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 3619895,
+      "providerName": "J ROZON",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "645 WESTMOUNT RD E",
+      "addressSecondLine": null,
+      "city": "KITCHENER",
+      "postalCode": "N2E3S3",
+      "province": "ON",
+      "phoneNumber": "5195139111",
+      "licenceNumber": null,
+      "providerTypeCode": "5009",
+      "providerTypeDescription": {
+        "en": "Acupuncture",
+        "fr": "Acupuncture"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.5029468,
+      "latitude": 43.421199,
+      "googlePlaceData": {
+        "place_id": "ChIJd8TC3ab1K4gRTRHa6UWtjZE",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 0,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 0,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 1,
+                "time": "2100",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "2100",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "2100",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "2100",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "2100",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 6,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 6,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "https://www.massageaddict.ca/kitchener/",
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 3.42,
+      "sourceDistance": 3.42,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 3388676,
+      "providerName": "G MALLUR",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "7-645 WESTMOUNT RD E",
+      "addressSecondLine": null,
+      "city": "KITCHENER",
+      "postalCode": "N2E3S3",
+      "province": "ON",
+      "phoneNumber": "5195139111",
+      "licenceNumber": null,
+      "providerTypeCode": "5009",
+      "providerTypeDescription": {
+        "en": "Acupuncture",
+        "fr": "Acupuncture"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.50294,
+      "latitude": 43.4212,
+      "googlePlaceData": {
+        "place_id": "ChIJd8TC3ab1K4gRTRHa6UWtjZE",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 0,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 0,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 1,
+                "time": "2100",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "2100",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "2100",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "2100",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "2100",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 6,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 6,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "https://www.massageaddict.ca/kitchener/",
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 3.42,
+      "sourceDistance": 3.42,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": true
+    },
+    {
+      "providerId": 3627099,
+      "providerName": "B WANG",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "123-875 HIGHLAND RD W",
+      "addressSecondLine": null,
+      "city": "KITCHENER",
+      "postalCode": "N2N2Y2",
+      "province": "ON",
+      "phoneNumber": "5197447070",
+      "licenceNumber": null,
+      "providerTypeCode": "5009",
+      "providerTypeDescription": {
+        "en": "Acupuncture",
+        "fr": "Acupuncture"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.5269549,
+      "latitude": 43.4293654,
+      "googlePlaceData": {
+        "place_id": "ChIJldkpHTT1K4gRRJOdatkiVJQ",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1900",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0930",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1900",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0930",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1900",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0930",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1900",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0930",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1900",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0930",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 6,
+                "time": "1500",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 6,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "https://highlandphysioandrehab.com/",
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 3.67,
+      "sourceDistance": 3.67,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 3767991,
+      "providerName": "Y WANG",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "123-875 HIGHLAND RD W",
+      "addressSecondLine": null,
+      "city": "KITCHENER",
+      "postalCode": "N2N2Y2",
+      "province": "ON",
+      "phoneNumber": "5197447070",
+      "licenceNumber": null,
+      "providerTypeCode": "5009",
+      "providerTypeDescription": {
+        "en": "Acupuncture",
+        "fr": "Acupuncture"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.5269549,
+      "latitude": 43.4293654,
+      "googlePlaceData": {
+        "place_id": "ChIJldkpHTT1K4gRRJOdatkiVJQ",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1500",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0930",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1830",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0930",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1830",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0930",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1830",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0930",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1730",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0930",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 6,
+                "time": "1500",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 6,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "https://highlandphysioandrehab.com/",
+        "utc_offset": -300,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 3.67,
+      "sourceDistance": 3.67,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 2610840,
+      "providerName": "K FORD",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "270 WEBER ST N",
+      "addressSecondLine": null,
+      "city": "WATERLOO",
+      "postalCode": "N2J3H6",
+      "province": "ON",
+      "phoneNumber": "5198867546",
+      "licenceNumber": null,
+      "providerTypeCode": "5009",
+      "providerTypeDescription": {
+        "en": "Acupuncture",
+        "fr": "Acupuncture"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.5203170776367,
+      "latitude": 43.4799957275391,
+      "googlePlaceData": {
+        "place_id": "ChIJe8S0sYzzK4gRYCyPgK_oJy0",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": null,
+              "open": {
+                "day": 0,
+                "time": "0000",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "http://goodlifefitness.com/locations/ontario/waterloo/weber-street?utm_source=G&utm_medium=LPM&utm_campaign=GoodlifeFitness",
+        "utc_offset": -300,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 3.91,
+      "sourceDistance": 3.91,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 3574689,
+      "providerName": "Y LIU",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "1C-354 KING ST N",
+      "addressSecondLine": null,
+      "city": "WATERLOO",
+      "postalCode": "N2J2Z2",
+      "province": "ON",
+      "phoneNumber": "5192080333",
+      "licenceNumber": null,
+      "providerTypeCode": "5009",
+      "providerTypeDescription": {
+        "en": "Acupuncture",
+        "fr": "Acupuncture"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.5254824,
+      "latitude": 43.4814667,
+      "googlePlaceData": {
+        "place_id": "ChIJq6paS_LzK4gRTvVcsKQr39E",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0630",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0630",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1500",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "http://www.embodycentre.com/",
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 4.29,
+      "sourceDistance": 4.29,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 3821847,
+      "providerName": "H SAMAD ZADEH",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "9-200 LORRAINE AVE",
+      "addressSecondLine": null,
+      "city": "KITCHENER",
+      "postalCode": "N2B3R3",
+      "province": "ON",
+      "phoneNumber": "5192088860",
+      "licenceNumber": null,
+      "providerTypeCode": "5009",
+      "providerTypeDescription": {
+        "en": "Acupuncture",
+        "fr": "Acupuncture"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.4410443,
+      "latitude": 43.4608526,
+      "googlePlaceData": {
+        "place_id": "ChIJszbGTFqLK4gRQciGUihYixE",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1900",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1900",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1900",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1900",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1900",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 6,
+                "time": "1200",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 6,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "http://www.physiotreats.com/",
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 4.3,
+      "sourceDistance": 4.3,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 3431084,
+      "providerName": "Y WANG",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "204-445 BEECHWOOD PL",
+      "addressSecondLine": null,
+      "city": "WATERLOO",
+      "postalCode": "N2T1Z2",
+      "province": "ON",
+      "phoneNumber": "2269889687",
+      "licenceNumber": null,
+      "providerTypeCode": "5009",
+      "providerTypeDescription": {
+        "en": "Acupuncture",
+        "fr": "Acupuncture"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.5568635,
+      "latitude": 43.4516715,
+      "googlePlaceData": {
+        "place_id": "ChIJZTn-s6b3K4gR4XYkwwCAJU4",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "1000",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1900",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1900",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "1000",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1900",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": null,
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 5.18,
+      "sourceDistance": 5.18,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 2487675,
+      "providerName": "L ZHAO",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "2922 KING ST E",
+      "addressSecondLine": null,
+      "city": "KITCHENER",
+      "postalCode": "N2A1A7",
+      "province": "ON",
+      "phoneNumber": "5192796331",
+      "licenceNumber": null,
+      "providerTypeCode": "5009",
+      "providerTypeDescription": {
+        "en": "Acupuncture",
+        "fr": "Acupuncture"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.43494,
+      "latitude": 43.42967,
+      "googlePlaceData": {
+        "place_id": "ChIJ3V18ZyCLK4gRiPqahYU3fJs",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 0,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 0,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 1,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 6,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 6,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": null,
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 5.22,
+      "sourceDistance": 5.22,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 3658387,
+      "providerName": "J ROZON",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "A8-550 PARKSIDE DR",
+      "addressSecondLine": null,
+      "city": "WATERLOO",
+      "postalCode": "N2L5V4",
+      "province": "ON",
+      "phoneNumber": "5192080150",
+      "licenceNumber": null,
+      "providerTypeCode": "5009",
+      "providerTypeDescription": {
+        "en": "Acupuncture",
+        "fr": "Acupuncture"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.54262,
+      "latitude": 43.49309,
+      "googlePlaceData": {
+        "place_id": "ChIJsxYz2nL0K4gRm5tK0RXp-QY",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1900",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0815",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1900",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0815",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1900",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0815",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1900",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0815",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0815",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "http://www.vorphysio.com/",
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 6.17,
+      "sourceDistance": 6.17,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": true
+    },
+    {
+      "providerId": 3458529,
+      "providerName": "J ROZON",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "1B-573 KING ST N",
+      "addressSecondLine": null,
+      "city": "WATERLOO",
+      "postalCode": "N2L5Z7",
+      "province": "ON",
+      "phoneNumber": "5193425252",
+      "licenceNumber": null,
+      "providerTypeCode": "5009",
+      "providerTypeDescription": {
+        "en": "Acupuncture",
+        "fr": "Acupuncture"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.5344255,
+      "latitude": 43.5009244,
+      "googlePlaceData": {
+        "place_id": "ChIJjZNSJ9vzK4gRabD7uHontII",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 0,
+                "time": "1730",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 0,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 1,
+                "time": "2100",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "2100",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "2100",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "2100",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "2100",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 6,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 6,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "https://www.massageaddict.ca/waterloo/",
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 6.48,
+      "sourceDistance": 6.48,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 3583787,
+      "providerName": "Y GAO",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "B13-619 WILD GINGER AVE",
+      "addressSecondLine": null,
+      "city": "WATERLOO",
+      "postalCode": "N2V2X1",
+      "province": "ON",
+      "phoneNumber": "4379736166",
+      "licenceNumber": null,
+      "providerTypeCode": "5009",
+      "providerTypeDescription": {
+        "en": "Acupuncture",
+        "fr": "Acupuncture"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.59392,
+      "latitude": 43.47034,
+      "googlePlaceData": {
+        "place_id": "ChIJUx2SJjD3K4gRPeWwMQQozW0",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1900",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "1100",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1900",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "1100",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1900",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "1100",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1900",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "1100",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1900",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "1100",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 6,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 6,
+                "time": "1300",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": null,
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 8.45,
+      "sourceDistance": 8.45,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": true
+    },
+    {
+      "providerId": 2779128,
+      "providerName": "H YU",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "B08-619 WILD GINGER AVE",
+      "addressSecondLine": null,
+      "city": "WATERLOO",
+      "postalCode": "N2V2X1",
+      "province": "ON",
+      "phoneNumber": "5198866886",
+      "licenceNumber": null,
+      "providerTypeCode": "5009",
+      "providerTypeDescription": {
+        "en": "Acupuncture",
+        "fr": "Acupuncture"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.5942451,
+      "latitude": 43.4701894,
+      "googlePlaceData": {
+        "place_id": "ChIJEc_lJXP3K4gRtijvRPS63uM",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1900",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "1000",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1900",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "1000",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1900",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "1000",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1900",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "1000",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1900",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "1000",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 6,
+                "time": "1500",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 6,
+                "time": "1000",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "https://kw-healthcare-centre.business.site/?utm_source=gmb&utm_medium=referral",
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 8.47,
+      "sourceDistance": 8.47,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 2571085,
+      "providerName": "K GEORGE",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "75 GRANVIEW DR",
+      "addressSecondLine": null,
+      "city": "CONESTOGO",
+      "postalCode": "N0B1N0",
+      "province": "ON",
+      "phoneNumber": "5195721115",
+      "licenceNumber": null,
+      "providerTypeCode": "5009",
+      "providerTypeDescription": {
+        "en": "Acupuncture",
+        "fr": "Acupuncture"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.4781723022461,
+      "latitude": 43.5362396240234,
+      "googlePlaceData": {
+        "place_id": "ChIJLQ6SGJD0K4gREX7E7auht8I",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 2,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "1500",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "1500",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1300",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 6,
+                "time": "1300",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 6,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "http://www.kristageorgeacu.ca/",
+        "utc_offset": -300,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 9.53,
+      "sourceDistance": 9.53,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 3085718,
+      "providerName": "E L KNIGHT",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "105-180 HOLIDAY INN DR",
+      "addressSecondLine": null,
+      "city": "CAMBRIDGE",
+      "postalCode": "N3C1Z4",
+      "province": "ON",
+      "phoneNumber": "5192603555",
+      "licenceNumber": null,
+      "providerTypeCode": "5009",
+      "providerTypeDescription": {
+        "en": "Acupuncture",
+        "fr": "Acupuncture"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.32316,
+      "latitude": 43.41529,
+      "googlePlaceData": {
+        "place_id": "ChIJqdXlCquJK4gRaFyyHfLGIN0",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 0,
+                "time": "1630",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 0,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 1,
+                "time": "2100",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "2100",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "2100",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "2100",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "2100",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 6,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 6,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "https://www.massageaddict.ca/cambridge-north/",
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 14.24,
+      "sourceDistance": 14.24,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": true
+    },
+    {
+      "providerId": 2394571,
+      "providerName": "L LI",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "N-240 HOLIDAY INN DR",
+      "addressSecondLine": null,
+      "city": "CAMBRIDGE",
+      "postalCode": "N3C3X4",
+      "province": "ON",
+      "phoneNumber": "5196228558",
+      "licenceNumber": null,
+      "providerTypeCode": "5009",
+      "providerTypeDescription": {
+        "en": "Acupuncture",
+        "fr": "Acupuncture"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.31904,
+      "latitude": 43.41529,
+      "googlePlaceData": {
+        "place_id": "ChIJ2zg2-LR3LIgRHBKyDTImfKo",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "http://www.acuhealing.ca/",
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 14.56,
+      "sourceDistance": 14.56,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 3070582,
+      "providerName": "S SHINDE",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "38 QUEEN ST W",
+      "addressSecondLine": null,
+      "city": "CAMBRIDGE ",
+      "postalCode": "N3C1G1",
+      "province": "ON",
+      "phoneNumber": "5196589492",
+      "licenceNumber": null,
+      "providerTypeCode": "5009",
+      "providerTypeDescription": {
+        "en": "Acupuncture",
+        "fr": "Acupuncture"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.3121,
+      "latitude": 43.43042,
+      "googlePlaceData": {
+        "place_id": "ChIJYzCBr-WIK4gRuZJNSINXeKI",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1900",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1900",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1900",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1900",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1900",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "http://www.hespelerphysio.com/",
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 14.75,
+      "sourceDistance": 14.75,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": true
+    },
+    {
+      "providerId": 2345649,
+      "providerName": "S J SCOTT",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "100-1733 INDUSTRIAL RD",
+      "addressSecondLine": null,
+      "city": "CAMBRIDGE",
+      "postalCode": "N3H5G7",
+      "province": "ON",
+      "phoneNumber": "5196248437",
+      "licenceNumber": null,
+      "providerTypeCode": "5009",
+      "providerTypeDescription": {
+        "en": "Acupuncture",
+        "fr": "Acupuncture"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.32887,
+      "latitude": 43.39192,
+      "googlePlaceData": {
+        "place_id": "ChIJDWV0Oc6JK4gRUE1A-VFszaU",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1830",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1830",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1600",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 6,
+                "time": "1200",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 6,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "http://www.bacdox.com/",
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 14.77,
+      "sourceDistance": 14.77,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": true
+    },
+    {
+      "providerId": 3726904,
+      "providerName": "J CHEN",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "106-460 HESPELER RD",
+      "addressSecondLine": null,
+      "city": "CAMBRIDGE",
+      "postalCode": "N1R0E3",
+      "province": "ON",
+      "phoneNumber": "5196207000",
+      "licenceNumber": null,
+      "providerTypeCode": "5009",
+      "providerTypeDescription": {
+        "en": "Acupuncture",
+        "fr": "Acupuncture"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.32506,
+      "latitude": 43.3969327,
+      "googlePlaceData": {
+        "place_id": "ChIJd3fElbWJK4gRTNlc4lM_ku4",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 6,
+                "time": "1400",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 6,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "https://www.skphysiotherapy.ca/",
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 14.81,
+      "sourceDistance": 14.81,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 3417647,
+      "providerName": "R MANNILA",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "7-715 CORONATION BLVD",
+      "addressSecondLine": null,
+      "city": "CAMBRIDGE",
+      "postalCode": "N1R7R1",
+      "province": "ON",
+      "phoneNumber": "5197407447",
+      "licenceNumber": null,
+      "providerTypeCode": "5009",
+      "providerTypeDescription": {
+        "en": "Acupuncture",
+        "fr": "Acupuncture"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.3300442,
+      "latitude": 43.3807316,
+      "googlePlaceData": {
+        "place_id": "ChIJ-Zxyz4Z3LIgRt4sqaB7vzuk",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 0,
+                "time": "1400",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 0,
+                "time": "1000",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 1,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0700",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0700",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0700",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0700",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1800",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0700",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 6,
+                "time": "1900",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 6,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "http://fullbodyfunction.ca/",
+        "utc_offset": -300,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 15.28,
+      "sourceDistance": 15.28,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": true
+    },
+    {
+      "providerId": 2592123,
+      "providerName": "E L KNIGHT",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "350 CONESTOGA BLVD",
+      "addressSecondLine": null,
+      "city": "CAMBRIDGE",
+      "postalCode": "N1R7L7",
+      "province": "ON",
+      "phoneNumber": "5196249994",
+      "licenceNumber": null,
+      "providerTypeCode": "5009",
+      "providerTypeDescription": {
+        "en": "Acupuncture",
+        "fr": "Acupuncture"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.31497,
+      "latitude": 43.39063,
+      "googlePlaceData": {
+        "place_id": "ChIJBcMBzDGIK4gRZ0jNVi6lv_U",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1900",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1930",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1400",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "https://www.cbihealth.ca/locations/cambridge-centre-for-health-wellness",
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 15.84,
+      "sourceDistance": 15.84,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": true
+    },
+    {
+      "providerId": 3817359,
+      "providerName": "B WANG",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "1150 FRANKLIN BLVD",
+      "addressSecondLine": null,
+      "city": "CAMBRIDGE",
+      "postalCode": "N1R7J2",
+      "province": "ON",
+      "phoneNumber": "5196249005",
+      "licenceNumber": null,
+      "providerTypeCode": "5009",
+      "providerTypeDescription": {
+        "en": "Acupuncture",
+        "fr": "Acupuncture"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.3053802,
+      "latitude": 43.3999746,
+      "googlePlaceData": null,
+      "distance": 16.15,
+      "sourceDistance": 16.15,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 3734091,
+      "providerName": "S SHINDE",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "50 HOPETON ST",
+      "addressSecondLine": null,
+      "city": "CAMBRIDGE",
+      "postalCode": "N1R3T3",
+      "province": "ON",
+      "phoneNumber": "5192670495",
+      "licenceNumber": null,
+      "providerTypeCode": "5009",
+      "providerTypeDescription": {
+        "en": "Acupuncture",
+        "fr": "Acupuncture"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.3152042,
+      "latitude": 43.3707257,
+      "googlePlaceData": {
+        "place_id": "ChIJv__W__53LIgRT6jOm-ig38w",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 6,
+                "time": "1400",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 6,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "https://www.ptmovementmasters.com/",
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 16.88,
+      "sourceDistance": 16.88,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": true
+    },
+    {
+      "providerId": 2504112,
+      "providerName": "I GANGAT",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "2-30 GLAMIS RD",
+      "addressSecondLine": null,
+      "city": "CAMBRIDGE",
+      "postalCode": "N1R7H5",
+      "province": "ON",
+      "phoneNumber": "5197296235",
+      "licenceNumber": null,
+      "providerTypeCode": "5009",
+      "providerTypeDescription": {
+        "en": "Acupuncture",
+        "fr": "Acupuncture"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.3062508,
+      "latitude": 43.3815299,
+      "googlePlaceData": null,
+      "distance": 16.92,
+      "sourceDistance": 16.92,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": true
+    },
+    {
+      "providerId": 2490353,
+      "providerName": "K KASAM",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "90 MERCER RD",
+      "addressSecondLine": null,
+      "city": "CAMBRIDGE",
+      "postalCode": "N1R6K7",
+      "province": "ON",
+      "phoneNumber": "5197296235",
+      "licenceNumber": null,
+      "providerTypeCode": "5009",
+      "providerTypeDescription": {
+        "en": "Acupuncture",
+        "fr": "Acupuncture"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.305793,
+      "latitude": 43.379048,
+      "googlePlaceData": null,
+      "distance": 17.08,
+      "sourceDistance": 17.08,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": true
+    },
+    {
+      "providerId": 2490915,
+      "providerName": "D CAPSTICK",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "265 AINSLIE ST S",
+      "addressSecondLine": null,
+      "city": "CAMBRIDGE",
+      "postalCode": "N1R3L3",
+      "province": "ON",
+      "phoneNumber": "5198042094",
+      "licenceNumber": null,
+      "providerTypeCode": "5009",
+      "providerTypeDescription": {
+        "en": "Acupuncture",
+        "fr": "Acupuncture"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.31295,
+      "latitude": 43.35241,
+      "googlePlaceData": {
+        "place_id": "ChIJPS1WtLF3LIgR1PHEheGmVME",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "2030",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "1630",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "http://www.mycambridgehealth.com/",
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 18.19,
+      "sourceDistance": 18.19,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": true
+    },
+    {
+      "providerId": 2930876,
+      "providerName": "V GILROY",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "11-350 SPEEDVALE AVE W",
+      "addressSecondLine": null,
+      "city": "GUELPH",
+      "postalCode": "N1H7M7",
+      "province": "ON",
+      "phoneNumber": "2265011384",
+      "licenceNumber": null,
+      "providerTypeCode": "5009",
+      "providerTypeDescription": {
+        "en": "Acupuncture",
+        "fr": "Acupuncture"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.2901885,
+      "latitude": 43.5416851,
+      "googlePlaceData": {
+        "place_id": "ChIJoXDoaSZUdFMRz6yF2-iKs6E",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "1000",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "1200",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1800",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "1300",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 6,
+                "time": "1400",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 6,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "https://www.vonaleeacu.com/",
+        "utc_offset": -300,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 19.18,
+      "sourceDistance": 19.18,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 3700687,
+      "providerName": "E L KNIGHT",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "6D-75 DUNDAS ST N",
+      "addressSecondLine": null,
+      "city": "CAMBRIDGE",
+      "postalCode": "N1R6G5",
+      "province": "ON",
+      "phoneNumber": "5196249797",
+      "licenceNumber": null,
+      "providerTypeCode": "5009",
+      "providerTypeDescription": {
+        "en": "Acupuncture",
+        "fr": "Acupuncture"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.289708,
+      "latitude": 43.3589026,
+      "googlePlaceData": {
+        "place_id": "ChIJHTtYJfp3LIgRHVDHjtwD948",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 0,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 0,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 1,
+                "time": "2100",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "2100",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "2100",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "2100",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "2100",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 6,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 6,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "https://www.massageaddict.ca/cambridge-south",
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 19.33,
+      "sourceDistance": 19.33,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": true
+    },
+    {
+      "providerId": 3558751,
+      "providerName": "E KNIGHT",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "216 MAPLE BUSH DR",
+      "addressSecondLine": null,
+      "city": "CAMBRIDGE",
+      "postalCode": "N1T0B8",
+      "province": "ON",
+      "phoneNumber": "2267891853",
+      "licenceNumber": null,
+      "providerTypeCode": "5009",
+      "providerTypeDescription": {
+        "en": "Acupuncture",
+        "fr": "Acupuncture"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.2778431,
+      "latitude": 43.3557402,
+      "googlePlaceData": null,
+      "distance": 20.33,
+      "sourceDistance": 20.33,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 3835652,
+      "providerName": "F MAJIDI",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "211-89 DAWSON RD",
+      "addressSecondLine": null,
+      "city": "GUELPH",
+      "postalCode": "N1H1B1",
+      "province": "ON",
+      "phoneNumber": "5198228080",
+      "licenceNumber": null,
+      "providerTypeCode": "5009",
+      "providerTypeDescription": {
+        "en": "Acupuncture",
+        "fr": "Acupuncture"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.2784301,
+      "latitude": 43.5492282,
+      "googlePlaceData": {
+        "place_id": "ChIJZdw86XGQK4gRzL8Dfz2XsZ8",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1800",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 6,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 6,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "https://guelphbodyintune.ca/",
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 20.43,
+      "sourceDistance": 20.43,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 2477338,
+      "providerName": "D WOODWARD",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "12 WATERLOO AVE",
+      "addressSecondLine": null,
+      "city": "GUELPH",
+      "postalCode": "N1H3H3",
+      "province": "ON",
+      "phoneNumber": "5198224215",
+      "licenceNumber": null,
+      "providerTypeCode": "5009",
+      "providerTypeDescription": {
+        "en": "Acupuncture",
+        "fr": "Acupuncture"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.24951171875,
+      "latitude": 43.5411987304688,
+      "googlePlaceData": {
+        "place_id": "ChIJVVUFrsaaK4gRcu5wMofo9Os",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "2030",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "1330",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "2030",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "1330",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "2030",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "1330",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "2030",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "1500",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "http://www.massagetherapyguelph.ca/",
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 22.01,
+      "sourceDistance": 22.01,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 3823174,
+      "providerName": "K MACTAVISH",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "185 WOOLWICH ST",
+      "addressSecondLine": null,
+      "city": "GUELPH",
+      "postalCode": "N1H3V4",
+      "province": "ON",
+      "phoneNumber": "5192658035",
+      "licenceNumber": null,
+      "providerTypeCode": "5009",
+      "providerTypeDescription": {
+        "en": "Acupuncture",
+        "fr": "Acupuncture"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.252931,
+      "latitude": 43.5486368,
+      "googlePlaceData": {
+        "place_id": "ChIJVVUV-5iaK4gRfg5Omk3E6ck",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1630",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "http://www.naturalchoicemedicalclinic.com/",
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 22.16,
+      "sourceDistance": 22.16,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 3269770,
+      "providerName": "A INGLOT",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "185 WOOLWICH ST",
+      "addressSecondLine": null,
+      "city": "GUELPH",
+      "postalCode": "N1H3V4",
+      "province": "ON",
+      "phoneNumber": "5192658035",
+      "licenceNumber": null,
+      "providerTypeCode": "5009",
+      "providerTypeDescription": {
+        "en": "Acupuncture",
+        "fr": "Acupuncture"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.252931,
+      "latitude": 43.5486368,
+      "googlePlaceData": {
+        "place_id": "ChIJVVUV-5iaK4gRfg5Omk3E6ck",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1630",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "http://www.naturalchoicemedicalclinic.com/",
+        "utc_offset": -300,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 22.16,
+      "sourceDistance": 22.16,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 3463461,
+      "providerName": "R MANNILA",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "5B-492 EDINBURGH RD S",
+      "addressSecondLine": null,
+      "city": "GUELPH",
+      "postalCode": "N1G4Z1",
+      "province": "ON",
+      "phoneNumber": "5198231222",
+      "licenceNumber": null,
+      "providerTypeCode": "5009",
+      "providerTypeDescription": {
+        "en": "Acupuncture",
+        "fr": "Acupuncture"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.2353553,
+      "latitude": 43.5217807,
+      "googlePlaceData": {
+        "place_id": "ChIJ4ZmB0SuFK4gRu8qIqSIzR5s",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 0,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 0,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 1,
+                "time": "2100",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "2100",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "2100",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "2100",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "2100",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 6,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 6,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "https://www.massageaddict.ca/guelph/?utm_source=google_business_profile&utm_medium=organic",
+        "utc_offset": -300,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 22.19,
+      "sourceDistance": 22.19,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": true
+    },
+    {
+      "providerId": 3670779,
+      "providerName": "H NGUYEN DINH",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "492 EDINBURGH RD S",
+      "addressSecondLine": null,
+      "city": "GUELPH",
+      "postalCode": "N1G4Z1",
+      "province": "ON",
+      "phoneNumber": "5195466061",
+      "licenceNumber": null,
+      "providerTypeCode": "5009",
+      "providerTypeDescription": {
+        "en": "Acupuncture",
+        "fr": "Acupuncture"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.2353553,
+      "latitude": 43.5217807,
+      "googlePlaceData": {
+        "place_id": "ChIJoxUnvp6FK4gRRUsNX5LkN3A",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1930",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "1000",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1930",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "1000",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1930",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "1000",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1930",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "1000",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "1000",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 6,
+                "time": "1500",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 6,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "https://edinburghmedical.ca/physiotherapy/",
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 22.19,
+      "sourceDistance": 22.19,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 3679562,
+      "providerName": "B WANG",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "5B-492 EDINBURGH RD S",
+      "addressSecondLine": null,
+      "city": "GUELPH",
+      "postalCode": "N1G4Z1",
+      "province": "ON",
+      "phoneNumber": "5198231222",
+      "licenceNumber": null,
+      "providerTypeCode": "5009",
+      "providerTypeDescription": {
+        "en": "Acupuncture",
+        "fr": "Acupuncture"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.2353553,
+      "latitude": 43.5217807,
+      "googlePlaceData": {
+        "place_id": "ChIJ4ZmB0SuFK4gRu8qIqSIzR5s",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 0,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 0,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 1,
+                "time": "2100",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "2100",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "2100",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "2100",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "2100",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 6,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 6,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "https://www.massageaddict.ca/guelph/?utm_source=google_business_profile&utm_medium=organic",
+        "utc_offset": -300,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 22.19,
+      "sourceDistance": 22.19,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 3549550,
+      "providerName": "V CANHAM",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "175 CHANCELLORS WAY",
+      "addressSecondLine": null,
+      "city": "GUELPH",
+      "postalCode": "N1G0E9",
+      "province": "ON",
+      "phoneNumber": "5198279519",
+      "licenceNumber": null,
+      "providerTypeCode": "5009",
+      "providerTypeDescription": {
+        "en": "Acupuncture",
+        "fr": "Acupuncture"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.2461385,
+      "latitude": 43.5405049,
+      "googlePlaceData": {
+        "place_id": "ChIJD5SHYsSaK4gRSPZE9eEbg6A",
+        "opening_hours": null,
+        "website": null,
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 22.22,
+      "sourceDistance": 22.22,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 3402687,
+      "providerName": "L ABDULHUSEIN",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "18 WYNDHAM ST N",
+      "addressSecondLine": null,
+      "city": "GUELPH",
+      "postalCode": "N1H4E5",
+      "province": "ON",
+      "phoneNumber": "5198361188",
+      "licenceNumber": null,
+      "providerTypeCode": "5009",
+      "providerTypeDescription": {
+        "en": "Acupuncture",
+        "fr": "Acupuncture"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.2485309,
+      "latitude": 43.5449897,
+      "googlePlaceData": {
+        "place_id": "ChIJk9HwIcKaK4gRGkDBDmUpJc8",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1800",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "1000",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1800",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "1000",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1800",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "1000",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1800",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "1000",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1800",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "1000",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 6,
+                "time": "1800",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 6,
+                "time": "1000",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "http://www.easternwell.ca/",
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 22.28,
+      "sourceDistance": 22.28,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 3589889,
+      "providerName": "J ROZON",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "13-328 SPEEDVALE AVE E",
+      "addressSecondLine": null,
+      "city": "GUELPH",
+      "postalCode": "N1E1N5",
+      "province": "ON",
+      "phoneNumber": "2267063276",
+      "licenceNumber": null,
+      "providerTypeCode": "5009",
+      "providerTypeDescription": {
+        "en": "Acupuncture",
+        "fr": "Acupuncture"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.2583985,
+      "latitude": 43.5668933,
+      "googlePlaceData": {
+        "place_id": "ChIJuwffGK6bK4gR8TO1MYu_l3E",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 0,
+                "time": "1630",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 0,
+                "time": "1000",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 1,
+                "time": "2100",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0845",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "2100",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0845",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "2100",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0845",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "2100",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0845",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "2100",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0845",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 6,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 6,
+                "time": "0845",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "https://www.massageaddict.ca/guelph-speedvalestevenson",
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 22.85,
+      "sourceDistance": 22.85,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 3810892,
+      "providerName": "A KOMADOSKI",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "13-328 SPEEDVALE AVE E",
+      "addressSecondLine": null,
+      "city": "GUELPH",
+      "postalCode": "N1E1N5",
+      "province": "ON",
+      "phoneNumber": "2267063276",
+      "licenceNumber": null,
+      "providerTypeCode": "5009",
+      "providerTypeDescription": {
+        "en": "Acupuncture",
+        "fr": "Acupuncture"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.2583985,
+      "latitude": 43.5668933,
+      "googlePlaceData": {
+        "place_id": "ChIJuwffGK6bK4gR8TO1MYu_l3E",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 0,
+                "time": "1630",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 0,
+                "time": "1000",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 1,
+                "time": "2100",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0845",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "2100",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0845",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "2100",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0845",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "2100",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0845",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "2100",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0845",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 6,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 6,
+                "time": "0845",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "https://www.massageaddict.ca/guelph-speedvalestevenson?utm_source=google_business_profile&utm_medium=organic",
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 22.85,
+      "sourceDistance": 22.85,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 3522749,
+      "providerName": "J VELLA",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "13-328 SPEEDVALE AVE E",
+      "addressSecondLine": null,
+      "city": "GUELPH",
+      "postalCode": "N1E1N5",
+      "province": "ON",
+      "phoneNumber": "2267063276",
+      "licenceNumber": null,
+      "providerTypeCode": "5009",
+      "providerTypeDescription": {
+        "en": "Acupuncture",
+        "fr": "Acupuncture"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.2583985,
+      "latitude": 43.5668933,
+      "googlePlaceData": {
+        "place_id": "ChIJuwffGK6bK4gR8TO1MYu_l3E",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 0,
+                "time": "1630",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 0,
+                "time": "1000",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 1,
+                "time": "2100",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0845",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "2100",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0845",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "2100",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0845",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "2100",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0845",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "2100",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0845",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 6,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 6,
+                "time": "0845",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "https://www.massageaddict.ca/guelph-speedvalestevenson",
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 22.85,
+      "sourceDistance": 22.85,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": true
+    },
+    {
+      "providerId": 2803919,
+      "providerName": "W ZEDO",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "53 DUMFRIES ST",
+      "addressSecondLine": null,
+      "city": "PARIS",
+      "postalCode": "N3L2E1",
+      "province": "ON",
+      "phoneNumber": "2262087838",
+      "licenceNumber": null,
+      "providerTypeCode": "5009",
+      "providerTypeDescription": {
+        "en": "Acupuncture",
+        "fr": "Acupuncture"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.3796397,
+      "latitude": 43.1886203,
+      "googlePlaceData": {
+        "place_id": "ChIJoUdfxjRsLIgRLEEUKiKKH9k",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1800",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1800",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1800",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1800",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 6,
+                "time": "1300",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 6,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "http://www.outbackhealth.ca/",
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 30.58,
+      "sourceDistance": 30.58,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    }
+  ],
+  "pageSize": 200,
+  "start": 1
+}

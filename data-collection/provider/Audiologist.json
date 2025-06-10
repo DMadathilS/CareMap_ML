@@ -1,0 +1,5790 @@
+{
+  "totalCount": 66,
+  "results": [
+    {
+      "providerId": 155565,
+      "providerName": "H K ARNOLD HEARING AIDS LTD",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "18-385 FREDERICK ST               ",
+      "addressSecondLine": "                              ",
+      "city": "KITCHENER",
+      "postalCode": "N2H2P2",
+      "province": "ON",
+      "phoneNumber": "5197429494",
+      "licenceNumber": null,
+      "providerTypeCode": "2001",
+      "providerTypeDescription": {
+        "en": "Audio",
+        "fr": "Audio"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.4735611,
+      "latitude": 43.4571356,
+      "googlePlaceData": {
+        "place_id": "ChIJcUrp_5X0K4gRF2cc9GnONnI",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1900",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "http://www.arnoldhearing.ca/",
+        "utc_offset": -300,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 1.67,
+      "sourceDistance": 1.67,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 2272282,
+      "providerName": "CONNECT HEARING",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "10-324 HIGHLAND RD W",
+      "addressSecondLine": null,
+      "city": "KITCHENER",
+      "postalCode": "N2M5G2",
+      "province": "ON",
+      "phoneNumber": "5197444321",
+      "licenceNumber": null,
+      "providerTypeCode": "2001",
+      "providerTypeDescription": {
+        "en": "Audio",
+        "fr": "Audio"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.5096467,
+      "latitude": 43.4395962,
+      "googlePlaceData": {
+        "place_id": "ChIJx4nmK1n0K4gR2cGZTmb0JQc",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1200",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 1,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "1300",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1200",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "1300",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1200",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "1300",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1200",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "1300",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1200",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "1300",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "https://connecthearing.ca/hearing-clinics/on/kitchener/kitchener-park/?utm_source=G&utm_medium=lpm&utm_campaign=CHSHC",
+        "utc_offset": -300,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 1.87,
+      "sourceDistance": 1.87,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 2786536,
+      "providerName": "TRICITY HEARING AND BALANCE CARE",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "535 PARK STREET",
+      "addressSecondLine": null,
+      "city": "KITCHENER",
+      "postalCode": "N2G1N8",
+      "province": "ON",
+      "phoneNumber": "5192081560",
+      "licenceNumber": null,
+      "providerTypeCode": "2001",
+      "providerTypeDescription": {
+        "en": "Audio",
+        "fr": "Audio"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.5156707763672,
+      "latitude": 43.4563026428223,
+      "googlePlaceData": {
+        "place_id": "ChIJu0-m5UP0K4gRQ5gnG7zdl1Y",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "http://tricityhearing.com/",
+        "utc_offset": -300,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 1.95,
+      "sourceDistance": 1.95,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 3781694,
+      "providerName": "CANADIAN HEARING SERVICES",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "200-120 OTTAWA ST N",
+      "addressSecondLine": null,
+      "city": "KITCHENER",
+      "postalCode": "N2H3K5",
+      "province": "ON",
+      "phoneNumber": "8665180000",
+      "licenceNumber": null,
+      "providerTypeCode": "2001",
+      "providerTypeDescription": {
+        "en": "Audio",
+        "fr": "Audio"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.4689925,
+      "latitude": 43.4440781,
+      "googlePlaceData": {
+        "place_id": "ChIJW3lvVcT0K4gRssrmA0Yn_qw",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "http://www.chs.ca/",
+        "utc_offset": -300,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 2.05,
+      "sourceDistance": 2.05,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 3269931,
+      "providerName": "CANADIAN HEARING SERVICES",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "200-120 OTTAWA ST N",
+      "addressSecondLine": null,
+      "city": "KITCHENER",
+      "postalCode": "N2H3K5",
+      "province": "ON",
+      "phoneNumber": "8665180000",
+      "licenceNumber": null,
+      "providerTypeCode": "2001",
+      "providerTypeDescription": {
+        "en": "Audio",
+        "fr": "Audio"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.4689925,
+      "latitude": 43.4440781,
+      "googlePlaceData": {
+        "place_id": "ChIJW3lvVcT0K4gRssrmA0Yn_qw",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "http://www.chs.ca/",
+        "utc_offset": -300,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 2.05,
+      "sourceDistance": 2.05,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 3372693,
+      "providerName": "HEARINGLIFE",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "710 BELMONT AVE W",
+      "addressSecondLine": null,
+      "city": "KITCHENER ",
+      "postalCode": "N2M1P3",
+      "province": "ON",
+      "phoneNumber": "5198962224",
+      "licenceNumber": null,
+      "providerTypeCode": "2001",
+      "providerTypeDescription": {
+        "en": "Audio",
+        "fr": "Audio"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.5181233,
+      "latitude": 43.4540304,
+      "googlePlaceData": null,
+      "distance": 2.08,
+      "sourceDistance": 2.08,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 2427618,
+      "providerName": "CONNECT HEARING - KITCHENER VICTORIA",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "A5-751 VICTORIA ST S",
+      "addressSecondLine": null,
+      "city": "KITCHENER",
+      "postalCode": "N2M5N4",
+      "province": "ON",
+      "phoneNumber": "5197415850",
+      "licenceNumber": null,
+      "providerTypeCode": "2001",
+      "providerTypeDescription": {
+        "en": "Audio",
+        "fr": "Audio"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.4664001464844,
+      "latitude": 43.4641952514648,
+      "googlePlaceData": {
+        "place_id": "ChIJM__Zyov1K4gRMfCQ4AM_adw",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "2100",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "1800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "2100",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "1800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "2100",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "1800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "2100",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "1800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "2100",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "1800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 6,
+                "time": "1400",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 6,
+                "time": "1200",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "http://www.precisionmma.ca/",
+        "utc_offset": -300,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 2.56,
+      "sourceDistance": 2.56,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": true
+    },
+    {
+      "providerId": 3064196,
+      "providerName": "AMPLIFON",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "310-55 ERB ST E",
+      "addressSecondLine": null,
+      "city": "WATERLOO",
+      "postalCode": "N2J4K8",
+      "province": "ON",
+      "phoneNumber": "5198049233",
+      "licenceNumber": null,
+      "providerTypeCode": "2001",
+      "providerTypeDescription": {
+        "en": "Audio",
+        "fr": "Audio"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.5186164,
+      "latitude": 43.4653468,
+      "googlePlaceData": null,
+      "distance": 2.63,
+      "sourceDistance": 2.63,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 3687167,
+      "providerName": "HEARCANADA-80731",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "3-94 BRIDGEPORT RD E",
+      "addressSecondLine": null,
+      "city": "WATERLOO",
+      "postalCode": "N2J2J9",
+      "province": "ON",
+      "phoneNumber": "8772681075",
+      "licenceNumber": null,
+      "providerTypeCode": "2001",
+      "providerTypeDescription": {
+        "en": "Audio",
+        "fr": "Audio"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.51402,
+      "latitude": 43.4700704,
+      "googlePlaceData": null,
+      "distance": 2.72,
+      "sourceDistance": 2.72,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": true
+    },
+    {
+      "providerId": 3551513,
+      "providerName": "H K ARNOLD HEARING AIDS LTD",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "18B-421 GREENBROOK DR",
+      "addressSecondLine": null,
+      "city": "KITCHENER",
+      "postalCode": "N2M4K1",
+      "province": "ON",
+      "phoneNumber": "5197432323",
+      "licenceNumber": null,
+      "providerTypeCode": "2001",
+      "providerTypeDescription": {
+        "en": "Audio",
+        "fr": "Audio"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.5104908,
+      "latitude": 43.424904,
+      "googlePlaceData": {
+        "place_id": "ChIJLeUerrr1K4gRxsPodAtMdqs",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1600",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1600",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1600",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1600",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1600",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "http://foresthillhearing.com/",
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 3.25,
+      "sourceDistance": 3.25,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 3821948,
+      "providerName": "HEARINGLIFE",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "128 ERB ST W",
+      "addressSecondLine": null,
+      "city": "WATERLOO",
+      "postalCode": "N2L1T8",
+      "province": "ON",
+      "phoneNumber": "5197455888",
+      "licenceNumber": null,
+      "providerTypeCode": "2001",
+      "providerTypeDescription": {
+        "en": "Audio",
+        "fr": "Audio"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.5302371,
+      "latitude": 43.4624988,
+      "googlePlaceData": {
+        "place_id": "ChIJYY3NcEH0K4gRek3GkFUc_Pg",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1600",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1600",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1600",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1600",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1600",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0800",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "https://www.hearinglife.ca/centers/ontario/waterloo-erb-street",
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 3.29,
+      "sourceDistance": 3.29,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 3846833,
+      "providerName": "D JOSEPH",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "110-875 HIGHLAND RD W",
+      "addressSecondLine": null,
+      "city": "KITCHENER",
+      "postalCode": "N2N2Y2",
+      "province": "ON",
+      "phoneNumber": "5199772299",
+      "licenceNumber": null,
+      "providerTypeCode": "2002",
+      "providerTypeDescription": {
+        "en": "Audiologist",
+        "fr": "Audiologiste"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.5271701,
+      "latitude": 43.4292553,
+      "googlePlaceData": null,
+      "distance": 3.7,
+      "sourceDistance": 3.7,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 2196730,
+      "providerName": "TOTAL HEARING CENTRE",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "29C-1005 OTTAWA ST N",
+      "addressSecondLine": null,
+      "city": "KITCHENER",
+      "postalCode": "N2A1H2",
+      "province": "ON",
+      "phoneNumber": "5193422412",
+      "licenceNumber": null,
+      "providerTypeCode": "2001",
+      "providerTypeDescription": {
+        "en": "Audio",
+        "fr": "Audio"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.4447294,
+      "latitude": 43.4491748,
+      "googlePlaceData": {
+        "place_id": "ChIJHWA_TkiLK4gRtv2PzEaP8eU",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "http://www.totalhearingcentre.com/",
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 3.86,
+      "sourceDistance": 3.86,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 3373643,
+      "providerName": "HEAR FOR LIFE",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "A1A-1400 WEBER ST E",
+      "addressSecondLine": null,
+      "city": "KITCHENER",
+      "postalCode": "N2A3Z8",
+      "province": "ON",
+      "phoneNumber": "5197481488",
+      "licenceNumber": null,
+      "providerTypeCode": "2001",
+      "providerTypeDescription": {
+        "en": "Audio",
+        "fr": "Audio"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.4390845,
+      "latitude": 43.4331684,
+      "googlePlaceData": null,
+      "distance": 4.75,
+      "sourceDistance": 4.75,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 2173176,
+      "providerName": "HEARINGLIFE",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "1400 WEBER ST UNIT A1A",
+      "addressSecondLine": null,
+      "city": "KITCHENER",
+      "postalCode": "N2A3Z8",
+      "province": "ON",
+      "phoneNumber": "5196962727",
+      "licenceNumber": null,
+      "providerTypeCode": "2001",
+      "providerTypeDescription": {
+        "en": "Audio",
+        "fr": "Audio"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.438998,
+      "latitude": 43.432829,
+      "googlePlaceData": {
+        "place_id": "ChIJPV9duiaLK4gRPuvhBGSyyls",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "http://hearforlife.ca/",
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 4.78,
+      "sourceDistance": 4.78,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 2485725,
+      "providerName": "H HUSEIN",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "905-570 UNIVERSITY AVE E",
+      "addressSecondLine": null,
+      "city": "WATERLOO",
+      "postalCode": "N2K4P2",
+      "province": "ON",
+      "phoneNumber": "8889071436",
+      "licenceNumber": null,
+      "providerTypeCode": "2002",
+      "providerTypeDescription": {
+        "en": "Audiologist",
+        "fr": "Audiologiste"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.4907315,
+      "latitude": 43.4952348,
+      "googlePlaceData": null,
+      "distance": 4.9,
+      "sourceDistance": 4.9,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 2343498,
+      "providerName": "SERENITY HEARING",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "905-570 UNIVERSITY AVE E",
+      "addressSecondLine": null,
+      "city": "WATERLOO",
+      "postalCode": "N2K4P2",
+      "province": "ON",
+      "phoneNumber": "8889071436",
+      "licenceNumber": null,
+      "providerTypeCode": "2001",
+      "providerTypeDescription": {
+        "en": "Audio",
+        "fr": "Audio"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.490752,
+      "latitude": 43.495254,
+      "googlePlaceData": null,
+      "distance": 4.91,
+      "sourceDistance": 4.91,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 3760051,
+      "providerName": "D SHAW",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "16-500 FAIRWAY RD S",
+      "addressSecondLine": null,
+      "city": "KITCHENER",
+      "postalCode": "N2C1X3",
+      "province": "ON",
+      "phoneNumber": "5197489292",
+      "licenceNumber": null,
+      "providerTypeCode": "2002",
+      "providerTypeDescription": {
+        "en": "Audiologist",
+        "fr": "Audiologiste"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.447661,
+      "latitude": 43.420989,
+      "googlePlaceData": {
+        "place_id": "ChIJjeydydGKK4gRuIcKEFqLhUI",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1630",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0830",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1630",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0830",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1630",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0830",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1630",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0830",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1630",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0830",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "https://www.hearinglife.ca/centers/ontario/kitchener-fairway?utm_source=organic&utm_medium=gmb_clinic&utm_campaign=ca_lo_mkt_gmb%2Bclinic%7Cgmb-hl-clinic%7C&utm_content=gmb_link&utm_term=link_website&referral_source=gmb-hl-clinic",
+        "utc_offset": -300,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 4.93,
+      "sourceDistance": 4.93,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 2466873,
+      "providerName": "THE CENTRE FOR BETTER HEARING",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "1501 WEBER ST E",
+      "addressSecondLine": null,
+      "city": "KITCHENER",
+      "postalCode": "N2A1A5",
+      "province": "ON",
+      "phoneNumber": "5198937663",
+      "licenceNumber": null,
+      "providerTypeCode": "2001",
+      "providerTypeDescription": {
+        "en": "Audio",
+        "fr": "Audio"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.4377888,
+      "latitude": 43.430582,
+      "googlePlaceData": {
+        "place_id": "ChIJlYspziaLK4gRDkmp4_-2HkE",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1600",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1600",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1600",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1600",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1600",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "http://centreforbetterhearing.com/",
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 4.97,
+      "sourceDistance": 4.97,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 2191416,
+      "providerName": "THE CENTRE FOR BETTER HEARING",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "401-564 BELMONT AVE W",
+      "addressSecondLine": null,
+      "city": "KITCHENER",
+      "postalCode": "N2M5N6",
+      "province": "ON",
+      "phoneNumber": "5198937663",
+      "licenceNumber": null,
+      "providerTypeCode": "2001",
+      "providerTypeDescription": {
+        "en": "Audio",
+        "fr": "Audio"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.4378181,
+      "latitude": 43.4305879,
+      "googlePlaceData": {
+        "place_id": "ChIJlYspziaLK4gRDkmp4_-2HkE",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1600",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1600",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1600",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1600",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1600",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "http://www.centreforbetterhearing.com/",
+        "utc_offset": -300,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 4.97,
+      "sourceDistance": 4.97,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": true
+    },
+    {
+      "providerId": 2159445,
+      "providerName": "JULIANE C SHANTZ, AUDIOLOGIST INC",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "629-1187 FISCHER HALLMAN RD",
+      "addressSecondLine": null,
+      "city": "KITCHENER",
+      "postalCode": "N2E4H9",
+      "province": "ON",
+      "phoneNumber": "5197437000",
+      "licenceNumber": null,
+      "providerTypeCode": "2001",
+      "providerTypeDescription": {
+        "en": "Audio",
+        "fr": "Audio"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.5022357,
+      "latitude": 43.4055605,
+      "googlePlaceData": {
+        "place_id": "ChIJQcwICZ31K4gR-n0wdlWAdvQ",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "http://www.earandhearingclinic.com/",
+        "utc_offset": -300,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 5.12,
+      "sourceDistance": 5.12,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 3810083,
+      "providerName": "J ARAUJO",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "4-1241 STRASBURG RD",
+      "addressSecondLine": null,
+      "city": "KITCHENER",
+      "postalCode": "N2R0S1",
+      "province": "ON",
+      "phoneNumber": "5197424321",
+      "licenceNumber": null,
+      "providerTypeCode": "2002",
+      "providerTypeDescription": {
+        "en": "Audiologist",
+        "fr": "Audiologiste"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.4743886,
+      "latitude": 43.406626,
+      "googlePlaceData": {
+        "place_id": "ChIJt0wSz1D1K4gR6YWVwNYIXQE",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1600",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0930",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1630",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0930",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1230",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0930",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1600",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0930",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1230",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0930",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "https://www.bleamsmedical.ca/smileyhearing",
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 5.15,
+      "sourceDistance": 5.15,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 3064198,
+      "providerName": "AMPLIFON",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "403-430 THE BOARDWALK",
+      "addressSecondLine": null,
+      "city": "WATERLOO",
+      "postalCode": "N2T0C1",
+      "province": "ON",
+      "phoneNumber": "5192080233",
+      "licenceNumber": null,
+      "providerTypeCode": "2001",
+      "providerTypeDescription": {
+        "en": "Audio",
+        "fr": "Audio"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.5647401,
+      "latitude": 43.4403397,
+      "googlePlaceData": {
+        "place_id": "ChIJQy0TJWD2K4gR6-am58E5ICw",
+        "opening_hours": null,
+        "website": "http://www.grandriverhearing.ca/",
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 5.94,
+      "sourceDistance": 5.94,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 3464929,
+      "providerName": "AMPLIFON-WATERLOO",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "407-435 THE BOARDWALK",
+      "addressSecondLine": null,
+      "city": "WATERLOO",
+      "postalCode": "N2J3Z4",
+      "province": "ON",
+      "phoneNumber": "6475983818",
+      "licenceNumber": null,
+      "providerTypeCode": "2001",
+      "providerTypeDescription": {
+        "en": "Audio",
+        "fr": "Audio"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.5663477,
+      "latitude": 43.4401221,
+      "googlePlaceData": {
+        "place_id": "ChIJt4qLKNT3K4gRIyDOMfr-Wk8",
+        "opening_hours": null,
+        "website": "https://www.amplifon.com/ca/branch-locator/hearing-clinics-waterloo-on/waterloo-2nd-location-s90001B88?utm_source=Google&utm_medium=Organic&utm_campaign=Maps",
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 6.07,
+      "sourceDistance": 6.07,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": true
+    },
+    {
+      "providerId": 2310051,
+      "providerName": "HEARINGLIFE",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "304-99 NORTHFIELD DR E",
+      "addressSecondLine": null,
+      "city": "WATERLOO",
+      "postalCode": "N2K3P9",
+      "province": "ON",
+      "phoneNumber": "5197258700",
+      "licenceNumber": null,
+      "providerTypeCode": "2001",
+      "providerTypeDescription": {
+        "en": "Audio",
+        "fr": "Audio"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.5202608,
+      "latitude": 43.515387,
+      "googlePlaceData": null,
+      "distance": 7.48,
+      "sourceDistance": 7.48,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 2385401,
+      "providerName": "HEALTHY HEARING CENTRE KITCHENER",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "105-123 PIONEER DR",
+      "addressSecondLine": null,
+      "city": "KITCHENER",
+      "postalCode": "N2P2A3",
+      "province": "ON",
+      "phoneNumber": "5197482888",
+      "licenceNumber": null,
+      "providerTypeCode": "2001",
+      "providerTypeDescription": {
+        "en": "Audio",
+        "fr": "Audio"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.4316085,
+      "latitude": 43.3940899,
+      "googlePlaceData": {
+        "place_id": "ChIJx_Dv4qGKK4gRUhtd5VcVr2I",
+        "opening_hours": {
+          "periods": null,
+          "weekday_text": null
+        },
+        "website": "http://www.healthyhearingcentre.com/",
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 8.02,
+      "sourceDistance": 8.02,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": true
+    },
+    {
+      "providerId": 3475478,
+      "providerName": "CREEKSIDE HEARING INC",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "205-600 LAURELWOOD DR",
+      "addressSecondLine": null,
+      "city": "WATERLOO",
+      "postalCode": "N2V0A2",
+      "province": "ON",
+      "phoneNumber": "5198031200",
+      "licenceNumber": null,
+      "providerTypeCode": "2001",
+      "providerTypeDescription": {
+        "en": "Audio",
+        "fr": "Audio"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.5929294,
+      "latitude": 43.4715394,
+      "googlePlaceData": null,
+      "distance": 8.41,
+      "sourceDistance": 8.41,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 2358772,
+      "providerName": "NEW HOPE HEARING",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "101 HOLIDAY INN DRIVE",
+      "addressSecondLine": null,
+      "city": "CAMBRIDGE",
+      "postalCode": "N3C1Z3",
+      "province": "ON",
+      "phoneNumber": "5192201441",
+      "licenceNumber": null,
+      "providerTypeCode": "2001",
+      "providerTypeDescription": {
+        "en": "Audio",
+        "fr": "Audio"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.3243560791016,
+      "latitude": 43.4192085266113,
+      "googlePlaceData": {
+        "place_id": "ChIJCQLweKqJK4gRi_lUhSmzfro",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1430",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": null,
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 14.03,
+      "sourceDistance": 14.03,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": true
+    },
+    {
+      "providerId": 3626357,
+      "providerName": "HOMETOWN HEARING CENTRE",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "105-182 PINEBUSH RD",
+      "addressSecondLine": null,
+      "city": "CAMBRIDGE",
+      "postalCode": "N1R8J8",
+      "province": "ON",
+      "phoneNumber": "5192671700",
+      "licenceNumber": null,
+      "providerTypeCode": "2001",
+      "providerTypeDescription": {
+        "en": "Audio",
+        "fr": "Audio"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.3118293,
+      "latitude": 43.4115762,
+      "googlePlaceData": {
+        "place_id": "ChIJXxYBeFyJK4gRggVrpHmh4uc",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "http://www.hometownhearing.ca/",
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 15.24,
+      "sourceDistance": 15.24,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 3827952,
+      "providerName": "AMPLIFON-CAMBRIDGE",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "105-182 PINEBUSH RD",
+      "addressSecondLine": null,
+      "city": " CAMBRIDGE",
+      "postalCode": "N1R8J8",
+      "province": "ON",
+      "phoneNumber": "5192671700",
+      "licenceNumber": null,
+      "providerTypeCode": "2001",
+      "providerTypeDescription": {
+        "en": "Audio",
+        "fr": "Audio"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.3116478,
+      "latitude": 43.4115941,
+      "googlePlaceData": {
+        "place_id": "ChIJXxYBeFyJK4gRggVrpHmh4uc",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "https://www.amplifon.com/ca/branch-locator/hearing-clinics-cambridge-on/105-182-pinebush-rd-s90001C45",
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 15.25,
+      "sourceDistance": 15.25,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 3754974,
+      "providerName": "BLUEBIRD HEARING",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "114B-355 HESPELER RD",
+      "addressSecondLine": null,
+      "city": "CAMBRIDGE",
+      "postalCode": "N1R6B3",
+      "province": "ON",
+      "phoneNumber": "5197142277",
+      "licenceNumber": null,
+      "providerTypeCode": "2001",
+      "providerTypeDescription": {
+        "en": "Audio",
+        "fr": "Audio"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.3205554,
+      "latitude": 43.393824,
+      "googlePlaceData": {
+        "place_id": "ChIJOfFt9k6JK4gRBoiCNXW8LF8",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 0,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 0,
+                "time": "1100",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 1,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "1000",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "1000",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "1000",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "1000",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "2000",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "1000",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 6,
+                "time": "1800",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 6,
+                "time": "1000",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "https://www.bluebirdhearing.com/",
+        "utc_offset": -300,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 15.28,
+      "sourceDistance": 15.28,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 156031,
+      "providerName": "CAMBRIDGE AUDIOLOGY SERVICES",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "2-697 CORONATION BLVD       ",
+      "addressSecondLine": "                              ",
+      "city": "CAMBRIDGE",
+      "postalCode": "N1R3G5",
+      "province": "ON",
+      "phoneNumber": "5196242230",
+      "licenceNumber": null,
+      "providerTypeCode": "2001",
+      "providerTypeDescription": {
+        "en": "Audio",
+        "fr": "Audio"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.32999,
+      "latitude": 43.38059,
+      "googlePlaceData": {
+        "place_id": "ChIJ8byImSt2LIgRIwBEAxh7a5o",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "http://www.hearing.ca/",
+        "utc_offset": -300,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 15.29,
+      "sourceDistance": 15.29,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 2548580,
+      "providerName": "A CHAVES",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "2-697 CORONATION BLVD",
+      "addressSecondLine": null,
+      "city": "CAMBRIDGE",
+      "postalCode": "N1R3G5",
+      "province": "ON",
+      "phoneNumber": "5196242230",
+      "licenceNumber": null,
+      "providerTypeCode": "2002",
+      "providerTypeDescription": {
+        "en": "Audiologist",
+        "fr": "Audiologiste"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.3299865,
+      "latitude": 43.3805877,
+      "googlePlaceData": {
+        "place_id": "ChIJ8byImSt2LIgRIwBEAxh7a5o",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "http://www.hearing.ca/",
+        "utc_offset": -300,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 15.29,
+      "sourceDistance": 15.29,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 2428438,
+      "providerName": "AUBURN & MOUNTAIN HEARING CENTRES",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "B3-350 CONESTOGA BLVD",
+      "addressSecondLine": null,
+      "city": "CAMBRIDGE",
+      "postalCode": "N1R7L7",
+      "province": "ON",
+      "phoneNumber": "5196204327",
+      "licenceNumber": null,
+      "providerTypeCode": "2001",
+      "providerTypeDescription": {
+        "en": "Audio",
+        "fr": "Audio"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.3148865,
+      "latitude": 43.3907927,
+      "googlePlaceData": null,
+      "distance": 15.84,
+      "sourceDistance": 15.84,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": true
+    },
+    {
+      "providerId": 3846087,
+      "providerName": "AMPLIFON",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "201-614 CORONATION BLVD",
+      "addressSecondLine": null,
+      "city": "CAMBRIDGE",
+      "postalCode": "N1R3E8",
+      "province": "ON",
+      "phoneNumber": "5196217327",
+      "licenceNumber": null,
+      "providerTypeCode": "2001",
+      "providerTypeDescription": {
+        "en": "Audio",
+        "fr": "Audio"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.3247182,
+      "latitude": 43.3764172,
+      "googlePlaceData": {
+        "place_id": "ChIJO3J7hit2LIgRe7vvhHtlBwc",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "https://www.amplifon.com/ca/branch-locator/hearing-clinics-cambridge-on/amplifon-clinic-delta-medical-614-coronation-blvd-s90001C46?utm_source=Google&utm_medium=Organic&utm_campaign=Maps",
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 15.9,
+      "sourceDistance": 15.9,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": true
+    },
+    {
+      "providerId": 3657390,
+      "providerName": "C STAPLES",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "167 HESPELER RD",
+      "addressSecondLine": null,
+      "city": "CAMBRIDGE ",
+      "postalCode": "N1R3H7",
+      "province": "ON",
+      "phoneNumber": "5196228377",
+      "licenceNumber": null,
+      "providerTypeCode": "2002",
+      "providerTypeDescription": {
+        "en": "Audiologist",
+        "fr": "Audiologiste"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.3193645,
+      "latitude": 43.3814222,
+      "googlePlaceData": {
+        "place_id": "ChIJacGV4AeJK4gRmt-isP0eZsw",
+        "opening_hours": null,
+        "website": "https://www.umbrellahearing.ca/",
+        "utc_offset": -300,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 15.99,
+      "sourceDistance": 15.99,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 2927653,
+      "providerName": "BAUER HEARING INC",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "7A-25 INDUSTRIAL DR ",
+      "addressSecondLine": null,
+      "city": "ELMIRA",
+      "postalCode": "N3B3K3",
+      "province": "ON",
+      "phoneNumber": "5196699919",
+      "licenceNumber": null,
+      "providerTypeCode": "2001",
+      "providerTypeDescription": {
+        "en": "Audio",
+        "fr": "Audio"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.5602562,
+      "latitude": 43.5883118,
+      "googlePlaceData": {
+        "place_id": "ChIJCXJl2GPuK4gR9-oD9YN5pK0",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "2100",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": null,
+        "utc_offset": -300,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 16.2,
+      "sourceDistance": 16.2,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 2129119,
+      "providerName": "HEARINGLIFE",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "1 HESPELER RD",
+      "addressSecondLine": null,
+      "city": "CAMBRIDGE",
+      "postalCode": "N1R8L4",
+      "province": "ON",
+      "phoneNumber": "5196249092",
+      "licenceNumber": null,
+      "providerTypeCode": "2001",
+      "providerTypeDescription": {
+        "en": "Audio",
+        "fr": "Audio"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.317429,
+      "latitude": 43.3743556,
+      "googlePlaceData": null,
+      "distance": 16.52,
+      "sourceDistance": 16.52,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": true
+    },
+    {
+      "providerId": 2001319,
+      "providerName": "J SHANTZ",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "101-69 ARTHUR ST S",
+      "addressSecondLine": null,
+      "city": "ELMIRA",
+      "postalCode": "N3B2M8",
+      "province": "ON",
+      "phoneNumber": "5196694425",
+      "licenceNumber": null,
+      "providerTypeCode": "2002",
+      "providerTypeDescription": {
+        "en": "Audiologist",
+        "fr": "Audiologiste"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.5589699,
+      "latitude": 43.5978261,
+      "googlePlaceData": null,
+      "distance": 17.16,
+      "sourceDistance": 17.16,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 2242951,
+      "providerName": "HEARINGLIFE",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "190 ST ANDREWS ST",
+      "addressSecondLine": null,
+      "city": "CAMBRIDGE",
+      "postalCode": "N1S1N5",
+      "province": "ON",
+      "phoneNumber": "5196242002",
+      "licenceNumber": null,
+      "providerTypeCode": "2001",
+      "providerTypeDescription": {
+        "en": "Audio",
+        "fr": "Audio"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.3260544,
+      "latitude": 43.350157,
+      "googlePlaceData": null,
+      "distance": 17.52,
+      "sourceDistance": 17.52,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 2494607,
+      "providerName": "CAMBRIDGE HEARING CENTRE",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "7 GRAND AVES UNIT 107",
+      "addressSecondLine": null,
+      "city": "CAMBRIDGE",
+      "postalCode": "N1S2L3",
+      "province": "ON",
+      "phoneNumber": "5196214327",
+      "licenceNumber": null,
+      "providerTypeCode": "2001",
+      "providerTypeDescription": {
+        "en": "Audio",
+        "fr": "Audio"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.3174133300781,
+      "latitude": 43.3581237792969,
+      "googlePlaceData": {
+        "place_id": "ChIJa0JlTLR3LIgRJePuaCCnf6g",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": null,
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 17.52,
+      "sourceDistance": 17.52,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 155715,
+      "providerName": "H K ARNOLD HEARING AIDS LTD",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "7-1005 PAISLEY RD",
+      "addressSecondLine": null,
+      "city": "GUELPH",
+      "postalCode": "N1K1X6",
+      "province": "ON",
+      "phoneNumber": "5198368111",
+      "licenceNumber": null,
+      "providerTypeCode": "2001",
+      "providerTypeDescription": {
+        "en": "Audio",
+        "fr": "Audio"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.2878359,
+      "latitude": 43.5241558,
+      "googlePlaceData": {
+        "place_id": "ChIJ-UtI5JiaK4gRIQXlb2MDOxg",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1200",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 1,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "1300",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1200",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "1300",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1200",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "1300",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1200",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "1300",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1200",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "1300",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "http://www.arnoldhearing.ca/",
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 18.4,
+      "sourceDistance": 18.4,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 2384623,
+      "providerName": "N MELE",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "104-83 DAWSON RD",
+      "addressSecondLine": null,
+      "city": "GUELPH",
+      "postalCode": "N1H1B1",
+      "province": "ON",
+      "phoneNumber": "5197631517",
+      "licenceNumber": null,
+      "providerTypeCode": "2002",
+      "providerTypeDescription": {
+        "en": "Audiologist",
+        "fr": "Audiologiste"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.2782465,
+      "latitude": 43.5491534,
+      "googlePlaceData": {
+        "place_id": "ChIJ98e4KHWQK4gR-Wz-Kt0kiIw",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1500",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "http://www.senseofhearing.ca/",
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 20.43,
+      "sourceDistance": 20.43,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 2384620,
+      "providerName": "SENSE OF HEARING GUELPH INC",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "104-83 DAWSON RD ",
+      "addressSecondLine": null,
+      "city": "GUELPH",
+      "postalCode": "N1H1B1",
+      "province": "ON",
+      "phoneNumber": "5197631517",
+      "licenceNumber": null,
+      "providerTypeCode": "2001",
+      "providerTypeDescription": {
+        "en": "Audio",
+        "fr": "Audio"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.2782465,
+      "latitude": 43.5491534,
+      "googlePlaceData": {
+        "place_id": "ChIJ98e4KHWQK4gR-Wz-Kt0kiIw",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1500",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "http://www.senseofhearing.ca/",
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 20.43,
+      "sourceDistance": 20.43,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 2466368,
+      "providerName": "D L SPENCER",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "104-77 WESTMOUNT RD",
+      "addressSecondLine": null,
+      "city": "GUELPH",
+      "postalCode": "N1H5J1",
+      "province": "ON",
+      "phoneNumber": "5198368111",
+      "licenceNumber": null,
+      "providerTypeCode": "2002",
+      "providerTypeDescription": {
+        "en": "Audiologist",
+        "fr": "Audiologiste"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.270073,
+      "latitude": 43.550339,
+      "googlePlaceData": {
+        "place_id": "ChIJ-UtI5JiaK4gRIQXlb2MDOxg",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "http://www.arnoldhearing.ca/",
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 21.06,
+      "sourceDistance": 21.06,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 2286541,
+      "providerName": "STEFFLER HEARING AID SERVICE",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "200 YORKSHIRE ST N",
+      "addressSecondLine": null,
+      "city": "GUELPH",
+      "postalCode": "N1H5C1",
+      "province": "ON",
+      "phoneNumber": "5198238235",
+      "licenceNumber": null,
+      "providerTypeCode": "2001",
+      "providerTypeDescription": {
+        "en": "Audio",
+        "fr": "Audio"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.2604362,
+      "latitude": 43.5445865,
+      "googlePlaceData": {
+        "place_id": "ChIJHfYkKryaK4gRqGm7CQqgvbs",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1900",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "1100",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1300",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 6,
+                "time": "1300",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 6,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "http://www.stefflerhearing.com/",
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 21.41,
+      "sourceDistance": 21.41,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 3502468,
+      "providerName": "AMPLIFON",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "R6-435 STONE RD W ",
+      "addressSecondLine": null,
+      "city": "GUELPH",
+      "postalCode": "N1G2X6",
+      "province": "ON",
+      "phoneNumber": "5195150072",
+      "licenceNumber": null,
+      "providerTypeCode": "2001",
+      "providerTypeDescription": {
+        "en": "Audio",
+        "fr": "Audio"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.2387533,
+      "latitude": 43.5182747,
+      "googlePlaceData": {
+        "place_id": "ChIJ_ZHs0yiFK4gR1loGzvoyk5Y",
+        "opening_hours": null,
+        "website": "https://www.amplifon.com/ca/branch-locator/hearing-clinics-guelph-on/435-stone-rd-w-s90001B91?utm_source=Google&utm_medium=Organic&utm_campaign=Maps",
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 21.79,
+      "sourceDistance": 21.79,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 2158277,
+      "providerName": "B BERGE",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "409 WOOLWICH ST",
+      "addressSecondLine": null,
+      "city": "GUELPH",
+      "postalCode": "N1H3X2",
+      "province": "ON",
+      "phoneNumber": "5197801333",
+      "licenceNumber": null,
+      "providerTypeCode": "2002",
+      "providerTypeDescription": {
+        "en": "Audiologist",
+        "fr": "Audiologiste"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.2604468,
+      "latitude": 43.552883,
+      "googlePlaceData": {
+        "place_id": "ChIJpdRCW5GaK4gRrt6mvFZhv4Y",
+        "opening_hours": {
+          "periods": null,
+          "weekday_text": null
+        },
+        "website": "http://www.bergehearingclinic.org/",
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 21.87,
+      "sourceDistance": 21.87,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 2158275,
+      "providerName": "BERGE HEARING CLINIC",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "409 WOOLWICH ST",
+      "addressSecondLine": null,
+      "city": "GUELPH",
+      "postalCode": "N1H3X2",
+      "province": "ON",
+      "phoneNumber": "5197801333",
+      "licenceNumber": null,
+      "providerTypeCode": "2001",
+      "providerTypeDescription": {
+        "en": "Audio",
+        "fr": "Audio"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.2604468,
+      "latitude": 43.552883,
+      "googlePlaceData": {
+        "place_id": "ChIJpdRCW5GaK4gRrt6mvFZhv4Y",
+        "opening_hours": {
+          "periods": null,
+          "weekday_text": null
+        },
+        "website": "http://www.bergehearingclinic.org/",
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 21.87,
+      "sourceDistance": 21.87,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 155968,
+      "providerName": "CONNECT HEARING",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "5-570 KORTRIGHT RD W          ",
+      "addressSecondLine": "                              ",
+      "city": "GUELPH",
+      "postalCode": "N1G3W8",
+      "province": "ON",
+      "phoneNumber": "5198210382",
+      "licenceNumber": null,
+      "providerTypeCode": "2001",
+      "providerTypeDescription": {
+        "en": "Audio",
+        "fr": "Audio"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.2308839,
+      "latitude": 43.5083827,
+      "googlePlaceData": {
+        "place_id": "ChIJdZDsm9-EK4gRTd9iv6b_N5g",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1200",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 1,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "1300",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1200",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "1300",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1200",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "1300",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1200",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1900",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "1300",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1200",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "1300",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "https://clinics.connecthearing.ca/on/guelph/570-kortright-rd-w.html?utm_source=google&utm_medium=organic&utm_campaign=Yext_Listings&y_source=1_MTE3NzcyOTUtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 22.05,
+      "sourceDistance": 22.05,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": true
+    },
+    {
+      "providerId": 2597983,
+      "providerName": "CONNECT HEARING - INGERSOLL",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "168 OXFORD ST",
+      "addressSecondLine": null,
+      "city": "INGERSOLL",
+      "postalCode": "N5C2V7",
+      "province": "ON",
+      "phoneNumber": "5198210382",
+      "licenceNumber": null,
+      "providerTypeCode": "2001",
+      "providerTypeDescription": {
+        "en": "Audio",
+        "fr": "Audio"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.2308075,
+      "latitude": 43.5084773,
+      "googlePlaceData": {
+        "place_id": "ChIJdZDsm9-EK4gRTd9iv6b_N5g",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1200",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 1,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "1300",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1200",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "1300",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1200",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "1300",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1200",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "1300",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1200",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "1300",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "https://connecthearing.ca/hearing-clinics/on/guelph/kortright-road/?utm_source=G&utm_medium=lpm&utm_campaign=CHSHC",
+        "utc_offset": -300,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 22.06,
+      "sourceDistance": 22.06,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": true
+    },
+    {
+      "providerId": 2167766,
+      "providerName": "HEARINGLIFE",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "2-690 WOOLWICH ST",
+      "addressSecondLine": null,
+      "city": "GUELPH",
+      "postalCode": "N1H3Z1",
+      "province": "ON",
+      "phoneNumber": "5197675500",
+      "licenceNumber": null,
+      "providerTypeCode": "2001",
+      "providerTypeDescription": {
+        "en": "Audio",
+        "fr": "Audio"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.246633,
+      "latitude": 43.5472521,
+      "googlePlaceData": null,
+      "distance": 22.53,
+      "sourceDistance": 22.53,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": true
+    },
+    {
+      "providerId": 2922126,
+      "providerName": "K A CARTER",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "100-197 HANLON CREEK BLVD ",
+      "addressSecondLine": null,
+      "city": "GUELPH",
+      "postalCode": "N1C0A1",
+      "province": "ON",
+      "phoneNumber": "8772681045",
+      "licenceNumber": null,
+      "providerTypeCode": "2002",
+      "providerTypeDescription": {
+        "en": "Audiologist",
+        "fr": "Audiologiste"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.21662,
+      "latitude": 43.491193,
+      "googlePlaceData": {
+        "place_id": "ChIJV-PnMErvzkwRBgfmb-28clQ",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1630",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0830",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1630",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0830",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1630",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0830",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1630",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0830",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1630",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0830",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "https://www.lifestylehearing.ca/?utm_source=google_local&utm_medium=organic",
+        "utc_offset": -300,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 22.71,
+      "sourceDistance": 22.71,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 3808871,
+      "providerName": "M GRENIER",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "100-197 HANLON CREEK BLVD ",
+      "addressSecondLine": null,
+      "city": "GUELPH",
+      "postalCode": "K1K4L2",
+      "province": "ON",
+      "phoneNumber": "6137450862",
+      "licenceNumber": null,
+      "providerTypeCode": "2002",
+      "providerTypeDescription": {
+        "en": "Audiologist",
+        "fr": "Audiologiste"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.2166199,
+      "latitude": 43.4911932,
+      "googlePlaceData": null,
+      "distance": 22.71,
+      "sourceDistance": 22.71,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 2947020,
+      "providerName": "CONNECT HEARING - GUELPH-WELLINGTON",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "12B-160 KORTRIGHT RD W",
+      "addressSecondLine": null,
+      "city": "GUELPH",
+      "postalCode": "N1G4W2",
+      "province": "ON",
+      "phoneNumber": "5197664327",
+      "licenceNumber": null,
+      "providerTypeCode": "2001",
+      "providerTypeDescription": {
+        "en": "Audio",
+        "fr": "Audio"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.218199,
+      "latitude": 43.513663,
+      "googlePlaceData": {
+        "place_id": "ChIJIxsJaMWEK4gRNaV8UsBT-zw",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1800",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1600",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "http://www.wellingtonhearing.com/",
+        "utc_offset": -300,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 23.2,
+      "sourceDistance": 23.2,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 3265458,
+      "providerName": "HEARCANADA - 80101",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "4-35 HARVARD RD",
+      "addressSecondLine": null,
+      "city": "GUELPH",
+      "postalCode": "N1G3A2",
+      "province": "ON",
+      "phoneNumber": "5198371941",
+      "licenceNumber": null,
+      "providerTypeCode": "2001",
+      "providerTypeDescription": {
+        "en": "Audio",
+        "fr": "Audio"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.2220231,
+      "latitude": 43.5251764,
+      "googlePlaceData": null,
+      "distance": 23.33,
+      "sourceDistance": 23.33,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 3643779,
+      "providerName": "S J DIVYA",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "4-35 HARVARD RD",
+      "addressSecondLine": null,
+      "city": "GUELPH",
+      "postalCode": "N1G4V8",
+      "province": "ON",
+      "phoneNumber": "5198371941",
+      "licenceNumber": null,
+      "providerTypeCode": "2002",
+      "providerTypeDescription": {
+        "en": "Audiologist",
+        "fr": "Audiologiste"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.2220231,
+      "latitude": 43.5251764,
+      "googlePlaceData": null,
+      "distance": 23.33,
+      "sourceDistance": 23.33,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 3002963,
+      "providerName": "MITCHELL MOBILE HEARING SERVICES",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "2-58 WELLINGTON RD 7",
+      "addressSecondLine": null,
+      "city": "ELORA",
+      "postalCode": "N0B1S0",
+      "province": "ON",
+      "phoneNumber": "5195468246",
+      "licenceNumber": null,
+      "providerTypeCode": "2001",
+      "providerTypeDescription": {
+        "en": "Audio",
+        "fr": "Audio"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.4291706,
+      "latitude": 43.6771666,
+      "googlePlaceData": {
+        "place_id": "ChIJISId5saVK4gRNGSM9HzUgbw",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1630",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0830",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1630",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0830",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1630",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0830",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1900",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0830",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1400",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0830",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "http://hearrightcanada.ca/",
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 25.65,
+      "sourceDistance": 25.65,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 2529948,
+      "providerName": "NEFF HEARING",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "6-67 WATSON RD S",
+      "addressSecondLine": null,
+      "city": "GUELPH",
+      "postalCode": "N1L1E3",
+      "province": "ON",
+      "phoneNumber": "2267068922",
+      "licenceNumber": null,
+      "providerTypeCode": "2001",
+      "providerTypeDescription": {
+        "en": "Audio",
+        "fr": "Audio"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.203727722168,
+      "latitude": 43.5629005432129,
+      "googlePlaceData": {
+        "place_id": "ChIJG9H32J2bK4gRtYckkoWlhsM",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1200",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": null,
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 26.4,
+      "sourceDistance": 26.4,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 2244942,
+      "providerName": "SOUND CHOICE",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "10-300 GRAND RIVER ST N",
+      "addressSecondLine": null,
+      "city": "PARIS",
+      "postalCode": "N3L3R7",
+      "province": "ON",
+      "phoneNumber": "5194425550",
+      "licenceNumber": null,
+      "providerTypeCode": "2001",
+      "providerTypeDescription": {
+        "en": "Audio",
+        "fr": "Audio"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.3899379,
+      "latitude": 43.2104193,
+      "googlePlaceData": {
+        "place_id": "ChIJRyJXhTdtLIgRicxJUwjwy8Q",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0930",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0930",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0930",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0930",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1500",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0930",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "http://www.soundchoicehearing.com/",
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 28.02,
+      "sourceDistance": 28.02,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 2618487,
+      "providerName": "HEARINGLIFE",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "8-100 MACQUEEN BLVD",
+      "addressSecondLine": null,
+      "city": "FERGUS",
+      "postalCode": "N1M3T8",
+      "province": "ON",
+      "phoneNumber": "5197870949",
+      "licenceNumber": null,
+      "providerTypeCode": "2001",
+      "providerTypeDescription": {
+        "en": "Audio",
+        "fr": "Audio"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.3665371,
+      "latitude": 43.6971608,
+      "googlePlaceData": null,
+      "distance": 29.18,
+      "sourceDistance": 29.18,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 2325816,
+      "providerName": "CONNECT HEARING - FERGUS",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "10A-120 MCQUEEN BLVD",
+      "addressSecondLine": null,
+      "city": "FERGUS",
+      "postalCode": "N1M3T8",
+      "province": "ON",
+      "phoneNumber": "5197870206",
+      "licenceNumber": null,
+      "providerTypeCode": "2001",
+      "providerTypeDescription": {
+        "en": "Audio",
+        "fr": "Audio"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.3654992,
+      "latitude": 43.6970569,
+      "googlePlaceData": {
+        "place_id": "ChIJLT-7KBm-K4gRhT3Io7GpZPA",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1200",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 1,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "1300",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1200",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "1300",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1200",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "1300",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1200",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "1300",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1200",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0900",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "1300",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "https://clinics.connecthearing.ca/on/fergus/120-mcqueen-blvd.html?utm_source=google&utm_medium=organic&utm_campaign=Yext_Listings&y_source=1_MTE3NzcyOTItNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 29.2,
+      "sourceDistance": 29.2,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 2303151,
+      "providerName": "TOTAL HEARING CENTRE",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "6-790 TOWER ST S",
+      "addressSecondLine": null,
+      "city": "FERGUS",
+      "postalCode": "N1M2R3",
+      "province": "ON",
+      "phoneNumber": "5198434040",
+      "licenceNumber": null,
+      "providerTypeCode": "2001",
+      "providerTypeDescription": {
+        "en": "Audio",
+        "fr": "Audio"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.3695275,
+      "latitude": 43.6982005,
+      "googlePlaceData": {
+        "place_id": "ChIJ6YysQwa-K4gRJ7W3DXm3l_Q",
+        "opening_hours": {
+          "periods": null,
+          "weekday_text": null
+        },
+        "website": null,
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 29.21,
+      "sourceDistance": 29.21,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 2238157,
+      "providerName": "WARD HEARING CENTRE INC",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "100-160 ST DAVID ST S",
+      "addressSecondLine": null,
+      "city": "FERGUS",
+      "postalCode": "N1M2L3",
+      "province": "ON",
+      "phoneNumber": "5198434327",
+      "licenceNumber": null,
+      "providerTypeCode": "2001",
+      "providerTypeDescription": {
+        "en": "Audio",
+        "fr": "Audio"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.376985,
+      "latitude": 43.7059518,
+      "googlePlaceData": {
+        "place_id": "ChIJpX5XCRK-K4gR6_LbMeF9m-w",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1600",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "1000",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1600",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "1000",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1600",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "1000",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1600",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "1000",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1300",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "1000",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "http://www.wardhearing.ca/",
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 29.82,
+      "sourceDistance": 29.82,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 3549436,
+      "providerName": "SOUND CHOICE HEARING",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "104-25 CURTIS AVE",
+      "addressSecondLine": null,
+      "city": "PARIS",
+      "postalCode": "N3L3V3",
+      "province": "ON",
+      "phoneNumber": "2262251001",
+      "licenceNumber": null,
+      "providerTypeCode": "2001",
+      "providerTypeDescription": {
+        "en": "Audio",
+        "fr": "Audio"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.3711853,
+      "latitude": 43.1909828,
+      "googlePlaceData": {
+        "place_id": "ChIJlYf3omdtLIgRLMwg5Y_PkIM",
+        "opening_hours": {
+          "periods": [
+            {
+              "close": {
+                "day": 1,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 1,
+                "time": "0930",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 2,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 2,
+                "time": "0930",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 3,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 3,
+                "time": "0930",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 4,
+                "time": "1700",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 4,
+                "time": "0930",
+                "hours": 0,
+                "minutes": 0
+              }
+            },
+            {
+              "close": {
+                "day": 5,
+                "time": "1600",
+                "hours": 0,
+                "minutes": 0
+              },
+              "open": {
+                "day": 5,
+                "time": "0930",
+                "hours": 0,
+                "minutes": 0
+              }
+            }
+          ],
+          "weekday_text": null
+        },
+        "website": "https://www.soundchoicehearing.com/",
+        "utc_offset": -240,
+        "formatted_phone_number": null,
+        "geometry": null
+      },
+      "distance": 30.54,
+      "sourceDistance": 30.54,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": false
+    },
+    {
+      "providerId": 3783730,
+      "providerName": "HEARCANADA-BRANTFORD",
+      "locationNumber": null,
+      "businessName": null,
+      "businessNameFr": null,
+      "addressFirstLine": "H2A-300 KING GEORGE RD",
+      "addressSecondLine": null,
+      "city": "BRANTFORD",
+      "postalCode": "N3R5L8",
+      "province": "ON",
+      "phoneNumber": "8772681045",
+      "licenceNumber": null,
+      "providerTypeCode": "2001",
+      "providerTypeDescription": {
+        "en": "Audio",
+        "fr": "Audio"
+      },
+      "accountNumber": null,
+      "isDelisted": false,
+      "association": null,
+      "longitude": -80.2806952,
+      "latitude": 43.1815993,
+      "googlePlaceData": null,
+      "distance": 34.52,
+      "sourceDistance": 34.52,
+      "isFavorite": false,
+      "providerStatusCode": "E",
+      "lineOfBusiness": "EH",
+      "providerScore": 0,
+      "participatingStatusCode": "PA",
+      "isDirectBilling": true
+    }
+  ],
+  "pageSize": 200,
+  "start": 1
+}
