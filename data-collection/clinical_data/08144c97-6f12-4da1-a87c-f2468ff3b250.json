@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Traverse Independence - Acquired Brain Injury Services - The Opportunity Centre Day Program",
+    "active": true,
+    "category": [
+      "Adult Day Programs"
+    ],
+    "comment": "Adult day program * social, recreational, and therapeutic activities for people with acquired brain injury in a group setting for part of the day * helps to support family caregivers who provide day-to-day care <br><br><ul><li>meals</li></ul>",
+    "serviceProvisionCode": [
+      "Subsidy available for eligible participants"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>08144c97-6f12-4da1-a87c-f2468ff3b250</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Kitchener</p><p>physical-location-postalcode</p><p>N2N 2B9</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>208354</p><p>true</p><p>Adult Day Programs</p><p>Location/2e12bc47-357c-4d09-aefb-5cbcb947bc6f</p><p>Location</p><p>Traverse Independence - Acquired Brain Injury Services - The Opportunity Centre Day Program</p><p>Adult day program * social, recreational, and therapeutic activities for people with acquired brain injury in a group setting for part of the day * helps to support family caregivers who provide day-to-day care &lt;br&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;meals&lt;/li&gt;&lt;/ul&gt;</p><p>Location/16e2d5b0-07e6-40d2-a8c5-5aa2bad8fa68</p><p>Location</p><p>Subsidy available for eligible participants</p><p>Older adults and adults with disabilities, who need physical, social, or emotional supports * care coordinators assess the needs of applicants</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>Contact Ontario Health atHome Waterloo-Wellington</p></div>",
+    "eligibility": [
+      "Older adults and adults with disabilities, who need physical, social, or emotional supports * care coordinators assess the needs of applicants"
+    ],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [
+      "Contact Ontario Health atHome Waterloo-Wellington"
+    ],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-741-5845"
+          },
+          {
+            "fax": "519-664-1944"
+          },
+          {
+            "url": "www.traverseindependence.ca/brain-injury-services/services-funded-by-ministry-of-health/abi-day-program/"
+          }
+        ],
+        "address": {
+          "line": [
+            "Driftwood Plaza",
+            "450 Westheights Dr, Suite 18A"
+          ],
+          "city": "Kitchener",
+          "state": "ON",
+          "postalCode": "N2N 2B9"
+        },
+        "position": {
+          "longitude": -80.5361,
+          "latitude": 43.4178
+        }
+      }
+    ],
+    "contact_info": "phone: 519-741-5845, fax: 519-664-1944, url: www.traverseindependence.ca/brain-injury-services/services-funded-by-ministry-of-health/abi-day-program/",
+    "description_of_this": "Adult day program * social, recreational, and therapeutic activities for people with acquired brain injury in a group setting for part of the day * helps to support family caregivers who provide day-to-day care <br><br><ul><li>meals</li></ul>, Codes: Subsidy available for eligible participants, Features: Wheelchair Accessible, Languages: English, Referral: Contact Ontario Health atHome Waterloo-Wellington, Address: Driftwood Plaza, 450 Westheights Dr, Suite 18A, Kitchener, ON, N2N 2B9, Location: lat: 43.4178, lon: -80.5361"
+  }
+]

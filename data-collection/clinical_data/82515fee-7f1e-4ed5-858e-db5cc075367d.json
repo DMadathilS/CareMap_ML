@@ -1,0 +1,57 @@
+[
+  {
+    "name": "Belgage Pharmacy",
+    "active": true,
+    "category": [
+      "Pharmacies"
+    ],
+    "comment": "Compounding pharmacy<ul><li>prescription of COVID-19 antiviral treatment (Paxlovid)</li><li>medication placed in pill organizers (containers for storing scheduled doses) at no extra cost\n </li><li> medication placed in blister packs (sealed, push-through packaging used to separate doses) at no extra cost</li><li> certified diabetes educator (CDE) available for consultations</li><li> free delivery for prescriptions</li></ul><b><br></b><b>MedsCheck</b> - Appointments to review complex prescriptions with a pharmacist <br><br><b>Pharmacy Smoking Cessation Program</b> - Help to quit smoking, available for Ontario Drug Benefit recipients<br><br>\n<b>Medications Return Program</b> - Safe disposal of expired or unused medications, creams, and inhalers <br><br><b>Sharps Disposal Program</b> - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips",
+    "serviceProvisionCode": [
+      "Dispensing fee plus medication costs * prescribed medications may be covered by OHIP"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>82515fee-7f1e-4ed5-858e-db5cc075367d</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Kitchener</p><p>physical-location-postalcode</p><p>N2M 5E2</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>208569</p><p>true</p><p>Pharmacies</p><p>Location/38618512-795f-4825-a119-d7eea63475a3</p><p>Location</p><p>Belgage Pharmacy</p><p>Compounding pharmacy&lt;ul&gt;&lt;li&gt;prescription of COVID-19 antiviral treatment (Paxlovid)&lt;/li&gt;&lt;li&gt;medication placed in pill organizers (containers for storing scheduled doses) at no extra cost\n &lt;/li&gt;&lt;li&gt; medication placed in blister packs (sealed, push-through packaging used to separate doses) at no extra cost&lt;/li&gt;&lt;li&gt; certified diabetes educator (CDE) available for consultations&lt;/li&gt;&lt;li&gt; free delivery for prescriptions&lt;/li&gt;&lt;/ul&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;b&gt;MedsCheck&lt;/b&gt; - Appointments to review complex prescriptions with a pharmacist &lt;br&gt;&lt;br&gt;&lt;b&gt;Pharmacy Smoking Cessation Program&lt;/b&gt; - Help to quit smoking, available for Ontario Drug Benefit recipients&lt;br&gt;&lt;br&gt;\n&lt;b&gt;Medications Return Program&lt;/b&gt; - Safe disposal of expired or unused medications, creams, and inhalers &lt;br&gt;&lt;br&gt;&lt;b&gt;Sharps Disposal Program&lt;/b&gt; - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips</p><p>Location/39e65a2a-5692-4ae4-bc8c-42c19350fd64</p><p>Location</p><p>Dispensing fee plus medication costs * prescribed medications may be covered by OHIP</p><p>Partially Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>ara</p><p>Arabic</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>por</p><p>Portuguese</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>srp</p><p>Serbian</p></div>",
+    "eligibility": [],
+    "characteristic": [
+      "Partially Accessible"
+    ],
+    "communication": [
+      "English",
+      "Arabic",
+      "Portuguese",
+      "Serbian"
+    ],
+    "referralMethod": [],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-576-2900"
+          },
+          {
+            "fax": "519-576-2902"
+          },
+          {
+            "email": "belgagepharm@gmail.com"
+          },
+          {
+            "url": "belgagepharmacy.com/"
+          }
+        ],
+        "address": {
+          "line": [
+            "525 Belmont Ave W"
+          ],
+          "city": "Kitchener",
+          "state": "ON",
+          "postalCode": "N2M 5E2"
+        },
+        "position": {
+          "longitude": -80.5148,
+          "latitude": 43.4478
+        }
+      }
+    ],
+    "contact_info": "phone: 519-576-2900, fax: 519-576-2902, email: belgagepharm@gmail.com, url: belgagepharmacy.com/",
+    "description_of_this": "Compounding pharmacy<ul><li>prescription of COVID-19 antiviral treatment (Paxlovid)</li><li>medication placed in pill organizers (containers for storing scheduled doses) at no extra cost\n </li><li> medication placed in blister packs (sealed, push-through packaging used to separate doses) at no extra cost</li><li> certified diabetes educator (CDE) available for consultations</li><li> free delivery for prescriptions</li></ul><b><br></b><b>MedsCheck</b> - Appointments to review complex prescriptions with a pharmacist <br><br><b>Pharmacy Smoking Cessation Program</b> - Help to quit smoking, available for Ontario Drug Benefit recipients<br><br>\n<b>Medications Return Program</b> - Safe disposal of expired or unused medications, creams, and inhalers <br><br><b>Sharps Disposal Program</b> - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips, Codes: Dispensing fee plus medication costs * prescribed medications may be covered by OHIP, Features: Partially Accessible, Languages: English, Arabic, Portuguese, Serbian, Address: 525 Belmont Ave W, Kitchener, ON, N2M 5E2, Location: lat: 43.4478, lon: -80.5148"
+  }
+]

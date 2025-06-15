@@ -1,0 +1,55 @@
+[
+  {
+    "name": "Derbecker's Heritage House - St Jacobs",
+    "active": true,
+    "category": [
+      "Long-Term Care Homes"
+    ],
+    "comment": "72-bed long-term care home * residential care for private rooms, semi-private rooms, and basic rooms * 24-hour nursing and personal care * access to a doctor and other health professionals<ul><li>bedding and furniture</li><li>laundry and housekeeping</li><li>meals</li><li>personal hygiene supplies</li><li>medical supplies and equipment (such as catheters, ostomy bags, or wound care supplies)</li><li>assistance with medication and activities of daily living</li><li>recreation and social programs</li></ul>",
+    "serviceProvisionCode": [
+      "Rates set by the Ontario Ministry of Long-Term Care * subsidies for basic rates may be available for eligible applicants"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>037dfc80-4013-4df0-9a3c-c6e3bbc4663c</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>St Jacobs</p><p>physical-location-postalcode</p><p>N0B 2N0</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>188936</p><p>true</p><p>Long-Term Care Homes</p><p>Location/e0d34d63-3c93-424c-825e-04c0409a02d1</p><p>Location</p><p>Derbecker's Heritage House - St Jacobs</p><p>72-bed long-term care home * residential care for private rooms, semi-private rooms, and basic rooms * 24-hour nursing and personal care * access to a doctor and other health professionals&lt;ul&gt;&lt;li&gt;bedding and furniture&lt;/li&gt;&lt;li&gt;laundry and housekeeping&lt;/li&gt;&lt;li&gt;meals&lt;/li&gt;&lt;li&gt;personal hygiene supplies&lt;/li&gt;&lt;li&gt;medical supplies and equipment (such as catheters, ostomy bags, or wound care supplies)&lt;/li&gt;&lt;li&gt;assistance with medication and activities of daily living&lt;/li&gt;&lt;li&gt;recreation and social programs&lt;/li&gt;&lt;/ul&gt;</p><p>Location/2ce1812f-0486-46ac-89be-220c92a92c6e</p><p>Location</p><p>Rates set by the Ontario Ministry of Long-Term Care * subsidies for basic rates may be available for eligible applicants</p><p>Adults who need long-term care * care coordinators assess the needs of applicants</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>Contact Ontario Health atHome Waterloo-Wellington</p></div>",
+    "eligibility": [
+      "Adults who need long-term care * care coordinators assess the needs of applicants"
+    ],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [
+      "Contact Ontario Health atHome Waterloo-Wellington"
+    ],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-664-2921"
+          },
+          {
+            "fax": "519-664-2380"
+          },
+          {
+            "url": "derbeckersheritagehouse.ca/"
+          }
+        ],
+        "address": {
+          "line": [
+            "54 Eby St"
+          ],
+          "city": "St Jacobs",
+          "state": "ON",
+          "postalCode": "N0B 2N0"
+        },
+        "position": {
+          "longitude": -80.5491,
+          "latitude": 43.5409
+        }
+      }
+    ],
+    "contact_info": "phone: 519-664-2921, fax: 519-664-2380, url: derbeckersheritagehouse.ca/",
+    "description_of_this": "72-bed long-term care home * residential care for private rooms, semi-private rooms, and basic rooms * 24-hour nursing and personal care * access to a doctor and other health professionals<ul><li>bedding and furniture</li><li>laundry and housekeeping</li><li>meals</li><li>personal hygiene supplies</li><li>medical supplies and equipment (such as catheters, ostomy bags, or wound care supplies)</li><li>assistance with medication and activities of daily living</li><li>recreation and social programs</li></ul>, Codes: Rates set by the Ontario Ministry of Long-Term Care * subsidies for basic rates may be available for eligible applicants, Features: Wheelchair Accessible, Languages: English, Referral: Contact Ontario Health atHome Waterloo-Wellington, Address: 54 Eby St, St Jacobs, ON, N0B 2N0, Location: lat: 43.5409, lon: -80.5491"
+  }
+]

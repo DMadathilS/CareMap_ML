@@ -1,0 +1,58 @@
+[
+  {
+    "name": "PrimaCare Community Family Health Team - Ayr Site",
+    "active": true,
+    "category": [
+      "Family Health Teams"
+    ],
+    "comment": "Medical care team focused on family and community health * coordinates patient care in order to assess and treat injuries or illness",
+    "serviceProvisionCode": [
+      "Most services covered by OHIP"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>c714dee2-cde6-4984-aa24-733fa89d9b06</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Ayr</p><p>physical-location-postalcode</p><p>N0B 1E0</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>185920</p><p>true</p><p>Family Health Teams</p><p>Location/324c3ca8-a098-4523-b7b4-7d05b37f4400</p><p>Location</p><p>PrimaCare Community Family Health Team - Ayr Site</p><p>Medical care team focused on family and community health * coordinates patient care in order to assess and treat injuries or illness</p><p>Location/30677b40-e0bd-4b3a-9d35-514bb310350e</p><p>Location</p><p>Most services covered by OHIP</p><p>Registered patients</p><p>Not Applicable</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>Call for appointment</p></div>",
+    "eligibility": [
+      "Registered patients"
+    ],
+    "characteristic": [
+      "Not Applicable"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [
+      "Call for appointment"
+    ],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-632-9153"
+          },
+          {
+            "fax": "519-632-9578"
+          },
+          {
+            "email": "info@pccfht.ca"
+          },
+          {
+            "url": "www.pccfht.ca"
+          }
+        ],
+        "address": {
+          "line": [
+            "45 Stanley St, Suite 207"
+          ],
+          "city": "Ayr",
+          "state": "ON",
+          "postalCode": "N0B 1E0"
+        },
+        "position": {
+          "longitude": -80.4512,
+          "latitude": 43.2851
+        }
+      }
+    ],
+    "contact_info": "phone: 519-632-9153, fax: 519-632-9578, email: info@pccfht.ca, url: www.pccfht.ca",
+    "description_of_this": "Medical care team focused on family and community health * coordinates patient care in order to assess and treat injuries or illness, Codes: Most services covered by OHIP, Features: Not Applicable, Languages: English, Referral: Call for appointment, Address: 45 Stanley St, Suite 207, Ayr, ON, N0B 1E0, Location: lat: 43.2851, lon: -80.4512, Contact: phone: 519-632-9153, fax: 519-632-9578, email: info@pccfht.ca, url: www.pccfht.ca"
+  }
+]

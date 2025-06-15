@@ -1,0 +1,54 @@
+[
+  {
+    "name": "Mango Tree Family Health Team - Guelph",
+    "active": true,
+    "category": [
+      "Family Health Teams"
+    ],
+    "comment": "Medical care team focused on family and community health * coordinates \npatient care in order to assess and treat injuries or illness * team \nincludes family doctors, nurse practitioners, nurse, mental wellness nurse, dietician and medical receptionists<br><ul><li>patient education/health promotion</li><li>integrated cancer screening and chronic disease prevention/management</li></ul><BR><BR><B>Services and Programs:</B><UL><LI>Kitchener Office</LI></UL>",
+    "serviceProvisionCode": [
+      "Most services are covered by OHIP"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>610c203f-ba8b-41d7-9400-c0f44d468477</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Puslinch</p><p>physical-location-postalcode</p><p>N0B 2J0</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>111657</p><p>true</p><p>Family Health Teams</p><p>Location/0432b4c8-c98b-4a89-a35b-edcd5889a749</p><p>Location</p><p>Mango Tree Family Health Team - Guelph</p><p>Medical care team focused on family and community health * coordinates \npatient care in order to assess and treat injuries or illness * team \nincludes family doctors, nurse practitioners, nurse, mental wellness nurse, dietician and medical receptionists&lt;br&gt;&lt;ul&gt;&lt;li&gt;patient education/health promotion&lt;/li&gt;&lt;li&gt;integrated cancer screening and chronic disease prevention/management&lt;/li&gt;&lt;/ul&gt;&lt;BR&gt;&lt;BR&gt;&lt;B&gt;Services and Programs:&lt;/B&gt;&lt;UL&gt;&lt;LI&gt;Kitchener Office&lt;/LI&gt;&lt;/UL&gt;</p><p>Location/39f6b1d6-1429-4849-a915-3ca531816665</p><p>Location</p><p>Most services are covered by OHIP</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>fra</p><p>French</p><p>Call for appointment * appointments required * no referral required&lt;br&gt;Registration for new patients available on website or call Health Care Connect at 1-800-445-1822</p></div>",
+    "eligibility": [],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English",
+      "French"
+    ],
+    "referralMethod": [
+      "Call for appointment * appointments required * no referral required<br>Registration for new patients available on website or call Health Care Connect at 1-800-445-1822"
+    ],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-224-0540 ext 1"
+          },
+          {
+            "fax": "519-224-0550"
+          },
+          {
+            "url": "www.mangotreefht.com"
+          }
+        ],
+        "address": {
+          "line": [
+            "28 Brock Rd N"
+          ],
+          "city": "Puslinch",
+          "state": "ON",
+          "postalCode": "N0B 2J0"
+        },
+        "position": {
+          "longitude": -80.1574,
+          "latitude": 43.4763
+        }
+      }
+    ],
+    "contact_info": "phone: 519-224-0540 ext 1, fax: 519-224-0550, url: www.mangotreefht.com",
+    "description_of_this": "Medical care team focused on family and community health * coordinates \npatient care in order to assess and treat injuries or illness * team \nincludes family doctors, nurse practitioners, nurse, mental wellness nurse, dietician and medical receptionists<br><ul><li>patient education/health promotion</li><li>integrated cancer screening and chronic disease prevention/management</li></ul><BR><BR><B>Services and Programs:</B><UL><LI>Kitchener Office</LI></UL>, Codes: Most services are covered by OHIP, Features: Wheelchair Accessible, Languages: English, French, Referral: Call for appointment * appointments required * no referral required<br>Registration for new patients available on website or call Health Care Connect at 1-800-445-1822, Address: 28 Brock Rd N, Puslinch, ON, N0B 2J0, Location: lat: 43.4763, lon: -80.1574"
+  }
+]

@@ -1,0 +1,59 @@
+[
+  {
+    "name": "Onyx Urgent Care Clinic - Options Clinic",
+    "active": true,
+    "category": [
+      "Abortion Services",
+      "Cervical Cancer Screening"
+    ],
+    "comment": "Sexual health and options clinic<br><ul><li>non-surgical abortions (medication abortion)<br></li><li>testing for sexually transmitted infections\n </li><li>contraception education</li><li>pap smears</li></ul>",
+    "serviceProvisionCode": [
+      "Most services covered by OHIP"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>436f3d20-73db-46a5-a01d-48a772e93ffb</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Kitchener</p><p>physical-location-postalcode</p><p>N2K 1M3</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>208471</p><p>true</p><p>Abortion Services</p><p>Cervical Cancer Screening</p><p>Location/a3251c13-6bb4-464e-9ae6-6401e9fc564b</p><p>Location</p><p>Onyx Urgent Care Clinic - Options Clinic</p><p>Sexual health and options clinic&lt;br&gt;&lt;ul&gt;&lt;li&gt;non-surgical abortions (medication abortion)&lt;br&gt;&lt;/li&gt;&lt;li&gt;testing for sexually transmitted infections\n &lt;/li&gt;&lt;li&gt;contraception education&lt;/li&gt;&lt;li&gt;pap smears&lt;/li&gt;&lt;/ul&gt;</p><p>Location/9733f786-2039-402b-b3d3-22fbeec80e15</p><p>Location</p><p>Most services covered by OHIP</p><p>People seeking an abortion or sexual health services</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>Call or visit * no referral required</p></div>",
+    "eligibility": [
+      "People seeking an abortion or sexual health services"
+    ],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [
+      "Call or visit * no referral required"
+    ],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "Options clinic: 519-279-1967<br>519-896-6699"
+          },
+          {
+            "fax": "519-279-1585"
+          },
+          {
+            "email": "info@onyxrx.com"
+          },
+          {
+            "url": "kwsexualhealth.com/abortions/"
+          }
+        ],
+        "address": {
+          "line": [
+            "580 Lancaster St W"
+          ],
+          "city": "Kitchener",
+          "state": "ON",
+          "postalCode": "N2K 1M3"
+        },
+        "position": {
+          "longitude": -80.484,
+          "latitude": 43.4799
+        }
+      }
+    ],
+    "contact_info": "phone: Options clinic: 519-279-1967<br>519-896-6699, fax: 519-279-1585, email: info@onyxrx.com, url: kwsexualhealth.com/abortions/",
+    "description_of_this": "Sexual health and options clinic<br><ul><li>non-surgical abortions (medication abortion)<br></li><li>testing for sexually transmitted infections\n </li><li>contraception education</li><li>pap smears</li></ul>, Codes: Most services covered by OHIP, Features: Wheelchair Accessible, Languages: English, Referral: Call or visit * no referral required, Address: 580 Lancaster St W, Kitchener, ON, N2K 1M3, Location: lat: 43.4799, lon: -80.484"
+  }
+]

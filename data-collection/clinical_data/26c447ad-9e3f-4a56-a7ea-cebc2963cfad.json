@@ -1,0 +1,55 @@
+[
+  {
+    "name": "Speedvale Walk-in Clinic",
+    "active": true,
+    "category": [
+      "Walk-In Medical Clinics"
+    ],
+    "comment": "Walk-in medical clinic with associated family practice * doctors and nurses assess and treat minor illnesses and injuries",
+    "serviceProvisionCode": [
+      "Most services covered by OHIP"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>26c447ad-9e3f-4a56-a7ea-cebc2963cfad</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Guelph</p><p>physical-location-postalcode</p><p>N1E 1N5</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>170145</p><p>true</p><p>Walk-In Medical Clinics</p><p>Location/dbde455c-372f-4854-a115-1adf077bca56</p><p>Location</p><p>Speedvale Walk-in Clinic</p><p>Walk-in medical clinic with associated family practice * doctors and nurses assess and treat minor illnesses and injuries</p><p>Location/b8fed64d-399b-4196-89eb-87c7beccb42d</p><p>Location</p><p>Most services covered by OHIP</p><p>People needing primary medical care</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>Registered patients require a booked appointment * walk-in patients will be seen around patients who have a scheduled appointment</p></div>",
+    "eligibility": [
+      "People needing primary medical care"
+    ],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [
+      "Registered patients require a booked appointment * walk-in patients will be seen around patients who have a scheduled appointment"
+    ],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-822-0100"
+          },
+          {
+            "phone": "Call <b>911</b> in emergencies"
+          },
+          {
+            "fax": "519-821-7255"
+          }
+        ],
+        "address": {
+          "line": [
+            "334 Speedvale Ave E"
+          ],
+          "city": "Guelph",
+          "state": "ON",
+          "postalCode": "N1E 1N5"
+        },
+        "position": {
+          "longitude": -80.258422,
+          "latitude": 43.566931
+        }
+      }
+    ],
+    "contact_info": "phone: 519-822-0100, phone: Call <b>911</b> in emergencies, fax: 519-821-7255",
+    "description_of_this": "Walk-in medical clinic with associated family practice * doctors and nurses assess and treat minor illnesses and injuries, Codes: Most services covered by OHIP, Features: Wheelchair Accessible, Languages: English, Referral: Registered patients require a booked appointment * walk-in patients will be seen around patients who have a scheduled appointment, Address: 334 Speedvale Ave E, Guelph, ON, N1E 1N5, Location: lat: 43.566931, lon: -80.258422"
+  }
+]

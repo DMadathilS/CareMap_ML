@@ -1,0 +1,48 @@
+[
+  {
+    "name": "Food and Drug Basics Pharmacy - Elmira",
+    "active": true,
+    "category": [
+      "Pharmacies"
+    ],
+    "comment": "General pharmacy <br><ul><li> treatment and prescription of medications for common medical \nailments, including rashes, pink eye, insect bites, acne, and urinary \ntract infections\n <br></li><li> prescription of COVID-19 antiviral treatment (Paxlovid)</li><li>basic home health care supplies</li><li>medication placed in pill organizers (containers for storing scheduled doses) at no extra cost</li><li>medication placed in blister packs (sealed, push-through packaging used to separate doses) at no extra cost</li><li>pharmacist available for diabetes management consultations<br><br></li></ul><b>MedsCheck</b> - Appointments to review complex prescriptions with a pharmacist<br><br><b>Pharmacy Smoking Cessation Program</b> - Help to quit smoking, available for Ontario Drug Benefit recipients<br><br><b>Sharps Disposal Program</b> - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips",
+    "serviceProvisionCode": [
+      "Dispensing fee plus medication costs * prescribed medications may be covered by OHIP"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>f9a6eb62-dc38-4d78-80f8-21afcde12670</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Elmira</p><p>physical-location-postalcode</p><p>N3B 2P2</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>208639</p><p>true</p><p>Pharmacies</p><p>Location/b97b45c5-110d-42d3-80e0-3010b2ee46aa</p><p>Location</p><p>Food and Drug Basics Pharmacy - Elmira</p><p>General pharmacy &lt;br&gt;&lt;ul&gt;&lt;li&gt; treatment and prescription of medications for common medical \nailments, including rashes, pink eye, insect bites, acne, and urinary \ntract infections\n &lt;br&gt;&lt;/li&gt;&lt;li&gt; prescription of COVID-19 antiviral treatment (Paxlovid)&lt;/li&gt;&lt;li&gt;basic home health care supplies&lt;/li&gt;&lt;li&gt;medication placed in pill organizers (containers for storing scheduled doses) at no extra cost&lt;/li&gt;&lt;li&gt;medication placed in blister packs (sealed, push-through packaging used to separate doses) at no extra cost&lt;/li&gt;&lt;li&gt;pharmacist available for diabetes management consultations&lt;br&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;b&gt;MedsCheck&lt;/b&gt; - Appointments to review complex prescriptions with a pharmacist&lt;br&gt;&lt;br&gt;&lt;b&gt;Pharmacy Smoking Cessation Program&lt;/b&gt; - Help to quit smoking, available for Ontario Drug Benefit recipients&lt;br&gt;&lt;br&gt;&lt;b&gt;Sharps Disposal Program&lt;/b&gt; - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips</p><p>Location/23c59a21-502c-4e1b-a152-90fbb092ae80</p><p>Location</p><p>Dispensing fee plus medication costs * prescribed medications may be covered by OHIP</p><p>Not Applicable</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p></div>",
+    "eligibility": [],
+    "characteristic": [
+      "Not Applicable"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-669-3003"
+          },
+          {
+            "url": "www.foodbasics.ca/find-a-grocery/100910"
+          }
+        ],
+        "address": {
+          "line": [
+            "232 Arthur St S"
+          ],
+          "city": "Elmira",
+          "state": "ON",
+          "postalCode": "N3B 2P2"
+        },
+        "position": {
+          "longitude": -80.5622,
+          "latitude": 43.5897
+        }
+      }
+    ],
+    "contact_info": "phone: 519-669-3003, url: www.foodbasics.ca/find-a-grocery/100910",
+    "description_of_this": "General pharmacy <br><ul><li> treatment and prescription of medications for common medical \nailments, including rashes, pink eye, insect bites, acne, and urinary \ntract infections\n <br></li><li> prescription of COVID-19 antiviral treatment (Paxlovid)</li><li>basic home health care supplies</li><li>medication placed in pill organizers (containers for storing scheduled doses) at no extra cost</li><li>medication placed in blister packs (sealed, push-through packaging used to separate doses) at no extra cost</li><li>pharmacist available for diabetes management consultations<br><br></li></ul><b>MedsCheck</b> - Appointments to review complex prescriptions with a pharmacist<br><br><b>Pharmacy Smoking Cessation Program</b> - Help to quit smoking, available for Ontario Drug Benefit recipients<br><br><b>Sharps Disposal Program</b> - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips, Codes: Dispensing fee plus medication costs * prescribed medications may be covered by OHIP, Features: Not Applicable, Languages: English, Address: 232 Arthur St S, Elmira, ON, N3B 2P2, Location: lat: 43.5897, lon: -80.5622, Contact: phone: 519-669-3003, url: www.foodbasics.ca/find-a-grocery/100910"
+  }
+]

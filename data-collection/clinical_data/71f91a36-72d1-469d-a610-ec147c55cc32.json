@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Pharmasave - Cambridge - Myers Rd",
+    "active": true,
+    "category": [
+      "Pharmacies"
+    ],
+    "comment": "General pharmacy <br><ul><li>medication placed in pill organizers (containers for storing scheduled doses)</li><li>medication placed in blister packs (sealed, push-through packaging used to separate doses)</li><li> treatment and prescription of medications for thirteen common medical \nailments, including rashes, pink eye, insect bites, and urinary tract \ninfections\n </li><li> prescription of COVID-19 antiviral treatment (Paxlovid)</li><li>blood pressure monitoring</li><li>delivery available</li><li> certified diabetes educator (CDE) available for consultations</li><li>compression stockings</li><li>mobility products</li></ul>\n<b><br></b><b>Medications Return Program</b> - Safe disposal of expired or unused medications, creams, and inhalers <br><br>\n<b>Sharps Disposal Program</b> - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips",
+    "serviceProvisionCode": [
+      "Dispensing fee plus medication costs * prescribed medications may be covered by OHIP"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>71f91a36-72d1-469d-a610-ec147c55cc32</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Cambridge</p><p>physical-location-postalcode</p><p>N1R 5S2</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>219777</p><p>true</p><p>Pharmacies</p><p>Location/d675d839-7266-4b12-9abb-3c8092e00d78</p><p>Location</p><p>Pharmasave - Cambridge - Myers Rd</p><p>General pharmacy &lt;br&gt;&lt;ul&gt;&lt;li&gt;medication placed in pill organizers (containers for storing scheduled doses)&lt;/li&gt;&lt;li&gt;medication placed in blister packs (sealed, push-through packaging used to separate doses)&lt;/li&gt;&lt;li&gt; treatment and prescription of medications for thirteen common medical \nailments, including rashes, pink eye, insect bites, and urinary tract \ninfections\n &lt;/li&gt;&lt;li&gt; prescription of COVID-19 antiviral treatment (Paxlovid)&lt;/li&gt;&lt;li&gt;blood pressure monitoring&lt;/li&gt;&lt;li&gt;delivery available&lt;/li&gt;&lt;li&gt; certified diabetes educator (CDE) available for consultations&lt;/li&gt;&lt;li&gt;compression stockings&lt;/li&gt;&lt;li&gt;mobility products&lt;/li&gt;&lt;/ul&gt;\n&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;b&gt;Medications Return Program&lt;/b&gt; - Safe disposal of expired or unused medications, creams, and inhalers &lt;br&gt;&lt;br&gt;\n&lt;b&gt;Sharps Disposal Program&lt;/b&gt; - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips</p><p>Location/dec5a562-406c-47c4-ad4f-6334c11fc7b7</p><p>Location</p><p>Dispensing fee plus medication costs * prescribed medications may be covered by OHIP</p><p>Not Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p></div>",
+    "eligibility": [],
+    "characteristic": [
+      "Not Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-267-6937"
+          },
+          {
+            "fax": "519-267-6938"
+          },
+          {
+            "url": "pharmasave.com/store/pharmasave-myers-pharmacy-and-medical-clinic__trashed/"
+          }
+        ],
+        "address": {
+          "line": [
+            "685 Myers Rd, Unit 107"
+          ],
+          "city": "Cambridge",
+          "state": "ON",
+          "postalCode": "N1R 5S2"
+        },
+        "position": {
+          "longitude": -80.2782,
+          "latitude": 43.3446
+        }
+      }
+    ],
+    "contact_info": "phone: 519-267-6937, fax: 519-267-6938, url: pharmasave.com/store/pharmasave-myers-pharmacy-and-medical-clinic__trashed/",
+    "description_of_this": "General pharmacy <br><ul><li>medication placed in pill organizers (containers for storing scheduled doses)</li><li>medication placed in blister packs (sealed, push-through packaging used to separate doses)</li><li> treatment and prescription of medications for thirteen common medical \nailments, including rashes, pink eye, insect bites, and urinary tract \ninfections\n </li><li> prescription of COVID-19 antiviral treatment (Paxlovid)</li><li>blood pressure monitoring</li><li>delivery available</li><li> certified diabetes educator (CDE) available for consultations</li><li>compression stockings</li><li>mobility products</li></ul>\n<b><br></b><b>Medications Return Program</b> - Safe disposal of expired or unused medications, creams, and inhalers <br><br>\n<b>Sharps Disposal Program</b> - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips, Codes: Dispensing fee plus medication costs * prescribed medications may be covered by OHIP, Features: Not Wheelchair Accessible, Languages: English, Address: 685 Myers Rd, Unit 107, Cambridge, ON, N1R 5S2, Location: lat: 43.3446, lon: -80.2782"
+  }
+]

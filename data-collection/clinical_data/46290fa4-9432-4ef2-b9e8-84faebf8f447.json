@@ -1,0 +1,54 @@
+[
+  {
+    "name": "Eramosa Pharmacy - Guelph",
+    "active": true,
+    "category": [
+      "Pharmacies"
+    ],
+    "comment": "General pharmacy<ul><li>prescription of COVID-19 antiviral treatment (Paxlovid)</li><li>free seasonal flu vaccines</li><li>medication placed in blister packs (sealed, push-through packaging used to separate doses) at no extra cost</li><li>basic compounding</li><li>pharmacist available for diabetes management consultations</li><li>basic home health care supplies</li></ul><br><b>MedsCheck</b> - Appointments to review complex prescriptions with a pharmacist<br><br><b>Pharmacy Smoking Cessation Program</b> - Help to quit smoking, available for Ontario Drug Benefit recipients <br><br><b>Sharps Disposal Program</b> - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips",
+    "serviceProvisionCode": [
+      "Dispensing fee plus medication costs * prescribed medications may be covered by OHIP"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>46290fa4-9432-4ef2-b9e8-84faebf8f447</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Guelph</p><p>physical-location-postalcode</p><p>N1E 2M5</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>208904</p><p>true</p><p>Pharmacies</p><p>Location/bc5d7e57-b52f-46db-9ac3-39b206f4ce35</p><p>Location</p><p>Eramosa Pharmacy - Guelph</p><p>General pharmacy&lt;ul&gt;&lt;li&gt;prescription of COVID-19 antiviral treatment (Paxlovid)&lt;/li&gt;&lt;li&gt;free seasonal flu vaccines&lt;/li&gt;&lt;li&gt;medication placed in blister packs (sealed, push-through packaging used to separate doses) at no extra cost&lt;/li&gt;&lt;li&gt;basic compounding&lt;/li&gt;&lt;li&gt;pharmacist available for diabetes management consultations&lt;/li&gt;&lt;li&gt;basic home health care supplies&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;b&gt;MedsCheck&lt;/b&gt; - Appointments to review complex prescriptions with a pharmacist&lt;br&gt;&lt;br&gt;&lt;b&gt;Pharmacy Smoking Cessation Program&lt;/b&gt; - Help to quit smoking, available for Ontario Drug Benefit recipients &lt;br&gt;&lt;br&gt;&lt;b&gt;Sharps Disposal Program&lt;/b&gt; - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips</p><p>Location/5b24c118-11ae-47d3-84ea-924e7bb0f55f</p><p>Location</p><p>Dispensing fee plus medication costs * prescribed medications may be covered by OHIP</p><p>Partially Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p></div>",
+    "eligibility": [],
+    "characteristic": [
+      "Partially Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-265-5251"
+          },
+          {
+            "fax": "519-265-5259"
+          },
+          {
+            "email": "eramosapharmacy@gmail.com"
+          },
+          {
+            "url": "www.eramosapharmacy.ca/"
+          }
+        ],
+        "address": {
+          "line": [
+            "247 Eramosa Rd"
+          ],
+          "city": "Guelph",
+          "state": "ON",
+          "postalCode": "N1E 2M5"
+        },
+        "position": {
+          "longitude": -80.2491,
+          "latitude": 43.5564
+        }
+      }
+    ],
+    "contact_info": "phone: 519-265-5251, fax: 519-265-5259, email: eramosapharmacy@gmail.com, url: www.eramosapharmacy.ca/",
+    "description_of_this": "General pharmacy<ul><li>prescription of COVID-19 antiviral treatment (Paxlovid)</li><li>free seasonal flu vaccines</li><li>medication placed in blister packs (sealed, push-through packaging used to separate doses) at no extra cost</li><li>basic compounding</li><li>pharmacist available for diabetes management consultations</li><li>basic home health care supplies</li></ul><br><b>MedsCheck</b> - Appointments to review complex prescriptions with a pharmacist<br><br><b>Pharmacy Smoking Cessation Program</b> - Help to quit smoking, available for Ontario Drug Benefit recipients <br><br><b>Sharps Disposal Program</b> - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips, Codes: Dispensing fee plus medication costs * prescribed medications may be covered by OHIP, Features: Partially Accessible, Languages: English, Address: 247 Eramosa Rd, Guelph, ON, N1E 2M5, Location: lat: 43.5564, lon: -80.2491"
+  }
+]

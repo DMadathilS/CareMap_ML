@@ -1,0 +1,58 @@
+[
+  {
+    "name": "St Joseph's Health Centre Guelph - St Joseph's Health Centre Guelph - Alzheimer\u2019s Day Program",
+    "active": true,
+    "category": [
+      "Adult Day Programs"
+    ],
+    "comment": "Adult day program * social, recreational, and therapeutic activities for people with Alzheimer's disease and other related dementia in a group setting for part of the day * helps to support family caregivers who provide day-to-day care<ul><li>meals</li></ul>",
+    "serviceProvisionCode": [
+      "$25 per day * subsidy available for eligible participants"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>7c89e69e-e313-48db-962a-4c401b0a795d</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Guelph</p><p>physical-location-postalcode</p><p>N1H 5H8</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>208360</p><p>true</p><p>Adult Day Programs</p><p>Location/85ccb891-f59a-4f12-a354-1d92dafdbcfa</p><p>Location</p><p>St Joseph's Health Centre Guelph - St Joseph's Health Centre Guelph - Alzheimer\u2019s Day Program</p><p>Adult day program * social, recreational, and therapeutic activities for people with Alzheimer's disease and other related dementia in a group setting for part of the day * helps to support family caregivers who provide day-to-day care&lt;ul&gt;&lt;li&gt;meals&lt;/li&gt;&lt;/ul&gt;</p><p>Location/c6e28431-1829-46d6-9483-e64cfd989ae8</p><p>Location</p><p>$25 per day * subsidy available for eligible participants</p><p>People with Alzheimer's Disease or related dementias * care coordinators assess the needs of applicants</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>Contact Ontario Health atHome Waterloo-Wellington</p></div>",
+    "eligibility": [
+      "People with Alzheimer's Disease or related dementias * care coordinators assess the needs of applicants"
+    ],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [
+      "Contact Ontario Health atHome Waterloo-Wellington"
+    ],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-824-6000 ext 4415"
+          },
+          {
+            "fax": "519-763-0264"
+          },
+          {
+            "email": "info@sjhcg.ca"
+          },
+          {
+            "url": "www.sjhcg.ca/our-programs-of-care/community-support-services/alzheimers-day-program/"
+          }
+        ],
+        "address": {
+          "line": [
+            "100 Westmount Rd"
+          ],
+          "city": "Guelph",
+          "state": "ON",
+          "postalCode": "N1H 5H8"
+        },
+        "position": {
+          "longitude": -80.2719,
+          "latitude": 43.5502
+        }
+      }
+    ],
+    "contact_info": "phone: 519-824-6000 ext 4415, fax: 519-763-0264, email: info@sjhcg.ca, url: www.sjhcg.ca/our-programs-of-care/community-support-services/alzheimers-day-program/",
+    "description_of_this": "Adult day program * social, recreational, and therapeutic activities for people with Alzheimer's disease and other related dementia in a group setting for part of the day * helps to support family caregivers who provide day-to-day care<ul><li>meals</li></ul>, Codes: $25 per day * subsidy available for eligible participants, Features: Wheelchair Accessible, Languages: English, Referral: Contact Ontario Health atHome Waterloo-Wellington, Address: 100 Westmount Rd, Guelph, ON, N1H 5H8, Location: lat: 43.5502, lon: -80.2719"
+  }
+]

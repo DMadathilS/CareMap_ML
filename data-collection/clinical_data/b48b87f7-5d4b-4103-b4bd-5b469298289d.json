@@ -1,0 +1,55 @@
+[
+  {
+    "name": "Lisaard and Innisfree Hospice - Lisaard House",
+    "active": true,
+    "category": [
+      "Hospice Care"
+    ],
+    "comment": "Companionship, respite care, and emotional support to people and their \nfamily/caregivers dealing with a life-threatening illness * bereavement \nsupport for anyone who has experienced the death of someone close",
+    "serviceProvisionCode": [
+      "Free"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>b48b87f7-5d4b-4103-b4bd-5b469298289d</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Cambridge</p><p>physical-location-postalcode</p><p>N3H 4R6</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>218650</p><p>true</p><p>Hospice Care</p><p>Location/cc2a155e-eb49-4791-8384-e40b1252adab</p><p>Location</p><p>Lisaard and Innisfree Hospice - Lisaard House</p><p>Companionship, respite care, and emotional support to people and their \nfamily/caregivers dealing with a life-threatening illness * bereavement \nsupport for anyone who has experienced the death of someone close</p><p>Location/d7291dae-c662-4b3a-877c-9d201de9006a</p><p>Location</p><p>Free</p><p>People who need end-of-life care or bereavement supports</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>Call * no referral required</p></div>",
+    "eligibility": [
+      "People who need end-of-life care or bereavement supports"
+    ],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [
+      "Call * no referral required"
+    ],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "Lisaard House: 519-650-1121"
+          },
+          {
+            "fax": "519-650-8058"
+          },
+          {
+            "url": "www.lisaardandinnisfree.com/"
+          }
+        ],
+        "address": {
+          "line": [
+            "990 Speedsville Rd"
+          ],
+          "city": "Cambridge",
+          "state": "ON",
+          "postalCode": "N3H 4R6"
+        },
+        "position": {
+          "longitude": -80.3531,
+          "latitude": 43.419
+        }
+      }
+    ],
+    "contact_info": "phone: Lisaard House: 519-650-1121, fax: 519-650-8058, url: www.lisaardandinnisfree.com/",
+    "description_of_this": "Companionship, respite care, and emotional support to people and their \nfamily/caregivers dealing with a life-threatening illness * bereavement \nsupport for anyone who has experienced the death of someone close, Codes: Free, Features: Wheelchair Accessible, Languages: English, Referral: Call * no referral required, Address: 990 Speedsville Rd, Cambridge, ON, N3H 4R6, Location: lat: 43.419, lon: -80.3531"
+  }
+]

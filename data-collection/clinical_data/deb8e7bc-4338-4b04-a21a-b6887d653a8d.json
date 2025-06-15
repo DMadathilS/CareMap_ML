@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Langs - Community Health Centre - Diabetes Education Program",
+    "active": true,
+    "category": [
+      "Diabetes Education Programs"
+    ],
+    "comment": "Supports for people living with prediabetes or diabetes * one-on-one or \ngroup consultation on monitoring blood sugar levels, medications, \nhealthy eating, exercise, and other lifestyle choices * registered nurse\n and dietitian on staff",
+    "serviceProvisionCode": [
+      "Free"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>deb8e7bc-4338-4b04-a21a-b6887d653a8d</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Cambridge</p><p>physical-location-postalcode</p><p>N3H 4L5</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>209395</p><p>true</p><p>Diabetes Education Programs</p><p>Location/24bd7248-fbda-4aec-ac90-33b13496c5fa</p><p>Location</p><p>Langs - Community Health Centre - Diabetes Education Program</p><p>Supports for people living with prediabetes or diabetes * one-on-one or \ngroup consultation on monitoring blood sugar levels, medications, \nhealthy eating, exercise, and other lifestyle choices * registered nurse\n and dietitian on staff</p><p>Location/7fa448bc-b80e-4a43-9f08-2085fa608130</p><p>Location</p><p>Free</p><p>Adults 18 years and older with pre-diabetes, type 1 diabetes and type 2 diabetes</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>Call * no referral required</p></div>",
+    "eligibility": [
+      "Adults 18 years and older with pre-diabetes, type 1 diabetes and type 2 diabetes"
+    ],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [
+      "Call * no referral required"
+    ],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-653-1470 ext 285"
+          },
+          {
+            "fax": "519-653-1285"
+          },
+          {
+            "email": "langsdep@langs.org"
+          },
+          {
+            "url": "www.langs.org/programs-services/health/diabetes-education-program"
+          }
+        ],
+        "address": {
+          "line": [
+            "1145 Concession Rd"
+          ],
+          "city": "Cambridge",
+          "state": "ON",
+          "postalCode": "N3H 4L5"
+        },
+        "position": {
+          "longitude": -80.3442,
+          "latitude": 43.397
+        }
+      }
+    ],
+    "contact_info": "phone: 519-653-1470 ext 285, fax: 519-653-1285, email: langsdep@langs.org, url: www.langs.org/programs-services/health/diabetes-education-program",
+    "description_of_this": "Supports for people living with prediabetes or diabetes * one-on-one or \ngroup consultation on monitoring blood sugar levels, medications, \nhealthy eating, exercise, and other lifestyle choices * registered nurse\n and dietitian on staff, Codes: Free, Features: Wheelchair Accessible, Languages: English, Referral: Call * no referral required, Address: 1145 Concession Rd, Cambridge, ON, N3H 4L5, Location: lat: 43.397, lon: -80.3442, Contact: phone: 519-653-1470 ext 285, fax: 519-653-1285, email: langsdep@langs.org, url: www.langs.org/programs-services/health/diabetes-education-program"
+  }
+]

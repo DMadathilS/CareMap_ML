@@ -1,0 +1,61 @@
+[
+  {
+    "name": "Waterloo Region - Community Services",
+    "active": true,
+    "category": [
+      "Alzheimer's Disease and Related Dementias"
+    ],
+    "comment": "Supports for people with Alzheimer's disease and other dementias, and their caregivers <br><br>Seminars, workshops and training sessions * one-on-one care plan \nconsultations with health professionals * advanced care planning for \nfuture health care needs",
+    "serviceProvisionCode": [
+      "Varies per program"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>0620a7f5-0fa9-454a-82e8-a44ef4ee86c5</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Cambridge</p><p>physical-location-postalcode</p><p>N1R 6R1</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>209321</p><p>true</p><p>Alzheimer's Disease and Related Dementias</p><p>Location/a6f69b7f-8ea3-4554-be4b-78e7ec340987</p><p>Location</p><p>Waterloo Region - Community Services</p><p>Supports for people with Alzheimer's disease and other dementias, and their caregivers &lt;br&gt;&lt;br&gt;Seminars, workshops and training sessions * one-on-one care plan \nconsultations with health professionals * advanced care planning for \nfuture health care needs</p><p>Location/1ef1ceb5-2e1d-4444-8e97-9b83a4f6c43b</p><p>Location</p><p>Varies per program</p><p>People with Alzheimer's disease and other dementias, and their caregivers</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>Call * no referral required</p></div>",
+    "eligibility": [
+      "People with Alzheimer's disease and other dementias, and their caregivers"
+    ],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [
+      "Call * no referral required"
+    ],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-893-8494 ext 7807"
+          },
+          {
+            "phone": "519-575-4608"
+          },
+          {
+            "fax": "519-623-7649"
+          },
+          {
+            "email": "sunnyside@regionofwaterloo.ca"
+          },
+          {
+            "url": "www.regionofwaterloo.ca/en/health-and-wellness/dementia-services.aspx#Locations-fees-and-schedule"
+          }
+        ],
+        "address": {
+          "line": [
+            "150 Main St"
+          ],
+          "city": "Cambridge",
+          "state": "ON",
+          "postalCode": "N1R 6R1"
+        },
+        "position": {
+          "longitude": -80.31,
+          "latitude": 43.3592
+        }
+      }
+    ],
+    "contact_info": "phone: 519-893-8494 ext 7807, phone: 519-575-4608, fax: 519-623-7649, email: sunnyside@regionofwaterloo.ca, url: www.regionofwaterloo.ca/en/health-and-wellness/dementia-services.aspx#Locations-fees-and-schedule",
+    "description_of_this": "Supports for people with Alzheimer's disease and other dementias, and their caregivers <br><br>Seminars, workshops and training sessions * one-on-one care plan \nconsultations with health professionals * advanced care planning for \nfuture health care needs, Codes: Varies per program, Features: Wheelchair Accessible, Languages: English, Referral: Call * no referral required, Address: 150 Main St, Cambridge, ON, N1R 6R1, Location: lat: 43.3592, lon: -80.31"
+  }
+]

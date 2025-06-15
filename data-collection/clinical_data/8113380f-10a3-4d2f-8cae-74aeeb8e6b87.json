@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Community Support Connections - Telephone Reassurance",
+    "active": true,
+    "category": [
+      "Telephone Reassurance and Security Checks"
+    ],
+    "comment": "Regular phone calls to check on the health and safety of people who live alone * referrals to other community services",
+    "serviceProvisionCode": [
+      "Free"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>8113380f-10a3-4d2f-8cae-74aeeb8e6b87</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Breslau</p><p>physical-location-postalcode</p><p>N0B 1M0</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>155131</p><p>true</p><p>Telephone Reassurance and Security Checks</p><p>Location/d33306f7-1e21-4b9a-bddd-923f7bf50866</p><p>Location</p><p>Community Support Connections - Telephone Reassurance</p><p>Regular phone calls to check on the health and safety of people who live alone * referrals to other community services</p><p>Location/bfed4fc1-c8d2-4918-a0cb-11715ea9ef67</p><p>Location</p><p>Free</p><p>Older adults * adults 18 years and over with disabilities</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>Call * no referral required</p></div>",
+    "eligibility": [
+      "Older adults * adults 18 years and over with disabilities"
+    ],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [
+      "Call * no referral required"
+    ],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-772-8787"
+          },
+          {
+            "fax": "519-648-3737"
+          },
+          {
+            "email": "info@cscmow.org"
+          },
+          {
+            "url": "communitysupportconnections.org/reassurance-calls/"
+          }
+        ],
+        "address": {
+          "line": [
+            "61 Woolwich St N, Box 29"
+          ],
+          "city": "Breslau",
+          "state": "ON",
+          "postalCode": "N0B 1M0"
+        },
+        "position": {
+          "longitude": -80.4156223,
+          "latitude": 43.4857191
+        }
+      }
+    ],
+    "contact_info": "phone: 519-772-8787, fax: 519-648-3737, email: info@cscmow.org, url: communitysupportconnections.org/reassurance-calls/",
+    "description_of_this": "Regular phone calls to check on the health and safety of people who live alone * referrals to other community services, Codes: Free, Features: Wheelchair Accessible, Languages: English, Referral: Call * no referral required, Address: 61 Woolwich St N, Box 29, Breslau, ON, N0B 1M0, Location: lat: 43.4857191, lon: -80.4156223"
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "name": "Waterloo Region - Public Health and Emergency Services",
+    "active": true,
+    "category": [
+      "Public Health Units"
+    ],
+    "comment": "Health agency that addresses public health issues and promotes healthy living\n\n<ul><li> immunization and screening for communicable diseases</li><li> health education programs</li><li> family and child health</li><li> dental health</li><li> sexual health</li><li> injury prevention</li><li> environmental health</li><li> physical activity</li><li> public health standards enforcement</li><li> research and population-based health research</li></ul><BR><BR><B>Services and Programs:</B><UL><LI>Child and Family Health</LI><LI>Dental Health Program</LI><LI>Harm Reduction and Needle Syringe Program</LI><LI>Immunization Clinic</LI><LI>Sexual Health Program</LI></UL>",
+    "serviceProvisionCode": [
+      "Varies by program"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>55924029-0479-401b-9d05-ac1d741c963f</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Cambridge</p><p>physical-location-postalcode</p><p>N1R 6P9</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>170200</p><p>true</p><p>Public Health Units</p><p>Location/f1ba2ade-0afb-4617-9665-649b5b516cae</p><p>Location</p><p>Waterloo Region - Public Health and Emergency Services</p><p>Health agency that addresses public health issues and promotes healthy living\n\n&lt;ul&gt;&lt;li&gt; immunization and screening for communicable diseases&lt;/li&gt;&lt;li&gt; health education programs&lt;/li&gt;&lt;li&gt; family and child health&lt;/li&gt;&lt;li&gt; dental health&lt;/li&gt;&lt;li&gt; sexual health&lt;/li&gt;&lt;li&gt; injury prevention&lt;/li&gt;&lt;li&gt; environmental health&lt;/li&gt;&lt;li&gt; physical activity&lt;/li&gt;&lt;li&gt; public health standards enforcement&lt;/li&gt;&lt;li&gt; research and population-based health research&lt;/li&gt;&lt;/ul&gt;&lt;BR&gt;&lt;BR&gt;&lt;B&gt;Services and Programs:&lt;/B&gt;&lt;UL&gt;&lt;LI&gt;Child and Family Health&lt;/LI&gt;&lt;LI&gt;Dental Health Program&lt;/LI&gt;&lt;LI&gt;Harm Reduction and Needle Syringe Program&lt;/LI&gt;&lt;LI&gt;Immunization Clinic&lt;/LI&gt;&lt;LI&gt;Sexual Health Program&lt;/LI&gt;&lt;/UL&gt;</p><p>Location/b75015c7-f2f9-4e81-8684-49a24f568658</p><p>Location</p><p>Varies by program</p><p>Varies depending on service</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>Call or visit * no referral required * appointments or registration required for certain programs or classes</p></div>",
+    "eligibility": [
+      "Varies depending on service"
+    ],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [
+      "Call or visit * no referral required * appointments or registration required for certain programs or classes"
+    ],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-575-4400"
+          },
+          {
+            "phone": "519-575-4608"
+          },
+          {
+            "fax": "519-575-4481"
+          },
+          {
+            "email": "publichealth@regionofwaterloo.ca"
+          },
+          {
+            "url": "www.regionofwaterloo.ca/en/public-health-and-emergency-services.aspx"
+          }
+        ],
+        "address": {
+          "line": [
+            "150 Main St, 1st Fl"
+          ],
+          "city": "Cambridge",
+          "state": "ON",
+          "postalCode": "N1R 6P9"
+        },
+        "position": {
+          "longitude": -80.3106414,
+          "latitude": 43.3588518
+        }
+      }
+    ],
+    "contact_info": "phone: 519-575-4400, phone: 519-575-4608, fax: 519-575-4481, email: publichealth@regionofwaterloo.ca, url: www.regionofwaterloo.ca/en/public-health-and-emergency-services.aspx",
+    "description_of_this": "Health agency that addresses public health issues and promotes healthy living\n\n<ul><li> immunization and screening for communicable diseases</li><li> health education programs</li><li> family and child health</li><li> dental health</li><li> sexual health</li><li> injury prevention</li><li> environmental health</li><li> physical activity</li><li> public health standards enforcement</li><li> research and population-based health research</li></ul><BR><BR><B>Services and Programs:</B><UL><LI>Child and Family Health</LI><LI>Dental Health Program</LI><LI>Harm Reduction and Needle Syringe Program</LI><LI>Immunization Clinic</LI><LI>Sexual Health Program</LI></UL>, Codes: Varies by program, Features: Wheelchair Accessible, Languages: English, Referral: Call or visit * no referral required * appointments or registration required for certain programs or classes, Address: 150 Main St, 1st Fl, Cambridge, ON, N1R 6P9, Location: lat: 43.3588518, lon: -80.3106414"
+  }
+]

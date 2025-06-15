@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Adults in Motion - Kitchener",
+    "active": true,
+    "category": [
+      "Adult Day Programs",
+      "Respite Care"
+    ],
+    "comment": "Adult day program * social, recreational, and therapeutic activities for\n older adults and for people with disabilities in a group setting for part of the day * helps to support family caregivers who provide day-to-day care * virtual programs available",
+    "serviceProvisionCode": [
+      "Subsidy available for eligible participants"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>298bb893-3136-4abe-bc49-2b3e5b94cb82</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Kitchener</p><p>physical-location-postalcode</p><p>N2A 1V6</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>211465</p><p>true</p><p>Adult Day Programs</p><p>Respite Care</p><p>Location/6939a429-a372-41e9-a188-a431669c9d93</p><p>Location</p><p>Adults in Motion - Kitchener</p><p>Adult day program * social, recreational, and therapeutic activities for\n older adults and for people with disabilities in a group setting for part of the day * helps to support family caregivers who provide day-to-day care * virtual programs available</p><p>Location/f8fc72d7-2476-445a-9d83-d301f8b12ab1</p><p>Location</p><p>Subsidy available for eligible participants</p><p>Older adults and adults with disabilities, who need physical, social, or emotional supports * care coordinators assess the needs of applicants</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>Contact Ontario Health atHome Waterloo-Wellington</p></div>",
+    "eligibility": [
+      "Older adults and adults with disabilities, who need physical, social, or emotional supports * care coordinators assess the needs of applicants"
+    ],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [
+      "Contact Ontario Health atHome Waterloo-Wellington"
+    ],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-577-3723"
+          },
+          {
+            "email": "kitchener@adultsinmotion.org"
+          },
+          {
+            "url": "adultsinmotion.org/kitchener-waterloo"
+          }
+        ],
+        "address": {
+          "line": [
+            "317 Franklin St N"
+          ],
+          "city": "Kitchener",
+          "state": "ON",
+          "postalCode": "N2A 1V6"
+        },
+        "position": {
+          "longitude": -80.4468,
+          "latitude": 43.4425
+        }
+      }
+    ],
+    "contact_info": "phone: 519-577-3723, email: kitchener@adultsinmotion.org, url: adultsinmotion.org/kitchener-waterloo",
+    "description_of_this": "Adult day program * social, recreational, and therapeutic activities for\n older adults and for people with disabilities in a group setting for part of the day * helps to support family caregivers who provide day-to-day care * virtual programs available, Codes: Subsidy available for eligible participants, Features: Wheelchair Accessible, Languages: English, Referral: Contact Ontario Health atHome Waterloo-Wellington, Address: 317 Franklin St N, Kitchener, ON, N2A 1V6, Location: lat: 43.4425, lon: -80.4468"
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "name": "Shoppers Drug Mart - Kitchener - King St W",
+    "active": true,
+    "category": [
+      "Pharmacies"
+    ],
+    "comment": "General pharmacy<ul><li> treatment and prescription of medications for common medical \nailments, including rashes, pink eye, insect bites, acne, and urinary \ntract infections<br></li><li> prescription of COVID-19 antiviral treatment (Paxlovid)</li><li>free seasonal flu vaccines</li><li>pharmacist available for diabetes management consultations</li><li>basic home health care supplies</li><li>medication placed in blister packs (sealed, push-through packaging used to separate doses) at no extra cost<br><br></li></ul><b>Pharmacy Smoking Cessation Program</b> - Help to quit smoking, available for Ontario Drug Benefit recipients <br><br><b>MedsCheck</b> - Appointments to review complex prescriptions with a pharmacist<br><br><b>Sharps Disposal Program</b> - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips",
+    "serviceProvisionCode": [
+      "Dispensing fee plus medication costs * prescribed medications may be covered by OHIP"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>c56abd61-cde1-4880-ae45-cf63a1c85bd6</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Kitchener</p><p>physical-location-postalcode</p><p>N2G 1A1</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>209141</p><p>true</p><p>Pharmacies</p><p>Location/8d776520-12d4-4221-9b85-5026188c664f</p><p>Location</p><p>Shoppers Drug Mart - Kitchener - King St W</p><p>General pharmacy&lt;ul&gt;&lt;li&gt; treatment and prescription of medications for common medical \nailments, including rashes, pink eye, insect bites, acne, and urinary \ntract infections&lt;br&gt;&lt;/li&gt;&lt;li&gt; prescription of COVID-19 antiviral treatment (Paxlovid)&lt;/li&gt;&lt;li&gt;free seasonal flu vaccines&lt;/li&gt;&lt;li&gt;pharmacist available for diabetes management consultations&lt;/li&gt;&lt;li&gt;basic home health care supplies&lt;/li&gt;&lt;li&gt;medication placed in blister packs (sealed, push-through packaging used to separate doses) at no extra cost&lt;br&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;b&gt;Pharmacy Smoking Cessation Program&lt;/b&gt; - Help to quit smoking, available for Ontario Drug Benefit recipients &lt;br&gt;&lt;br&gt;&lt;b&gt;MedsCheck&lt;/b&gt; - Appointments to review complex prescriptions with a pharmacist&lt;br&gt;&lt;br&gt;&lt;b&gt;Sharps Disposal Program&lt;/b&gt; - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips</p><p>Location/c6198b6a-5cab-42a7-819a-1bbad371a694</p><p>Location</p><p>Dispensing fee plus medication costs * prescribed medications may be covered by OHIP</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p></div>",
+    "eligibility": [],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-742-1903"
+          },
+          {
+            "fax": "519-742-7103"
+          },
+          {
+            "email": "asdm1087@shoppersdrugmart.ca"
+          },
+          {
+            "url": "www1.shoppersdrugmart.ca/en/store-locator/store/1087/?utm_source=G&utm_medium=lpm&utm_campaign=LPM_SDM"
+          }
+        ],
+        "address": {
+          "line": [
+            "250 King St W"
+          ],
+          "city": "Kitchener",
+          "state": "ON",
+          "postalCode": "N2G 1A1"
+        },
+        "position": {
+          "longitude": -80.4936,
+          "latitude": 43.4518
+        }
+      }
+    ],
+    "contact_info": "phone: 519-742-1903, fax: 519-742-7103, email: asdm1087@shoppersdrugmart.ca, url: www1.shoppersdrugmart.ca/en/store-locator/store/1087/?utm_source=G&utm_medium=lpm&utm_campaign=LPM_SDM",
+    "description_of_this": "General pharmacy<ul><li> treatment and prescription of medications for common medical \nailments, including rashes, pink eye, insect bites, acne, and urinary \ntract infections<br></li><li> prescription of COVID-19 antiviral treatment (Paxlovid)</li><li>free seasonal flu vaccines</li><li>pharmacist available for diabetes management consultations</li><li>basic home health care supplies</li><li>medication placed in blister packs (sealed, push-through packaging used to separate doses) at no extra cost<br><br></li></ul><b>Pharmacy Smoking Cessation Program</b> - Help to quit smoking, available for Ontario Drug Benefit recipients <br><br><b>MedsCheck</b> - Appointments to review complex prescriptions with a pharmacist<br><br><b>Sharps Disposal Program</b> - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips, Codes: Dispensing fee plus medication costs * prescribed medications may be covered by OHIP, Features: Wheelchair Accessible, Languages: English, Address: 250 King St W, Kitchener, ON, N2G 1A1, Location: lat: 43.4518, lon: -80.4936, Contact: phone: 519-742-1903, fax: 519-742-7103, email: asdm1087@shoppersdrugmart.ca, url: www1.shoppersdrugmart.ca/en/store-locator/store/1087/?utm_source=G&utm_medium=lpm&utm_campaign=LPM_SDM"
+  }
+]

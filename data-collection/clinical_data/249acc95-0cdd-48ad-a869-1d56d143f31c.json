@@ -1,0 +1,54 @@
+[
+  {
+    "name": "Faircare and CDE Pharmacy",
+    "active": true,
+    "category": [
+      "Pharmacies"
+    ],
+    "comment": "General pharmacy<ul><li> treatment and prescription of medications for common medical ailments, including rashes, pink eye, insect bites, acne, and urinary tract infections</li><li> prescription of COVID-19 antiviral treatment (Paxlovid)</li><li>medication placed in blister packs (sealed, push-through packaging used to separate doses) at no extra cost</li><li>free delivery for prescriptions</li><li>free seasonal flu vaccines</li><li>blood pressure monitoring<br></li><li>pharmacist available for diabetes management consultations</li><li>basic home health care supplies</li><li>INR Testing</li><li>custom compression stockings</li></ul><br>\n<b>MedsCheck</b> - Appointments to review complex prescriptions with a pharmacist<br><br><b>Pharmacy Smoking Cessation Program</b> - Help to quit smoking, available for Ontario Drug Benefit recipients",
+    "serviceProvisionCode": [
+      "Dispensing fee plus medication costs * prescribed medications may be covered by OHIP"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>249acc95-0cdd-48ad-a869-1d56d143f31c</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Kitchener</p><p>physical-location-postalcode</p><p>N2A 1A7</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>202394</p><p>true</p><p>Pharmacies</p><p>Location/127d6079-63bf-4eef-91d1-309b8329b42a</p><p>Location</p><p>Faircare and CDE Pharmacy</p><p>General pharmacy&lt;ul&gt;&lt;li&gt; treatment and prescription of medications for common medical ailments, including rashes, pink eye, insect bites, acne, and urinary tract infections&lt;/li&gt;&lt;li&gt; prescription of COVID-19 antiviral treatment (Paxlovid)&lt;/li&gt;&lt;li&gt;medication placed in blister packs (sealed, push-through packaging used to separate doses) at no extra cost&lt;/li&gt;&lt;li&gt;free delivery for prescriptions&lt;/li&gt;&lt;li&gt;free seasonal flu vaccines&lt;/li&gt;&lt;li&gt;blood pressure monitoring&lt;br&gt;&lt;/li&gt;&lt;li&gt;pharmacist available for diabetes management consultations&lt;/li&gt;&lt;li&gt;basic home health care supplies&lt;/li&gt;&lt;li&gt;INR Testing&lt;/li&gt;&lt;li&gt;custom compression stockings&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;\n&lt;b&gt;MedsCheck&lt;/b&gt; - Appointments to review complex prescriptions with a pharmacist&lt;br&gt;&lt;br&gt;&lt;b&gt;Pharmacy Smoking Cessation Program&lt;/b&gt; - Help to quit smoking, available for Ontario Drug Benefit recipients</p><p>Location/26f43ce9-060e-4984-8826-4fc48b5f07a6</p><p>Location</p><p>Dispensing fee plus medication costs * prescribed medications may be covered by OHIP</p><p>Not Applicable</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p></div>",
+    "eligibility": [],
+    "characteristic": [
+      "Not Applicable"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-208-8050"
+          },
+          {
+            "fax": "519-208-8051"
+          },
+          {
+            "email": "info@faircarepharmacy.ca"
+          },
+          {
+            "url": "faircarepharmacy.ca"
+          }
+        ],
+        "address": {
+          "line": [
+            "2934 King St E, Unit 4"
+          ],
+          "city": "Kitchener",
+          "state": "ON",
+          "postalCode": "N2A 1A7"
+        },
+        "position": {
+          "longitude": -80.4346,
+          "latitude": 43.4297
+        }
+      }
+    ],
+    "contact_info": "phone: 519-208-8050, fax: 519-208-8051, email: info@faircarepharmacy.ca, url: faircarepharmacy.ca",
+    "description_of_this": "General pharmacy<ul><li> treatment and prescription of medications for common medical ailments, including rashes, pink eye, insect bites, acne, and urinary tract infections</li><li> prescription of COVID-19 antiviral treatment (Paxlovid)</li><li>medication placed in blister packs (sealed, push-through packaging used to separate doses) at no extra cost</li><li>free delivery for prescriptions</li><li>free seasonal flu vaccines</li><li>blood pressure monitoring<br></li><li>pharmacist available for diabetes management consultations</li><li>basic home health care supplies</li><li>INR Testing</li><li>custom compression stockings</li></ul><br>\n<b>MedsCheck</b> - Appointments to review complex prescriptions with a pharmacist<br><br><b>Pharmacy Smoking Cessation Program</b> - Help to quit smoking, available for Ontario Drug Benefit recipients, Codes: Dispensing fee plus medication costs * prescribed medications may be covered by OHIP, Features: Not Applicable, Languages: English, Address: 2934 King St E, Unit 4, Kitchener, ON, N2A 1A7, Location: lat: 43.4297, lon: -80.4346"
+  }
+]

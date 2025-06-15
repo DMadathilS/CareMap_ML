@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Victoria Wellness and Pharmacy",
+    "active": true,
+    "category": [
+      "Pharmacies"
+    ],
+    "comment": "General pharmacy<ul><li>treatment and prescription of medications for thirteen common medical \nailments, including rashes, pink eye, insect bites, and urinary tract \ninfections</li><li>medication placed in pill organizers (containers for storing scheduled doses) at no extra cost\n</li><li>medication placed in blister packs (sealed, push-through packaging used to separate doses) at no extra cost</li><li>pharmacist available for diabetes management consultations</li><li>basic home health care supplies</li><li>free seasonal flu vaccines</li><li>free delivery for prescriptions<br><br></li></ul><b>MedsCheck</b> - Appointments to review complex prescriptions with a pharmacist<br><br><b>Medications Return Program</b> - Safe disposal of expired or unused medications, creams, and inhalers <br><br><b>Sharps Disposal Program</b> - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips",
+    "serviceProvisionCode": [
+      "Dispensing fee plus medication costs * prescribed medications may be covered by OHIP"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>71dfed19-fed2-40cc-a8d7-254f0cf5cb73</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Kitchener</p><p>physical-location-postalcode</p><p>N2G 2B5</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>219846</p><p>true</p><p>Pharmacies</p><p>Location/1db598fa-93a9-4085-8b6d-b54bb16f1f01</p><p>Location</p><p>Victoria Wellness and Pharmacy</p><p>General pharmacy&lt;ul&gt;&lt;li&gt;treatment and prescription of medications for thirteen common medical \nailments, including rashes, pink eye, insect bites, and urinary tract \ninfections&lt;/li&gt;&lt;li&gt;medication placed in pill organizers (containers for storing scheduled doses) at no extra cost\n&lt;/li&gt;&lt;li&gt;medication placed in blister packs (sealed, push-through packaging used to separate doses) at no extra cost&lt;/li&gt;&lt;li&gt;pharmacist available for diabetes management consultations&lt;/li&gt;&lt;li&gt;basic home health care supplies&lt;/li&gt;&lt;li&gt;free seasonal flu vaccines&lt;/li&gt;&lt;li&gt;free delivery for prescriptions&lt;br&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;b&gt;MedsCheck&lt;/b&gt; - Appointments to review complex prescriptions with a pharmacist&lt;br&gt;&lt;br&gt;&lt;b&gt;Medications Return Program&lt;/b&gt; - Safe disposal of expired or unused medications, creams, and inhalers &lt;br&gt;&lt;br&gt;&lt;b&gt;Sharps Disposal Program&lt;/b&gt; - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips</p><p>Location/348679ac-4793-4137-bc14-91c88f84b696</p><p>Location</p><p>Dispensing fee plus medication costs * prescribed medications may be covered by OHIP</p><p>Not Applicable</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>fra</p><p>French</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>fas</p><p>Persian</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>hin</p><p>Hindi</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>urd</p><p>Urdu</p></div>",
+    "eligibility": [],
+    "characteristic": [
+      "Not Applicable"
+    ],
+    "communication": [
+      "English",
+      "French",
+      "Persian",
+      "Hindi",
+      "Urdu"
+    ],
+    "referralMethod": [],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-744-8989"
+          },
+          {
+            "fax": "519-744-4499"
+          },
+          {
+            "email": "rx@victoriawell.ca"
+          },
+          {
+            "url": "www.victoriawell.ca/"
+          }
+        ],
+        "address": {
+          "line": [
+            "130 Victoria St S, Unit A"
+          ],
+          "city": "Kitchener",
+          "state": "ON",
+          "postalCode": "N2G 2B5"
+        },
+        "position": {
+          "longitude": -80.5018,
+          "latitude": 43.4495
+        }
+      }
+    ],
+    "contact_info": "phone: 519-744-8989, fax: 519-744-4499, email: rx@victoriawell.ca, url: www.victoriawell.ca/",
+    "description_of_this": "General pharmacy<ul><li>treatment and prescription of medications for thirteen common medical \nailments, including rashes, pink eye, insect bites, and urinary tract \ninfections</li><li>medication placed in pill organizers (containers for storing scheduled doses) at no extra cost\n</li><li>medication placed in blister packs (sealed, push-through packaging used to separate doses) at no extra cost</li><li>pharmacist available for diabetes management consultations</li><li>basic home health care supplies</li><li>free seasonal flu vaccines</li><li>free delivery for prescriptions<br><br></li></ul><b>MedsCheck</b> - Appointments to review complex prescriptions with a pharmacist<br><br><b>Medications Return Program</b> - Safe disposal of expired or unused medications, creams, and inhalers <br><br><b>Sharps Disposal Program</b> - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips, Codes: Dispensing fee plus medication costs * prescribed medications may be covered by OHIP, Features: Not Applicable, Languages: English, French, Persian, Hindi, Urdu, Address: 130 Victoria St S, Unit A, Kitchener, ON, N2G 2B5, Location: lat: 43.4495, lon: -80.5018"
+  }
+]

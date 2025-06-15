@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Waterloo St Jacob Urgent Care Clinic",
+    "active": true,
+    "category": [
+      "Walk-In Medical Clinics"
+    ],
+    "comment": "Urgent medical care * doctors and nurses assess and treat \nnon-life-threatening injuries or illnesses that cannot wait for a family doctor<br><br><b>Services and programs include</b><ul><li>family practice and virtual walk-in</li><li>blood work on-site</li><li>pharmacy on-site</li><li>in-house virtual specialist</li></ul>",
+    "serviceProvisionCode": [
+      "Most services covered by OHIP"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>8a42e53a-ae13-4d3d-bb2a-2a192c607e8b</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Waterloo</p><p>physical-location-postalcode</p><p>N2J 4G8</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>221034</p><p>true</p><p>Walk-In Medical Clinics</p><p>Location/3b72846d-cc21-421c-9153-9c14ef3831ca</p><p>Location</p><p>Waterloo St Jacob Urgent Care Clinic</p><p>Urgent medical care * doctors and nurses assess and treat \nnon-life-threatening injuries or illnesses that cannot wait for a family doctor&lt;br&gt;&lt;br&gt;&lt;b&gt;Services and programs include&lt;/b&gt;&lt;ul&gt;&lt;li&gt;family practice and virtual walk-in&lt;/li&gt;&lt;li&gt;blood work on-site&lt;/li&gt;&lt;li&gt;pharmacy on-site&lt;/li&gt;&lt;li&gt;in-house virtual specialist&lt;/li&gt;&lt;/ul&gt;</p><p>Location/835bf33e-dda0-41f4-97b9-c8c47957e254</p><p>Location</p><p>Most services covered by OHIP</p><p>People who need urgent medical care for non-life-threatening illnesses and injuries</p><p>Not Applicable</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>No referral required</p></div>",
+    "eligibility": [
+      "People who need urgent medical care for non-life-threatening illnesses and injuries"
+    ],
+    "characteristic": [
+      "Not Applicable"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [
+      "No referral required"
+    ],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-206-0211"
+          },
+          {
+            "fax": "519-209-0233"
+          },
+          {
+            "email": "info@urgentcarewaterloo.com"
+          },
+          {
+            "url": "www.urgentcarewaterloo.ca/"
+          }
+        ],
+        "address": {
+          "line": [
+            "820 King St N, Unit 1"
+          ],
+          "city": "Waterloo",
+          "state": "ON",
+          "postalCode": "N2J 4G8"
+        },
+        "position": {
+          "longitude": -80.554,
+          "latitude": 43.5131
+        }
+      }
+    ],
+    "contact_info": "phone: 519-206-0211, fax: 519-209-0233, email: info@urgentcarewaterloo.com, url: www.urgentcarewaterloo.ca/",
+    "description_of_this": "Urgent medical care * doctors and nurses assess and treat \nnon-life-threatening injuries or illnesses that cannot wait for a family doctor<br><br><b>Services and programs include</b><ul><li>family practice and virtual walk-in</li><li>blood work on-site</li><li>pharmacy on-site</li><li>in-house virtual specialist</li></ul>, Codes: Most services covered by OHIP, Features: Not Applicable, Languages: English, Referral: No referral required, Address: 820 King St N, Unit 1, Waterloo, ON, N2J 4G8, Location: lat: 43.5131, lon: -80.554"
+  }
+]

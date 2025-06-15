@@ -1,0 +1,54 @@
+[
+  {
+    "name": "Beechwood Forest Pharmacy",
+    "active": true,
+    "category": [
+      "Pharmacies"
+    ],
+    "comment": "General pharmacy<ul><li>treatment and prescription of medications for common medical ailments, including rashes, pink eye, insect bites, acne, and urinary tract infections</li><li>prescription of COVID-19 antiviral treatment (Paxlovid)</li><li>medication placed in pill organizers (containers for storing scheduled doses) at no extra cost</li><li> medication placed in blister packs (sealed, push-through packaging used to separate doses) at no extra cost</li><li> certified diabetes educator (CDE) available for consultations</li><li> free delivery for prescriptions</li><li>shingles vaccine</li></ul><br>\n<b>MedsCheck</b> - Appointments to review complex prescriptions with a pharmacist <br><br><b>Medications Return Program</b> - Safe disposal of expired or unused medications, creams, and inhalers <br><br>\n<b>Sharps Disposal Program</b> - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips",
+    "serviceProvisionCode": [
+      "Dispensing fee plus medication costs * prescribed medications may be covered by OHIP"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>fd1d608c-3015-41d1-b2dd-2a6c906d142a</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Kitchener</p><p>physical-location-postalcode</p><p>N2N 3G6</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>208563</p><p>true</p><p>Pharmacies</p><p>Location/cb5fcec2-2063-4909-8c33-1de8c154047e</p><p>Location</p><p>Beechwood Forest Pharmacy</p><p>General pharmacy&lt;ul&gt;&lt;li&gt;treatment and prescription of medications for common medical ailments, including rashes, pink eye, insect bites, acne, and urinary tract infections&lt;/li&gt;&lt;li&gt;prescription of COVID-19 antiviral treatment (Paxlovid)&lt;/li&gt;&lt;li&gt;medication placed in pill organizers (containers for storing scheduled doses) at no extra cost&lt;/li&gt;&lt;li&gt; medication placed in blister packs (sealed, push-through packaging used to separate doses) at no extra cost&lt;/li&gt;&lt;li&gt; certified diabetes educator (CDE) available for consultations&lt;/li&gt;&lt;li&gt; free delivery for prescriptions&lt;/li&gt;&lt;li&gt;shingles vaccine&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;\n&lt;b&gt;MedsCheck&lt;/b&gt; - Appointments to review complex prescriptions with a pharmacist &lt;br&gt;&lt;br&gt;&lt;b&gt;Medications Return Program&lt;/b&gt; - Safe disposal of expired or unused medications, creams, and inhalers &lt;br&gt;&lt;br&gt;\n&lt;b&gt;Sharps Disposal Program&lt;/b&gt; - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips</p><p>Location/155a7a13-0b20-4aa0-8df4-9bab67fdccd0</p><p>Location</p><p>Dispensing fee plus medication costs * prescribed medications may be covered by OHIP</p><p>Partially Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>ara</p><p>Arabic</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>deu</p><p>German</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>pan</p><p>Punjabi</p></div>",
+    "eligibility": [],
+    "characteristic": [
+      "Partially Accessible"
+    ],
+    "communication": [
+      "English",
+      "Arabic",
+      "German",
+      "Punjabi"
+    ],
+    "referralMethod": [],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-579-6400"
+          },
+          {
+            "fax": "519-579-3734"
+          },
+          {
+            "url": "careandcurepharmacies.com/stores/beechwood-forest-glascow-st/"
+          }
+        ],
+        "address": {
+          "line": [
+            "890 Glasgow St"
+          ],
+          "city": "Kitchener",
+          "state": "ON",
+          "postalCode": "N2N 3G6"
+        },
+        "position": {
+          "longitude": -80.5431,
+          "latitude": 43.4425
+        }
+      }
+    ],
+    "contact_info": "phone: 519-579-6400, fax: 519-579-3734, url: careandcurepharmacies.com/stores/beechwood-forest-glascow-st/",
+    "description_of_this": "General pharmacy<ul><li>treatment and prescription of medications for common medical ailments, including rashes, pink eye, insect bites, acne, and urinary tract infections</li><li>prescription of COVID-19 antiviral treatment (Paxlovid)</li><li>medication placed in pill organizers (containers for storing scheduled doses) at no extra cost</li><li> medication placed in blister packs (sealed, push-through packaging used to separate doses) at no extra cost</li><li> certified diabetes educator (CDE) available for consultations</li><li> free delivery for prescriptions</li><li>shingles vaccine</li></ul><br>\n<b>MedsCheck</b> - Appointments to review complex prescriptions with a pharmacist <br><br><b>Medications Return Program</b> - Safe disposal of expired or unused medications, creams, and inhalers <br><br>\n<b>Sharps Disposal Program</b> - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips, Codes: Dispensing fee plus medication costs * prescribed medications may be covered by OHIP, Features: Partially Accessible, Languages: English, Arabic, German, Punjabi, Address: 890 Glasgow St, Kitchener, ON, N2N 3G6, Location: lat: 43.4425, lon: -80.5431, Contact: phone: 519-579-6400, fax: 519-579-3734, url: careandcurepharmacies.com/stores/beechwood-forest-glascow-st/"
+  }
+]

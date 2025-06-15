@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Arthritis Society Canada - Grand River Region",
+    "active": true,
+    "category": [
+      "Community Support Services"
+    ],
+    "comment": "Education, programs and support to people living with arthritis<br><br><x href=\"https://arthritis.ca/support-education/support-in-your-community/arthritis-rehabilitation-and-education-program-(ar\" target=\"_blank\"><b>Arthritis Rehabilitation and Education Program (AREP) | Arthritis Society</b></a><br><br>Community-based rehabilitation program * physiotherapists, occupational therapists and social workers available * individual consultation and group education sessions<br><br><b>Topics may include:</b><br><ul><li>dealing with pain</li><li>arthritis medications</li><li>exercises to reduce stiffness, increase strength and improve fitness</li><li>new ways to be active and minimize stress on joints</li><li>coping with the emotional impact of arthritis</li><li>self-management strategies</li></ul><br><x href=\"https://arthritis.ca/support-education/online-learning\" target=\"_blank\">Online self-management courses</a> e-learning programs including:<br><ul><li>mental health and well-being</li><li>arthritis and work</li><li>managing chronic pain</li><li>navigating your healthcare</li><li>overcoming fatigue</li><li>eating well</li><li>staying active</li><li>daily living</li><li>medical cannabis and arthritis</li></ul><br><x href=\"https://arthritis.ca/treatment/pain-management/assistive-devices-resource\">Assistive Devices Resource</a><br><br><x href=\"https://arthritis.ca/treatment/pain-management/drug-free-pain-management-tool\">Drug-Free Pain Management Tool</a><br><br><x href=\"https://arthritis.ca/support-education/support-for-childhood-arthritis/camps\">Support for Childhood Arthritis</a> - Resources for families living with childhood arthritis<br><br><x href=\"https://arthritis.ca/living-well\">Flourish </a>- Online health and wellness advice, self-management tips, inspirational stories<br><br><x href=\"https://arthritis.ca/treatment/medication/medication-reference-guide\" target=\"_blank\">Medication guide</a> is designed to help make informed decisions about arthritis treatment plans and assist in asking health care teams questions around available medications<BR><BR><B>Services and Programs:</B><UL><LI>Cambridge Program</LI><LI>Erin Program</LI><LI>Guelph Program</LI><LI>Kitchener Office</LI><LI>Palmerston Program</LI><LI>Wellington Program</LI></UL>",
+    "serviceProvisionCode": [
+      "Free"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>8da6b341-4fca-48b3-bb1d-1b04d2446fd4</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Kitchener</p><p>physical-location-postalcode</p><p>N2M 5N4</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>100091</p><p>true</p><p>Community Support Services</p><p>Location/54386205-042f-4986-9c20-1d283bd72086</p><p>Location</p><p>Arthritis Society Canada - Grand River Region</p><p>Education, programs and support to people living with arthritis&lt;br&gt;&lt;br&gt;&lt;x href=&quot;https://arthritis.ca/support-education/support-in-your-community/arthritis-rehabilitation-and-education-program-(ar&quot; target=&quot;_blank&quot;&gt;&lt;b&gt;Arthritis Rehabilitation and Education Program (AREP) | Arthritis Society&lt;/b&gt;&lt;/a&gt;&lt;br&gt;&lt;br&gt;Community-based rehabilitation program * physiotherapists, occupational therapists and social workers available * individual consultation and group education sessions&lt;br&gt;&lt;br&gt;&lt;b&gt;Topics may include:&lt;/b&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;dealing with pain&lt;/li&gt;&lt;li&gt;arthritis medications&lt;/li&gt;&lt;li&gt;exercises to reduce stiffness, increase strength and improve fitness&lt;/li&gt;&lt;li&gt;new ways to be active and minimize stress on joints&lt;/li&gt;&lt;li&gt;coping with the emotional impact of arthritis&lt;/li&gt;&lt;li&gt;self-management strategies&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;x href=&quot;https://arthritis.ca/support-education/online-learning&quot; target=&quot;_blank&quot;&gt;Online self-management courses&lt;/a&gt; e-learning programs including:&lt;br&gt;&lt;ul&gt;&lt;li&gt;mental health and well-being&lt;/li&gt;&lt;li&gt;arthritis and work&lt;/li&gt;&lt;li&gt;managing chronic pain&lt;/li&gt;&lt;li&gt;navigating your healthcare&lt;/li&gt;&lt;li&gt;overcoming fatigue&lt;/li&gt;&lt;li&gt;eating well&lt;/li&gt;&lt;li&gt;staying active&lt;/li&gt;&lt;li&gt;daily living&lt;/li&gt;&lt;li&gt;medical cannabis and arthritis&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;x href=&quot;https://arthritis.ca/treatment/pain-management/assistive-devices-resource&quot;&gt;Assistive Devices Resource&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;x href=&quot;https://arthritis.ca/treatment/pain-management/drug-free-pain-management-tool&quot;&gt;Drug-Free Pain Management Tool&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;x href=&quot;https://arthritis.ca/support-education/support-for-childhood-arthritis/camps&quot;&gt;Support for Childhood Arthritis&lt;/a&gt; - Resources for families living with childhood arthritis&lt;br&gt;&lt;br&gt;&lt;x href=&quot;https://arthritis.ca/living-well&quot;&gt;Flourish &lt;/a&gt;- Online health and wellness advice, self-management tips, inspirational stories&lt;br&gt;&lt;br&gt;&lt;x href=&quot;https://arthritis.ca/treatment/medication/medication-reference-guide&quot; target=&quot;_blank&quot;&gt;Medication guide&lt;/a&gt; is designed to help make informed decisions about arthritis treatment plans and assist in asking health care teams questions around available medications&lt;BR&gt;&lt;BR&gt;&lt;B&gt;Services and Programs:&lt;/B&gt;&lt;UL&gt;&lt;LI&gt;Cambridge Program&lt;/LI&gt;&lt;LI&gt;Erin Program&lt;/LI&gt;&lt;LI&gt;Guelph Program&lt;/LI&gt;&lt;LI&gt;Kitchener Office&lt;/LI&gt;&lt;LI&gt;Palmerston Program&lt;/LI&gt;&lt;LI&gt;Wellington Program&lt;/LI&gt;&lt;/UL&gt;</p><p>Location/58a8f2d3-8802-4b7f-bc6e-edfd7d411c5c</p><p>Location</p><p>Free</p><p>People of any age with any form of a confirmed arthritis diagnosis and their families</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>Self-referral or referral from health care provider for people with arthritis * see referral form or call office</p></div>",
+    "eligibility": [
+      "People of any age with any form of a confirmed arthritis diagnosis and their families"
+    ],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [
+      "Self-referral or referral from health care provider for people with arthritis * see referral form or call office"
+    ],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "1-800-321-1433 ext 3307"
+          },
+          {
+            "fax": "1-888-519-6869"
+          },
+          {
+            "email": "arep@arthritis.ca"
+          },
+          {
+            "url": "www.arthritis.ca"
+          }
+        ],
+        "address": {
+          "line": [
+            "751 Victoria St S, Unit 200"
+          ],
+          "city": "Kitchener",
+          "state": "ON",
+          "postalCode": "N2M 5N4"
+        },
+        "position": {
+          "longitude": -80.522,
+          "latitude": 43.4386
+        }
+      }
+    ],
+    "contact_info": "phone: 1-800-321-1433 ext 3307, fax: 1-888-519-6869, email: arep@arthritis.ca, url: www.arthritis.ca",
+    "description_of_this": "Education, programs and support to people living with arthritis<br><br><x href=\"https://arthritis.ca/support-education/support-in-your-community/arthritis-rehabilitation-and-education-program-(ar\" target=\"_blank\"><b>Arthritis Rehabilitation and Education Program (AREP) | Arthritis Society</b></a><br><br>Community-based rehabilitation program * physiotherapists, occupational therapists and social workers available * individual consultation and group education sessions<br><br><b>Topics may include:</b><br><ul><li>dealing with pain</li><li>arthritis medications</li><li>exercises to reduce stiffness, increase strength and improve fitness</li><li>new ways to be active and minimize stress on joints</li><li>coping with the emotional impact of arthritis</li><li>self-management strategies</li></ul><br><x href=\"https://arthritis.ca/support-education/online-learning\" target=\"_blank\">Online self-management courses</a> e-learning programs including:<br><ul><li>mental health and well-being</li><li>arthritis and work</li><li>managing chronic pain</li><li>navigating your healthcare</li><li>overcoming fatigue</li><li>eating well</li><li>staying active</li><li>daily living</li><li>medical cannabis and arthritis</li></ul><br><x href=\"https://arthritis.ca/treatment/pain-management/assistive-devices-resource\">Assistive Devices Resource</a><br><br><x href=\"https://arthritis.ca/treatment/pain-management/drug-free-pain-management-tool\">Drug-Free Pain Management Tool</a><br><br><x href=\"https://arthritis.ca/support-education/support-for-childhood-arthritis/camps\">Support for Childhood Arthritis</a> - Resources for families living with childhood arthritis<br><br><x href=\"https://arthritis.ca/living-well\">Flourish </a>- Online health and wellness advice, self-management tips, inspirational stories<br><br><x href=\"https://arthritis.ca/treatment/medication/medication-reference-guide\" target=\"_blank\">Medication guide</a> is designed to help make informed decisions about arthritis treatment plans and assist in asking health care teams questions around available medications<BR><BR><B>Services and Programs:</B><UL><LI>Cambridge Program</LI><LI>Erin Program</LI><LI>Guelph Program</LI><LI>Kitchener Office</LI><LI>Palmerston Program</LI><LI>Wellington Program</LI></UL>, Codes: Free, Features: Wheelchair Accessible, Languages: English, Referral: Self-referral or referral from health care provider for people with arthritis * see referral form or call office, Address: 751 Victoria St S, Unit 200, Kitchener, ON, N2M 5N4, Location: lat: 43.4386, lon: -80.522"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "name": "PEAK Sleep - Cambridge",
+    "active": true,
+    "category": [
+      "Sleep Clinics"
+    ],
+    "comment": "Community-based sleep clinic * diagnostic and treatment services for sleep disorders",
+    "serviceProvisionCode": [
+      "Most services covered by OHIP"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>6d4c7cd5-1b35-4d1c-bf6a-d16b8f12df48</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Cambridge</p><p>physical-location-postalcode</p><p>N1S 2H8</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>208436</p><p>true</p><p>Sleep Clinics</p><p>Location/d753747c-eef6-4a22-b8be-192b30485cdc</p><p>Location</p><p>PEAK Sleep - Cambridge</p><p>Community-based sleep clinic * diagnostic and treatment services for sleep disorders</p><p>Location/4a7810bd-1741-4057-9337-626806aa6d06</p><p>Location</p><p>Most services covered by OHIP</p><p>People with sleep disorders, or who have trouble staying awake during the day</p><p>Partially Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>Medical referral required</p></div>",
+    "eligibility": [
+      "People with sleep disorders, or who have trouble staying awake during the day"
+    ],
+    "characteristic": [
+      "Partially Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [
+      "Medical referral required"
+    ],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "905-338-3331 option 4"
+          },
+          {
+            "fax": "905-338-2923"
+          },
+          {
+            "email": "info@peaksleep.ca"
+          },
+          {
+            "url": "www.peaksleep.ca/"
+          }
+        ],
+        "address": {
+          "line": [
+            "33 Blair Rd"
+          ],
+          "city": "Cambridge",
+          "state": "ON",
+          "postalCode": "N1S 2H8"
+        },
+        "position": {
+          "longitude": -80.3189,
+          "latitude": 43.3607
+        }
+      }
+    ],
+    "contact_info": "phone: 905-338-3331 option 4, fax: 905-338-2923, email: info@peaksleep.ca, url: www.peaksleep.ca/",
+    "description_of_this": "Community-based sleep clinic * diagnostic and treatment services for sleep disorders, Codes: Most services covered by OHIP, Features: Partially Accessible, Languages: English, Referral: Medical referral required, Address: 33 Blair Rd, Cambridge, ON, N1S 2H8, Location: lat: 43.3607, lon: -80.3189"
+  }
+]

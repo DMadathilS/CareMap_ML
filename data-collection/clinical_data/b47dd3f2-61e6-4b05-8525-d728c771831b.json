@@ -1,0 +1,58 @@
+[
+  {
+    "name": "St Joseph's Health Centre Guelph - Physiotherapy Clinic",
+    "active": true,
+    "category": [
+      "Physiotherapy Clinics - Publicly Funded"
+    ],
+    "comment": "Community physiotherapy clinic * health professionals assess and treat \nconditions that affect the muscles, nerves, and bones that may be caused\n by work or sports or motor vehicle collision injuries, chronic \nconditions, or to recover after an operation \n (hip and knee surgery) <br><br>OHIP-insured physiotherapy clinic",
+    "serviceProvisionCode": [
+      "Set fee * physiotherapy services may be covered by OHIP or third-party insurance, if eligible"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>b47dd3f2-61e6-4b05-8525-d728c771831b</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Guelph</p><p>physical-location-postalcode</p><p>N1H 5H8</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>211882</p><p>true</p><p>Physiotherapy Clinics - Publicly Funded</p><p>Location/7b81ea57-0b4e-4209-ae08-19a789d30215</p><p>Location</p><p>St Joseph's Health Centre Guelph - Physiotherapy Clinic</p><p>Community physiotherapy clinic * health professionals assess and treat \nconditions that affect the muscles, nerves, and bones that may be caused\n by work or sports or motor vehicle collision injuries, chronic \nconditions, or to recover after an operation \n (hip and knee surgery) &lt;br&gt;&lt;br&gt;OHIP-insured physiotherapy clinic</p><p>Location/da481439-4d72-4e4a-81f4-88f08d1a676e</p><p>Location</p><p>Set fee * physiotherapy services may be covered by OHIP or third-party insurance, if eligible</p><p>People who require physiotherapy services * OHIP coverage for those 19 years and under, 65 years and older, ODSP or Ontario Works recipients, and people hospitalized for at least one night due to an injury</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>No referral required for private pay services * medical referral required for OHIP coverage * medical referral may be required for third-party insurance</p></div>",
+    "eligibility": [
+      "People who require physiotherapy services * OHIP coverage for those 19 years and under, 65 years and older, ODSP or Ontario Works recipients, and people hospitalized for at least one night due to an injury"
+    ],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [
+      "No referral required for private pay services * medical referral required for OHIP coverage * medical referral may be required for third-party insurance"
+    ],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-824-6000 ext 3414"
+          },
+          {
+            "fax": "519-763-0264"
+          },
+          {
+            "email": "info@sjhcg.ca"
+          },
+          {
+            "url": "www.sjhcg.ca/our-programs-of-care/clinics-and-medical-services/"
+          }
+        ],
+        "address": {
+          "line": [
+            "100 Westmount Rd"
+          ],
+          "city": "Guelph",
+          "state": "ON",
+          "postalCode": "N1H 5H8"
+        },
+        "position": {
+          "longitude": -80.2719,
+          "latitude": 43.5502
+        }
+      }
+    ],
+    "contact_info": "phone: 519-824-6000 ext 3414, fax: 519-763-0264, email: info@sjhcg.ca, url: www.sjhcg.ca/our-programs-of-care/clinics-and-medical-services/",
+    "description_of_this": "Community physiotherapy clinic * health professionals assess and treat \nconditions that affect the muscles, nerves, and bones that may be caused\n by work or sports or motor vehicle collision injuries, chronic \nconditions, or to recover after an operation \n (hip and knee surgery) <br><br>OHIP-insured physiotherapy clinic, Codes: Set fee * physiotherapy services may be covered by OHIP or third-party insurance, if eligible, Features: Wheelchair Accessible, Languages: English, Referral: No referral required for private pay services * medical referral required for OHIP coverage * medical referral may be required for third-party insurance, Address: 100 Westmount Rd, Guelph, ON, N1H 5H8, Location: lat: 43.5502, lon: -80.2719"
+  }
+]

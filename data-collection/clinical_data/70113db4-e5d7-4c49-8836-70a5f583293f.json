@@ -1,0 +1,54 @@
+[
+  {
+    "name": "Pharmasave - Kitchener - Courtland Ave E",
+    "active": true,
+    "category": [
+      "Pharmacies"
+    ],
+    "comment": "Compounding pharmacy<ul><li>treatment and prescription of medications for common medical ailments, \nincluding rashes, pink eye, insect bites, acne, and urinary tract \ninfections</li><li>medication placed in blister packs (sealed, push-through packaging used to separate doses)</li><li> free delivery for prescriptions\n </li><li>prescription refills and transfers<br></li><li>free seasonal flu vaccines <br></li><li>pharmacist available for diabetes management consultations</li><li>asthma and COPD consultations</li><li>blood pressure management<br></li><li>certified menopause practitioner <br></li><li>ostomy supplies</li><li>compression stockings</li><li>wound care supplies<br></li><li>take-home naloxone kits (emergency response kits for opioid overdose)</li><li>mobility aids (walkers, scooters, wheelchairs)\n <br> </li></ul><br>\n<b>MedsCheck</b> - Appointments to review complex prescriptions with a pharmacist <br><br><b>Medications Return Program</b> - Safe disposal of expired or unused medications, creams, and inhalers<br><br><b>Pharmacy Smoking Cessation Program</b> - Help to quit smoking, available for Ontario Drug Benefit recipients <br><br><b>Sharps Disposal Program</b> - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips",
+    "serviceProvisionCode": [
+      "Dispensing fee plus medication costs * prescribed medications may be covered by OHIP"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>70113db4-e5d7-4c49-8836-70a5f583293f</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Kitchener</p><p>physical-location-postalcode</p><p>N2C 2H5</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>208957</p><p>true</p><p>Pharmacies</p><p>Location/b24a59c9-47a9-478f-bfe2-3dd28b3be1e2</p><p>Location</p><p>Pharmasave - Kitchener - Courtland Ave E</p><p>Compounding pharmacy&lt;ul&gt;&lt;li&gt;treatment and prescription of medications for common medical ailments, \nincluding rashes, pink eye, insect bites, acne, and urinary tract \ninfections&lt;/li&gt;&lt;li&gt;medication placed in blister packs (sealed, push-through packaging used to separate doses)&lt;/li&gt;&lt;li&gt; free delivery for prescriptions\n &lt;/li&gt;&lt;li&gt;prescription refills and transfers&lt;br&gt;&lt;/li&gt;&lt;li&gt;free seasonal flu vaccines &lt;br&gt;&lt;/li&gt;&lt;li&gt;pharmacist available for diabetes management consultations&lt;/li&gt;&lt;li&gt;asthma and COPD consultations&lt;/li&gt;&lt;li&gt;blood pressure management&lt;br&gt;&lt;/li&gt;&lt;li&gt;certified menopause practitioner &lt;br&gt;&lt;/li&gt;&lt;li&gt;ostomy supplies&lt;/li&gt;&lt;li&gt;compression stockings&lt;/li&gt;&lt;li&gt;wound care supplies&lt;br&gt;&lt;/li&gt;&lt;li&gt;take-home naloxone kits (emergency response kits for opioid overdose)&lt;/li&gt;&lt;li&gt;mobility aids (walkers, scooters, wheelchairs)\n &lt;br&gt; &lt;/li&gt;&lt;/ul&gt;&lt;br&gt;\n&lt;b&gt;MedsCheck&lt;/b&gt; - Appointments to review complex prescriptions with a pharmacist &lt;br&gt;&lt;br&gt;&lt;b&gt;Medications Return Program&lt;/b&gt; - Safe disposal of expired or unused medications, creams, and inhalers&lt;br&gt;&lt;br&gt;&lt;b&gt;Pharmacy Smoking Cessation Program&lt;/b&gt; - Help to quit smoking, available for Ontario Drug Benefit recipients &lt;br&gt;&lt;br&gt;&lt;b&gt;Sharps Disposal Program&lt;/b&gt; - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips</p><p>Location/9e69be39-a017-47d1-a7f1-40748cf8244f</p><p>Location</p><p>Dispensing fee plus medication costs * prescribed medications may be covered by OHIP</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p></div>",
+    "eligibility": [],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-743-1484"
+          },
+          {
+            "fax": "519-743-6322"
+          },
+          {
+            "email": "info@pharmasavecourtland.com"
+          },
+          {
+            "url": "pharmasave.com/kitchener-courtland/"
+          }
+        ],
+        "address": {
+          "line": [
+            "1144 Courtland Ave E"
+          ],
+          "city": "Kitchener",
+          "state": "ON",
+          "postalCode": "N2C 2H5"
+        },
+        "position": {
+          "longitude": -80.4596,
+          "latitude": 43.4219
+        }
+      }
+    ],
+    "contact_info": "phone: 519-743-1484, fax: 519-743-6322, email: info@pharmasavecourtland.com, url: pharmasave.com/kitchener-courtland/",
+    "description_of_this": "Compounding pharmacy<ul><li>treatment and prescription of medications for common medical ailments, \nincluding rashes, pink eye, insect bites, acne, and urinary tract \ninfections</li><li>medication placed in blister packs (sealed, push-through packaging used to separate doses)</li><li> free delivery for prescriptions\n </li><li>prescription refills and transfers<br></li><li>free seasonal flu vaccines <br></li><li>pharmacist available for diabetes management consultations</li><li>asthma and COPD consultations</li><li>blood pressure management<br></li><li>certified menopause practitioner <br></li><li>ostomy supplies</li><li>compression stockings</li><li>wound care supplies<br></li><li>take-home naloxone kits (emergency response kits for opioid overdose)</li><li>mobility aids (walkers, scooters, wheelchairs)\n <br> </li></ul><br>\n<b>MedsCheck</b> - Appointments to review complex prescriptions with a pharmacist <br><br><b>Medications Return Program</b> - Safe disposal of expired or unused medications, creams, and inhalers<br><br><b>Pharmacy Smoking Cessation Program</b> - Help to quit smoking, available for Ontario Drug Benefit recipients <br><br><b>Sharps Disposal Program</b> - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips, Codes: Dispensing fee plus medication costs * prescribed medications may be covered by OHIP, Features: Wheelchair Accessible, Languages: English, Address: 1144 Courtland Ave E, Kitchener, ON, N2C 2H5, Location: lat: 43.4219, lon: -80.4596"
+  }
+]

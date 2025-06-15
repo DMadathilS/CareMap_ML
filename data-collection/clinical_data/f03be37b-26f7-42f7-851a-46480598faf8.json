@@ -1,0 +1,64 @@
+[
+  {
+    "name": "Guelph General Hospital - Emergency Department",
+    "active": true,
+    "category": [
+      "Emergency Departments"
+    ],
+    "comment": "Emergency room care * doctors, nurses, and other health professionals assess and treat life-threatening injuries or severe illness<br><br><b>Geriatric Emergency Management </b>- Specialized emergency room care and follow-up support for older adults who may need in-home supports, other medical specialists, or community services<b><br><br>Psychiatric Emergency Services</b> - Specialized emergency room care and follow-up support for intense emotional distress * team of nurse case managers, psychiatrists, and residents works with community partners to reduce return visits to the emergency room * consults mental health agencies and family doctors regarding follow-up care<b><br><br>Sexual Assault and Domestic Violence</b> - Specialized emergency room care and confidential follow-up support for people who have been abused by an intimate partner, or have experienced sexual assault",
+    "serviceProvisionCode": [
+      "Most services covered by OHIP"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>f03be37b-26f7-42f7-851a-46480598faf8</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Guelph</p><p>physical-location-postalcode</p><p>N1E 4J4</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>160276</p><p>true</p><p>Emergency Departments</p><p>Location/4a56d747-de92-406c-a6f8-64ae1e528c62</p><p>Location</p><p>Guelph General Hospital - Emergency Department</p><p>Emergency room care * doctors, nurses, and other health professionals assess and treat life-threatening injuries or severe illness&lt;br&gt;&lt;br&gt;&lt;b&gt;Geriatric Emergency Management &lt;/b&gt;- Specialized emergency room care and follow-up support for older adults who may need in-home supports, other medical specialists, or community services&lt;b&gt;&lt;br&gt;&lt;br&gt;Psychiatric Emergency Services&lt;/b&gt; - Specialized emergency room care and follow-up support for intense emotional distress * team of nurse case managers, psychiatrists, and residents works with community partners to reduce return visits to the emergency room * consults mental health agencies and family doctors regarding follow-up care&lt;b&gt;&lt;br&gt;&lt;br&gt;Sexual Assault and Domestic Violence&lt;/b&gt; - Specialized emergency room care and confidential follow-up support for people who have been abused by an intimate partner, or have experienced sexual assault</p><p>Location/70208e42-9d6f-4cd8-95b4-a072978759a0</p><p>Location</p><p>Most services covered by OHIP</p><p>People who need medical care for serious illnesses and injuries, emotional distress, or sexual assault</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>No referral required * call or walk-in</p></div>",
+    "eligibility": [
+      "People who need medical care for serious illnesses and injuries, emotional distress, or sexual assault"
+    ],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [
+      "No referral required * call or walk-in"
+    ],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "Reception and patient inquiries: 519-822-5350<br>Automated telephone: 519-837-6440<br>Emergency: 519-837-6420"
+          },
+          {
+            "phone": "519-837-6437"
+          },
+          {
+            "phone": "Call <b>911</b> in emergencies"
+          },
+          {
+            "fax": "519 837-6460"
+          },
+          {
+            "email": "info@gghorg.ca"
+          },
+          {
+            "url": "www.gghorg.ca/emergency-department"
+          }
+        ],
+        "address": {
+          "line": [
+            "115 Delhi St"
+          ],
+          "city": "Guelph",
+          "state": "ON",
+          "postalCode": "N1E 4J4"
+        },
+        "position": {
+          "longitude": -80.2539,
+          "latitude": 43.5566
+        }
+      }
+    ],
+    "contact_info": "phone: Reception and patient inquiries: 519-822-5350<br>Automated telephone: 519-837-6440<br>Emergency: 519-837-6420, phone: 519-837-6437, phone: Call <b>911</b> in emergencies, fax: 519 837-6460, email: info@gghorg.ca, url: www.gghorg.ca/emergency-department",
+    "description_of_this": "Emergency room care * doctors, nurses, and other health professionals assess and treat life-threatening injuries or severe illness<br><br><b>Geriatric Emergency Management </b>- Specialized emergency room care and follow-up support for older adults who may need in-home supports, other medical specialists, or community services<b><br><br>Psychiatric Emergency Services</b> - Specialized emergency room care and follow-up support for intense emotional distress * team of nurse case managers, psychiatrists, and residents works with community partners to reduce return visits to the emergency room * consults mental health agencies and family doctors regarding follow-up care<b><br><br>Sexual Assault and Domestic Violence</b> - Specialized emergency room care and confidential follow-up support for people who have been abused by an intimate partner, or have experienced sexual assault, Codes: Most services covered by OHIP, Features: Wheelchair Accessible, Languages: English, Referral: No referral required * call or walk-in, Address: 115 Delhi St, Guelph, ON, N1E 4J4, Location: lat: 43.5566, lon: -80.2539, Contact: phone: Reception and patient inquiries: 519-822-5350<br>Automated telephone: 519-837-6440<br>Emergency: 519-837-6420, phone: 519-837-6437, phone: Call <b>911</b> in emergencies, fax: 519 837-6460, email: info@gghorg.ca, url: www.gghorg.ca/emergency-department"
+  }
+]

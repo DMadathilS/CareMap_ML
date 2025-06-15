@@ -1,0 +1,55 @@
+[
+  {
+    "name": "Traverse Independence - Kitchener - Strasburg Rd - Supportive Housing",
+    "active": true,
+    "category": [
+      "Supportive Housing"
+    ],
+    "comment": "Apartments with 24-hour personal care <br><ul><li>medication monitoring</li><li>blood sugar and blood pressure monitoring</li><li>prescribed exercises</li><li>tube feeding</li><li>assistance with the activities of daily living</li><li>bathing, dressing, grooming</li><li>light housekeeping</li><li>meal preparation</li></ul>",
+    "serviceProvisionCode": [
+      "Support services are free * rent geared to income"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>df08aa7e-504d-4165-9749-76e831eb29b5</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Kitchener</p><p>physical-location-postalcode</p><p>N2E 4A2</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>210224</p><p>true</p><p>Supportive Housing</p><p>Location/f1847602-e6a9-454d-946e-28447f0c2f6b</p><p>Location</p><p>Traverse Independence - Kitchener - Strasburg Rd - Supportive Housing</p><p>Apartments with 24-hour personal care &lt;br&gt;&lt;ul&gt;&lt;li&gt;medication monitoring&lt;/li&gt;&lt;li&gt;blood sugar and blood pressure monitoring&lt;/li&gt;&lt;li&gt;prescribed exercises&lt;/li&gt;&lt;li&gt;tube feeding&lt;/li&gt;&lt;li&gt;assistance with the activities of daily living&lt;/li&gt;&lt;li&gt;bathing, dressing, grooming&lt;/li&gt;&lt;li&gt;light housekeeping&lt;/li&gt;&lt;li&gt;meal preparation&lt;/li&gt;&lt;/ul&gt;</p><p>Location/314a5532-991f-4985-98f4-f5f57b692fa8</p><p>Location</p><p>Support services are free * rent geared to income</p><p>Adults 16 years and older with severe physical or multiple disabilities, acquired brain injury, and high care needs (such as multiple sclerosis, cerebral palsy)</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>Call * assessment required</p></div>",
+    "eligibility": [
+      "Adults 16 years and older with severe physical or multiple disabilities, acquired brain injury, and high care needs (such as multiple sclerosis, cerebral palsy)"
+    ],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [
+      "Call * assessment required"
+    ],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-741-5845"
+          },
+          {
+            "fax": "519-741-8731"
+          },
+          {
+            "url": "www.traverseindependence.ca/en/physical-disability-services/Supportive-Housing.aspx"
+          }
+        ],
+        "address": {
+          "line": [
+            "695 Strasburg Rd, LL007"
+          ],
+          "city": "Kitchener",
+          "state": "ON",
+          "postalCode": "N2E 4A2"
+        },
+        "position": {
+          "longitude": -80.4778,
+          "latitude": 43.4147
+        }
+      }
+    ],
+    "contact_info": "phone: 519-741-5845, fax: 519-741-8731, url: www.traverseindependence.ca/en/physical-disability-services/Supportive-Housing.aspx",
+    "description_of_this": "Apartments with 24-hour personal care <br><ul><li>medication monitoring</li><li>blood sugar and blood pressure monitoring</li><li>prescribed exercises</li><li>tube feeding</li><li>assistance with the activities of daily living</li><li>bathing, dressing, grooming</li><li>light housekeeping</li><li>meal preparation</li></ul>, Codes: Support services are free * rent geared to income, Features: Wheelchair Accessible, Languages: English, Referral: Call * assessment required, Address: 695 Strasburg Rd, LL007, Kitchener, ON, N2E 4A2, Location: lat: 43.4147, lon: -80.4778, Contact: phone: 519-741-5845, fax: 519-741-8731, url: www.traverseindependence.ca/en/physical-disability-services/Supportive-Housing.aspx"
+  }
+]

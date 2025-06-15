@@ -1,0 +1,59 @@
+[
+  {
+    "name": "Fairview Seniors Community - Seniors Active Living Centre",
+    "active": true,
+    "category": [
+      "Community Support Services",
+      "Seniors' Active Living Centres"
+    ],
+    "comment": "Supports for older adults, and adults with disabilities * helps people \nremain independent in their own homes for as long as possible * referral\n to other community services",
+    "serviceProvisionCode": [
+      "Varies per program"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>3046002e-4b62-41a6-9022-c014b1ad9bea</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Cambridge</p><p>physical-location-postalcode</p><p>N3H 5E4</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>211205</p><p>true</p><p>Community Support Services</p><p>Seniors' Active Living Centres</p><p>Location/9b9ba692-4d25-4968-85ba-4d0d0c710389</p><p>Location</p><p>Fairview Seniors Community - Seniors Active Living Centre</p><p>Supports for older adults, and adults with disabilities * helps people \nremain independent in their own homes for as long as possible * referral\n to other community services</p><p>Location/c5fbf948-acd2-4709-82cc-2143f44e260c</p><p>Location</p><p>Varies per program</p><p>Older adults and people with disabilities, who need physical, social, or emotional supports</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>Call * no referral required</p></div>",
+    "eligibility": [
+      "Older adults and people with disabilities, who need physical, social, or emotional supports"
+    ],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [
+      "Call * no referral required"
+    ],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-653-5719"
+          },
+          {
+            "fax": "519-650-1242"
+          },
+          {
+            "email": "info@fairviewmh.com"
+          },
+          {
+            "url": "fairviewmh.com/services/health-and-wellness-centre/"
+          }
+        ],
+        "address": {
+          "line": [
+            "515 Langs Dr"
+          ],
+          "city": "Cambridge",
+          "state": "ON",
+          "postalCode": "N3H 5E4"
+        },
+        "position": {
+          "longitude": -80.3431,
+          "latitude": 43.3985
+        }
+      }
+    ],
+    "contact_info": "phone: 519-653-5719, fax: 519-650-1242, email: info@fairviewmh.com, url: fairviewmh.com/services/health-and-wellness-centre/",
+    "description_of_this": "Supports for older adults, and adults with disabilities * helps people \nremain independent in their own homes for as long as possible * referral\n to other community services, Codes: Varies per program, Features: Wheelchair Accessible, Languages: English, Referral: Call * no referral required, Address: 515 Langs Dr, Cambridge, ON, N3H 5E4, Location: lat: 43.3985, lon: -80.3431"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Pharmasave - Waterloo - University Ave W (Campus Health Centre)",
+    "active": true,
+    "category": [
+      "Pharmacies"
+    ],
+    "comment": "General pharmacy<ul><li> treatment and prescription of medications for common medical \nailments, including rashes, pink eye, insect bites, acne, and urinary \ntract infections<br></li><li> prescription of COVID-19 antiviral treatment (Paxlovid)</li><li>medication placed in blister packs (sealed, push-through packaging used to separate doses)</li><li>medication placed in pill organizers (containers for storing scheduled doses) </li><li>pharmacist available for diabetes management consultations</li><li>free delivery for prescriptions\n</li><li>delivery for over-the-counter products available for a fee\n </li><li>free seasonal flu vaccines</li><li>free take-home naloxone kits (emergency response kits for opioid overdose)</li></ul><b><br></b><b>MedsCheck</b> - Appointments to review complex prescriptions with a pharmacist <br><br>\n<b>Medications Return Program</b> - Safe disposal of expired or unused medications, creams, and inhalers <br><br>\n<b>Sharps Disposal Program</b> - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips <br><br>\n<b>Pharmacy Smoking Cessation Program</b> - Help to quit smoking, available for Ontario Drug Benefit recipients",
+    "serviceProvisionCode": [
+      "Dispensing fee plus medication costs * prescribed medications may be covered by OHIP"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>407933ed-0311-4d38-aaf1-4d3f1096a142</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Waterloo</p><p>physical-location-postalcode</p><p>N2L 3E9</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>208990</p><p>true</p><p>Pharmacies</p><p>Location/c6a14f98-86e0-4762-bb02-802e42791d40</p><p>Location</p><p>Pharmasave - Waterloo - University Ave W (Campus Health Centre)</p><p>General pharmacy&lt;ul&gt;&lt;li&gt; treatment and prescription of medications for common medical \nailments, including rashes, pink eye, insect bites, acne, and urinary \ntract infections&lt;br&gt;&lt;/li&gt;&lt;li&gt; prescription of COVID-19 antiviral treatment (Paxlovid)&lt;/li&gt;&lt;li&gt;medication placed in blister packs (sealed, push-through packaging used to separate doses)&lt;/li&gt;&lt;li&gt;medication placed in pill organizers (containers for storing scheduled doses) &lt;/li&gt;&lt;li&gt;pharmacist available for diabetes management consultations&lt;/li&gt;&lt;li&gt;free delivery for prescriptions\n&lt;/li&gt;&lt;li&gt;delivery for over-the-counter products available for a fee\n &lt;/li&gt;&lt;li&gt;free seasonal flu vaccines&lt;/li&gt;&lt;li&gt;free take-home naloxone kits (emergency response kits for opioid overdose)&lt;/li&gt;&lt;/ul&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;b&gt;MedsCheck&lt;/b&gt; - Appointments to review complex prescriptions with a pharmacist &lt;br&gt;&lt;br&gt;\n&lt;b&gt;Medications Return Program&lt;/b&gt; - Safe disposal of expired or unused medications, creams, and inhalers &lt;br&gt;&lt;br&gt;\n&lt;b&gt;Sharps Disposal Program&lt;/b&gt; - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips &lt;br&gt;&lt;br&gt;\n&lt;b&gt;Pharmacy Smoking Cessation Program&lt;/b&gt; - Help to quit smoking, available for Ontario Drug Benefit recipients</p><p>Location/ed791c5e-5b84-4d9a-96d5-e9467771da0e</p><p>Location</p><p>Dispensing fee plus medication costs * prescribed medications may be covered by OHIP</p><p>Partially Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p></div>",
+    "eligibility": [],
+    "characteristic": [
+      "Partially Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-886-2420"
+          },
+          {
+            "email": "pharmasave723@gmail.com"
+          },
+          {
+            "url": "pharmasavecampus.com/services.html"
+          }
+        ],
+        "address": {
+          "line": [
+            "Campus Health Centre",
+            "170 University Ave W"
+          ],
+          "city": "Waterloo",
+          "state": "ON",
+          "postalCode": "N2L 3E9"
+        },
+        "position": {
+          "longitude": -80.5387,
+          "latitude": 43.4717
+        }
+      }
+    ],
+    "contact_info": "phone: 519-886-2420, email: pharmasave723@gmail.com, url: pharmasavecampus.com/services.html",
+    "description_of_this": "General pharmacy<ul><li> treatment and prescription of medications for common medical \nailments, including rashes, pink eye, insect bites, acne, and urinary \ntract infections<br></li><li> prescription of COVID-19 antiviral treatment (Paxlovid)</li><li>medication placed in blister packs (sealed, push-through packaging used to separate doses)</li><li>medication placed in pill organizers (containers for storing scheduled doses) </li><li>pharmacist available for diabetes management consultations</li><li>free delivery for prescriptions\n</li><li>delivery for over-the-counter products available for a fee\n </li><li>free seasonal flu vaccines</li><li>free take-home naloxone kits (emergency response kits for opioid overdose)</li></ul><b><br></b><b>MedsCheck</b> - Appointments to review complex prescriptions with a pharmacist <br><br>\n<b>Medications Return Program</b> - Safe disposal of expired or unused medications, creams, and inhalers <br><br>\n<b>Sharps Disposal Program</b> - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips <br><br>\n<b>Pharmacy Smoking Cessation Program</b> - Help to quit smoking, available for Ontario Drug Benefit recipients, Codes: Dispensing fee plus medication costs * prescribed medications may be covered by OHIP, Features: Partially Accessible, Languages: English, Address: Campus Health Centre, 170 University Ave W, Waterloo, ON, N2L 3E9, Location: lat: 43.4717, lon: -80.5387"
+  }
+]

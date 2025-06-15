@@ -1,0 +1,57 @@
+[
+  {
+    "name": "Fairway Pharmacy and Clinic",
+    "active": true,
+    "category": [
+      "Pharmacies"
+    ],
+    "comment": "Compounding Pharmacy<ul><li>treatment and prescription of medications for common medical ailments, including rashes, pink eye, insect bites, acne, and urinary tract infections</li><li>prescription of COVID-19 antiviral treatment (Paxlovid)</li><li>compliance packaging and blister packs</li><li>compounding</li><li>diabetes education and management</li><li>compression stockings</li><li>flu and travel immunizations</li><li>methadone and suboxone dispensing</li></ul><br>\n<b>MedsCheck</b> - Rendez-vous avec un pharmacien pour passer en revue les ordonnances complexes",
+    "serviceProvisionCode": [
+      "Dispensing fee plus medication costs * prescribed medications may be covered by OHIP"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>3268719d-beef-4076-b7b6-54d54b228ed5</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Kitchener</p><p>physical-location-postalcode</p><p>N2C 1X3</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>202401</p><p>true</p><p>Pharmacies</p><p>Location/c79f1605-26f2-4cf9-af8e-530d8242eb19</p><p>Location</p><p>Fairway Pharmacy and Clinic</p><p>Compounding Pharmacy&lt;ul&gt;&lt;li&gt;treatment and prescription of medications for common medical ailments, including rashes, pink eye, insect bites, acne, and urinary tract infections&lt;/li&gt;&lt;li&gt;prescription of COVID-19 antiviral treatment (Paxlovid)&lt;/li&gt;&lt;li&gt;compliance packaging and blister packs&lt;/li&gt;&lt;li&gt;compounding&lt;/li&gt;&lt;li&gt;diabetes education and management&lt;/li&gt;&lt;li&gt;compression stockings&lt;/li&gt;&lt;li&gt;flu and travel immunizations&lt;/li&gt;&lt;li&gt;methadone and suboxone dispensing&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;\n&lt;b&gt;MedsCheck&lt;/b&gt; - Rendez-vous avec un pharmacien pour passer en revue les ordonnances complexes</p><p>Location/d49f3555-b8b3-490f-9f46-b1ea199994d3</p><p>Location</p><p>Dispensing fee plus medication costs * prescribed medications may be covered by OHIP</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>guj</p><p>Gujarati</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>hin</p><p>Hindi</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>pan</p><p>Punjabi</p></div>",
+    "eligibility": [],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English",
+      "Gujarati",
+      "Hindi",
+      "Punjabi"
+    ],
+    "referralMethod": [],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-208-1004"
+          },
+          {
+            "fax": "519-208-1005"
+          },
+          {
+            "email": "care@fairwaypharmacyandclinic.ca"
+          },
+          {
+            "url": "www.bookmytest.ca/5192081004"
+          }
+        ],
+        "address": {
+          "line": [
+            "500 Fairway Rd S, Unit 14"
+          ],
+          "city": "Kitchener",
+          "state": "ON",
+          "postalCode": "N2C 1X3"
+        },
+        "position": {
+          "longitude": -80.4325,
+          "latitude": 43.4282
+        }
+      }
+    ],
+    "contact_info": "phone: 519-208-1004, fax: 519-208-1005, email: care@fairwaypharmacyandclinic.ca, url: www.bookmytest.ca/5192081004",
+    "description_of_this": "Compounding Pharmacy<ul><li>treatment and prescription of medications for common medical ailments, including rashes, pink eye, insect bites, acne, and urinary tract infections</li><li>prescription of COVID-19 antiviral treatment (Paxlovid)</li><li>compliance packaging and blister packs</li><li>compounding</li><li>diabetes education and management</li><li>compression stockings</li><li>flu and travel immunizations</li><li>methadone and suboxone dispensing</li></ul><br>\n<b>MedsCheck</b> - Rendez-vous avec un pharmacien pour passer en revue les ordonnances complexes, Codes: Dispensing fee plus medication costs * prescribed medications may be covered by OHIP, Features: Wheelchair Accessible, Languages: English, Gujarati, Hindi, Punjabi, Address: 500 Fairway Rd S, Unit 14, Kitchener, ON, N2C 1X3, Location: lat: 43.4282, lon: -80.4325"
+  }
+]

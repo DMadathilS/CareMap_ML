@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Waterloo Region - Public Health and Emergency Services",
+    "active": true,
+    "category": [
+      "Sexual Health Clinics",
+      "Sexual Health Clinics - Anonymous Testing"
+    ],
+    "comment": "Sexual health clinic * health professionals test for and treat sexually transmitted infections * family planning services <br><ul><li>sexuality and relationship counselling</li><li>birth control (women 24 years and under)</li><li>pregnancy testing, options and referrals</li><li>Pap smears (24 years and under)</li><li>post-therapeutic abortion follow up</li><li>sexually transmitted infection information</li><li>treatment for genital warts (HPV)</li><li>general sexual health information</li></ul>",
+    "serviceProvisionCode": [
+      "Free"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>1f8b6e29-62b8-4cae-af4b-cacd9b558aed</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Cambridge</p><p>physical-location-postalcode</p><p>N1R 6P9</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>185793</p><p>true</p><p>Sexual Health Clinics</p><p>Sexual Health Clinics - Anonymous Testing</p><p>Location/d51e2403-0a6d-4ca8-9e79-69f5807327b0</p><p>Location</p><p>Waterloo Region - Public Health and Emergency Services</p><p>Sexual health clinic * health professionals test for and treat sexually transmitted infections * family planning services &lt;br&gt;&lt;ul&gt;&lt;li&gt;sexuality and relationship counselling&lt;/li&gt;&lt;li&gt;birth control (women 24 years and under)&lt;/li&gt;&lt;li&gt;pregnancy testing, options and referrals&lt;/li&gt;&lt;li&gt;Pap smears (24 years and under)&lt;/li&gt;&lt;li&gt;post-therapeutic abortion follow up&lt;/li&gt;&lt;li&gt;sexually transmitted infection information&lt;/li&gt;&lt;li&gt;treatment for genital warts (HPV)&lt;/li&gt;&lt;li&gt;general sexual health information&lt;/li&gt;&lt;/ul&gt;</p><p>Location/359d2e5c-0bf8-4582-a2bc-2d951993c8a3</p><p>Location</p><p>Free</p><p>People who need sexual health services</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>Call or visit * no referral required * appointment required</p></div>",
+    "eligibility": [
+      "People who need sexual health services"
+    ],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [
+      "Call or visit * no referral required * appointment required"
+    ],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-883-2267"
+          },
+          {
+            "phone": "519-883-2427"
+          },
+          {
+            "fax": "519-621-5967"
+          },
+          {
+            "email": "publichealth@regionofwaterloo.ca"
+          },
+          {
+            "url": "www.regionofwaterloo.ca/en/health-and-wellness/sexual-health-services.aspx"
+          }
+        ],
+        "address": {
+          "line": [
+            "150 Main St, 1st Fl"
+          ],
+          "city": "Cambridge",
+          "state": "ON",
+          "postalCode": "N1R 6P9"
+        },
+        "position": {
+          "longitude": -80.31,
+          "latitude": 43.3592
+        }
+      }
+    ],
+    "contact_info": "phone: 519-883-2267, phone: 519-883-2427, fax: 519-621-5967, email: publichealth@regionofwaterloo.ca, url: www.regionofwaterloo.ca/en/health-and-wellness/sexual-health-services.aspx",
+    "description_of_this": "Sexual health clinic * health professionals test for and treat sexually transmitted infections * family planning services <br><ul><li>sexuality and relationship counselling</li><li>birth control (women 24 years and under)</li><li>pregnancy testing, options and referrals</li><li>Pap smears (24 years and under)</li><li>post-therapeutic abortion follow up</li><li>sexually transmitted infection information</li><li>treatment for genital warts (HPV)</li><li>general sexual health information</li></ul>, Codes: Free, Features: Wheelchair Accessible, Languages: English, Referral: Call or visit * no referral required * appointment required, Address: 150 Main St, 1st Fl, Cambridge, ON, N1R 6P9, Location: lat: 43.3592, lon: -80.31"
+  }
+]

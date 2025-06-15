@@ -1,0 +1,59 @@
+[
+  {
+    "name": "Fairview Seniors Community - Congregate Dining",
+    "active": true,
+    "category": [
+      "Congregate Dining"
+    ],
+    "comment": "Group meals and social activities",
+    "serviceProvisionCode": [
+      "Set fees"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>cc5b2e2a-3598-48ea-9da5-0d40b9b86290</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Cambridge</p><p>physical-location-postalcode</p><p>N3H 5E4</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>209391</p><p>true</p><p>Congregate Dining</p><p>Location/74677316-0032-4d37-955a-a0945b918136</p><p>Location</p><p>Fairview Seniors Community - Congregate Dining</p><p>Group meals and social activities</p><p>Location/548293b9-a329-4a08-99e7-a18e152b8110</p><p>Location</p><p>Set fees</p><p>Older adults</p><p>Not Applicable</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>Call * no referral required</p></div>",
+    "eligibility": [
+      "Older adults"
+    ],
+    "characteristic": [
+      "Not Applicable"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [
+      "Call * no referral required"
+    ],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-653-5719"
+          },
+          {
+            "fax": "519-650-1242"
+          },
+          {
+            "email": "info@fairviewmh.com"
+          },
+          {
+            "url": "fairviewmh.com/services/health-and-wellness-centre/"
+          }
+        ],
+        "address": {
+          "line": [
+            "Fairview Seniors Community",
+            "515 Langs Dr"
+          ],
+          "city": "Cambridge",
+          "state": "ON",
+          "postalCode": "N3H 5E4"
+        },
+        "position": {
+          "longitude": -80.3431,
+          "latitude": 43.3985
+        }
+      }
+    ],
+    "contact_info": "phone: 519-653-5719, fax: 519-650-1242, email: info@fairviewmh.com, url: fairviewmh.com/services/health-and-wellness-centre/",
+    "description_of_this": "Group meals and social activities, Codes: Set fees, Features: Not Applicable, Languages: English, Referral: Call * no referral required, Address: Fairview Seniors Community, 515 Langs Dr, Cambridge, ON, N3H 5E4, Location: lat: 43.3985, lon: -80.3431, Contact: phone: 519-653-5719, fax: 519-650-1242, email: info@fairviewmh.com, url: fairviewmh.com/services/health-and-wellness-centre/"
+  }
+]

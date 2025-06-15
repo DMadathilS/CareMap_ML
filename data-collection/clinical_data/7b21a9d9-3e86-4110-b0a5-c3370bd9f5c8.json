@@ -1,0 +1,53 @@
+[
+  {
+    "name": "Kitchener-Waterloo Vascular Laboratory",
+    "active": true,
+    "category": [
+      "Diagnostic Imaging Clinics"
+    ],
+    "comment": "Diagnostic imaging clinic<br><ul><li>vascular ultrasound</li></ul>",
+    "serviceProvisionCode": [
+      "Covered by OHIP"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>7b21a9d9-3e86-4110-b0a5-c3370bd9f5c8</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Kitchener</p><p>physical-location-postalcode</p><p>N2G 1G4</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>162724</p><p>true</p><p>Diagnostic Imaging Clinics</p><p>Location/71fdfb4a-5e3c-4e80-8ef0-6fce5e506f42</p><p>Location</p><p>Kitchener-Waterloo Vascular Laboratory</p><p>Diagnostic imaging clinic&lt;br&gt;&lt;ul&gt;&lt;li&gt;vascular ultrasound&lt;/li&gt;&lt;/ul&gt;</p><p>Location/a9e01927-d662-4c8d-a251-90d027db02e0</p><p>Location</p><p>Covered by OHIP</p><p>Partially Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>Medical referral required * by appointment</p></div>",
+    "eligibility": [],
+    "characteristic": [
+      "Partially Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [
+      "Medical referral required * by appointment"
+    ],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-585-1116"
+          },
+          {
+            "fax": "519-579-2294"
+          },
+          {
+            "url": "www.kwvascularlab.ca/"
+          }
+        ],
+        "address": {
+          "line": [
+            "932 King St W"
+          ],
+          "city": "Kitchener",
+          "state": "ON",
+          "postalCode": "N2G 1G4"
+        },
+        "position": {
+          "longitude": -80.5131,
+          "latitude": 43.4579
+        }
+      }
+    ],
+    "contact_info": "phone: 519-585-1116, fax: 519-579-2294, url: www.kwvascularlab.ca/",
+    "description_of_this": "Diagnostic imaging clinic<br><ul><li>vascular ultrasound</li></ul>, Codes: Covered by OHIP, Features: Partially Accessible, Languages: English, Referral: Medical referral required * by appointment, Address: 932 King St W, Kitchener, ON, N2G 1G4, Location: lat: 43.4579, lon: -80.5131"
+  }
+]

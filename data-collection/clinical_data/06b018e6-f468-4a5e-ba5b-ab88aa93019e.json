@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Waterloo Region - Community Services",
+    "active": true,
+    "category": [
+      "Home Help and Homemaking"
+    ],
+    "comment": "Assistance with daily chores, such as laundry, light housekeeping, errands, shopping, and meal preparation",
+    "serviceProvisionCode": [
+      "Set subsidized fee"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>06b018e6-f468-4a5e-ba5b-ab88aa93019e</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Kitchener</p><p>physical-location-postalcode</p><p>N2A 1Y5</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>211431</p><p>true</p><p>Home Help and Homemaking</p><p>Location/3f35d4ad-d6ff-40b3-b478-f84b971e27ec</p><p>Location</p><p>Waterloo Region - Community Services</p><p>Assistance with daily chores, such as laundry, light housekeeping, errands, shopping, and meal preparation</p><p>Location/49835674-e406-47b2-a639-129d894d7ad3</p><p>Location</p><p>Set subsidized fee</p><p>Older adults and adults with disabilities in the Waterloo Region who meet the financial criteria and need help in the home</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>Call * no referral required * in-home assessment required for service</p></div>",
+    "eligibility": [
+      "Older adults and adults with disabilities in the Waterloo Region who meet the financial criteria and need help in the home"
+    ],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [
+      "Call * no referral required * in-home assessment required for service"
+    ],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-893-8494 ext 6342"
+          },
+          {
+            "url": "www.regionofwaterloo.ca/en/living-here/homemaking-support.aspx"
+          }
+        ],
+        "address": {
+          "line": [
+            "247 Franklin St N"
+          ],
+          "city": "Kitchener",
+          "state": "ON",
+          "postalCode": "N2A 1Y5"
+        },
+        "position": {
+          "longitude": -80.4451,
+          "latitude": 43.4405
+        }
+      }
+    ],
+    "contact_info": "phone: 519-893-8494 ext 6342, url: www.regionofwaterloo.ca/en/living-here/homemaking-support.aspx",
+    "description_of_this": "Assistance with daily chores, such as laundry, light housekeeping, errands, shopping, and meal preparation, Codes: Set subsidized fee, Features: Wheelchair Accessible, Languages: English, Referral: Call * no referral required * in-home assessment required for service, Address: 247 Franklin St N, Kitchener, ON, N2A 1Y5, Location: lat: 43.4405, lon: -80.4451"
+  }
+]

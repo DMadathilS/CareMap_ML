@@ -1,0 +1,58 @@
+[
+  {
+    "name": "St Joseph's Health Centre Guelph - St Joseph's Health Centre - Overnight Stay Respite Program",
+    "active": true,
+    "category": [
+      "Respite Care"
+    ],
+    "comment": "Short-term caregiver relief program to support older adults who live in their own home but require temporary accommodation due to frailty, depression, social isolation and / or dementia. Services include:<br><ul><li>24-hour supervision and monitoring (RPN staff available)</li><li>assessment and individual program planning</li><li>supervised therapeutic social and recreational activities</li><li>care coordination</li><li>education and counselling</li><li>community liaison and advocacy</li><li>adult day program</li><li>supper club</li></ul>",
+    "serviceProvisionCode": [
+      "$42.28 per night"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>8e58b465-cff0-43a3-9371-09c0569719d2</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Guelph</p><p>physical-location-postalcode</p><p>N1H 5H8</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>209423</p><p>true</p><p>Respite Care</p><p>Location/7cfbc3e1-79f2-43ab-bcdc-f5cf2c12bba1</p><p>Location</p><p>St Joseph's Health Centre Guelph - St Joseph's Health Centre - Overnight Stay Respite Program</p><p>Short-term caregiver relief program to support older adults who live in their own home but require temporary accommodation due to frailty, depression, social isolation and / or dementia. Services include:&lt;br&gt;&lt;ul&gt;&lt;li&gt;24-hour supervision and monitoring (RPN staff available)&lt;/li&gt;&lt;li&gt;assessment and individual program planning&lt;/li&gt;&lt;li&gt;supervised therapeutic social and recreational activities&lt;/li&gt;&lt;li&gt;care coordination&lt;/li&gt;&lt;li&gt;education and counselling&lt;/li&gt;&lt;li&gt;community liaison and advocacy&lt;/li&gt;&lt;li&gt;adult day program&lt;/li&gt;&lt;li&gt;supper club&lt;/li&gt;&lt;/ul&gt;</p><p>Location/f4df25d8-1755-4aab-95f9-abdc80495f52</p><p>Location</p><p>$42.28 per night</p><p>Eligibility criteria determined by Ontario Health atHome Waterloo-Wellington&lt;br&gt;Eligibility includes:\n\n* medically stable\n\n* able to tolerate 14 days of isolation\n\n* willingness to consent and complete COVID 19 surveillance, testing upon admission to the program and as required/ directed by the Wellington Dufferin Guelph Public Health\n\n* must be smoke-free and substance-free\n\n* up to 1 person may provide physical assistance for activities of daily living</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>Call for eligibility inquiries and consultation * referrals through Ontario Health atHome Waterloo-Wellington, family members, friends, neighbours, health and social service agencies, or medical practitioners</p></div>",
+    "eligibility": [
+      "Eligibility criteria determined by Ontario Health atHome Waterloo-Wellington<br>Eligibility includes:\n\n* medically stable\n\n* able to tolerate 14 days of isolation\n\n* willingness to consent and complete COVID 19 surveillance, testing upon admission to the program and as required/ directed by the Wellington Dufferin Guelph Public Health\n\n* must be smoke-free and substance-free\n\n* up to 1 person may provide physical assistance for activities of daily living"
+    ],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [
+      "Call for eligibility inquiries and consultation * referrals through Ontario Health atHome Waterloo-Wellington, family members, friends, neighbours, health and social service agencies, or medical practitioners"
+    ],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-824-6000 ext 4415"
+          },
+          {
+            "fax": "519-767-3437"
+          },
+          {
+            "email": "info@sjhcg.ca"
+          },
+          {
+            "url": "www.sjhcg.ca/our-programs-of-care/community-support-services/overnight-stay/"
+          }
+        ],
+        "address": {
+          "line": [
+            "100 Westmount Rd"
+          ],
+          "city": "Guelph",
+          "state": "ON",
+          "postalCode": "N1H 5H8"
+        },
+        "position": {
+          "longitude": -80.2719,
+          "latitude": 43.5502
+        }
+      }
+    ],
+    "contact_info": "phone: 519-824-6000 ext 4415, fax: 519-767-3437, email: info@sjhcg.ca, url: www.sjhcg.ca/our-programs-of-care/community-support-services/overnight-stay/",
+    "description_of_this": "Short-term caregiver relief program to support older adults who live in their own home but require temporary accommodation due to frailty, depression, social isolation and / or dementia. Services include:<br><ul><li>24-hour supervision and monitoring (RPN staff available)</li><li>assessment and individual program planning</li><li>supervised therapeutic social and recreational activities</li><li>care coordination</li><li>education and counselling</li><li>community liaison and advocacy</li><li>adult day program</li><li>supper club</li></ul>, Codes: $42.28 per night, Features: Wheelchair Accessible, Languages: English, Referral: Call for eligibility inquiries and consultation * referrals through Ontario Health atHome Waterloo-Wellington, family members, friends, neighbours, health and social service agencies, or medical practitioners, Address: 100 Westmount Rd, Guelph, ON, N1H 5H8, Location: lat: 43.5502, lon: -80.2719"
+  }
+]

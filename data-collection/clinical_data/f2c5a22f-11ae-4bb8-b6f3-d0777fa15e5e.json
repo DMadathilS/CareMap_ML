@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Silvercreek Walk-In Clinic",
+    "active": true,
+    "category": [
+      "Walk-In Medical Clinics"
+    ],
+    "comment": "Walk-in medical clinic * doctors and nurses assess and treat minor illnesses and injuries<br><br>Located in Rexall Pharmacy",
+    "serviceProvisionCode": [
+      "Most services covered by OHIP"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>f2c5a22f-11ae-4bb8-b6f3-d0777fa15e5e</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Guelph</p><p>physical-location-postalcode</p><p>N1H 6S4</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>152002</p><p>true</p><p>Walk-In Medical Clinics</p><p>Location/0cc85941-2fd1-4863-ae11-875c71525216</p><p>Location</p><p>Silvercreek Walk-In Clinic</p><p>Walk-in medical clinic * doctors and nurses assess and treat minor illnesses and injuries&lt;br&gt;&lt;br&gt;Located in Rexall Pharmacy</p><p>Location/15ec420e-c3fd-4d9b-b5e5-fbb95f77129e</p><p>Location</p><p>Most services covered by OHIP</p><p>People needing primary medical care</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>Visit * no referral required</p></div>",
+    "eligibility": [
+      "People needing primary medical care"
+    ],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [
+      "Visit * no referral required"
+    ],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "Clinic: 519-822-9363<br>Pharmacy: 519-822-8000"
+          },
+          {
+            "fax": "Clinic: 519-840-0861<br>Pharmacy: 519-822-8600"
+          },
+          {
+            "email": "silvercreekmedicalclinic@gmail.com"
+          },
+          {
+            "url": "www.silvercreekwalkin.com"
+          }
+        ],
+        "address": {
+          "line": [
+            "105 Silvercreek Pkwy N, Suite 103"
+          ],
+          "city": "Guelph",
+          "state": "ON",
+          "postalCode": "N1H 6S4"
+        },
+        "position": {
+          "longitude": -80.278924,
+          "latitude": 43.539146
+        }
+      }
+    ],
+    "contact_info": "phone: Clinic: 519-822-9363<br>Pharmacy: 519-822-8000, fax: Clinic: 519-840-0861<br>Pharmacy: 519-822-8600, email: silvercreekmedicalclinic@gmail.com, url: www.silvercreekwalkin.com",
+    "description_of_this": "Walk-in medical clinic * doctors and nurses assess and treat minor illnesses and injuries<br><br>Located in Rexall Pharmacy, Codes: Most services covered by OHIP, Features: Wheelchair Accessible, Languages: English, Referral: Visit * no referral required, Address: 105 Silvercreek Pkwy N, Suite 103, Guelph, ON, N1H 6S4, Location: lat: 43.539146, lon: -80.278924, Contact: phone: Clinic: 519-822-9363<br>Pharmacy: 519-822-8000, fax: Clinic: 519-840-0861<br>Pharmacy: 519-822-8600, email: silvercreekmedicalclinic@gmail.com, url: www.silvercreekwalkin.com"
+  }
+]

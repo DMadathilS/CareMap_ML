@@ -1,0 +1,54 @@
+[
+  {
+    "name": "Shoppers Drug Mart - Cambridge - Holiday Inn Dr",
+    "active": true,
+    "category": [
+      "Pharmacies"
+    ],
+    "comment": "General pharmacy<ul><li> treatment and prescription of medications for common medical \nailments, including rashes, pink eye, insect bites, acne, and urinary \ntract infections<br></li><li> prescription of COVID-19 antiviral treatment (Paxlovid)</li><li>certified diabetes educator (CDE) available for consultations</li><li>free seasonal flu vaccines</li><li>medication placed in blister packs (sealed, push-through packaging used to separate doses) at no extra cost</li><li>basic home health care supplies<br><br></li></ul><b>Pharmacy Smoking Cessation Program</b> - Help to quit smoking, available for Ontario Drug Benefit recipients <br><br><b>MedsCheck</b> - Appointments to review complex prescriptions with a pharmacist<br><br><b>Sharps Disposal Program</b> - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips",
+    "serviceProvisionCode": [
+      "Dispensing fee plus medication costs * prescribed medications may be covered by OHIP"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>fbdf6544-db73-4703-8d69-4d141bf1ba2b</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Cambridge</p><p>physical-location-postalcode</p><p>N3C 1Z3</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>209167</p><p>true</p><p>Pharmacies</p><p>Location/4e048bdf-3b60-4132-b722-62f587d46b66</p><p>Location</p><p>Shoppers Drug Mart - Cambridge - Holiday Inn Dr</p><p>General pharmacy&lt;ul&gt;&lt;li&gt; treatment and prescription of medications for common medical \nailments, including rashes, pink eye, insect bites, acne, and urinary \ntract infections&lt;br&gt;&lt;/li&gt;&lt;li&gt; prescription of COVID-19 antiviral treatment (Paxlovid)&lt;/li&gt;&lt;li&gt;certified diabetes educator (CDE) available for consultations&lt;/li&gt;&lt;li&gt;free seasonal flu vaccines&lt;/li&gt;&lt;li&gt;medication placed in blister packs (sealed, push-through packaging used to separate doses) at no extra cost&lt;/li&gt;&lt;li&gt;basic home health care supplies&lt;br&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;b&gt;Pharmacy Smoking Cessation Program&lt;/b&gt; - Help to quit smoking, available for Ontario Drug Benefit recipients &lt;br&gt;&lt;br&gt;&lt;b&gt;MedsCheck&lt;/b&gt; - Appointments to review complex prescriptions with a pharmacist&lt;br&gt;&lt;br&gt;&lt;b&gt;Sharps Disposal Program&lt;/b&gt; - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips</p><p>Location/3b4c1059-7d1d-4939-af07-5c969664676b</p><p>Location</p><p>Dispensing fee plus medication costs * prescribed medications may be covered by OHIP</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p></div>",
+    "eligibility": [],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-658-2860"
+          },
+          {
+            "fax": "519-658-6548"
+          },
+          {
+            "email": "asdm1096@shoppersdrugmart.ca"
+          },
+          {
+            "url": "www1.shoppersdrugmart.ca/en/store-locator/store/1096/pharmacy"
+          }
+        ],
+        "address": {
+          "line": [
+            "101 Holiday Inn Dr"
+          ],
+          "city": "Cambridge",
+          "state": "ON",
+          "postalCode": "N3C 1Z3"
+        },
+        "position": {
+          "longitude": -80.3244,
+          "latitude": 43.4192
+        }
+      }
+    ],
+    "contact_info": "phone: 519-658-2860, fax: 519-658-6548, email: asdm1096@shoppersdrugmart.ca, url: www1.shoppersdrugmart.ca/en/store-locator/store/1096/pharmacy",
+    "description_of_this": "General pharmacy<ul><li> treatment and prescription of medications for common medical \nailments, including rashes, pink eye, insect bites, acne, and urinary \ntract infections<br></li><li> prescription of COVID-19 antiviral treatment (Paxlovid)</li><li>certified diabetes educator (CDE) available for consultations</li><li>free seasonal flu vaccines</li><li>medication placed in blister packs (sealed, push-through packaging used to separate doses) at no extra cost</li><li>basic home health care supplies<br><br></li></ul><b>Pharmacy Smoking Cessation Program</b> - Help to quit smoking, available for Ontario Drug Benefit recipients <br><br><b>MedsCheck</b> - Appointments to review complex prescriptions with a pharmacist<br><br><b>Sharps Disposal Program</b> - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips, Codes: Dispensing fee plus medication costs * prescribed medications may be covered by OHIP, Features: Wheelchair Accessible, Languages: English, Address: 101 Holiday Inn Dr, Cambridge, ON, N3C 1Z3, Location: lat: 43.4192, lon: -80.3244, Contact: phone: 519-658-2860, fax: 519-658-6548, email: asdm1096@shoppersdrugmart.ca, url: www1.shoppersdrugmart.ca/en/store-locator/store/1096/pharmacy"
+  }
+]

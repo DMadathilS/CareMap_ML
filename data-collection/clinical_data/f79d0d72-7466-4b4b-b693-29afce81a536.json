@@ -1,0 +1,54 @@
+[
+  {
+    "name": "Shoppers Drug Mart - Kitchener - Highland Rd W (Highland Park Shopping Centre)",
+    "active": true,
+    "category": [
+      "Pharmacies"
+    ],
+    "comment": "General pharmacy<ul><li> treatment and prescription of medications for common medical \nailments, including rashes, pink eye, insect bites, acne, and urinary \ntract infections<br></li><li> prescription of COVID-19 antiviral treatment (Paxlovid)</li><li>free seasonal flu vaccines</li><li>medication placed in blister packs (sealed, push-through packaging used to separate doses) at no extra cost</li><li>basic home health care supplies</li><li>pharmacist available for diabetes management consultations<br><br></li></ul><b>Pharmacy Smoking Cessation Program</b> - Help to quit smoking, available for Ontario Drug Benefit recipients <br><br><b>MedsCheck</b> - Appointments to review complex prescriptions with a pharmacist<br><br><b>Sharps Disposal Program</b> - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips",
+    "serviceProvisionCode": [
+      "Dispensing fee plus medication costs * prescribed medications may be covered by OHIP"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>f79d0d72-7466-4b4b-b693-29afce81a536</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Kitchener</p><p>physical-location-postalcode</p><p>N2M 5K2</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>209166</p><p>true</p><p>Pharmacies</p><p>Location/44994455-2677-4b80-a501-a9169063f725</p><p>Location</p><p>Shoppers Drug Mart - Kitchener - Highland Rd W (Highland Park Shopping Centre)</p><p>General pharmacy&lt;ul&gt;&lt;li&gt; treatment and prescription of medications for common medical \nailments, including rashes, pink eye, insect bites, acne, and urinary \ntract infections&lt;br&gt;&lt;/li&gt;&lt;li&gt; prescription of COVID-19 antiviral treatment (Paxlovid)&lt;/li&gt;&lt;li&gt;free seasonal flu vaccines&lt;/li&gt;&lt;li&gt;medication placed in blister packs (sealed, push-through packaging used to separate doses) at no extra cost&lt;/li&gt;&lt;li&gt;basic home health care supplies&lt;/li&gt;&lt;li&gt;pharmacist available for diabetes management consultations&lt;br&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;b&gt;Pharmacy Smoking Cessation Program&lt;/b&gt; - Help to quit smoking, available for Ontario Drug Benefit recipients &lt;br&gt;&lt;br&gt;&lt;b&gt;MedsCheck&lt;/b&gt; - Appointments to review complex prescriptions with a pharmacist&lt;br&gt;&lt;br&gt;&lt;b&gt;Sharps Disposal Program&lt;/b&gt; - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips</p><p>Location/c7fffc79-4a0e-4a78-bda2-49c764dee181</p><p>Location</p><p>Dispensing fee plus medication costs * prescribed medications may be covered by OHIP</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p></div>",
+    "eligibility": [],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-744-7851"
+          },
+          {
+            "fax": "519-744-7189"
+          },
+          {
+            "email": "asdm731@shoppersdrugmart.ca"
+          },
+          {
+            "url": "www1.shoppersdrugmart.ca/en/store-locator/store/731/"
+          }
+        ],
+        "address": {
+          "line": [
+            "563 Highland Rd W"
+          ],
+          "city": "Kitchener",
+          "state": "ON",
+          "postalCode": "N2M 5K2"
+        },
+        "position": {
+          "longitude": -80.5166,
+          "latitude": 43.4342
+        }
+      }
+    ],
+    "contact_info": "phone: 519-744-7851, fax: 519-744-7189, email: asdm731@shoppersdrugmart.ca, url: www1.shoppersdrugmart.ca/en/store-locator/store/731/",
+    "description_of_this": "General pharmacy<ul><li> treatment and prescription of medications for common medical \nailments, including rashes, pink eye, insect bites, acne, and urinary \ntract infections<br></li><li> prescription of COVID-19 antiviral treatment (Paxlovid)</li><li>free seasonal flu vaccines</li><li>medication placed in blister packs (sealed, push-through packaging used to separate doses) at no extra cost</li><li>basic home health care supplies</li><li>pharmacist available for diabetes management consultations<br><br></li></ul><b>Pharmacy Smoking Cessation Program</b> - Help to quit smoking, available for Ontario Drug Benefit recipients <br><br><b>MedsCheck</b> - Appointments to review complex prescriptions with a pharmacist<br><br><b>Sharps Disposal Program</b> - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips, Codes: Dispensing fee plus medication costs * prescribed medications may be covered by OHIP, Features: Wheelchair Accessible, Languages: English, Address: 563 Highland Rd W, Kitchener, ON, N2M 5K2, Location: lat: 43.4342, lon: -80.5166, Contact: phone: 519-744-7851, fax: 519-744-7189, email: asdm731@shoppersdrugmart.ca, url: www1.shoppersdrugmart.ca/en/store-locator/store/731/"
+  }
+]

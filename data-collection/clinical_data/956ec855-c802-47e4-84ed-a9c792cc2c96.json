@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Waterloo Region - Public Health and Emergency Services",
+    "active": true,
+    "category": [
+      "Sexual Health Clinics",
+      "Sexual Health Clinics - Anonymous Testing"
+    ],
+    "comment": "Sexual health counselling and clinic services * health professionals test for and treat sexually transmitted infections * contraceptive services<br><ul><li>sexuality and relationship counselling</li><li>birth control (women 24 years and under)<br></li><li>pregnancy testing, options and referrals</li><li>post-therapeutic abortion follow up <br></li><li>sexually transmitted infection testing and information<br></li><li>initial assessment and treatment for genital warts (HPV)</li><li>general sexual health information</li></ul>",
+    "serviceProvisionCode": [
+      "Free"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>956ec855-c802-47e4-84ed-a9c792cc2c96</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Waterloo</p><p>physical-location-postalcode</p><p>N2J 4V3</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>174843</p><p>true</p><p>Sexual Health Clinics</p><p>Sexual Health Clinics - Anonymous Testing</p><p>Location/4538d947-b53c-4063-b230-56220991b1f8</p><p>Location</p><p>Waterloo Region - Public Health and Emergency Services</p><p>Sexual health counselling and clinic services * health professionals test for and treat sexually transmitted infections * contraceptive services&lt;br&gt;&lt;ul&gt;&lt;li&gt;sexuality and relationship counselling&lt;/li&gt;&lt;li&gt;birth control (women 24 years and under)&lt;br&gt;&lt;/li&gt;&lt;li&gt;pregnancy testing, options and referrals&lt;/li&gt;&lt;li&gt;post-therapeutic abortion follow up &lt;br&gt;&lt;/li&gt;&lt;li&gt;sexually transmitted infection testing and information&lt;br&gt;&lt;/li&gt;&lt;li&gt;initial assessment and treatment for genital warts (HPV)&lt;/li&gt;&lt;li&gt;general sexual health information&lt;/li&gt;&lt;/ul&gt;</p><p>Location/8e5879a5-4d07-4b54-ba2d-28270f3f9ac9</p><p>Location</p><p>Free</p><p>People who need sexual health services</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>Call * no referral required * appointment required</p></div>",
+    "eligibility": [
+      "People who need sexual health services"
+    ],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [
+      "Call * no referral required * appointment required"
+    ],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-883-2267"
+          },
+          {
+            "phone": "519-883-2427"
+          },
+          {
+            "fax": "519-883-4038"
+          },
+          {
+            "email": "publichealth@regionofwaterloo.ca"
+          },
+          {
+            "url": "www.regionofwaterloo.ca/en/health-and-wellness/sexual-health-services.aspx"
+          }
+        ],
+        "address": {
+          "line": [
+            "99 Regina St S"
+          ],
+          "city": "Waterloo",
+          "state": "ON",
+          "postalCode": "N2J 4V3"
+        },
+        "position": {
+          "longitude": -80.5208,
+          "latitude": 43.4629
+        }
+      }
+    ],
+    "contact_info": "phone: 519-883-2267, phone: 519-883-2427, fax: 519-883-4038, email: publichealth@regionofwaterloo.ca, url: www.regionofwaterloo.ca/en/health-and-wellness/sexual-health-services.aspx",
+    "description_of_this": "Sexual health counselling and clinic services * health professionals test for and treat sexually transmitted infections * contraceptive services<br><ul><li>sexuality and relationship counselling</li><li>birth control (women 24 years and under)<br></li><li>pregnancy testing, options and referrals</li><li>post-therapeutic abortion follow up <br></li><li>sexually transmitted infection testing and information<br></li><li>initial assessment and treatment for genital warts (HPV)</li><li>general sexual health information</li></ul>, Codes: Free, Features: Wheelchair Accessible, Languages: English, Referral: Call * no referral required * appointment required, Address: 99 Regina St S, Waterloo, ON, N2J 4V3, Location: lat: 43.4629, lon: -80.5208"
+  }
+]

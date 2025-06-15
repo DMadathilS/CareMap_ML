@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Cambridge Memorial Hospital",
+    "active": true,
+    "category": [
+      "Hospitals"
+    ],
+    "comment": "Community hospital with inpatient and outpatient clinics<br><br><b>Services include:</b><br><ul><li>acute care</li><li>ambulatory services</li><li>continuing care and rehabilitation<br></li><li>family and child health</li><li>oncology</li><li>mental health</li><li>surgical services</li><li>fracture clinic</li><li>pain block clinic</li><li>sleep disorders clinic</li><li>spiritual care<br><br></li></ul>Diagnostic imaging clinic on-site <br><ul><li>x-ray</li><li>magnetic resonance imaging (MRI)</li><li>computerized tomography (CT scan)<br></li></ul>\n<br><b>Emergency Department Wait Times:</b> <a href=\"https://www.cmh.org/services/emergency-department/wait-time-clock\" target=\"_blank\">www.cmh.org/services/emergency-department/wait-time-clock</a><BR><BR><B>Services and Programs:</B><UL><LI>Ambulatory and Community Health - Seniors Health Services</LI><LI>Children's Care - Paediatrics</LI><LI>Diabetes Education Program</LI><LI>Emergency Department</LI><LI>Laboratory Services</LI><LI>Mental Health Services</LI><LI>Spiritual Care</LI><LI>Women and Children's Health</LI></UL>",
+    "serviceProvisionCode": [
+      "Most services covered by OHIP"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>e5dd92e9-c5e9-43d4-a7c6-69674a15182e</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Cambridge</p><p>physical-location-postalcode</p><p>N1R 3G2</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>100236</p><p>true</p><p>Hospitals</p><p>Location/3fcb2974-1a0e-45fd-a8ba-0071bf1d6e76</p><p>Location</p><p>Cambridge Memorial Hospital</p><p>Community hospital with inpatient and outpatient clinics&lt;br&gt;&lt;br&gt;&lt;b&gt;Services include:&lt;/b&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;acute care&lt;/li&gt;&lt;li&gt;ambulatory services&lt;/li&gt;&lt;li&gt;continuing care and rehabilitation&lt;br&gt;&lt;/li&gt;&lt;li&gt;family and child health&lt;/li&gt;&lt;li&gt;oncology&lt;/li&gt;&lt;li&gt;mental health&lt;/li&gt;&lt;li&gt;surgical services&lt;/li&gt;&lt;li&gt;fracture clinic&lt;/li&gt;&lt;li&gt;pain block clinic&lt;/li&gt;&lt;li&gt;sleep disorders clinic&lt;/li&gt;&lt;li&gt;spiritual care&lt;br&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;Diagnostic imaging clinic on-site &lt;br&gt;&lt;ul&gt;&lt;li&gt;x-ray&lt;/li&gt;&lt;li&gt;magnetic resonance imaging (MRI)&lt;/li&gt;&lt;li&gt;computerized tomography (CT scan)&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;\n&lt;br&gt;&lt;b&gt;Emergency Department Wait Times:&lt;/b&gt; &lt;a href=&quot;https://www.cmh.org/services/emergency-department/wait-time-clock&quot; target=&quot;_blank&quot;&gt;www.cmh.org/services/emergency-department/wait-time-clock&lt;/a&gt;&lt;BR&gt;&lt;BR&gt;&lt;B&gt;Services and Programs:&lt;/B&gt;&lt;UL&gt;&lt;LI&gt;Ambulatory and Community Health - Seniors Health Services&lt;/LI&gt;&lt;LI&gt;Children's Care - Paediatrics&lt;/LI&gt;&lt;LI&gt;Diabetes Education Program&lt;/LI&gt;&lt;LI&gt;Emergency Department&lt;/LI&gt;&lt;LI&gt;Laboratory Services&lt;/LI&gt;&lt;LI&gt;Mental Health Services&lt;/LI&gt;&lt;LI&gt;Spiritual Care&lt;/LI&gt;&lt;LI&gt;Women and Children's Health&lt;/LI&gt;&lt;/UL&gt;</p><p>Location/72eb4207-c01e-42c1-9c1e-59803f519e11</p><p>Location</p><p>Most services covered by OHIP</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>Walk in for emergency department * medical referral and appointment required for most other services</p></div>",
+    "eligibility": [],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [
+      "Walk in for emergency department * medical referral and appointment required for most other services"
+    ],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-621-2330"
+          },
+          {
+            "phone": "519-621-9180"
+          },
+          {
+            "phone": "Call <b>911</b> in emergencies"
+          },
+          {
+            "fax": "519-740-4938"
+          },
+          {
+            "email": "information@cmh.org"
+          },
+          {
+            "url": "www.cmh.org"
+          }
+        ],
+        "address": {
+          "line": [
+            "700 Coronation Blvd"
+          ],
+          "city": "Cambridge",
+          "state": "ON",
+          "postalCode": "N1R 3G2"
+        },
+        "position": {
+          "longitude": -80.328989,
+          "latitude": 43.379233
+        }
+      }
+    ],
+    "contact_info": "phone: 519-621-2330, phone: 519-621-9180, phone: Call <b>911</b> in emergencies, fax: 519-740-4938, email: information@cmh.org, url: www.cmh.org",
+    "description_of_this": "Community hospital with inpatient and outpatient clinics<br><br><b>Services include:</b><br><ul><li>acute care</li><li>ambulatory services</li><li>continuing care and rehabilitation<br></li><li>family and child health</li><li>oncology</li><li>mental health</li><li>surgical services</li><li>fracture clinic</li><li>pain block clinic</li><li>sleep disorders clinic</li><li>spiritual care<br><br></li></ul>Diagnostic imaging clinic on-site <br><ul><li>x-ray</li><li>magnetic resonance imaging (MRI)</li><li>computerized tomography (CT scan)<br></li></ul>\n<br><b>Emergency Department Wait Times:</b> <a href=\"https://www.cmh.org/services/emergency-department/wait-time-clock\" target=\"_blank\">www.cmh.org/services/emergency-department/wait-time-clock</a><BR><BR><B>Services and Programs:</B><UL><LI>Ambulatory and Community Health - Seniors Health Services</LI><LI>Children's Care - Paediatrics</LI><LI>Diabetes Education Program</LI><LI>Emergency Department</LI><LI>Laboratory Services</LI><LI>Mental Health Services</LI><LI>Spiritual Care</LI><LI>Women and Children's Health</LI></UL>, Codes: Most services covered by OHIP, Features: Wheelchair Accessible, Languages: English, Referral: Walk in for emergency department * medical referral and appointment required for most other services, Address: 700 Coronation Blvd, Cambridge, ON, N1R 3G2, Location: lat: 43.379233, lon: -80.328989, Contact: phone: 519-621-2330, phone: 519-621-9180, phone: Call <b>911</b> in emergencies, fax: 519-740-4938, email: information@cmh.org, url: www.cmh.org"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Two Rivers Family Health Team - HealthLink Family Practice",
+    "active": true,
+    "category": [
+      "Family Health Teams"
+    ],
+    "comment": "Medical care team focused on family and community health * coordinates \npatient care in order to assess and treat injuries or illness * primary health care team includes family physicians, nurse practitioners, nurses, pharmacists, dietitians, social workers, occupational therapist, physiotherapist, psychologist and psychiatrist",
+    "serviceProvisionCode": [
+      "Most services covered by OHIP"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>5fecbbf4-4dfa-449c-8851-40824762e409</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Cambridge</p><p>physical-location-postalcode</p><p>N1R 7L7</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>160282</p><p>true</p><p>Family Health Teams</p><p>Location/a88a6f54-c1bb-4f9a-8e3a-fb8bd02f361e</p><p>Location</p><p>Two Rivers Family Health Team - HealthLink Family Practice</p><p>Medical care team focused on family and community health * coordinates \npatient care in order to assess and treat injuries or illness * primary health care team includes family physicians, nurse practitioners, nurses, pharmacists, dietitians, social workers, occupational therapist, physiotherapist, psychologist and psychiatrist</p><p>Location/73c32066-d9fe-4fcd-989c-e5055aadd774</p><p>Location</p><p>Most services covered by OHIP</p><p>Registered patients</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>Call for appointment</p></div>",
+    "eligibility": [
+      "Registered patients"
+    ],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [
+      "Call for appointment"
+    ],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-740-5010"
+          },
+          {
+            "fax": "519-740-6010"
+          },
+          {
+            "email": "admin@tworiversfht.ca"
+          },
+          {
+            "url": "www.tworiversfht.ca"
+          }
+        ],
+        "address": {
+          "line": [
+            "350 Conestoga Blvd, Unit B10"
+          ],
+          "city": "Cambridge",
+          "state": "ON",
+          "postalCode": "N1R 7L7"
+        },
+        "position": {
+          "longitude": -80.313299,
+          "latitude": 43.390407
+        }
+      }
+    ],
+    "contact_info": "phone: 519-740-5010, fax: 519-740-6010, email: admin@tworiversfht.ca, url: www.tworiversfht.ca",
+    "description_of_this": "Medical care team focused on family and community health * coordinates \npatient care in order to assess and treat injuries or illness * primary health care team includes family physicians, nurse practitioners, nurses, pharmacists, dietitians, social workers, occupational therapist, physiotherapist, psychologist and psychiatrist, Codes: Most services covered by OHIP, Features: Wheelchair Accessible, Languages: English, Referral: Call for appointment, Address: 350 Conestoga Blvd, Unit B10, Cambridge, ON, N1R 7L7, Location: lat: 43.390407, lon: -80.313299"
+  }
+]

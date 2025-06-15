@@ -1,0 +1,54 @@
+[
+  {
+    "name": "Casey's Pharmacy",
+    "active": true,
+    "category": [
+      "Pharmacies"
+    ],
+    "comment": "Compounding pharmacy<ul><li>treatment and prescription of medications for common medical ailments, including rashes, pink eye, insect bites, acne, and urinary tract infections</li><li>prescription of COVID-19 antiviral treatment (Paxlovid)</li><li>medication placed in blister packs (sealed, push-through packaging used to separate doses)</li><li>home health care supplies</li><li>addiction treatment clinic</li></ul>",
+    "serviceProvisionCode": [
+      "Dispensing fee plus medication costs * prescribed medications may be covered by OHIP"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>79cfaa3c-7878-4291-85bb-1ed6100b4a1e</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Cambridge</p><p>physical-location-postalcode</p><p>N1R 4S1</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>208582</p><p>true</p><p>Pharmacies</p><p>Location/b377aae5-fde4-4e50-9125-0f101c9bc4de</p><p>Location</p><p>Casey's Pharmacy</p><p>Compounding pharmacy&lt;ul&gt;&lt;li&gt;treatment and prescription of medications for common medical ailments, including rashes, pink eye, insect bites, acne, and urinary tract infections&lt;/li&gt;&lt;li&gt;prescription of COVID-19 antiviral treatment (Paxlovid)&lt;/li&gt;&lt;li&gt;medication placed in blister packs (sealed, push-through packaging used to separate doses)&lt;/li&gt;&lt;li&gt;home health care supplies&lt;/li&gt;&lt;li&gt;addiction treatment clinic&lt;/li&gt;&lt;/ul&gt;</p><p>Location/fb7e0e02-87b3-4ff8-873d-f743ea7a3299</p><p>Location</p><p>Dispensing fee plus medication costs * prescribed medications may be covered by OHIP</p><p>Not Applicable</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p></div>",
+    "eligibility": [],
+    "characteristic": [
+      "Not Applicable"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-622-2350<br>MMT Clinic: 519-267-7855"
+          },
+          {
+            "fax": "519-622-2353 or 519-622-8739<br>MMT Clinic: 519-267-7955"
+          },
+          {
+            "email": "casey.pharmacy@gmail.com"
+          },
+          {
+            "url": "brierdale.com/"
+          }
+        ],
+        "address": {
+          "line": [
+            "115 Christopher Dr, Unit 120"
+          ],
+          "city": "Cambridge",
+          "state": "ON",
+          "postalCode": "N1R 4S1"
+        },
+        "position": {
+          "longitude": -80.2989,
+          "latitude": 43.3473
+        }
+      }
+    ],
+    "contact_info": "phone: 519-622-2350<br>MMT Clinic: 519-267-7855, fax: 519-622-2353 or 519-622-8739<br>MMT Clinic: 519-267-7955, email: casey.pharmacy@gmail.com, url: brierdale.com/",
+    "description_of_this": "Compounding pharmacy<ul><li>treatment and prescription of medications for common medical ailments, including rashes, pink eye, insect bites, acne, and urinary tract infections</li><li>prescription of COVID-19 antiviral treatment (Paxlovid)</li><li>medication placed in blister packs (sealed, push-through packaging used to separate doses)</li><li>home health care supplies</li><li>addiction treatment clinic</li></ul>, Codes: Dispensing fee plus medication costs * prescribed medications may be covered by OHIP, Features: Not Applicable, Languages: English, Address: 115 Christopher Dr, Unit 120, Cambridge, ON, N1R 4S1, Location: lat: 43.3473, lon: -80.2989"
+  }
+]

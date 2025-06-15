@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Lutheran Homes Kitchener-Waterloo - Trinity Village Care Centre - Adult Day Program",
+    "active": true,
+    "category": [
+      "Adult Day Programs"
+    ],
+    "comment": "Adult day program * social, recreational, and therapeutic activities for older adults, people with disabilities and for people with Alzheimer's disease and other related \ndementia in a group setting for part of the day * helps to support family caregivers who provide day-to-day care<br><ul><li>meals</li><li>daily exercise programs</li></ul>",
+    "serviceProvisionCode": [
+      "$21 per day * subsidy available for eligible participants * additional fee for transportation"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>1b2e6947-dfa4-4ec9-9aaa-3ca78584cd59</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Kitchener</p><p>physical-location-postalcode</p><p>N2C 1A7</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>208425</p><p>true</p><p>Adult Day Programs</p><p>Location/bbbe7352-0bfb-4959-8a87-732530582173</p><p>Location</p><p>Lutheran Homes Kitchener-Waterloo - Trinity Village Care Centre - Adult Day Program</p><p>Adult day program * social, recreational, and therapeutic activities for older adults, people with disabilities and for people with Alzheimer's disease and other related \ndementia in a group setting for part of the day * helps to support family caregivers who provide day-to-day care&lt;br&gt;&lt;ul&gt;&lt;li&gt;meals&lt;/li&gt;&lt;li&gt;daily exercise programs&lt;/li&gt;&lt;/ul&gt;</p><p>Location/b219ed6c-d4b6-4f62-83e2-915fbe7689b7</p><p>Location</p><p>$21 per day * subsidy available for eligible participants * additional fee for transportation</p><p>Older adults and adults with disabilities, who need physical, social, or emotional supports * care coordinators assess the needs of applicants</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>Contact Ontario Health atHome Waterloo-Wellington</p></div>",
+    "eligibility": [
+      "Older adults and adults with disabilities, who need physical, social, or emotional supports * care coordinators assess the needs of applicants"
+    ],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [
+      "Contact Ontario Health atHome Waterloo-Wellington"
+    ],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-893-6320 ext 235"
+          },
+          {
+            "fax": "519-893-3432"
+          },
+          {
+            "email": "adpcoordinator@trinityvillage.com"
+          },
+          {
+            "url": "trinityvillage.com/adult-day-program"
+          }
+        ],
+        "address": {
+          "line": [
+            "2727 Kingsway Dr"
+          ],
+          "city": "Kitchener",
+          "state": "ON",
+          "postalCode": "N2C 1A7"
+        },
+        "position": {
+          "longitude": -80.4418,
+          "latitude": 43.4298
+        }
+      }
+    ],
+    "contact_info": "phone: 519-893-6320 ext 235, fax: 519-893-3432, email: adpcoordinator@trinityvillage.com, url: trinityvillage.com/adult-day-program",
+    "description_of_this": "Adult day program * social, recreational, and therapeutic activities for older adults, people with disabilities and for people with Alzheimer's disease and other related \ndementia in a group setting for part of the day * helps to support family caregivers who provide day-to-day care<br><ul><li>meals</li><li>daily exercise programs</li></ul>, Codes: $21 per day * subsidy available for eligible participants * additional fee for transportation, Features: Wheelchair Accessible, Languages: English, Referral: Contact Ontario Health atHome Waterloo-Wellington, Address: 2727 Kingsway Dr, Kitchener, ON, N2C 1A7, Location: lat: 43.4298, lon: -80.4418"
+  }
+]

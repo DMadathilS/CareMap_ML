@@ -1,0 +1,63 @@
+[
+  {
+    "name": "Caressant Care - Cambridge Country Manor",
+    "active": true,
+    "category": [
+      "Long-Term Care Homes"
+    ],
+    "comment": "61-bed long-term care home * 24-hour nursing and personal care * access to a doctor and other health professionals<br><ul><li>bedding and furniture</li><li>laundry and housekeeping</li><li>meals</li><li>personal hygiene supplies</li><li>medical supplies and equipment (such as catheters, ostomy bags, or wound care supplies) </li><li>assistance with medication and activities of daily living</li><li>recreation and social programs</li></ul>",
+    "serviceProvisionCode": [
+      "Rates set by the Ontario Ministry of Long-Term Care * subsidies for basic rates may be available for eligible applicants"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>9a2672f0-50c1-456a-b5e5-a5b8c5d25af8</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Cambridge</p><p>physical-location-postalcode</p><p>N3H 4R6</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>100392</p><p>true</p><p>Long-Term Care Homes</p><p>Location/e190f0ec-6e7b-4bfc-aa69-3d25a56b5c8b</p><p>Location</p><p>Caressant Care - Cambridge Country Manor</p><p>61-bed long-term care home * 24-hour nursing and personal care * access to a doctor and other health professionals&lt;br&gt;&lt;ul&gt;&lt;li&gt;bedding and furniture&lt;/li&gt;&lt;li&gt;laundry and housekeeping&lt;/li&gt;&lt;li&gt;meals&lt;/li&gt;&lt;li&gt;personal hygiene supplies&lt;/li&gt;&lt;li&gt;medical supplies and equipment (such as catheters, ostomy bags, or wound care supplies) &lt;/li&gt;&lt;li&gt;assistance with medication and activities of daily living&lt;/li&gt;&lt;li&gt;recreation and social programs&lt;/li&gt;&lt;/ul&gt;</p><p>Location/7f5ffbdd-604c-4883-87f4-1eb4ad2db978</p><p>Location</p><p>Rates set by the Ontario Ministry of Long-Term Care * subsidies for basic rates may be available for eligible applicants</p><p>Adults who need long-term care * care coordinators assess the needs of applicants</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>pol</p><p>Polish</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>por</p><p>Portuguese</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>pan</p><p>Punjabi</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>ron</p><p>Romanian</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>spa</p><p>Spanish</p><p>Contact Ontario Health atHome Waterloo-Wellington</p></div>",
+    "eligibility": [
+      "Adults who need long-term care * care coordinators assess the needs of applicants"
+    ],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English",
+      "Polish",
+      "Portuguese",
+      "Punjabi",
+      "Romanian",
+      "Spanish"
+    ],
+    "referralMethod": [
+      "Contact Ontario Health atHome Waterloo-Wellington"
+    ],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-650-0100"
+          },
+          {
+            "fax": "519-650-1413"
+          },
+          {
+            "email": "mduncan@caressantcare.com"
+          },
+          {
+            "url": "caressantcare.com/cambridge-country-manor-home"
+          }
+        ],
+        "address": {
+          "line": [
+            "3680 Speedsville Rd"
+          ],
+          "city": "Cambridge",
+          "state": "ON",
+          "postalCode": "N3H 4R6"
+        },
+        "position": {
+          "longitude": -80.357752,
+          "latitude": 43.455272
+        }
+      }
+    ],
+    "contact_info": "phone: 519-650-0100, fax: 519-650-1413, email: mduncan@caressantcare.com, url: caressantcare.com/cambridge-country-manor-home",
+    "description_of_this": "61-bed long-term care home * 24-hour nursing and personal care * access to a doctor and other health professionals<br><ul><li>bedding and furniture</li><li>laundry and housekeeping</li><li>meals</li><li>personal hygiene supplies</li><li>medical supplies and equipment (such as catheters, ostomy bags, or wound care supplies) </li><li>assistance with medication and activities of daily living</li><li>recreation and social programs</li></ul>, Codes: Rates set by the Ontario Ministry of Long-Term Care * subsidies for basic rates may be available for eligible applicants, Features: Wheelchair Accessible, Languages: English, Polish, Portuguese, Punjabi, Romanian, Spanish, Referral: Contact Ontario Health atHome Waterloo-Wellington, Address: 3680 Speedsville Rd, Cambridge, ON, N3H 4R6, Location: lat: 43.455272, lon: -80.357752"
+  }
+]

@@ -1,0 +1,55 @@
+[
+  {
+    "name": "Guelph Family Health Team - Dawson Road Family Medical Clinic - After Hours",
+    "active": true,
+    "category": [
+      "Walk-In Medical Clinics"
+    ],
+    "comment": "Family health team with associated after-hours clinic * doctors and nurses assess and treat minor illnesses and injuries",
+    "serviceProvisionCode": [
+      "Most services covered by OHIP"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>c2af4623-a60a-46b8-bbd8-a5d8c5036b42</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Guelph</p><p>physical-location-postalcode</p><p>N1H 1B1</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>212761</p><p>true</p><p>Walk-In Medical Clinics</p><p>Location/758bcb5f-a8f8-4806-af6c-a5fd0471bcd2</p><p>Location</p><p>Guelph Family Health Team - Dawson Road Family Medical Clinic - After Hours</p><p>Family health team with associated after-hours clinic * doctors and nurses assess and treat minor illnesses and injuries</p><p>Location/2fb30a00-d7d9-4ded-b193-12ecd95202aa</p><p>Location</p><p>Most services covered by OHIP</p><p>Registered patients</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>Call for appointment</p></div>",
+    "eligibility": [
+      "Registered patients"
+    ],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [
+      "Call for appointment"
+    ],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-766-1360"
+          },
+          {
+            "fax": "519-766-0469"
+          },
+          {
+            "url": "www.dawsonroadfamilymedicalclinic.com/after-hours-clinic"
+          }
+        ],
+        "address": {
+          "line": [
+            "83 Dawson Rd, Suite 101"
+          ],
+          "city": "Guelph",
+          "state": "ON",
+          "postalCode": "N1H 1B1"
+        },
+        "position": {
+          "longitude": -80.2768,
+          "latitude": 43.5502
+        }
+      }
+    ],
+    "contact_info": "phone: 519-766-1360, fax: 519-766-0469, url: www.dawsonroadfamilymedicalclinic.com/after-hours-clinic",
+    "description_of_this": "Family health team with associated after-hours clinic * doctors and nurses assess and treat minor illnesses and injuries, Codes: Most services covered by OHIP, Features: Wheelchair Accessible, Languages: English, Referral: Call for appointment, Address: 83 Dawson Rd, Suite 101, Guelph, ON, N1H 1B1, Location: lat: 43.5502, lon: -80.2768, Contact: phone: 519-766-1360, fax: 519-766-0469, url: www.dawsonroadfamilymedicalclinic.com/after-hours-clinic"
+  }
+]

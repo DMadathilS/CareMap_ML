@@ -1,0 +1,61 @@
+[
+  {
+    "name": "Waterloo Region - Public Health and Emergency Services",
+    "active": true,
+    "category": [
+      "Public Health Units"
+    ],
+    "comment": "Health agency that addresses public health issues and promotes healthy living\n\n<ul><li> immunization and screening for communicable diseases</li><li> health education programs</li><li> family and child health</li><li> dental health</li><li> sexual health</li><li> injury prevention</li><li> environmental health</li><li> physical activity</li><li> public health standards enforcement</li><li> research and population-based health research</li></ul><BR><BR><B>Services and Programs:</B><UL><LI>Cambridge Office</LI><LI>Child and Family Health</LI><LI>Dental Health Program</LI><LI>Harm Reduction and Needle Syringe Program</LI><LI>Health Protection and Investigation</LI><LI>Immunization Clinic</LI><LI>Infectious Diseases</LI><LI>Paramedic Services</LI><LI>Peer Program</LI><LI>Sexual Health Program</LI><LI>Tuberculosis Skin Test Clinic</LI><LI>Young Adults and Smoking Cessation</LI></UL>",
+    "serviceProvisionCode": [
+      "Varies by program"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>2b63157e-169e-485a-bdba-7b8ce043bd59</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Waterloo</p><p>physical-location-postalcode</p><p>N2J 4V3</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>103017</p><p>true</p><p>Public Health Units</p><p>Location/74dc4e3f-f6d7-4d74-9bd7-349860f5acd0</p><p>Location</p><p>Waterloo Region - Public Health and Emergency Services</p><p>Health agency that addresses public health issues and promotes healthy living\n\n&lt;ul&gt;&lt;li&gt; immunization and screening for communicable diseases&lt;/li&gt;&lt;li&gt; health education programs&lt;/li&gt;&lt;li&gt; family and child health&lt;/li&gt;&lt;li&gt; dental health&lt;/li&gt;&lt;li&gt; sexual health&lt;/li&gt;&lt;li&gt; injury prevention&lt;/li&gt;&lt;li&gt; environmental health&lt;/li&gt;&lt;li&gt; physical activity&lt;/li&gt;&lt;li&gt; public health standards enforcement&lt;/li&gt;&lt;li&gt; research and population-based health research&lt;/li&gt;&lt;/ul&gt;&lt;BR&gt;&lt;BR&gt;&lt;B&gt;Services and Programs:&lt;/B&gt;&lt;UL&gt;&lt;LI&gt;Cambridge Office&lt;/LI&gt;&lt;LI&gt;Child and Family Health&lt;/LI&gt;&lt;LI&gt;Dental Health Program&lt;/LI&gt;&lt;LI&gt;Harm Reduction and Needle Syringe Program&lt;/LI&gt;&lt;LI&gt;Health Protection and Investigation&lt;/LI&gt;&lt;LI&gt;Immunization Clinic&lt;/LI&gt;&lt;LI&gt;Infectious Diseases&lt;/LI&gt;&lt;LI&gt;Paramedic Services&lt;/LI&gt;&lt;LI&gt;Peer Program&lt;/LI&gt;&lt;LI&gt;Sexual Health Program&lt;/LI&gt;&lt;LI&gt;Tuberculosis Skin Test Clinic&lt;/LI&gt;&lt;LI&gt;Young Adults and Smoking Cessation&lt;/LI&gt;&lt;/UL&gt;</p><p>Location/7bebcdde-cb02-4fa5-93f8-8d82879c3681</p><p>Location</p><p>Varies by program</p><p>Varies depending on service</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>Call or visit * no referral required * appointments or registration required for certain programs or classes</p></div>",
+    "eligibility": [
+      "Varies depending on service"
+    ],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [
+      "Call or visit * no referral required * appointments or registration required for certain programs or classes"
+    ],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-575-4400"
+          },
+          {
+            "phone": "519-575-4608"
+          },
+          {
+            "fax": "519-575-4481"
+          },
+          {
+            "email": "publichealth@regionofwaterloo.ca"
+          },
+          {
+            "url": "www.regionofwaterloo.ca/en/public-health-and-emergency-services.aspx"
+          }
+        ],
+        "address": {
+          "line": [
+            "99 Regina St S"
+          ],
+          "city": "Waterloo",
+          "state": "ON",
+          "postalCode": "N2J 4V3"
+        },
+        "position": {
+          "longitude": -80.520869,
+          "latitude": 43.463311
+        }
+      }
+    ],
+    "contact_info": "phone: 519-575-4400, phone: 519-575-4608, fax: 519-575-4481, email: publichealth@regionofwaterloo.ca, url: www.regionofwaterloo.ca/en/public-health-and-emergency-services.aspx",
+    "description_of_this": "Health agency that addresses public health issues and promotes healthy living\n\n<ul><li> immunization and screening for communicable diseases</li><li> health education programs</li><li> family and child health</li><li> dental health</li><li> sexual health</li><li> injury prevention</li><li> environmental health</li><li> physical activity</li><li> public health standards enforcement</li><li> research and population-based health research</li></ul><BR><BR><B>Services and Programs:</B><UL><LI>Cambridge Office</LI><LI>Child and Family Health</LI><LI>Dental Health Program</LI><LI>Harm Reduction and Needle Syringe Program</LI><LI>Health Protection and Investigation</LI><LI>Immunization Clinic</LI><LI>Infectious Diseases</LI><LI>Paramedic Services</LI><LI>Peer Program</LI><LI>Sexual Health Program</LI><LI>Tuberculosis Skin Test Clinic</LI><LI>Young Adults and Smoking Cessation</LI></UL>, Codes: Varies by program, Features: Wheelchair Accessible, Languages: English, Referral: Call or visit * no referral required * appointments or registration required for certain programs or classes, Address: 99 Regina St S, Waterloo, ON, N2J 4V3, Location: lat: 43.463311, lon: -80.520869"
+  }
+]

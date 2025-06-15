@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Rexall Pharma Plus - Cambridge (Canamera)",
+    "active": true,
+    "category": [
+      "Pharmacies"
+    ],
+    "comment": "General pharmacy<ul><li> treatment and prescription of medications for common medical \nailments, including rashes, pink eye, insect bites, acne, and urinary \ntract infections<br></li><li> prescription of COVID-19 antiviral treatment (Paxlovid)</li><li>medication placed in blister packs (sealed, push-through packaging used to separate doses) at no extra cost</li><li> certified diabetes educator (CDE) available for consultations</li><li> free delivery for prescriptions\n </li><li>free seasonal flu vaccines</li><li> free take-home naloxone kits (emergency response kits for opioid overdose)</li><li>A1C diabetes testing</li><li>compression stockings fittings<br></li></ul><b><br></b><b>MedsCheck</b> - Appointments to review complex prescriptions with a pharmacist\n<b><br></b><b><br></b><b>Medications Return Program</b> - Safe disposal of expired or unused medications, creams, and inhalers<br><br>\n<b>Sharps Disposal Program</b> - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips",
+    "serviceProvisionCode": [
+      "Dispensing fee plus medication costs * prescribed medications may be covered by OHIP"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>dcd73840-4f12-4601-bebe-2a97e8b88b1f</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Cambridge</p><p>physical-location-postalcode</p><p>N1R 7L7</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>209113</p><p>true</p><p>Pharmacies</p><p>Location/f3dc7c11-47c0-49c3-8c65-193293853c34</p><p>Location</p><p>Rexall Pharma Plus - Cambridge (Canamera)</p><p>General pharmacy&lt;ul&gt;&lt;li&gt; treatment and prescription of medications for common medical \nailments, including rashes, pink eye, insect bites, acne, and urinary \ntract infections&lt;br&gt;&lt;/li&gt;&lt;li&gt; prescription of COVID-19 antiviral treatment (Paxlovid)&lt;/li&gt;&lt;li&gt;medication placed in blister packs (sealed, push-through packaging used to separate doses) at no extra cost&lt;/li&gt;&lt;li&gt; certified diabetes educator (CDE) available for consultations&lt;/li&gt;&lt;li&gt; free delivery for prescriptions\n &lt;/li&gt;&lt;li&gt;free seasonal flu vaccines&lt;/li&gt;&lt;li&gt; free take-home naloxone kits (emergency response kits for opioid overdose)&lt;/li&gt;&lt;li&gt;A1C diabetes testing&lt;/li&gt;&lt;li&gt;compression stockings fittings&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;b&gt;MedsCheck&lt;/b&gt; - Appointments to review complex prescriptions with a pharmacist\n&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;b&gt;Medications Return Program&lt;/b&gt; - Safe disposal of expired or unused medications, creams, and inhalers&lt;br&gt;&lt;br&gt;\n&lt;b&gt;Sharps Disposal Program&lt;/b&gt; - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips</p><p>Location/179951dc-3274-4309-ac74-eca79af272e8</p><p>Location</p><p>Dispensing fee plus medication costs * prescribed medications may be covered by OHIP</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>ell</p><p>Greek</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>ita</p><p>Italian</p></div>",
+    "eligibility": [],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English",
+      "Greek",
+      "Italian"
+    ],
+    "referralMethod": [],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-620-8228"
+          },
+          {
+            "fax": "519-620-9228"
+          },
+          {
+            "email": "8169rx@rexall.ca"
+          },
+          {
+            "url": "www.rexall.ca/storelocator/store/8169"
+          }
+        ],
+        "address": {
+          "line": [
+            "350 Conestoga Blvd, Unit B 7-8"
+          ],
+          "city": "Cambridge",
+          "state": "ON",
+          "postalCode": "N1R 7L7"
+        },
+        "position": {
+          "longitude": -80.3137,
+          "latitude": 43.39
+        }
+      }
+    ],
+    "contact_info": "phone: 519-620-8228, fax: 519-620-9228, email: 8169rx@rexall.ca, url: www.rexall.ca/storelocator/store/8169",
+    "description_of_this": "General pharmacy<ul><li> treatment and prescription of medications for common medical \nailments, including rashes, pink eye, insect bites, acne, and urinary \ntract infections<br></li><li> prescription of COVID-19 antiviral treatment (Paxlovid)</li><li>medication placed in blister packs (sealed, push-through packaging used to separate doses) at no extra cost</li><li> certified diabetes educator (CDE) available for consultations</li><li> free delivery for prescriptions\n </li><li>free seasonal flu vaccines</li><li> free take-home naloxone kits (emergency response kits for opioid overdose)</li><li>A1C diabetes testing</li><li>compression stockings fittings<br></li></ul><b><br></b><b>MedsCheck</b> - Appointments to review complex prescriptions with a pharmacist\n<b><br></b><b><br></b><b>Medications Return Program</b> - Safe disposal of expired or unused medications, creams, and inhalers<br><br>\n<b>Sharps Disposal Program</b> - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips, Codes: Dispensing fee plus medication costs * prescribed medications may be covered by OHIP, Features: Wheelchair Accessible, Languages: English, Greek, Italian, Address: 350 Conestoga Blvd, Unit B 7-8, Cambridge, ON, N1R 7L7, Location: lat: 43.39, lon: -80.3137, Contact: phone: 519-620-8228, fax: 519-620-9228, email: 8169rx@rexall.ca, url: www.rexall.ca/storelocator/store/8169"
+  }
+]

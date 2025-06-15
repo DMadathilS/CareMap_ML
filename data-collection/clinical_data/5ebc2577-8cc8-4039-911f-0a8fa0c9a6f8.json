@@ -1,0 +1,54 @@
+[
+  {
+    "name": "Medicine Shoppe (The) - St George",
+    "active": true,
+    "category": [
+      "Pharmacies"
+    ],
+    "comment": "General pharmacy<br><ul><li>free delivery of prescriptions</li><li>pharmacist available for diabetes management consultations<br></li><li>free seasonal flu vaccines</li><li>medication placed in blister packs (sealed, push-through packaging used to separate doses)</li><li>mental health services<br></li></ul><br><b>Medications Return Program</b> - Safe disposal of expired or unused medications, creams, and inhalers<br><br><b>MedsCheck</b> - Appointments to review complex prescriptions with a pharmacist<br><br><b>Sharps Disposal Program</b> - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips",
+    "serviceProvisionCode": [
+      "Dispensing fee plus medication costs * prescribed medications may be covered by OHIP"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>5ebc2577-8cc8-4039-911f-0a8fa0c9a6f8</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>St George</p><p>physical-location-postalcode</p><p>N0E 1N0</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>182416</p><p>true</p><p>Pharmacies</p><p>Location/1c225813-06f5-4f78-8289-6932677184aa</p><p>Location</p><p>Medicine Shoppe (The) - St George</p><p>General pharmacy&lt;br&gt;&lt;ul&gt;&lt;li&gt;free delivery of prescriptions&lt;/li&gt;&lt;li&gt;pharmacist available for diabetes management consultations&lt;br&gt;&lt;/li&gt;&lt;li&gt;free seasonal flu vaccines&lt;/li&gt;&lt;li&gt;medication placed in blister packs (sealed, push-through packaging used to separate doses)&lt;/li&gt;&lt;li&gt;mental health services&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;b&gt;Medications Return Program&lt;/b&gt; - Safe disposal of expired or unused medications, creams, and inhalers&lt;br&gt;&lt;br&gt;&lt;b&gt;MedsCheck&lt;/b&gt; - Appointments to review complex prescriptions with a pharmacist&lt;br&gt;&lt;br&gt;&lt;b&gt;Sharps Disposal Program&lt;/b&gt; - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips</p><p>Location/c5ab33fa-bb5d-43be-adee-115343b37621</p><p>Location</p><p>Dispensing fee plus medication costs * prescribed medications may be covered by OHIP</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p></div>",
+    "eligibility": [],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-448-1368"
+          },
+          {
+            "fax": "519-448-1728"
+          },
+          {
+            "email": "ms0214@store.medicineshoppe.ca"
+          },
+          {
+            "url": "www.medicineshoppe.ca/en/ontario/st-georges/the-medicine-shoppe-pharmacy-214-7010054"
+          }
+        ],
+        "address": {
+          "line": [
+            "69 Main St S, Units B C"
+          ],
+          "city": "St George",
+          "state": "ON",
+          "postalCode": "N0E 1N0"
+        },
+        "position": {
+          "longitude": -80.2522,
+          "latitude": 43.2419
+        }
+      }
+    ],
+    "contact_info": "phone: 519-448-1368, fax: 519-448-1728, email: ms0214@store.medicineshoppe.ca, url: www.medicineshoppe.ca/en/ontario/st-georges/the-medicine-shoppe-pharmacy-214-7010054",
+    "description_of_this": "General pharmacy<br><ul><li>free delivery of prescriptions</li><li>pharmacist available for diabetes management consultations<br></li><li>free seasonal flu vaccines</li><li>medication placed in blister packs (sealed, push-through packaging used to separate doses)</li><li>mental health services<br></li></ul><br><b>Medications Return Program</b> - Safe disposal of expired or unused medications, creams, and inhalers<br><br><b>MedsCheck</b> - Appointments to review complex prescriptions with a pharmacist<br><br><b>Sharps Disposal Program</b> - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips, Codes: Dispensing fee plus medication costs * prescribed medications may be covered by OHIP, Features: Wheelchair Accessible, Languages: English, Address: 69 Main St S, Units B C, St George, ON, N0E 1N0, Location: lat: 43.2419, lon: -80.2522"
+  }
+]

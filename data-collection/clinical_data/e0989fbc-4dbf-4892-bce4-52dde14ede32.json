@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Remedy'sRx Pharmacy - Cambridge - Saginaw Pkwy (Cambridge Drugs)",
+    "active": true,
+    "category": [
+      "Pharmacies"
+    ],
+    "comment": "General pharmacy <br><ul><li>medication placed in pill organizers (containers for storing scheduled doses)</li><li> medication placed in blister packs (sealed, push-through packaging used to separate doses)</li><li>free seasonal flu vaccines <br></li><li> free take-home naloxone kits (emergency response kits for opioid overdose)</li><li>blood pressure monitoring</li><li>INR monitoring (International Normalized Ratio)</li><li>COVID-19 testing</li><li>COVID-19 vaccinations</li><li> treatment and prescription of medications for thirteen common medical \nailments, including rashes, pink eye, insect bites, and urinary tract \ninfections\n </li><li> prescription of COVID-19 antiviral treatment (Paxlovid)<br><br></li></ul><b>MedsCheck</b> - Appointments to review complex prescriptions with a pharmacist",
+    "serviceProvisionCode": [
+      "Dispensing fee plus medication costs * prescribed medications may be covered by OHIP"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>e0989fbc-4dbf-4892-bce4-52dde14ede32</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Cambridge</p><p>physical-location-postalcode</p><p>N1T 2A6</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>219713</p><p>true</p><p>Pharmacies</p><p>Location/9626544e-d5a0-460e-9a79-aef2d142989d</p><p>Location</p><p>Remedy'sRx Pharmacy - Cambridge - Saginaw Pkwy (Cambridge Drugs)</p><p>General pharmacy &lt;br&gt;&lt;ul&gt;&lt;li&gt;medication placed in pill organizers (containers for storing scheduled doses)&lt;/li&gt;&lt;li&gt; medication placed in blister packs (sealed, push-through packaging used to separate doses)&lt;/li&gt;&lt;li&gt;free seasonal flu vaccines &lt;br&gt;&lt;/li&gt;&lt;li&gt; free take-home naloxone kits (emergency response kits for opioid overdose)&lt;/li&gt;&lt;li&gt;blood pressure monitoring&lt;/li&gt;&lt;li&gt;INR monitoring (International Normalized Ratio)&lt;/li&gt;&lt;li&gt;COVID-19 testing&lt;/li&gt;&lt;li&gt;COVID-19 vaccinations&lt;/li&gt;&lt;li&gt; treatment and prescription of medications for thirteen common medical \nailments, including rashes, pink eye, insect bites, and urinary tract \ninfections\n &lt;/li&gt;&lt;li&gt; prescription of COVID-19 antiviral treatment (Paxlovid)&lt;br&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;b&gt;MedsCheck&lt;/b&gt; - Appointments to review complex prescriptions with a pharmacist</p><p>Location/469f4ecb-da45-4a6a-84d0-f29e46985883</p><p>Location</p><p>Dispensing fee plus medication costs * prescribed medications may be covered by OHIP</p><p>Not Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p></div>",
+    "eligibility": [],
+    "characteristic": [
+      "Not Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-624-2220"
+          },
+          {
+            "fax": "519-624-2221"
+          },
+          {
+            "url": "www.guardian-ida-remedysrx.ca/en/ontario/cambridge/cambridge-drugs-7055187"
+          }
+        ],
+        "address": {
+          "line": [
+            "525 Sagniaw Pkwy, Unit A3"
+          ],
+          "city": "Cambridge",
+          "state": "ON",
+          "postalCode": "N1T 2A6"
+        },
+        "position": {
+          "longitude": -80.2827,
+          "latitude": 43.39
+        }
+      }
+    ],
+    "contact_info": "phone: 519-624-2220, fax: 519-624-2221, url: www.guardian-ida-remedysrx.ca/en/ontario/cambridge/cambridge-drugs-7055187",
+    "description_of_this": "General pharmacy <br><ul><li>medication placed in pill organizers (containers for storing scheduled doses)</li><li> medication placed in blister packs (sealed, push-through packaging used to separate doses)</li><li>free seasonal flu vaccines <br></li><li> free take-home naloxone kits (emergency response kits for opioid overdose)</li><li>blood pressure monitoring</li><li>INR monitoring (International Normalized Ratio)</li><li>COVID-19 testing</li><li>COVID-19 vaccinations</li><li> treatment and prescription of medications for thirteen common medical \nailments, including rashes, pink eye, insect bites, and urinary tract \ninfections\n </li><li> prescription of COVID-19 antiviral treatment (Paxlovid)<br><br></li></ul><b>MedsCheck</b> - Appointments to review complex prescriptions with a pharmacist, Codes: Dispensing fee plus medication costs * prescribed medications may be covered by OHIP, Features: Not Wheelchair Accessible, Languages: English, Address: 525 Sagniaw Pkwy, Unit A3, Cambridge, ON, N1T 2A6, Location: lat: 43.39, lon: -80.2827, Contact: phone: 519-624-2220, fax: 519-624-2221, url: www.guardian-ida-remedysrx.ca/en/ontario/cambridge/cambridge-drugs-7055187"
+  }
+]

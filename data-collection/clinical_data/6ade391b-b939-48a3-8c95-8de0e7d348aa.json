@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Langs Pharmacy",
+    "active": true,
+    "category": [
+      "Pharmacies"
+    ],
+    "comment": "General pharmacy<ul><li>treatment and prescription of medications for common medical ailments, including rashes, pink eye, insect bites, acne, and urinary tract infections</li><li>prescription of COVID-19 antiviral treatment (Paxlovid)</li><li>medication placed in blister packs (sealed, push-through packaging used to separate doses) at no extra cost</li><li>free delivery for prescriptions\n </li><li>incontinence products<br></li><li>basic home health care supplies</li><li>free seasonal flu vaccines<br><br></li></ul><b>MedsCheck</b> - Appointments to review complex prescriptions with a pharmacist",
+    "serviceProvisionCode": [
+      "Dispensing fee plus medication costs * prescribed medications may be covered by OHIP"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>6ade391b-b939-48a3-8c95-8de0e7d348aa</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Cambridge</p><p>physical-location-postalcode</p><p>N3H 4L5</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>208751</p><p>true</p><p>Pharmacies</p><p>Location/b9417495-c220-41bc-aa23-b40aac26e744</p><p>Location</p><p>Langs Pharmacy</p><p>General pharmacy&lt;ul&gt;&lt;li&gt;treatment and prescription of medications for common medical ailments, including rashes, pink eye, insect bites, acne, and urinary tract infections&lt;/li&gt;&lt;li&gt;prescription of COVID-19 antiviral treatment (Paxlovid)&lt;/li&gt;&lt;li&gt;medication placed in blister packs (sealed, push-through packaging used to separate doses) at no extra cost&lt;/li&gt;&lt;li&gt;free delivery for prescriptions\n &lt;/li&gt;&lt;li&gt;incontinence products&lt;br&gt;&lt;/li&gt;&lt;li&gt;basic home health care supplies&lt;/li&gt;&lt;li&gt;free seasonal flu vaccines&lt;br&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;b&gt;MedsCheck&lt;/b&gt; - Appointments to review complex prescriptions with a pharmacist</p><p>Location/9433e151-8441-4539-8f45-6c45c5b6a135</p><p>Location</p><p>Dispensing fee plus medication costs * prescribed medications may be covered by OHIP</p><p>Partially Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p></div>",
+    "eligibility": [],
+    "characteristic": [
+      "Partially Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-653-3343"
+          },
+          {
+            "fax": "519-653-7168"
+          },
+          {
+            "email": "info@langspharmacy.ca"
+          }
+        ],
+        "address": {
+          "line": [
+            "1145 Concession Rd"
+          ],
+          "city": "Cambridge",
+          "state": "ON",
+          "postalCode": "N3H 4L5"
+        },
+        "position": {
+          "longitude": -80.3442,
+          "latitude": 43.397
+        }
+      }
+    ],
+    "contact_info": "phone: 519-653-3343, fax: 519-653-7168, email: info@langspharmacy.ca",
+    "description_of_this": "General pharmacy<ul><li>treatment and prescription of medications for common medical ailments, including rashes, pink eye, insect bites, acne, and urinary tract infections</li><li>prescription of COVID-19 antiviral treatment (Paxlovid)</li><li>medication placed in blister packs (sealed, push-through packaging used to separate doses) at no extra cost</li><li>free delivery for prescriptions\n </li><li>incontinence products<br></li><li>basic home health care supplies</li><li>free seasonal flu vaccines<br><br></li></ul><b>MedsCheck</b> - Appointments to review complex prescriptions with a pharmacist, Codes: Dispensing fee plus medication costs * prescribed medications may be covered by OHIP, Features: Partially Accessible, Languages: English, Address: 1145 Concession Rd, Cambridge, ON, N3H 4L5, Location: lat: 43.397, lon: -80.3442"
+  }
+]

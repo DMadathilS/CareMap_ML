@@ -1,0 +1,55 @@
+[
+  {
+    "name": "Evergreen Seniors Community Centre",
+    "active": true,
+    "category": [
+      "Seniors' Active Living Centres"
+    ],
+    "comment": "Recreation centre for older adults<ul><li>arthritis assistance</li><li>diabetes support group<br><br></li></ul><b>Diabetes Care Guelph Clinic - </b>Clinical support provided by a registered nurse and/or a registered dietitian<br><br><b>Foot Care Clinic - </b>Support provided by a registered practical nurse <br><br><b>Hearing Improvement Clinics - </b>A self-help program provided for people with hearing impairment and those that require coping with hearing loss",
+    "serviceProvisionCode": [
+      "Membership fees"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>68160e2d-cb71-4cbe-bc3e-003b386c065e</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Guelph</p><p>physical-location-postalcode</p><p>N1H 3Y8</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>210502</p><p>true</p><p>Seniors' Active Living Centres</p><p>Location/741b6e9a-4e1e-440f-ab4a-b551f5c5b4d0</p><p>Location</p><p>Evergreen Seniors Community Centre</p><p>Recreation centre for older adults&lt;ul&gt;&lt;li&gt;arthritis assistance&lt;/li&gt;&lt;li&gt;diabetes support group&lt;br&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;b&gt;Diabetes Care Guelph Clinic - &lt;/b&gt;Clinical support provided by a registered nurse and/or a registered dietitian&lt;br&gt;&lt;br&gt;&lt;b&gt;Foot Care Clinic - &lt;/b&gt;Support provided by a registered practical nurse &lt;br&gt;&lt;br&gt;&lt;b&gt;Hearing Improvement Clinics - &lt;/b&gt;A self-help program provided for people with hearing impairment and those that require coping with hearing loss</p><p>Location/87502a89-ebd3-45e2-82de-319aa36955c5</p><p>Location</p><p>Membership fees</p><p>Adults 55 years and older</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>Call or drop-in * no referral required</p></div>",
+    "eligibility": [
+      "Adults 55 years and older"
+    ],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [
+      "Call or drop-in * no referral required"
+    ],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-823-1291"
+          },
+          {
+            "fax": "519-823-8972"
+          },
+          {
+            "url": "gwsa-guelph.ca/"
+          }
+        ],
+        "address": {
+          "line": [
+            "683 Woolwich St"
+          ],
+          "city": "Guelph",
+          "state": "ON",
+          "postalCode": "N1H 3Y8"
+        },
+        "position": {
+          "longitude": -80.2697,
+          "latitude": 43.5605
+        }
+      }
+    ],
+    "contact_info": "phone: 519-823-1291, fax: 519-823-8972, url: gwsa-guelph.ca/",
+    "description_of_this": "Recreation centre for older adults<ul><li>arthritis assistance</li><li>diabetes support group<br><br></li></ul><b>Diabetes Care Guelph Clinic - </b>Clinical support provided by a registered nurse and/or a registered dietitian<br><br><b>Foot Care Clinic - </b>Support provided by a registered practical nurse <br><br><b>Hearing Improvement Clinics - </b>A self-help program provided for people with hearing impairment and those that require coping with hearing loss, Codes: Membership fees, Features: Wheelchair Accessible, Languages: English, Referral: Call or drop-in * no referral required, Address: 683 Woolwich St, Guelph, ON, N1H 3Y8, Location: lat: 43.5605, lon: -80.2697"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "name": "K-W Seniors Day Program",
+    "active": true,
+    "category": [
+      "Adult Day Programs"
+    ],
+    "comment": "Integrated adult day service that provides social and recreational supports and activities in a group setting for older adults",
+    "serviceProvisionCode": [
+      "$18 program fee per day, with subsidized rates available for eligible participants<br>$5 transportation fee (per trip) which can be arranged and provided * transportation fees are not subsidized"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>197b18ee-a39b-4f81-ad8d-b429a5354d64</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Kitchener</p><p>physical-location-postalcode</p><p>N2E 3K1</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>208356</p><p>true</p><p>Adult Day Programs</p><p>Location/f2ad2681-1431-4827-acc9-b0a13e608351</p><p>Location</p><p>K-W Seniors Day Program</p><p>Integrated adult day service that provides social and recreational supports and activities in a group setting for older adults</p><p>Location/1728971e-c225-4018-a88b-9f1a4e33f05d</p><p>Location</p><p>$18 program fee per day, with subsidized rates available for eligible participants&lt;br&gt;$5 transportation fee (per trip) which can be arranged and provided * transportation fees are not subsidized</p><p>Older adults, who need physical, social, or emotional supports * care coordinators assess the needs of applicants</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>Contact Ontario Health atHome Waterloo-Wellington</p></div>",
+    "eligibility": [
+      "Older adults, who need physical, social, or emotional supports * care coordinators assess the needs of applicants"
+    ],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [
+      "Contact Ontario Health atHome Waterloo-Wellington"
+    ],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-893-1609"
+          },
+          {
+            "email": "inquiry@k-wseniorsdayprogram.ca"
+          },
+          {
+            "url": "www.k-wseniorsdayprogram.ca"
+          }
+        ],
+        "address": {
+          "line": [
+            "The Village of Winston Park",
+            "695 Block Line Rd"
+          ],
+          "city": "Kitchener",
+          "state": "ON",
+          "postalCode": "N2E 3K1"
+        },
+        "position": {
+          "longitude": -80.4981,
+          "latitude": 43.4099
+        }
+      }
+    ],
+    "contact_info": "phone: 519-893-1609, email: inquiry@k-wseniorsdayprogram.ca, url: www.k-wseniorsdayprogram.ca",
+    "description_of_this": "Integrated adult day service that provides social and recreational supports and activities in a group setting for older adults, Codes: $18 program fee per day, with subsidized rates available for eligible participants<br>$5 transportation fee (per trip) which can be arranged and provided * transportation fees are not subsidized, Features: Wheelchair Accessible, Languages: English, Referral: Contact Ontario Health atHome Waterloo-Wellington, Address: The Village of Winston Park, 695 Block Line Rd, Kitchener, ON, N2E 3K1, Location: lat: 43.4099, lon: -80.4981"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "name": "NorthPark Pharmacy",
+    "active": true,
+    "category": [
+      "Pharmacies"
+    ],
+    "comment": "Compounding pharmacy<ul><li>treatment and prescription of medications for common medical ailments, including rashes, pink eye, insect bites, acne, and urinary tract infections</li><li>prescription of COVID-19 antiviral treatment (Paxlovid)</li><li>opioid addiction treatment</li><li>travel consultations</li><li>free seasonal flu vaccines</li><li>vaccinations</li><li>INR tests</li><li>compression stockings</li><li>Ideal Protein weight loss</li><li>certified diabetes educator (CDE) available for consultations</li><li>free delivery for prescriptions\n </li></ul>\n<br>\n<b>Pharmacy Smoking Cessation Program</b> - Help to quit smoking, available for Ontario Drug Benefit recipients<br><br><b>MedsCheck</b> - Appointments to review complex prescriptions with a pharmacist <br><br><b>Sharps Disposal Program</b> - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips",
+    "serviceProvisionCode": [
+      "Dispensing fee plus medication costs * prescribed medications may be covered by OHIP"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>99f9ce30-b1db-41f3-a0a5-4d131056323d</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Waterloo</p><p>physical-location-postalcode</p><p>N2K 3P9</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>188901</p><p>true</p><p>Pharmacies</p><p>Location/1ab845a9-d323-47fc-b59f-c535269a047b</p><p>Location</p><p>NorthPark Pharmacy</p><p>Compounding pharmacy&lt;ul&gt;&lt;li&gt;treatment and prescription of medications for common medical ailments, including rashes, pink eye, insect bites, acne, and urinary tract infections&lt;/li&gt;&lt;li&gt;prescription of COVID-19 antiviral treatment (Paxlovid)&lt;/li&gt;&lt;li&gt;opioid addiction treatment&lt;/li&gt;&lt;li&gt;travel consultations&lt;/li&gt;&lt;li&gt;free seasonal flu vaccines&lt;/li&gt;&lt;li&gt;vaccinations&lt;/li&gt;&lt;li&gt;INR tests&lt;/li&gt;&lt;li&gt;compression stockings&lt;/li&gt;&lt;li&gt;Ideal Protein weight loss&lt;/li&gt;&lt;li&gt;certified diabetes educator (CDE) available for consultations&lt;/li&gt;&lt;li&gt;free delivery for prescriptions\n &lt;/li&gt;&lt;/ul&gt;\n&lt;br&gt;\n&lt;b&gt;Pharmacy Smoking Cessation Program&lt;/b&gt; - Help to quit smoking, available for Ontario Drug Benefit recipients&lt;br&gt;&lt;br&gt;&lt;b&gt;MedsCheck&lt;/b&gt; - Appointments to review complex prescriptions with a pharmacist &lt;br&gt;&lt;br&gt;&lt;b&gt;Sharps Disposal Program&lt;/b&gt; - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips</p><p>Location/cbfa7431-ba48-496f-aafe-040c8193c147</p><p>Location</p><p>Dispensing fee plus medication costs * prescribed medications may be covered by OHIP</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>ara</p><p>Arabic</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>srp</p><p>Serbian</p></div>",
+    "eligibility": [],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English",
+      "Arabic",
+      "Serbian"
+    ],
+    "referralMethod": [],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-885-7000"
+          },
+          {
+            "fax": "519-885-7088"
+          },
+          {
+            "email": "northparkpharmacywaterloo@gmail.com"
+          },
+          {
+            "url": "northparkpharmacy.ca/5198857000"
+          }
+        ],
+        "address": {
+          "line": [
+            "99 Northfield Dr E, Unit 100, Lower Level"
+          ],
+          "city": "Waterloo",
+          "state": "ON",
+          "postalCode": "N2K 3P9"
+        },
+        "position": {
+          "longitude": -80.5259,
+          "latitude": 43.5049
+        }
+      }
+    ],
+    "contact_info": "phone: 519-885-7000, fax: 519-885-7088, email: northparkpharmacywaterloo@gmail.com, url: northparkpharmacy.ca/5198857000",
+    "description_of_this": "Compounding pharmacy<ul><li>treatment and prescription of medications for common medical ailments, including rashes, pink eye, insect bites, acne, and urinary tract infections</li><li>prescription of COVID-19 antiviral treatment (Paxlovid)</li><li>opioid addiction treatment</li><li>travel consultations</li><li>free seasonal flu vaccines</li><li>vaccinations</li><li>INR tests</li><li>compression stockings</li><li>Ideal Protein weight loss</li><li>certified diabetes educator (CDE) available for consultations</li><li>free delivery for prescriptions\n </li></ul>\n<br>\n<b>Pharmacy Smoking Cessation Program</b> - Help to quit smoking, available for Ontario Drug Benefit recipients<br><br><b>MedsCheck</b> - Appointments to review complex prescriptions with a pharmacist <br><br><b>Sharps Disposal Program</b> - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips, Codes: Dispensing fee plus medication costs * prescribed medications may be covered by OHIP, Features: Wheelchair Accessible, Languages: English, Arabic, Serbian, Address: 99 Northfield Dr E, Unit 100, Lower Level, Waterloo, ON, N2K 3P9, Location: lat: 43.5049, lon: -80.5259"
+  }
+]

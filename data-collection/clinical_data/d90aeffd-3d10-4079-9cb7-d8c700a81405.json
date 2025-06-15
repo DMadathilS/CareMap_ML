@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Independent Living Waterloo Region - Attendant Services",
+    "active": true,
+    "category": [
+      "Home Help and Homemaking"
+    ],
+    "comment": "Assistance with activities of daily living, including personal care, light housekeeping, and meal preparation * services are assessed based on the needs of the individual and resources available",
+    "serviceProvisionCode": [
+      "Varies per program"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>d90aeffd-3d10-4079-9cb7-d8c700a81405</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Kitchener</p><p>physical-location-postalcode</p><p>N2G 2B4</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>211457</p><p>true</p><p>Home Help and Homemaking</p><p>Location/68cb522b-dcb8-4ad4-b500-72cc584ae7ff</p><p>Location</p><p>Independent Living Waterloo Region - Attendant Services</p><p>Assistance with activities of daily living, including personal care, light housekeeping, and meal preparation * services are assessed based on the needs of the individual and resources available</p><p>Location/285a5d62-da85-44e1-9192-fdb50dae078c</p><p>Location</p><p>Varies per program</p><p>Older adults and adults with disabilities</p><p>Not Applicable</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>Call * no referral required * in-home assessment required for service</p></div>",
+    "eligibility": [
+      "Older adults and adults with disabilities"
+    ],
+    "characteristic": [
+      "Not Applicable"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [
+      "Call * no referral required * in-home assessment required for service"
+    ],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-571-6788"
+          },
+          {
+            "fax": "519-571-6388"
+          },
+          {
+            "email": "info@ilwr.ca"
+          },
+          {
+            "url": "ilwr.ca/attendant-outreach/"
+          }
+        ],
+        "address": {
+          "line": [
+            "127 Victoria St S, Suite 201"
+          ],
+          "city": "Kitchener",
+          "state": "ON",
+          "postalCode": "N2G 2B4"
+        },
+        "position": {
+          "longitude": -80.5008,
+          "latitude": 43.4495
+        }
+      }
+    ],
+    "contact_info": "phone: 519-571-6788, fax: 519-571-6388, email: info@ilwr.ca, url: ilwr.ca/attendant-outreach/",
+    "description_of_this": "Assistance with activities of daily living, including personal care, light housekeeping, and meal preparation * services are assessed based on the needs of the individual and resources available, Codes: Varies per program, Features: Not Applicable, Languages: English, Referral: Call * no referral required * in-home assessment required for service, Address: 127 Victoria St S, Suite 201, Kitchener, ON, N2G 2B4, Location: lat: 43.4495, lon: -80.5008, Contact: phone: 519-571-6788, fax: 519-571-6388, email: info@ilwr.ca, url: ilwr.ca/attendant-outreach/"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Traverse Independence - Acquired Brain Injury Services - Slow to Recover Group Home",
+    "active": true,
+    "category": [
+      "Acquired Brain Injury Services",
+      "Supportive Housing"
+    ],
+    "comment": "Community-based support and rehabilitation services for adults living with the effects of an acquired brain injury<br><br>\n<b>Assisted Living Services</b> - Assisted living supports for people up to 24 hours per day",
+    "serviceProvisionCode": [
+      "Free"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>867c2e75-17d8-489f-9478-401c70008e3f</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Kitchener</p><p>physical-location-postalcode</p><p>N2K 3V9</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>208522</p><p>true</p><p>Acquired Brain Injury Services</p><p>Supportive Housing</p><p>Location/c37bc8cd-d227-4f53-a150-3ec9ec67f4f5</p><p>Location</p><p>Traverse Independence - Acquired Brain Injury Services - Slow to Recover Group Home</p><p>Community-based support and rehabilitation services for adults living with the effects of an acquired brain injury&lt;br&gt;&lt;br&gt;\n&lt;b&gt;Assisted Living Services&lt;/b&gt; - Assisted living supports for people up to 24 hours per day</p><p>Location/5d64079f-1f4f-4b1f-9b7d-2ec504789aa9</p><p>Location</p><p>Free</p><p>Adults and youth 16 years and older, living with the effects of an acquired brain injury</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>Call * pre-admission assessment required</p></div>",
+    "eligibility": [
+      "Adults and youth 16 years and older, living with the effects of an acquired brain injury"
+    ],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [
+      "Call * pre-admission assessment required"
+    ],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-741-5845"
+          },
+          {
+            "fax": "519-741-8731"
+          },
+          {
+            "url": "www.traverseindependence.ca/en/brain-injury-services/ABI-Group-Home.aspx"
+          }
+        ],
+        "address": {
+          "line": [
+            "120 Tagge St"
+          ],
+          "city": "Kitchener",
+          "state": "ON",
+          "postalCode": "N2K 3V9"
+        },
+        "position": {
+          "longitude": -80.5361,
+          "latitude": 43.4178
+        }
+      }
+    ],
+    "contact_info": "phone: 519-741-5845, fax: 519-741-8731, url: www.traverseindependence.ca/en/brain-injury-services/ABI-Group-Home.aspx",
+    "description_of_this": "Community-based support and rehabilitation services for adults living with the effects of an acquired brain injury<br><br>\n<b>Assisted Living Services</b> - Assisted living supports for people up to 24 hours per day, Codes: Free, Features: Wheelchair Accessible, Languages: English, Referral: Call * pre-admission assessment required, Address: 120 Tagge St, Kitchener, ON, N2K 3V9, Location: lat: 43.4178, lon: -80.5361"
+  }
+]

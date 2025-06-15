@@ -1,0 +1,54 @@
+[
+  {
+    "name": "PharmaChoice - Guelph (Guelph Discount Pharmacy)",
+    "active": true,
+    "category": [
+      "Pharmacies"
+    ],
+    "comment": "General pharmacy <br><ul><li>travel health consultations<br></li><li>diabetes support</li><li>pain relief consultations</li><li> treatment and prescription of medications for thirteen common medical \nailments, including rashes, pink eye, insect bites, and urinary tract \ninfections\n </li><li> prescription of COVID-19 antiviral treatment (Paxlovid)</li></ul><br>\n<b>Medications Return Program</b> - Safe disposal of expired or unused medications, creams, and inhalers<br><br><b>Sharps Disposal Program</b> - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips",
+    "serviceProvisionCode": [
+      "Dispensing fee plus medication costs * prescribed medications may be covered by OHIP"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>a6a33902-5f1c-4f15-84ca-59a74ae577e9</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Guelph</p><p>physical-location-postalcode</p><p>N1H 1G7</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>219727</p><p>true</p><p>Pharmacies</p><p>Location/f416fd8d-f3ed-468e-b08f-32947ea0d7a4</p><p>Location</p><p>PharmaChoice - Guelph (Guelph Discount Pharmacy)</p><p>General pharmacy &lt;br&gt;&lt;ul&gt;&lt;li&gt;travel health consultations&lt;br&gt;&lt;/li&gt;&lt;li&gt;diabetes support&lt;/li&gt;&lt;li&gt;pain relief consultations&lt;/li&gt;&lt;li&gt; treatment and prescription of medications for thirteen common medical \nailments, including rashes, pink eye, insect bites, and urinary tract \ninfections\n &lt;/li&gt;&lt;li&gt; prescription of COVID-19 antiviral treatment (Paxlovid)&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;\n&lt;b&gt;Medications Return Program&lt;/b&gt; - Safe disposal of expired or unused medications, creams, and inhalers&lt;br&gt;&lt;br&gt;&lt;b&gt;Sharps Disposal Program&lt;/b&gt; - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips</p><p>Location/d5244dc9-9893-40a4-b7dd-d596a30536f3</p><p>Location</p><p>Dispensing fee plus medication costs * prescribed medications may be covered by OHIP</p><p>Not Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p></div>",
+    "eligibility": [],
+    "characteristic": [
+      "Not Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-265-8991"
+          },
+          {
+            "fax": "519-265-8995"
+          },
+          {
+            "email": "guelphdiscount@gmail.com"
+          },
+          {
+            "url": "www.pharmachoice.com/locations/guelph-discount/"
+          }
+        ],
+        "address": {
+          "line": [
+            "20 Woodlawn Rd E, Unit 7"
+          ],
+          "city": "Guelph",
+          "state": "ON",
+          "postalCode": "N1H 1G7"
+        },
+        "position": {
+          "longitude": -80.2761,
+          "latitude": 43.5675
+        }
+      }
+    ],
+    "contact_info": "phone: 519-265-8991, fax: 519-265-8995, email: guelphdiscount@gmail.com, url: www.pharmachoice.com/locations/guelph-discount/",
+    "description_of_this": "General pharmacy <br><ul><li>travel health consultations<br></li><li>diabetes support</li><li>pain relief consultations</li><li> treatment and prescription of medications for thirteen common medical \nailments, including rashes, pink eye, insect bites, and urinary tract \ninfections\n </li><li> prescription of COVID-19 antiviral treatment (Paxlovid)</li></ul><br>\n<b>Medications Return Program</b> - Safe disposal of expired or unused medications, creams, and inhalers<br><br><b>Sharps Disposal Program</b> - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips, Codes: Dispensing fee plus medication costs * prescribed medications may be covered by OHIP, Features: Not Wheelchair Accessible, Languages: English, Address: 20 Woodlawn Rd E, Unit 7, Guelph, ON, N1H 1G7, Location: lat: 43.5675, lon: -80.2761"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Doctor Desai, Nimesh - Ophthalmology",
+    "active": true,
+    "category": [
+      "Ophthalmology Clinics"
+    ],
+    "comment": "Community-based eye care clinic * ophthalmologist (eye doctor) specializes in glaucoma and cataracts",
+    "serviceProvisionCode": [
+      "Services covered by OHIP"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>c754eadb-16dd-4f3b-90e4-ec7b9166ee35</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Kitchener</p><p>physical-location-postalcode</p><p>N2P 2G5</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>209995</p><p>true</p><p>Ophthalmology Clinics</p><p>Location/baf6595b-7773-4705-bd82-385c2560b3cd</p><p>Location</p><p>Doctor Desai, Nimesh - Ophthalmology</p><p>Community-based eye care clinic * ophthalmologist (eye doctor) specializes in glaucoma and cataracts</p><p>Location/62fde093-997c-45f6-8e53-ce7c06604663</p><p>Location</p><p>Services covered by OHIP</p><p>People with eye issues which require surgical intervention</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>Medical referral preferred</p></div>",
+    "eligibility": [
+      "People with eye issues which require surgical intervention"
+    ],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [
+      "Medical referral preferred"
+    ],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-804-8858"
+          },
+          {
+            "fax": "519-804-8860"
+          },
+          {
+            "email": "tcecreception@gmail.com"
+          },
+          {
+            "url": "www.waterlooeye.ca/surgeons/desai"
+          }
+        ],
+        "address": {
+          "line": [
+            "4278 King St E, Unit A"
+          ],
+          "city": "Kitchener",
+          "state": "ON",
+          "postalCode": "N2P 2G5"
+        },
+        "position": {
+          "longitude": -80.3974,
+          "latitude": 43.4107
+        }
+      }
+    ],
+    "contact_info": "phone: 519-804-8858, fax: 519-804-8860, email: tcecreception@gmail.com, url: www.waterlooeye.ca/surgeons/desai",
+    "description_of_this": "Community-based eye care clinic * ophthalmologist (eye doctor) specializes in glaucoma and cataracts, Codes: Services covered by OHIP, Features: Wheelchair Accessible, Languages: English, Referral: Medical referral preferred, Address: 4278 King St E, Unit A, Kitchener, ON, N2P 2G5, Location: lat: 43.4107, lon: -80.3974, Contact: phone: 519-804-8858, fax: 519-804-8860, email: tcecreception@gmail.com, url: www.waterlooeye.ca/surgeons/desai"
+  }
+]

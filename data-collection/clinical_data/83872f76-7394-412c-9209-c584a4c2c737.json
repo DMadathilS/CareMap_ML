@@ -1,0 +1,55 @@
+[
+  {
+    "name": "Monark Medical Clinic",
+    "active": true,
+    "category": [
+      "Pharmacies"
+    ],
+    "comment": "Medical care team focused on family health  * doctors and nurses assess and treat minor illnesses and injuries * registered patients only<br><ul>\n<li>pharmacy</li>\n<li>physiotherapy clinic</li>\n<li>pain clinic</li>\n<li>cosmetic clinic</li></ul>",
+    "serviceProvisionCode": [
+      "Most services covered by OHIP"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>83872f76-7394-412c-9209-c584a4c2c737</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Cambridge</p><p>physical-location-postalcode</p><p>N1R 7J2</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>187793</p><p>true</p><p>Pharmacies</p><p>Location/e07eb497-657b-4faf-8944-a3fb54de8cd8</p><p>Location</p><p>Monark Medical Clinic</p><p>Medical care team focused on family health  * doctors and nurses assess and treat minor illnesses and injuries * registered patients only&lt;br&gt;&lt;ul&gt;\n&lt;li&gt;pharmacy&lt;/li&gt;\n&lt;li&gt;physiotherapy clinic&lt;/li&gt;\n&lt;li&gt;pain clinic&lt;/li&gt;\n&lt;li&gt;cosmetic clinic&lt;/li&gt;&lt;/ul&gt;</p><p>Location/f6f49593-bdad-4911-b9df-1b1a69ce7a5a</p><p>Location</p><p>Most services covered by OHIP</p><p>Rostered Patients</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>Call for appointment for registered patients</p></div>",
+    "eligibility": [
+      "Rostered Patients"
+    ],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [
+      "Call for appointment for registered patients"
+    ],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-620-7044"
+          },
+          {
+            "fax": "519-620-3050"
+          },
+          {
+            "url": "www.monarkmedical.com"
+          }
+        ],
+        "address": {
+          "line": [
+            "1150 Franklin Blvd"
+          ],
+          "city": "Cambridge",
+          "state": "ON",
+          "postalCode": "N1R 7J2"
+        },
+        "position": {
+          "longitude": -80.3054,
+          "latitude": 43.4
+        }
+      }
+    ],
+    "contact_info": "phone: 519-620-7044, fax: 519-620-3050, url: www.monarkmedical.com",
+    "description_of_this": "Medical care team focused on family health  * doctors and nurses assess and treat minor illnesses and injuries * registered patients only<br><ul>\n<li>pharmacy</li>\n<li>physiotherapy clinic</li>\n<li>pain clinic</li>\n<li>cosmetic clinic</li></ul>, Codes: Most services covered by OHIP, Features: Wheelchair Accessible, Languages: English, Referral: Call for appointment for registered patients, Address: 1150 Franklin Blvd, Cambridge, ON, N1R 7J2, Location: lat: 43.4, lon: -80.3054"
+  }
+]

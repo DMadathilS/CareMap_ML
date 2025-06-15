@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Doctor Rodriguez, Sylvia - Ophthalmology",
+    "active": true,
+    "category": [
+      "Ophthalmology Clinics"
+    ],
+    "comment": "Community-based eye care clinic * ophthalmologist (eye doctor) specializes in glaucoma and cataracts",
+    "serviceProvisionCode": [
+      "Services covered by OHIP"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>5408b4a5-687c-425a-80bd-690556a046dc</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Guelph</p><p>physical-location-postalcode</p><p>N1H 1B1</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>209989</p><p>true</p><p>Ophthalmology Clinics</p><p>Location/a72f5c7b-579f-415b-b658-67c43a932477</p><p>Location</p><p>Doctor Rodriguez, Sylvia - Ophthalmology</p><p>Community-based eye care clinic * ophthalmologist (eye doctor) specializes in glaucoma and cataracts</p><p>Location/48610a92-a9b3-439f-93a5-b54e503d785d</p><p>Location</p><p>Services covered by OHIP</p><p>People with eye issues which require surgical intervention</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>spa</p><p>Spanish</p><p>Medical referral preferred</p></div>",
+    "eligibility": [
+      "People with eye issues which require surgical intervention"
+    ],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English",
+      "Spanish"
+    ],
+    "referralMethod": [
+      "Medical referral preferred"
+    ],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-265-9022"
+          },
+          {
+            "fax": "226-486-0170"
+          },
+          {
+            "url": "www.waterlooeye.ca/surgeons/sylvia-rodriguez"
+          }
+        ],
+        "address": {
+          "line": [
+            "89 Dawson Rd, Suite 214"
+          ],
+          "city": "Guelph",
+          "state": "ON",
+          "postalCode": "N1H 1B1"
+        },
+        "position": {
+          "longitude": -80.2782,
+          "latitude": 43.5491
+        }
+      }
+    ],
+    "contact_info": "phone: 519-265-9022, fax: 226-486-0170, url: www.waterlooeye.ca/surgeons/sylvia-rodriguez",
+    "description_of_this": "Community-based eye care clinic * ophthalmologist (eye doctor) specializes in glaucoma and cataracts, Codes: Services covered by OHIP, Features: Wheelchair Accessible, Languages: English, Spanish, Referral: Medical referral preferred, Address: 89 Dawson Rd, Suite 214, Guelph, ON, N1H 1B1, Location: lat: 43.5491, lon: -80.2782"
+  }
+]

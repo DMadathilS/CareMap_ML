@@ -1,0 +1,55 @@
+[
+  {
+    "name": "Whole Health Woolwich Pharmacy",
+    "active": true,
+    "category": [
+      "Pharmacies"
+    ],
+    "comment": "Compounding pharmacy<ul><li>treatment and prescription of medications for common medical ailments, including rashes, pink eye, insect bites, acne, and urinary tract infections</li><li>prescription of COVID-19 antiviral treatment (Paxlovid)</li><li>free delivery</li><li>compliance packaging</li><li>diabetic supplies</li><li>virtual clinic / telemedicine</li><li>naloxone kits</li><li>seniors discount daily</li><li>home healthcare products</li><li>medical grade compression stockings</li><li>veterinary medications</li></ul><br><b>MedsChecks -</b> Review of complex medication regimen and diabetic device training. After hours services available.",
+    "serviceProvisionCode": [
+      "Dispensing fee plus medication costs * prescribed medications may be covered by OHIP"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>878d2df8-1a3b-4297-91bf-c885c4351ca1</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Waterloo</p><p>physical-location-postalcode</p><p>N2K 0C8</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>200148</p><p>true</p><p>Pharmacies</p><p>Location/45115dc9-b9b2-4ddf-8db9-e1ade92330d9</p><p>Location</p><p>Whole Health Woolwich Pharmacy</p><p>Compounding pharmacy&lt;ul&gt;&lt;li&gt;treatment and prescription of medications for common medical ailments, including rashes, pink eye, insect bites, acne, and urinary tract infections&lt;/li&gt;&lt;li&gt;prescription of COVID-19 antiviral treatment (Paxlovid)&lt;/li&gt;&lt;li&gt;free delivery&lt;/li&gt;&lt;li&gt;compliance packaging&lt;/li&gt;&lt;li&gt;diabetic supplies&lt;/li&gt;&lt;li&gt;virtual clinic / telemedicine&lt;/li&gt;&lt;li&gt;naloxone kits&lt;/li&gt;&lt;li&gt;seniors discount daily&lt;/li&gt;&lt;li&gt;home healthcare products&lt;/li&gt;&lt;li&gt;medical grade compression stockings&lt;/li&gt;&lt;li&gt;veterinary medications&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;b&gt;MedsChecks -&lt;/b&gt; Review of complex medication regimen and diabetic device training. After hours services available.</p><p>Location/91bcbec1-3365-4ec0-8274-97ad266f66ed</p><p>Location</p><p>Dispensing fee plus medication costs * prescribed medications may be covered by OHIP</p><p>Partially Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>cmn</p><p>Chinese (Mandarin)</p></div>",
+    "eligibility": [],
+    "characteristic": [
+      "Partially Accessible"
+    ],
+    "communication": [
+      "English",
+      "Chinese (Mandarin)"
+    ],
+    "referralMethod": [],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-568-8088"
+          },
+          {
+            "fax": "519-568-8883"
+          },
+          {
+            "email": "whwoolwich@gmail.com"
+          },
+          {
+            "url": "www.whwoolwichpharmacy.com"
+          }
+        ],
+        "address": {
+          "line": [
+            "255 Woolwich St, Unit 106"
+          ],
+          "city": "Waterloo",
+          "state": "ON",
+          "postalCode": "N2K 0C8"
+        },
+        "position": {
+          "longitude": -80.4814,
+          "latitude": 43.4938
+        }
+      }
+    ],
+    "contact_info": "phone: 519-568-8088, fax: 519-568-8883, email: whwoolwich@gmail.com, url: www.whwoolwichpharmacy.com",
+    "description_of_this": "Compounding pharmacy<ul><li>treatment and prescription of medications for common medical ailments, including rashes, pink eye, insect bites, acne, and urinary tract infections</li><li>prescription of COVID-19 antiviral treatment (Paxlovid)</li><li>free delivery</li><li>compliance packaging</li><li>diabetic supplies</li><li>virtual clinic / telemedicine</li><li>naloxone kits</li><li>seniors discount daily</li><li>home healthcare products</li><li>medical grade compression stockings</li><li>veterinary medications</li></ul><br><b>MedsChecks -</b> Review of complex medication regimen and diabetic device training. After hours services available., Codes: Dispensing fee plus medication costs * prescribed medications may be covered by OHIP, Features: Partially Accessible, Languages: English, Chinese (Mandarin), Address: 255 Woolwich St, Unit 106, Waterloo, ON, N2K 0C8, Location: lat: 43.4938, lon: -80.4814"
+  }
+]

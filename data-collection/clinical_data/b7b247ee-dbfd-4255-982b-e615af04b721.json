@@ -1,0 +1,55 @@
+[
+  {
+    "name": "Waterloo Region - Community Services",
+    "active": true,
+    "category": [
+      "Supportive Housing"
+    ],
+    "comment": "30 apartments with personal care <br><ul><li>medication monitoring</li><li>personal care<br></li><li>housekeeping</li><li>security checks</li><li>light meal preparations<br></li><li>recreation</li></ul>",
+    "serviceProvisionCode": [
+      "Support services are free * rent geared to income"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>b7b247ee-dbfd-4255-982b-e615af04b721</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Kitchener</p><p>physical-location-postalcode</p><p>N2A 1Y5</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>211443</p><p>true</p><p>Supportive Housing</p><p>Location/9b2e1731-cd35-467a-92dc-01be3a0ece51</p><p>Location</p><p>Waterloo Region - Community Services</p><p>30 apartments with personal care &lt;br&gt;&lt;ul&gt;&lt;li&gt;medication monitoring&lt;/li&gt;&lt;li&gt;personal care&lt;br&gt;&lt;/li&gt;&lt;li&gt;housekeeping&lt;/li&gt;&lt;li&gt;security checks&lt;/li&gt;&lt;li&gt;light meal preparations&lt;br&gt;&lt;/li&gt;&lt;li&gt;recreation&lt;/li&gt;&lt;/ul&gt;</p><p>Location/8650be69-e49d-4c89-acb8-eae033feb7a5</p><p>Location</p><p>Support services are free * rent geared to income</p><p>Older adults and adults with disabilities, who need physical, social, or emotional supports * care coordinators assess the needs of applicants</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>Call * assessment required</p></div>",
+    "eligibility": [
+      "Older adults and adults with disabilities, who need physical, social, or emotional supports * care coordinators assess the needs of applicants"
+    ],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [
+      "Call * assessment required"
+    ],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-893-8494 ext 6247"
+          },
+          {
+            "email": "sunnyside@regionofwaterloo.ca"
+          },
+          {
+            "url": "www.regionofwaterloo.ca/en/health-and-wellness/sunnyside-supportive-housing.aspx#How-to-apply"
+          }
+        ],
+        "address": {
+          "line": [
+            "245 Franklin St N"
+          ],
+          "city": "Kitchener",
+          "state": "ON",
+          "postalCode": "N2A 1Y5"
+        },
+        "position": {
+          "longitude": -80.4449,
+          "latitude": 43.441
+        }
+      }
+    ],
+    "contact_info": "phone: 519-893-8494 ext 6247, email: sunnyside@regionofwaterloo.ca, url: www.regionofwaterloo.ca/en/health-and-wellness/sunnyside-supportive-housing.aspx#How-to-apply",
+    "description_of_this": "30 apartments with personal care <br><ul><li>medication monitoring</li><li>personal care<br></li><li>housekeeping</li><li>security checks</li><li>light meal preparations<br></li><li>recreation</li></ul>, Codes: Support services are free * rent geared to income, Features: Wheelchair Accessible, Languages: English, Referral: Call * assessment required, Address: 245 Franklin St N, Kitchener, ON, N2A 1Y5, Location: lat: 43.441, lon: -80.4449"
+  }
+]

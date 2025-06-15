@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Lisaard and Innisfree Hospice - Innisfree House",
+    "active": true,
+    "category": [
+      "Hospice Care"
+    ],
+    "comment": "Companionship, respite care, and emotional support to people and their \nfamily/caregivers dealing with a life-threatening illness * bereavement \nsupport for anyone who has experienced the death of someone close",
+    "serviceProvisionCode": [
+      "Free"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>f502e277-e02d-474e-9caa-fa15e7388f29</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Kitchener</p><p>physical-location-postalcode</p><p>N2P 0E9</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>209246</p><p>true</p><p>Hospice Care</p><p>Location/4aa68baa-ac9b-407e-b5a4-5605b30a7d55</p><p>Location</p><p>Lisaard and Innisfree Hospice - Innisfree House</p><p>Companionship, respite care, and emotional support to people and their \nfamily/caregivers dealing with a life-threatening illness * bereavement \nsupport for anyone who has experienced the death of someone close</p><p>Location/b7d8a631-fca3-4a97-a123-d2fe611c5ef5</p><p>Location</p><p>Free</p><p>People who need end-of-life care or bereavement supports</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>Call * no referral required</p></div>",
+    "eligibility": [
+      "People who need end-of-life care or bereavement supports"
+    ],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [
+      "Call * no referral required"
+    ],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "Innisfree House: 519-208-5055"
+          },
+          {
+            "fax": "519-650-8058"
+          },
+          {
+            "url": "www.lisaardandinnisfree.com/"
+          }
+        ],
+        "address": {
+          "line": [
+            "Innisfree House",
+            "2375 Homer Watson Blvd"
+          ],
+          "city": "Kitchener",
+          "state": "ON",
+          "postalCode": "N2P 0E9"
+        },
+        "position": {
+          "longitude": -80.3531,
+          "latitude": 43.419
+        }
+      }
+    ],
+    "contact_info": "phone: Innisfree House: 519-208-5055, fax: 519-650-8058, url: www.lisaardandinnisfree.com/",
+    "description_of_this": "Companionship, respite care, and emotional support to people and their \nfamily/caregivers dealing with a life-threatening illness * bereavement \nsupport for anyone who has experienced the death of someone close, Codes: Free, Features: Wheelchair Accessible, Languages: English, Referral: Call * no referral required, Address: Innisfree House, 2375 Homer Watson Blvd, Kitchener, ON, N2P 0E9, Location: lat: 43.419, lon: -80.3531, Contact: phone: Innisfree House: 519-208-5055, fax: 519-650-8058, url: www.lisaardandinnisfree.com/"
+  }
+]

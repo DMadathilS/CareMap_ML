@@ -1,0 +1,60 @@
+[
+  {
+    "name": "Grand River Hospital to Waterloo Regional Health Network (WHRN) - WRHN at Midtown",
+    "active": true,
+    "category": [
+      "Diabetes Education Programs"
+    ],
+    "comment": "Supports for people living with type 1 diabetes or gestational diabetes * one-on-one or group education on monitoring blood sugar levels, medications, healthy eating, exercise, and other lifestyle choices * registered nurse and dietitian on staff<br><br>Programs include:<br><ul><li>insulin pump therapy</li><li>education programs</li><li>insulin initiation</li></ul>",
+    "serviceProvisionCode": [
+      "Free"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>8bce3eaf-b6a3-415c-9936-989473e6a246</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Kitchener</p><p>physical-location-postalcode</p><p>N2G 1G3</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>100956</p><p>true</p><p>Diabetes Education Programs</p><p>Location/0f3f2944-076f-4f0a-afbe-2c83e8532175</p><p>Location</p><p>Grand River Hospital to Waterloo Regional Health Network (WHRN) - WRHN at Midtown</p><p>Supports for people living with type 1 diabetes or gestational diabetes * one-on-one or group education on monitoring blood sugar levels, medications, healthy eating, exercise, and other lifestyle choices * registered nurse and dietitian on staff&lt;br&gt;&lt;br&gt;Programs include:&lt;br&gt;&lt;ul&gt;&lt;li&gt;insulin pump therapy&lt;/li&gt;&lt;li&gt;education programs&lt;/li&gt;&lt;li&gt;insulin initiation&lt;/li&gt;&lt;/ul&gt;</p><p>Location/5ee1d8fb-b443-48a9-bd07-17c71546cb36</p><p>Location</p><p>Free</p><p>Adults 18 years and older with pre-diabetes, type 1 diabetes and gestational diabetes</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>Call * medical referral required to participate in program * no referral required to participate in educational programs</p></div>",
+    "eligibility": [
+      "Adults 18 years and older with pre-diabetes, type 1 diabetes and gestational diabetes"
+    ],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [
+      "Call * medical referral required to participate in program * no referral required to participate in educational programs"
+    ],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-749-4300 ext 2622"
+          },
+          {
+            "fax": "519-749-4317"
+          },
+          {
+            "email": "info@grhosp.on.ca"
+          },
+          {
+            "url": "www.grhosp.on.ca/care/services-departments/medicine/adult-medicine-outpatient-services/visiting-the-adult-diabetes-education-centre"
+          }
+        ],
+        "address": {
+          "line": [
+            "Forty Green (Kaufman) Building",
+            "Rm 533",
+            "40 Green St"
+          ],
+          "city": "Kitchener",
+          "state": "ON",
+          "postalCode": "N2G 1G3"
+        },
+        "position": {
+          "longitude": -80.510323,
+          "latitude": 43.455838
+        }
+      }
+    ],
+    "contact_info": "phone: 519-749-4300 ext 2622, fax: 519-749-4317, email: info@grhosp.on.ca, url: www.grhosp.on.ca/care/services-departments/medicine/adult-medicine-outpatient-services/visiting-the-adult-diabetes-education-centre",
+    "description_of_this": "Supports for people living with type 1 diabetes or gestational diabetes * one-on-one or group education on monitoring blood sugar levels, medications, healthy eating, exercise, and other lifestyle choices * registered nurse and dietitian on staff<br><br>Programs include:<br><ul><li>insulin pump therapy</li><li>education programs</li><li>insulin initiation</li></ul>, Codes: Free, Features: Wheelchair Accessible, Languages: English, Referral: Call * medical referral required to participate in program * no referral required to participate in educational programs, Address: Forty Green (Kaufman) Building, Rm 533, 40 Green St, Kitchener, ON, N2G 1G3, Location: lat: 43.455838, lon: -80.510323"
+  }
+]

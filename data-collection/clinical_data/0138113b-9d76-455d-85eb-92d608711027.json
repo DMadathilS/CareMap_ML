@@ -1,0 +1,55 @@
+[
+  {
+    "name": "Pharmasave - Cambridge - Saginaw Pkwy (Monarch)",
+    "active": true,
+    "category": [
+      "Pharmacies"
+    ],
+    "comment": "Compounding pharmacy<ul><li>treatment and prescription of medications for common medical ailments, \nincluding rashes, pink eye, insect bites, acne, and urinary tract \ninfections</li><li>medication placed in blister packs (sealed, push-through packaging used to separate doses) at no extra cost</li><li>prescription refills and transfers<br></li><li>mobility aids (to rent)</li><li> basic home health care supplies</li><li>diabetes education<br></li><li>free seasonal flu vaccines<br><br></li></ul><b>MedsCheck</b> - Appointments to review complex prescriptions with a pharmacist<br><br><b>Sharps Disposal Program</b> - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips<br><br><b>Medications Return Program</b> - Safe disposal of expired or unused medications, creams, and inhalers",
+    "serviceProvisionCode": [
+      "Dispensing fee plus medication costs * prescribed medications may be covered by OHIP"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>0138113b-9d76-455d-85eb-92d608711027</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Cambridge</p><p>physical-location-postalcode</p><p>N1T 1W2</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>208933</p><p>true</p><p>Pharmacies</p><p>Location/f7e52f77-d31a-45e7-a2d4-411843a5f1c2</p><p>Location</p><p>Pharmasave - Cambridge - Saginaw Pkwy (Monarch)</p><p>Compounding pharmacy&lt;ul&gt;&lt;li&gt;treatment and prescription of medications for common medical ailments, \nincluding rashes, pink eye, insect bites, acne, and urinary tract \ninfections&lt;/li&gt;&lt;li&gt;medication placed in blister packs (sealed, push-through packaging used to separate doses) at no extra cost&lt;/li&gt;&lt;li&gt;prescription refills and transfers&lt;br&gt;&lt;/li&gt;&lt;li&gt;mobility aids (to rent)&lt;/li&gt;&lt;li&gt; basic home health care supplies&lt;/li&gt;&lt;li&gt;diabetes education&lt;br&gt;&lt;/li&gt;&lt;li&gt;free seasonal flu vaccines&lt;br&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;b&gt;MedsCheck&lt;/b&gt; - Appointments to review complex prescriptions with a pharmacist&lt;br&gt;&lt;br&gt;&lt;b&gt;Sharps Disposal Program&lt;/b&gt; - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips&lt;br&gt;&lt;br&gt;&lt;b&gt;Medications Return Program&lt;/b&gt; - Safe disposal of expired or unused medications, creams, and inhalers</p><p>Location/02eb2b4e-7653-4a3c-9b27-ea010034b7da</p><p>Location</p><p>Dispensing fee plus medication costs * prescribed medications may be covered by OHIP</p><p>Partially Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>ara</p><p>Arabic</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>hin</p><p>Hindi</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>pan</p><p>Punjabi</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>urd</p><p>Urdu</p></div>",
+    "eligibility": [],
+    "characteristic": [
+      "Partially Accessible"
+    ],
+    "communication": [
+      "English",
+      "Arabic",
+      "Hindi",
+      "Punjabi",
+      "Urdu"
+    ],
+    "referralMethod": [],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-740-2400"
+          },
+          {
+            "fax": "519-740-1062"
+          },
+          {
+            "url": "pharmasave.com/cambridge-monarch/location/"
+          }
+        ],
+        "address": {
+          "line": [
+            "95 Saginaw Pkwy, Unit 2A"
+          ],
+          "city": "Cambridge",
+          "state": "ON",
+          "postalCode": "N1T 1W2"
+        },
+        "position": {
+          "longitude": -80.3012,
+          "latitude": 43.3909
+        }
+      }
+    ],
+    "contact_info": "phone: 519-740-2400, fax: 519-740-1062, url: pharmasave.com/cambridge-monarch/location/",
+    "description_of_this": "Compounding pharmacy<ul><li>treatment and prescription of medications for common medical ailments, \nincluding rashes, pink eye, insect bites, acne, and urinary tract \ninfections</li><li>medication placed in blister packs (sealed, push-through packaging used to separate doses) at no extra cost</li><li>prescription refills and transfers<br></li><li>mobility aids (to rent)</li><li> basic home health care supplies</li><li>diabetes education<br></li><li>free seasonal flu vaccines<br><br></li></ul><b>MedsCheck</b> - Appointments to review complex prescriptions with a pharmacist<br><br><b>Sharps Disposal Program</b> - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips<br><br><b>Medications Return Program</b> - Safe disposal of expired or unused medications, creams, and inhalers, Codes: Dispensing fee plus medication costs * prescribed medications may be covered by OHIP, Features: Partially Accessible, Languages: English, Arabic, Hindi, Punjabi, Urdu, Address: 95 Saginaw Pkwy, Unit 2A, Cambridge, ON, N1T 1W2, Location: lat: 43.3909, lon: -80.3012"
+  }
+]

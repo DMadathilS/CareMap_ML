@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Medicare Walk-In Clinic",
+    "active": true,
+    "category": [
+      "Walk-In Medical Clinics"
+    ],
+    "comment": "Walk-in medical clinic\n<ul><li>\n\tweight loss management</li><li>\n\n\theart failure management</li><li>\n\n\tWSIB form 8/FAF</li><li>\n\n\twellness visits and annual check-ups</li><li>\n\n\tsick notes*</li><li>\n\n\thypertension management</li><li>\n\n\tchildhood and adult vaccinations</li><li>\n\n\ttuberculous (TB) testing for school and employment*</li><li>\n\n\tWell-Baby check/vaccinations</li><li>\n\n\tdriver's medical/insurance/physical forms*</li><li>\n\n\tadvanced cholesterol disorder and fatty liver disease treatment</li><li>sexually transmitted infection (STI) testing and treatment</li><li>\n\n\tprenatal care</li></ul><br>*Not OHIP-covered",
+    "serviceProvisionCode": [
+      "Most services covered by OHIP"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>b19df596-779f-48bb-a64c-76aa3ad7d89a</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Kitchener</p><p>physical-location-postalcode</p><p>N2E 1J2</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>222442</p><p>true</p><p>Walk-In Medical Clinics</p><p>Location/da450812-9aa6-4358-81d7-844bb21b8afe</p><p>Location</p><p>Medicare Walk-In Clinic</p><p>Walk-in medical clinic\n&lt;ul&gt;&lt;li&gt;\n\tweight loss management&lt;/li&gt;&lt;li&gt;\n\n\theart failure management&lt;/li&gt;&lt;li&gt;\n\n\tWSIB form 8/FAF&lt;/li&gt;&lt;li&gt;\n\n\twellness visits and annual check-ups&lt;/li&gt;&lt;li&gt;\n\n\tsick notes*&lt;/li&gt;&lt;li&gt;\n\n\thypertension management&lt;/li&gt;&lt;li&gt;\n\n\tchildhood and adult vaccinations&lt;/li&gt;&lt;li&gt;\n\n\ttuberculous (TB) testing for school and employment*&lt;/li&gt;&lt;li&gt;\n\n\tWell-Baby check/vaccinations&lt;/li&gt;&lt;li&gt;\n\n\tdriver's medical/insurance/physical forms*&lt;/li&gt;&lt;li&gt;\n\n\tadvanced cholesterol disorder and fatty liver disease treatment&lt;/li&gt;&lt;li&gt;sexually transmitted infection (STI) testing and treatment&lt;/li&gt;&lt;li&gt;\n\n\tprenatal care&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;*Not OHIP-covered</p><p>Location/e958fc1f-e4e4-42b8-96ec-584cd604d5ae</p><p>Location</p><p>Most services covered by OHIP</p><p>People who need medical care for minor illnesses and injuries</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>Call or visit</p></div>",
+    "eligibility": [
+      "People who need medical care for minor illnesses and injuries"
+    ],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [
+      "Call or visit"
+    ],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-900-8950"
+          },
+          {
+            "fax": "519-340-7525"
+          },
+          {
+            "email": "info@medicareclinicandpharmacy.com"
+          },
+          {
+            "url": "www.medicareclinicandpharmacy.com"
+          }
+        ],
+        "address": {
+          "line": [
+            "720 Westmount Rd E, Unit 4"
+          ],
+          "city": "Kitchener",
+          "state": "ON",
+          "postalCode": "N2E 1J2"
+        },
+        "position": {
+          "longitude": -80.5003,
+          "latitude": 43.4185
+        }
+      }
+    ],
+    "contact_info": "phone: 519-900-8950, fax: 519-340-7525, email: info@medicareclinicandpharmacy.com, url: www.medicareclinicandpharmacy.com",
+    "description_of_this": "Walk-in medical clinic\n<ul><li>\n\tweight loss management</li><li>\n\n\theart failure management</li><li>\n\n\tWSIB form 8/FAF</li><li>\n\n\twellness visits and annual check-ups</li><li>\n\n\tsick notes*</li><li>\n\n\thypertension management</li><li>\n\n\tchildhood and adult vaccinations</li><li>\n\n\ttuberculous (TB) testing for school and employment*</li><li>\n\n\tWell-Baby check/vaccinations</li><li>\n\n\tdriver's medical/insurance/physical forms*</li><li>\n\n\tadvanced cholesterol disorder and fatty liver disease treatment</li><li>sexually transmitted infection (STI) testing and treatment</li><li>\n\n\tprenatal care</li></ul><br>*Not OHIP-covered, Codes: Most services covered by OHIP, Features: Wheelchair Accessible, Languages: English, Referral: Call or visit, Address: 720 Westmount Rd E, Unit 4, Kitchener, ON, N2E 1J2, Location: lat: 43.4185, lon: -80.5003"
+  }
+]

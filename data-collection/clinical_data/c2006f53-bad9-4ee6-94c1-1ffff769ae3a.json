@@ -1,0 +1,63 @@
+[
+  {
+    "name": "Guelph Family Health Team - Diabetes Care Guelph",
+    "active": true,
+    "category": [
+      "Diabetes Education Programs"
+    ],
+    "comment": "Supports for people living with prediabetes or diabetes * one-on-one or group consultation on monitoring blood sugar levels, medications, healthy eating, exercise, and other lifestyle choices * registered nurse and dietitian on staff<ul><li>insulin initiation, dosage management</li><li>access to registered kinesiologist and mental health counsellor</li><li>diabetes wellness workshops</li></ul>",
+    "serviceProvisionCode": [
+      "Free"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>c2006f53-bad9-4ee6-94c1-1ffff769ae3a</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Guelph</p><p>physical-location-postalcode</p><p>N1H 1B1</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>100648</p><p>true</p><p>Diabetes Education Programs</p><p>Location/7a0766b8-3ea3-427e-911a-ab608ad3705b</p><p>Location</p><p>Guelph Family Health Team - Diabetes Care Guelph</p><p>Supports for people living with prediabetes or diabetes * one-on-one or group consultation on monitoring blood sugar levels, medications, healthy eating, exercise, and other lifestyle choices * registered nurse and dietitian on staff&lt;ul&gt;&lt;li&gt;insulin initiation, dosage management&lt;/li&gt;&lt;li&gt;access to registered kinesiologist and mental health counsellor&lt;/li&gt;&lt;li&gt;diabetes wellness workshops&lt;/li&gt;&lt;/ul&gt;</p><p>Location/75c37c25-54d8-4804-95a6-69f6eebddb4b</p><p>Location</p><p>Free</p><p>Adults 18 years and older with pre-diabetes, type 1 diabetes and type 2 diabetes * women who develop diabetic symptoms during pregnancy</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>ara</p><p>Arabic</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>yue</p><p>Chinese (Cantonese)</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>cmn</p><p>Chinese (Mandarin)</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>hin</p><p>Hindi</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>pan</p><p>Punjabi</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>tir</p><p>Tigrinya</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>vie</p><p>Vietnamese</p><p>Call * no referral required</p></div>",
+    "eligibility": [
+      "Adults 18 years and older with pre-diabetes, type 1 diabetes and type 2 diabetes * women who develop diabetic symptoms during pregnancy"
+    ],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English",
+      "Arabic",
+      "Chinese (Cantonese)",
+      "Chinese (Mandarin)",
+      "Hindi",
+      "Punjabi",
+      "Tigrinya",
+      "Vietnamese"
+    ],
+    "referralMethod": [
+      "Call * no referral required"
+    ],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-840-1964"
+          },
+          {
+            "fax": "519-840-1963"
+          },
+          {
+            "url": "www.guelphfht.com/dcg/"
+          }
+        ],
+        "address": {
+          "line": [
+            "Dawson Road Family Medical Clinic",
+            "83 Dawson Rd"
+          ],
+          "city": "Guelph",
+          "state": "ON",
+          "postalCode": "N1H 1B1"
+        },
+        "position": {
+          "longitude": -80.276902,
+          "latitude": 43.550095
+        }
+      }
+    ],
+    "contact_info": "phone: 519-840-1964, fax: 519-840-1963, url: www.guelphfht.com/dcg/",
+    "description_of_this": "Supports for people living with prediabetes or diabetes * one-on-one or group consultation on monitoring blood sugar levels, medications, healthy eating, exercise, and other lifestyle choices * registered nurse and dietitian on staff<ul><li>insulin initiation, dosage management</li><li>access to registered kinesiologist and mental health counsellor</li><li>diabetes wellness workshops</li></ul>, Codes: Free, Features: Wheelchair Accessible, Languages: English, Arabic, Chinese (Cantonese), Chinese (Mandarin), Hindi, Punjabi, Tigrinya, Vietnamese, Referral: Call * no referral required, Address: Dawson Road Family Medical Clinic, 83 Dawson Rd, Guelph, ON, N1H 1B1, Location: lat: 43.550095, lon: -80.276902, Contact: phone: 519-840-1964, fax: 519-840-1963, url: www.guelphfht.com/dcg/"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Cambridge Medical Pharmacy",
+    "active": true,
+    "category": [
+      "Pharmacies"
+    ],
+    "comment": "General pharmacy<ul>\n\t<li>specialty compounding</li>\n\t<li>medication placed in blister packs (sealed, push-through packaging used to separate doses) at no extra cost</li>\n\t<li>free delivery for prescriptions</li>\n\t<li>\n\t\tnaloxone kit training</li>\n\t<li>\n\t\tbaby formula information and training</li>\n\t<li>\n\t\tdiabetes education and clinic</li>\n\t<li>\n\t\tvaccine administration</li>\n\t<li>free seasonal flu vaccines</li>\n\t<li>\n\t\tpersonal protective equipment and supplies</li>\n\t<li>\n\t\tover-the-counter medication counselling</li>\n</ul><br><b>Pharmacy Smoking Cessation Program</b> - Help to quit smoking, available for Ontario Drug Benefit recipients<br><br><b>MedsCheck</b> - Appointments to review complex prescriptions with a pharmacist",
+    "serviceProvisionCode": [
+      "Dispensing fee plus medication costs * prescribed medications may be covered by OHIP"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>735dbd4f-394b-4102-8272-2d3d4498f642</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Cambridge</p><p>physical-location-postalcode</p><p>N3H 3P6</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>197039</p><p>true</p><p>Pharmacies</p><p>Location/81691e9e-7e39-4155-b58e-352b5e8f621d</p><p>Location</p><p>Cambridge Medical Pharmacy</p><p>General pharmacy&lt;ul&gt;\n\t&lt;li&gt;specialty compounding&lt;/li&gt;\n\t&lt;li&gt;medication placed in blister packs (sealed, push-through packaging used to separate doses) at no extra cost&lt;/li&gt;\n\t&lt;li&gt;free delivery for prescriptions&lt;/li&gt;\n\t&lt;li&gt;\n\t\tnaloxone kit training&lt;/li&gt;\n\t&lt;li&gt;\n\t\tbaby formula information and training&lt;/li&gt;\n\t&lt;li&gt;\n\t\tdiabetes education and clinic&lt;/li&gt;\n\t&lt;li&gt;\n\t\tvaccine administration&lt;/li&gt;\n\t&lt;li&gt;free seasonal flu vaccines&lt;/li&gt;\n\t&lt;li&gt;\n\t\tpersonal protective equipment and supplies&lt;/li&gt;\n\t&lt;li&gt;\n\t\tover-the-counter medication counselling&lt;/li&gt;\n&lt;/ul&gt;&lt;br&gt;&lt;b&gt;Pharmacy Smoking Cessation Program&lt;/b&gt; - Help to quit smoking, available for Ontario Drug Benefit recipients&lt;br&gt;&lt;br&gt;&lt;b&gt;MedsCheck&lt;/b&gt; - Appointments to review complex prescriptions with a pharmacist</p><p>Location/69aca1c6-9625-4076-a225-f30b9bdfd5a6</p><p>Location</p><p>Dispensing fee plus medication costs * prescribed medications may be covered by OHIP</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>guj</p><p>Gujarati</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>hin</p><p>Hindi</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>ita</p><p>Italian</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>pan</p><p>Punjabi</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>urd</p><p>Urdu</p></div>",
+    "eligibility": [],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English",
+      "Gujarati",
+      "Hindi",
+      "Italian",
+      "Punjabi",
+      "Urdu"
+    ],
+    "referralMethod": [],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-219-8500"
+          },
+          {
+            "phone": "226-501-8100"
+          },
+          {
+            "fax": "519-219-8600"
+          },
+          {
+            "email": "cambridgemedicalpharmacy@gmail.com"
+          },
+          {
+            "url": "www.cambridgemedicalpharmacy.ca/"
+          }
+        ],
+        "address": {
+          "line": [
+            "1174 King St"
+          ],
+          "city": "Cambridge",
+          "state": "ON",
+          "postalCode": "N3H 3P6"
+        },
+        "position": {
+          "longitude": -80.3519,
+          "latitude": 43.3923
+        }
+      }
+    ],
+    "contact_info": "phone: 519-219-8500, phone: 226-501-8100, fax: 519-219-8600, email: cambridgemedicalpharmacy@gmail.com, url: www.cambridgemedicalpharmacy.ca/",
+    "description_of_this": "General pharmacy<ul>\n\t<li>specialty compounding</li>\n\t<li>medication placed in blister packs (sealed, push-through packaging used to separate doses) at no extra cost</li>\n\t<li>free delivery for prescriptions</li>\n\t<li>\n\t\tnaloxone kit training</li>\n\t<li>\n\t\tbaby formula information and training</li>\n\t<li>\n\t\tdiabetes education and clinic</li>\n\t<li>\n\t\tvaccine administration</li>\n\t<li>free seasonal flu vaccines</li>\n\t<li>\n\t\tpersonal protective equipment and supplies</li>\n\t<li>\n\t\tover-the-counter medication counselling</li>\n</ul><br><b>Pharmacy Smoking Cessation Program</b> - Help to quit smoking, available for Ontario Drug Benefit recipients<br><br><b>MedsCheck</b> - Appointments to review complex prescriptions with a pharmacist, Codes: Dispensing fee plus medication costs * prescribed medications may be covered by OHIP, Features: Wheelchair Accessible, Languages: English, Gujarati, Hindi, Italian, Punjabi, Urdu, Address: 1174 King St, Cambridge, ON, N3H 3P6, Location: lat: 43.3923, lon: -80.3519"
+  }
+]

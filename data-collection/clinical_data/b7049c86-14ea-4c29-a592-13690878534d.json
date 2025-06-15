@@ -1,0 +1,54 @@
+[
+  {
+    "name": "MacNeil and Dodd Pharmacy",
+    "active": true,
+    "category": [
+      "Pharmacies"
+    ],
+    "comment": "Compounding pharmacy<ul><li>treatment and prescription of medications for common medical ailments, including rashes, pink eye, insect bites, acne, and urinary tract infections</li><li>prescription of COVID-19 antiviral treatment (Paxlovid)</li><li>medical equipment rentals</li><li> free delivery for prescriptions\n </li><li> basic home health care supplies</li></ul><br>\n<b>MedsCheck</b> - Appointments to review complex prescriptions with a pharmacist<br><br><b>Sharps Disposal Program</b> - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips<br><br><b>Medications Return Program</b> - Safe disposal of expired or unused medications, creams, and inhalers",
+    "serviceProvisionCode": [
+      "Dispensing fee plus medication costs * prescribed medications may be covered by OHIP"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>b7049c86-14ea-4c29-a592-13690878534d</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Ayr</p><p>physical-location-postalcode</p><p>N0B 1E0</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>208754</p><p>true</p><p>Pharmacies</p><p>Location/56f1f6f7-77da-419b-8213-56104f6e4334</p><p>Location</p><p>MacNeil and Dodd Pharmacy</p><p>Compounding pharmacy&lt;ul&gt;&lt;li&gt;treatment and prescription of medications for common medical ailments, including rashes, pink eye, insect bites, acne, and urinary tract infections&lt;/li&gt;&lt;li&gt;prescription of COVID-19 antiviral treatment (Paxlovid)&lt;/li&gt;&lt;li&gt;medical equipment rentals&lt;/li&gt;&lt;li&gt; free delivery for prescriptions\n &lt;/li&gt;&lt;li&gt; basic home health care supplies&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;\n&lt;b&gt;MedsCheck&lt;/b&gt; - Appointments to review complex prescriptions with a pharmacist&lt;br&gt;&lt;br&gt;&lt;b&gt;Sharps Disposal Program&lt;/b&gt; - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips&lt;br&gt;&lt;br&gt;&lt;b&gt;Medications Return Program&lt;/b&gt; - Safe disposal of expired or unused medications, creams, and inhalers</p><p>Location/bbcc4573-bc58-4ca8-aa07-fdd6cd323936</p><p>Location</p><p>Dispensing fee plus medication costs * prescribed medications may be covered by OHIP</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p></div>",
+    "eligibility": [],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-632-9700"
+          },
+          {
+            "fax": "519-632-9383"
+          },
+          {
+            "email": "patrick@macneildodd.com"
+          },
+          {
+            "url": "rdmacneil23.wixsite.com/macneildoddpharmacy"
+          }
+        ],
+        "address": {
+          "line": [
+            "45 Stanley St"
+          ],
+          "city": "Ayr",
+          "state": "ON",
+          "postalCode": "N0B 1E0"
+        },
+        "position": {
+          "longitude": -80.4512,
+          "latitude": 43.2851
+        }
+      }
+    ],
+    "contact_info": "phone: 519-632-9700, fax: 519-632-9383, email: patrick@macneildodd.com, url: rdmacneil23.wixsite.com/macneildoddpharmacy",
+    "description_of_this": "Compounding pharmacy<ul><li>treatment and prescription of medications for common medical ailments, including rashes, pink eye, insect bites, acne, and urinary tract infections</li><li>prescription of COVID-19 antiviral treatment (Paxlovid)</li><li>medical equipment rentals</li><li> free delivery for prescriptions\n </li><li> basic home health care supplies</li></ul><br>\n<b>MedsCheck</b> - Appointments to review complex prescriptions with a pharmacist<br><br><b>Sharps Disposal Program</b> - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips<br><br><b>Medications Return Program</b> - Safe disposal of expired or unused medications, creams, and inhalers, Codes: Dispensing fee plus medication costs * prescribed medications may be covered by OHIP, Features: Wheelchair Accessible, Languages: English, Address: 45 Stanley St, Ayr, ON, N0B 1E0, Location: lat: 43.2851, lon: -80.4512"
+  }
+]

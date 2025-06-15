@@ -1,0 +1,55 @@
+[
+  {
+    "name": "Mango Tree Family Health Team - Guelph - Kitchener Office",
+    "active": true,
+    "category": [
+      "Family Health Teams"
+    ],
+    "comment": "Team of health care professionals providing coordinated care and services * collaborative team of family doctors, nurse practitioners, registered nurse, mental wellness nurse, dietician and medical receptionists * patient education/health promotion * integrated cancer screening and chronic disease prevention/management",
+    "serviceProvisionCode": [
+      "Most services covered by OHIP"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>8f1c57ef-468e-4de9-9aaf-51595dedc4c1</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Puslinch</p><p>physical-location-postalcode</p><p>N0B 2J0</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>161926</p><p>true</p><p>Family Health Teams</p><p>Location/5f0d3868-0388-4437-96c9-4866aa89956b</p><p>Location</p><p>Mango Tree Family Health Team - Guelph - Kitchener Office</p><p>Team of health care professionals providing coordinated care and services * collaborative team of family doctors, nurse practitioners, registered nurse, mental wellness nurse, dietician and medical receptionists * patient education/health promotion * integrated cancer screening and chronic disease prevention/management</p><p>Location/d9d902b3-02f5-4eed-992d-03221400937d</p><p>Location</p><p>Most services covered by OHIP</p><p>Registered patients</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>Call for appointment * no referral required</p></div>",
+    "eligibility": [
+      "Registered patients"
+    ],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [
+      "Call for appointment * no referral required"
+    ],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-224-0540 ext 2"
+          },
+          {
+            "fax": "519-224-0546"
+          },
+          {
+            "url": "www.mangotreefht.com"
+          }
+        ],
+        "address": {
+          "line": [
+            "28 Brock Rd N"
+          ],
+          "city": "Puslinch",
+          "state": "ON",
+          "postalCode": "N0B 2J0"
+        },
+        "position": {
+          "longitude": -80.1574,
+          "latitude": 43.4763
+        }
+      }
+    ],
+    "contact_info": "phone: 519-224-0540 ext 2, fax: 519-224-0546, url: www.mangotreefht.com",
+    "description_of_this": "Team of health care professionals providing coordinated care and services * collaborative team of family doctors, nurse practitioners, registered nurse, mental wellness nurse, dietician and medical receptionists * patient education/health promotion * integrated cancer screening and chronic disease prevention/management, Codes: Most services covered by OHIP, Features: Wheelchair Accessible, Languages: English, Referral: Call for appointment * no referral required, Address: 28 Brock Rd N, Puslinch, ON, N0B 2J0, Location: lat: 43.4763, lon: -80.1574"
+  }
+]

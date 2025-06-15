@@ -1,0 +1,54 @@
+[
+  {
+    "name": "Food and Drug Basics Pharmacy - Kitchener - Fairway Rd",
+    "active": true,
+    "category": [
+      "Pharmacies"
+    ],
+    "comment": "General pharmacy<ul><li>treatment and prescription of medications for common medical ailments, \nincluding rashes, pink eye, insect bites, acne, and urinary tract \ninfections</li><li>basic compounding (limited)<br></li><li> medication placed in pill organizers (containers for storing scheduled doses) at no extra cost\n </li><li> medication placed in blister packs (sealed, push-through packaging used to separate doses) at no extra cost</li><li> free delivery for prescriptions (confirmation of availability required)</li><li>free seasonal flu vaccines</li><li> free take-home naloxone kits (emergency response kits for opioid overdose)</li></ul>\n<b><br></b><b>MedsCheck</b> - Appointments to review complex prescriptions with a pharmacist <br><br>\n<b>Medications Return Program</b> - Safe disposal of expired or unused medications, creams, and inhalers <br><br><b>Sharps Disposal Program</b> - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips",
+    "serviceProvisionCode": [
+      "Dispensing fee plus medication costs * prescribed medications may be covered by OHIP"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>3fd4defd-dd9d-487f-889d-14d9c853a2fe</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Kitchener</p><p>physical-location-postalcode</p><p>N2C 1X4</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>208640</p><p>true</p><p>Pharmacies</p><p>Location/63c925c7-3a9f-4439-aeb7-1f2f717fa67d</p><p>Location</p><p>Food and Drug Basics Pharmacy - Kitchener - Fairway Rd</p><p>General pharmacy&lt;ul&gt;&lt;li&gt;treatment and prescription of medications for common medical ailments, \nincluding rashes, pink eye, insect bites, acne, and urinary tract \ninfections&lt;/li&gt;&lt;li&gt;basic compounding (limited)&lt;br&gt;&lt;/li&gt;&lt;li&gt; medication placed in pill organizers (containers for storing scheduled doses) at no extra cost\n &lt;/li&gt;&lt;li&gt; medication placed in blister packs (sealed, push-through packaging used to separate doses) at no extra cost&lt;/li&gt;&lt;li&gt; free delivery for prescriptions (confirmation of availability required)&lt;/li&gt;&lt;li&gt;free seasonal flu vaccines&lt;/li&gt;&lt;li&gt; free take-home naloxone kits (emergency response kits for opioid overdose)&lt;/li&gt;&lt;/ul&gt;\n&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;b&gt;MedsCheck&lt;/b&gt; - Appointments to review complex prescriptions with a pharmacist &lt;br&gt;&lt;br&gt;\n&lt;b&gt;Medications Return Program&lt;/b&gt; - Safe disposal of expired or unused medications, creams, and inhalers &lt;br&gt;&lt;br&gt;&lt;b&gt;Sharps Disposal Program&lt;/b&gt; - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips</p><p>Location/b8eaa33e-eaa8-44c1-80df-1763b90228b6</p><p>Location</p><p>Dispensing fee plus medication costs * prescribed medications may be covered by OHIP</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>ara</p><p>Arabic</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>rus</p><p>Russian</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>swa</p><p>Swahili</p></div>",
+    "eligibility": [],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English",
+      "Arabic",
+      "Russian",
+      "Swahili"
+    ],
+    "referralMethod": [],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-896-3100"
+          },
+          {
+            "fax": "519-896-3400"
+          },
+          {
+            "url": "www.foodbasics.ca"
+          }
+        ],
+        "address": {
+          "line": [
+            "655 Fairway Rd S"
+          ],
+          "city": "Kitchener",
+          "state": "ON",
+          "postalCode": "N2C 1X4"
+        },
+        "position": {
+          "longitude": -80.4498,
+          "latitude": 43.4195
+        }
+      }
+    ],
+    "contact_info": "phone: 519-896-3100, fax: 519-896-3400, url: www.foodbasics.ca",
+    "description_of_this": "General pharmacy<ul><li>treatment and prescription of medications for common medical ailments, \nincluding rashes, pink eye, insect bites, acne, and urinary tract \ninfections</li><li>basic compounding (limited)<br></li><li> medication placed in pill organizers (containers for storing scheduled doses) at no extra cost\n </li><li> medication placed in blister packs (sealed, push-through packaging used to separate doses) at no extra cost</li><li> free delivery for prescriptions (confirmation of availability required)</li><li>free seasonal flu vaccines</li><li> free take-home naloxone kits (emergency response kits for opioid overdose)</li></ul>\n<b><br></b><b>MedsCheck</b> - Appointments to review complex prescriptions with a pharmacist <br><br>\n<b>Medications Return Program</b> - Safe disposal of expired or unused medications, creams, and inhalers <br><br><b>Sharps Disposal Program</b> - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips, Codes: Dispensing fee plus medication costs * prescribed medications may be covered by OHIP, Features: Wheelchair Accessible, Languages: English, Arabic, Russian, Swahili, Address: 655 Fairway Rd S, Kitchener, ON, N2C 1X4, Location: lat: 43.4195, lon: -80.4498"
+  }
+]

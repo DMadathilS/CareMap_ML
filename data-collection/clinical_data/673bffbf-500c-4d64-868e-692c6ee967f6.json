@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Waterloo (City of) - Community Services",
+    "active": true,
+    "category": [
+      "Community Support Services"
+    ],
+    "comment": "Supports for older adults * helps people \nremain independent in their own homes for as long as possible<BR><BR><B>Services and Programs:</B><UL><LI>Congregate Dining</LI><LI>Grocery Shopping</LI><LI>Home Maintenance</LI><LI>Homemaking</LI><LI>Telephone Reassurance</LI><LI>Transportation</LI></UL>",
+    "serviceProvisionCode": [
+      "Varies per program"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>673bffbf-500c-4d64-868e-692c6ee967f6</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Waterloo</p><p>physical-location-postalcode</p><p>N2J 4A8</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>219466</p><p>true</p><p>Community Support Services</p><p>Location/1d0fbc80-13f7-429d-be9d-73bec3560a4e</p><p>Location</p><p>Waterloo (City of) - Community Services</p><p>Supports for older adults * helps people \nremain independent in their own homes for as long as possible&lt;BR&gt;&lt;BR&gt;&lt;B&gt;Services and Programs:&lt;/B&gt;&lt;UL&gt;&lt;LI&gt;Congregate Dining&lt;/LI&gt;&lt;LI&gt;Grocery Shopping&lt;/LI&gt;&lt;LI&gt;Home Maintenance&lt;/LI&gt;&lt;LI&gt;Homemaking&lt;/LI&gt;&lt;LI&gt;Telephone Reassurance&lt;/LI&gt;&lt;LI&gt;Transportation&lt;/LI&gt;&lt;/UL&gt;</p><p>Location/5e3f1f28-6ba1-421b-bbd6-12a84e875555</p><p>Location</p><p>Varies per program</p><p>Older adults who need physical, social, or emotional supports</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>Call * no referral required</p></div>",
+    "eligibility": [
+      "Older adults who need physical, social, or emotional supports"
+    ],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [
+      "Call * no referral required"
+    ],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-579-6930"
+          },
+          {
+            "phone": "1-866-786-3941"
+          },
+          {
+            "url": "www.waterloo.ca/en/living/senior-services.aspx"
+          }
+        ],
+        "address": {
+          "line": [
+            "Waterloo City Centre",
+            "100 Regina St S, PO Box 337, Stn Waterloo"
+          ],
+          "city": "Waterloo",
+          "state": "ON",
+          "postalCode": "N2J 4A8"
+        },
+        "position": {
+          "longitude": -80.5203,
+          "latitude": 43.4634
+        }
+      }
+    ],
+    "contact_info": "phone: 519-579-6930, phone: 1-866-786-3941, url: www.waterloo.ca/en/living/senior-services.aspx",
+    "description_of_this": "Supports for older adults * helps people \nremain independent in their own homes for as long as possible<BR><BR><B>Services and Programs:</B><UL><LI>Congregate Dining</LI><LI>Grocery Shopping</LI><LI>Home Maintenance</LI><LI>Homemaking</LI><LI>Telephone Reassurance</LI><LI>Transportation</LI></UL>, Codes: Varies per program, Features: Wheelchair Accessible, Languages: English, Referral: Call * no referral required, Address: Waterloo City Centre, 100 Regina St S, PO Box 337, Stn Waterloo, Waterloo, ON, N2J 4A8, Location: lat: 43.4634, lon: -80.5203"
+  }
+]

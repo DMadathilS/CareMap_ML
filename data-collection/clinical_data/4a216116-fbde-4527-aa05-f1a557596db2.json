@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Remedy'sRx Pharmacy - Kitchener - Fischer Hallman Rd (Williamsburg)",
+    "active": true,
+    "category": [
+      "Pharmacies"
+    ],
+    "comment": "Compounding pharmacy<ul><li> treatment and prescription of medications for common medical \nailments, including rashes, pink eye, insect bites, acne, and urinary \ntract infections<br></li><li> prescription of COVID-19 antiviral treatment (Paxlovid)</li><li>medication placed in pill organizers (containers for storing scheduled doses) at no extra cost\n </li><li> medication placed in blister packs (sealed, push-through packaging used to separate doses) at no extra cost</li><li> pharmacist available for diabetes management consultations</li><li>mobility aids (canes, crutches), additional mobility aids can be ordered</li><li> free delivery for prescriptions\n </li><li> delivery for all products available for a fee\n </li><li>free seasonal flu vaccines</li><li> free take-home naloxone kits (emergency response kits for opioid overdose)</li><li>compression stockings</li><li>ideal protein counseling for weight loss<br></li><li>travel vaccines with prescription - fees apply</li><li>INR clinics</li></ul><br>\n<b>MedsCheck</b> - Appointments to review complex prescriptions with a pharmacist <br><br>\n<b>Medications Return Program</b> - Safe disposal of expired or unused medications, creams, and inhalers <br><br>\n<b>Sharps Disposal Program</b> - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips",
+    "serviceProvisionCode": [
+      "Dispensing fee plus medication costs * prescribed medications may be covered by OHIP"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>4a216116-fbde-4527-aa05-f1a557596db2</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Kitchener</p><p>physical-location-postalcode</p><p>N2E 4H9</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>209040</p><p>true</p><p>Pharmacies</p><p>Location/6f7ac4a2-dfc9-4d76-89cc-97fe71f79df5</p><p>Location</p><p>Remedy'sRx Pharmacy - Kitchener - Fischer Hallman Rd (Williamsburg)</p><p>Compounding pharmacy&lt;ul&gt;&lt;li&gt; treatment and prescription of medications for common medical \nailments, including rashes, pink eye, insect bites, acne, and urinary \ntract infections&lt;br&gt;&lt;/li&gt;&lt;li&gt; prescription of COVID-19 antiviral treatment (Paxlovid)&lt;/li&gt;&lt;li&gt;medication placed in pill organizers (containers for storing scheduled doses) at no extra cost\n &lt;/li&gt;&lt;li&gt; medication placed in blister packs (sealed, push-through packaging used to separate doses) at no extra cost&lt;/li&gt;&lt;li&gt; pharmacist available for diabetes management consultations&lt;/li&gt;&lt;li&gt;mobility aids (canes, crutches), additional mobility aids can be ordered&lt;/li&gt;&lt;li&gt; free delivery for prescriptions\n &lt;/li&gt;&lt;li&gt; delivery for all products available for a fee\n &lt;/li&gt;&lt;li&gt;free seasonal flu vaccines&lt;/li&gt;&lt;li&gt; free take-home naloxone kits (emergency response kits for opioid overdose)&lt;/li&gt;&lt;li&gt;compression stockings&lt;/li&gt;&lt;li&gt;ideal protein counseling for weight loss&lt;br&gt;&lt;/li&gt;&lt;li&gt;travel vaccines with prescription - fees apply&lt;/li&gt;&lt;li&gt;INR clinics&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;\n&lt;b&gt;MedsCheck&lt;/b&gt; - Appointments to review complex prescriptions with a pharmacist &lt;br&gt;&lt;br&gt;\n&lt;b&gt;Medications Return Program&lt;/b&gt; - Safe disposal of expired or unused medications, creams, and inhalers &lt;br&gt;&lt;br&gt;\n&lt;b&gt;Sharps Disposal Program&lt;/b&gt; - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips</p><p>Location/4a2a6d7e-72aa-48e6-8d94-787b15b4f050</p><p>Location</p><p>Dispensing fee plus medication costs * prescribed medications may be covered by OHIP</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p></div>",
+    "eligibility": [],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-579-8203"
+          },
+          {
+            "fax": "519-579-1530"
+          },
+          {
+            "url": "www.guardian-ida-remedysrx.ca/en/ontario/kitchener/williamsburg-remedysrx-7012077"
+          }
+        ],
+        "address": {
+          "line": [
+            "1187 Fischer Hallman Rd, Unit 440"
+          ],
+          "city": "Kitchener",
+          "state": "ON",
+          "postalCode": "N2E 4H9"
+        },
+        "position": {
+          "longitude": -80.5012,
+          "latitude": 43.4055
+        }
+      }
+    ],
+    "contact_info": "phone: 519-579-8203, fax: 519-579-1530, url: www.guardian-ida-remedysrx.ca/en/ontario/kitchener/williamsburg-remedysrx-7012077",
+    "description_of_this": "Compounding pharmacy<ul><li> treatment and prescription of medications for common medical \nailments, including rashes, pink eye, insect bites, acne, and urinary \ntract infections<br></li><li> prescription of COVID-19 antiviral treatment (Paxlovid)</li><li>medication placed in pill organizers (containers for storing scheduled doses) at no extra cost\n </li><li> medication placed in blister packs (sealed, push-through packaging used to separate doses) at no extra cost</li><li> pharmacist available for diabetes management consultations</li><li>mobility aids (canes, crutches), additional mobility aids can be ordered</li><li> free delivery for prescriptions\n </li><li> delivery for all products available for a fee\n </li><li>free seasonal flu vaccines</li><li> free take-home naloxone kits (emergency response kits for opioid overdose)</li><li>compression stockings</li><li>ideal protein counseling for weight loss<br></li><li>travel vaccines with prescription - fees apply</li><li>INR clinics</li></ul><br>\n<b>MedsCheck</b> - Appointments to review complex prescriptions with a pharmacist <br><br>\n<b>Medications Return Program</b> - Safe disposal of expired or unused medications, creams, and inhalers <br><br>\n<b>Sharps Disposal Program</b> - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips, Codes: Dispensing fee plus medication costs * prescribed medications may be covered by OHIP, Features: Wheelchair Accessible, Languages: English, Address: 1187 Fischer Hallman Rd, Unit 440, Kitchener, ON, N2E 4H9, Location: lat: 43.4055, lon: -80.5012"
+  }
+]

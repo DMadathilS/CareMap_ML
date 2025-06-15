@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Guardian Pharmacy - St Jacobs (Martin's)",
+    "active": true,
+    "category": [
+      "Pharmacies"
+    ],
+    "comment": "General pharmacy <br><ul><li> treatment and prescription of medications for common medical \nailments, including rashes, pink eye, insect bites, acne, and urinary \ntract infections\n <br></li><li> prescription of COVID-19 antiviral treatment (Paxlovid)</li><li>medication placed in blister packs (sealed, push-through packaging used to separate doses</li><li>free delivery for prescriptions</li><li>free in-store blood pressure kiosk</li><li>ostomy and diabetic supplies<br><br></li></ul><b>MedsCheck</b> - Appointments to review complex prescriptions with a pharmacist\n\n<br><br><b>MedsCheck at Home</b> - Appointments in the patient's home to review complex prescriptions with a pharmacist",
+    "serviceProvisionCode": [
+      "Dispensing fee plus medication costs * prescribed medications may be covered by OHIP"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>ea1ac2a3-f3f7-45b3-85b0-091a7703b7d4</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>St Jacobs</p><p>physical-location-postalcode</p><p>N0B 2N0</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>208700</p><p>true</p><p>Pharmacies</p><p>Location/857be77c-4b56-4129-a145-4f0e4260e8ce</p><p>Location</p><p>Guardian Pharmacy - St Jacobs (Martin's)</p><p>General pharmacy &lt;br&gt;&lt;ul&gt;&lt;li&gt; treatment and prescription of medications for common medical \nailments, including rashes, pink eye, insect bites, acne, and urinary \ntract infections\n &lt;br&gt;&lt;/li&gt;&lt;li&gt; prescription of COVID-19 antiviral treatment (Paxlovid)&lt;/li&gt;&lt;li&gt;medication placed in blister packs (sealed, push-through packaging used to separate doses&lt;/li&gt;&lt;li&gt;free delivery for prescriptions&lt;/li&gt;&lt;li&gt;free in-store blood pressure kiosk&lt;/li&gt;&lt;li&gt;ostomy and diabetic supplies&lt;br&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;b&gt;MedsCheck&lt;/b&gt; - Appointments to review complex prescriptions with a pharmacist\n\n&lt;br&gt;&lt;br&gt;&lt;b&gt;MedsCheck at Home&lt;/b&gt; - Appointments in the patient's home to review complex prescriptions with a pharmacist</p><p>Location/d87b4422-6d0c-4ef9-b1c7-822974f6a668</p><p>Location</p><p>Dispensing fee plus medication costs * prescribed medications may be covered by OHIP</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p></div>",
+    "eligibility": [],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-664-3785"
+          },
+          {
+            "fax": "519-664-2170"
+          },
+          {
+            "url": "www.martinspharmacy.ca/"
+          }
+        ],
+        "address": {
+          "line": [
+            "Woolwich Community Health Centre",
+            "10 Parkside Dr"
+          ],
+          "city": "St Jacobs",
+          "state": "ON",
+          "postalCode": "N0B 2N0"
+        },
+        "position": {
+          "longitude": -80.5509,
+          "latitude": 43.5442
+        }
+      }
+    ],
+    "contact_info": "phone: 519-664-3785, fax: 519-664-2170, url: www.martinspharmacy.ca/",
+    "description_of_this": "General pharmacy <br><ul><li> treatment and prescription of medications for common medical \nailments, including rashes, pink eye, insect bites, acne, and urinary \ntract infections\n <br></li><li> prescription of COVID-19 antiviral treatment (Paxlovid)</li><li>medication placed in blister packs (sealed, push-through packaging used to separate doses</li><li>free delivery for prescriptions</li><li>free in-store blood pressure kiosk</li><li>ostomy and diabetic supplies<br><br></li></ul><b>MedsCheck</b> - Appointments to review complex prescriptions with a pharmacist\n\n<br><br><b>MedsCheck at Home</b> - Appointments in the patient's home to review complex prescriptions with a pharmacist, Codes: Dispensing fee plus medication costs * prescribed medications may be covered by OHIP, Features: Wheelchair Accessible, Languages: English, Address: Woolwich Community Health Centre, 10 Parkside Dr, St Jacobs, ON, N0B 2N0, Location: lat: 43.5442, lon: -80.5509, Contact: phone: 519-664-3785, fax: 519-664-2170, url: www.martinspharmacy.ca/"
+  }
+]

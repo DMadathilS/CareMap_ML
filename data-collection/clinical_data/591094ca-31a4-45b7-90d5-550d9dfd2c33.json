@@ -1,0 +1,56 @@
+[
+  {
+    "name": "University Pharmacy - Waterloo - King St N",
+    "active": true,
+    "category": [
+      "Pharmacies"
+    ],
+    "comment": "General pharmacy<ul><li>treatment and prescription of medications for common medical ailments, \nincluding rashes, pink eye, insect bites, acne, and urinary tract \ninfections</li><li>medication placed in pill organizers (containers for storing scheduled doses) at no extra cost</li><li>pharmacist available for diabetes management consultations</li><li>free delivery for prescriptions <br></li><li>basic home health care supplies<br><br></li></ul><b>MedsCheck</b> - Appointments to review complex prescriptions with a pharmacist <br><br><b>Sharps Disposal Program</b> - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips<br><br><b>Medications Return Program</b> - Safe disposal of expired or unused medications, creams, and inhalers",
+    "serviceProvisionCode": [
+      "Dispensing fee plus medication costs * prescribed medications may be covered by OHIP"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>591094ca-31a4-45b7-90d5-550d9dfd2c33</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Waterloo</p><p>physical-location-postalcode</p><p>N2J 2Y7</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>209035</p><p>true</p><p>Pharmacies</p><p>Location/2611c4c3-b0fe-44f0-9b3a-19f046638acc</p><p>Location</p><p>University Pharmacy - Waterloo - King St N</p><p>General pharmacy&lt;ul&gt;&lt;li&gt;treatment and prescription of medications for common medical ailments, \nincluding rashes, pink eye, insect bites, acne, and urinary tract \ninfections&lt;/li&gt;&lt;li&gt;medication placed in pill organizers (containers for storing scheduled doses) at no extra cost&lt;/li&gt;&lt;li&gt;pharmacist available for diabetes management consultations&lt;/li&gt;&lt;li&gt;free delivery for prescriptions &lt;br&gt;&lt;/li&gt;&lt;li&gt;basic home health care supplies&lt;br&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;b&gt;MedsCheck&lt;/b&gt; - Appointments to review complex prescriptions with a pharmacist &lt;br&gt;&lt;br&gt;&lt;b&gt;Sharps Disposal Program&lt;/b&gt; - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips&lt;br&gt;&lt;br&gt;&lt;b&gt;Medications Return Program&lt;/b&gt; - Safe disposal of expired or unused medications, creams, and inhalers</p><p>Location/5f9cd5f5-9a25-4023-8d7f-9c5b10fce4f6</p><p>Location</p><p>Dispensing fee plus medication costs * prescribed medications may be covered by OHIP</p><p>Partially Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>ara</p><p>Arabic</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>pol</p><p>Polish</p></div>",
+    "eligibility": [],
+    "characteristic": [
+      "Partially Accessible"
+    ],
+    "communication": [
+      "English",
+      "Arabic",
+      "Polish"
+    ],
+    "referralMethod": [],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-885-2530"
+          },
+          {
+            "fax": "519-885-2531"
+          },
+          {
+            "email": "admin@universitypharmacykw.com"
+          },
+          {
+            "url": "www.kwuniversitypharmacy.com/"
+          }
+        ],
+        "address": {
+          "line": [
+            "240 King St N"
+          ],
+          "city": "Waterloo",
+          "state": "ON",
+          "postalCode": "N2J 2Y7"
+        },
+        "position": {
+          "longitude": -80.5245,
+          "latitude": 43.4756
+        }
+      }
+    ],
+    "contact_info": "phone: 519-885-2530, fax: 519-885-2531, email: admin@universitypharmacykw.com, url: www.kwuniversitypharmacy.com/",
+    "description_of_this": "General pharmacy<ul><li>treatment and prescription of medications for common medical ailments, \nincluding rashes, pink eye, insect bites, acne, and urinary tract \ninfections</li><li>medication placed in pill organizers (containers for storing scheduled doses) at no extra cost</li><li>pharmacist available for diabetes management consultations</li><li>free delivery for prescriptions <br></li><li>basic home health care supplies<br><br></li></ul><b>MedsCheck</b> - Appointments to review complex prescriptions with a pharmacist <br><br><b>Sharps Disposal Program</b> - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips<br><br><b>Medications Return Program</b> - Safe disposal of expired or unused medications, creams, and inhalers, Codes: Dispensing fee plus medication costs * prescribed medications may be covered by OHIP, Features: Partially Accessible, Languages: English, Arabic, Polish, Address: 240 King St N, Waterloo, ON, N2J 2Y7, Location: lat: 43.4756, lon: -80.5245"
+  }
+]

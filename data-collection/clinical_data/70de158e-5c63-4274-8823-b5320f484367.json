@@ -1,0 +1,56 @@
+[
+  {
+    "name": "True North Imaging - Cambridge - Conestoga Blvd (Canamera X-Ray and Ultrasound)",
+    "active": true,
+    "category": [
+      "Diagnostic Imaging Clinics",
+      "Ontario Breast Screening Programs"
+    ],
+    "comment": "Diagnostic imaging clinic<br><br><b>Services include:</b><ul><li>ultrasound</li><li>x-ray</li><li>bone mineral density testing</li><li>sonohysterography</li><li>mammography (breast x-rays used to screen and diagnose medical conditions)\n<br><br></li></ul><b>Ontario Breast Screening Program</b> - Breast screening for\n early detection of breast cancer in women * screening includes \nmammography (x-rays of breast tissue) * screening results are sent to \nboth the woman and her doctor * women who receive normal results are \nautomatically recalled for their next screening appointment * women who \nreceive abnormal results are referred to their doctor for further \ninvestigation, or are referred directly for additional tests",
+    "serviceProvisionCode": [
+      "Most services covered by OHIP"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>70de158e-5c63-4274-8823-b5320f484367</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Cambridge</p><p>physical-location-postalcode</p><p>N1R 7L7</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>208134</p><p>true</p><p>Diagnostic Imaging Clinics</p><p>Ontario Breast Screening Programs</p><p>Location/023a5c33-212f-41b5-bb5d-394f98f8449b</p><p>Location</p><p>True North Imaging - Cambridge - Conestoga Blvd (Canamera X-Ray and Ultrasound)</p><p>Diagnostic imaging clinic&lt;br&gt;&lt;br&gt;&lt;b&gt;Services include:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;ultrasound&lt;/li&gt;&lt;li&gt;x-ray&lt;/li&gt;&lt;li&gt;bone mineral density testing&lt;/li&gt;&lt;li&gt;sonohysterography&lt;/li&gt;&lt;li&gt;mammography (breast x-rays used to screen and diagnose medical conditions)\n&lt;br&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;b&gt;Ontario Breast Screening Program&lt;/b&gt; - Breast screening for\n early detection of breast cancer in women * screening includes \nmammography (x-rays of breast tissue) * screening results are sent to \nboth the woman and her doctor * women who receive normal results are \nautomatically recalled for their next screening appointment * women who \nreceive abnormal results are referred to their doctor for further \ninvestigation, or are referred directly for additional tests</p><p>Location/af33442a-0876-420e-a9ab-4a44b50e1be0</p><p>Location</p><p>Most services covered by OHIP</p><p>&lt;b&gt;Ontario Breast Screening Program: &lt;/b&gt;Women 50-74 years, and women 30-69 years identified as having a high-risk</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>Medical referral required&lt;br&gt;&lt;b&gt;Ontario Breast Screening Program: &lt;/b&gt;Call for appointment * no referral required for women between 50 and 74 years * medical referrals also accepted for women between 30 and 69 years</p></div>",
+    "eligibility": [
+      "<b>Ontario Breast Screening Program: </b>Women 50-74 years, and women 30-69 years identified as having a high-risk"
+    ],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [
+      "Medical referral required<br><b>Ontario Breast Screening Program: </b>Call for appointment * no referral required for women between 50 and 74 years * medical referrals also accepted for women between 30 and 69 years"
+    ],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-623-9464"
+          },
+          {
+            "fax": "519-623-6736"
+          },
+          {
+            "url": "truenorthimaging.com/"
+          }
+        ],
+        "address": {
+          "line": [
+            "350 Conestoga Blvd, Unit B9"
+          ],
+          "city": "Cambridge",
+          "state": "ON",
+          "postalCode": "N1R 7L7"
+        },
+        "position": {
+          "longitude": -80.3194,
+          "latitude": 43.3814
+        }
+      }
+    ],
+    "contact_info": "phone: 519-623-9464, fax: 519-623-6736, url: truenorthimaging.com/",
+    "description_of_this": "Diagnostic imaging clinic<br><br><b>Services include:</b><ul><li>ultrasound</li><li>x-ray</li><li>bone mineral density testing</li><li>sonohysterography</li><li>mammography (breast x-rays used to screen and diagnose medical conditions)\n<br><br></li></ul><b>Ontario Breast Screening Program</b> - Breast screening for\n early detection of breast cancer in women * screening includes \nmammography (x-rays of breast tissue) * screening results are sent to \nboth the woman and her doctor * women who receive normal results are \nautomatically recalled for their next screening appointment * women who \nreceive abnormal results are referred to their doctor for further \ninvestigation, or are referred directly for additional tests, Codes: Most services covered by OHIP, Features: Wheelchair Accessible, Languages: English, Referral: Medical referral required<br><b>Ontario Breast Screening Program: </b>Call for appointment * no referral required for women between 50 and 74 years * medical referrals also accepted for women between 30 and 69 years, Address: 350 Conestoga Blvd, Unit B9, Cambridge, ON, N1R 7L7, Location: lat: 43.3814, lon: -80.3194"
+  }
+]

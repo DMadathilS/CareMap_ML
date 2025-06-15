@@ -1,0 +1,51 @@
+[
+  {
+    "name": "St Marys Pharmacy",
+    "active": true,
+    "category": [
+      "Pharmacies"
+    ],
+    "comment": "General pharmacy<ul><li>treatment and prescription of medications for common medical ailments, \nincluding rashes, pink eye, insect bites, acne, and urinary tract \ninfections</li><li>basic home health care supplies</li><li>medication placed in blister packs (sealed, push-through packaging used to separate doses) </li><li>review OHIP coverage for prescription medications for those under the age of 24<br><br></li></ul><b>Medications Return Program</b> - Safe disposal of expired or unused medications, creams, and inhalers <br><br><b></b><b>MedsCheck</b> - Appointments to review complex prescriptions with a pharmacist",
+    "serviceProvisionCode": [
+      "Dispensing fee plus medication costs * prescribed medications may be covered by OHIP"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>20876e93-9ab5-46cc-b2da-fb4c7f77f700</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Kitchener</p><p>physical-location-postalcode</p><p>N2G 2M2</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>208528</p><p>true</p><p>Pharmacies</p><p>Location/90b7c9ca-69a0-4821-af8b-866289e44e99</p><p>Location</p><p>St Marys Pharmacy</p><p>General pharmacy&lt;ul&gt;&lt;li&gt;treatment and prescription of medications for common medical ailments, \nincluding rashes, pink eye, insect bites, acne, and urinary tract \ninfections&lt;/li&gt;&lt;li&gt;basic home health care supplies&lt;/li&gt;&lt;li&gt;medication placed in blister packs (sealed, push-through packaging used to separate doses) &lt;/li&gt;&lt;li&gt;review OHIP coverage for prescription medications for those under the age of 24&lt;br&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;b&gt;Medications Return Program&lt;/b&gt; - Safe disposal of expired or unused medications, creams, and inhalers &lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;/b&gt;&lt;b&gt;MedsCheck&lt;/b&gt; - Appointments to review complex prescriptions with a pharmacist</p><p>Location/82b2426e-a698-4b87-b353-9e26c20300d5</p><p>Location</p><p>Dispensing fee plus medication costs * prescribed medications may be covered by OHIP</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p></div>",
+    "eligibility": [],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-576-8226"
+          },
+          {
+            "fax": "519-576-9078"
+          },
+          {
+            "url": "www.pharmachoice.com/locations/aim-medical/"
+          }
+        ],
+        "address": {
+          "line": [
+            "587 King St E"
+          ],
+          "city": "Kitchener",
+          "state": "ON",
+          "postalCode": "N2G 2M2"
+        },
+        "position": {
+          "longitude": -80.4798,
+          "latitude": 43.4454
+        }
+      }
+    ],
+    "contact_info": "phone: 519-576-8226, fax: 519-576-9078, url: www.pharmachoice.com/locations/aim-medical/",
+    "description_of_this": "General pharmacy<ul><li>treatment and prescription of medications for common medical ailments, \nincluding rashes, pink eye, insect bites, acne, and urinary tract \ninfections</li><li>basic home health care supplies</li><li>medication placed in blister packs (sealed, push-through packaging used to separate doses) </li><li>review OHIP coverage for prescription medications for those under the age of 24<br><br></li></ul><b>Medications Return Program</b> - Safe disposal of expired or unused medications, creams, and inhalers <br><br><b></b><b>MedsCheck</b> - Appointments to review complex prescriptions with a pharmacist, Codes: Dispensing fee plus medication costs * prescribed medications may be covered by OHIP, Features: Wheelchair Accessible, Languages: English, Address: 587 King St E, Kitchener, ON, N2G 2M2, Location: lat: 43.4454, lon: -80.4798"
+  }
+]

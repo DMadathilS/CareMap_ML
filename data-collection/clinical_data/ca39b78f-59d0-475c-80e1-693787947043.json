@@ -1,0 +1,54 @@
+[
+  {
+    "name": "Preston Medical Pharmacy",
+    "active": true,
+    "category": [
+      "Pharmacies"
+    ],
+    "comment": "General pharmacy<ul><li> treatment and prescription of medications for common medical \nailments, including rashes, pink eye, insect bites, acne, and urinary \ntract infections<br></li><li> prescription of COVID-19 antiviral treatment (Paxlovid)</li><li>basic/intermediate compounding<br> </li><li>free delivery for prescriptions\n </li><li>medication placed in pill organizers (containers for storing scheduled doses) at no extra cost\n </li><li> medication placed in blister packs (sealed, push-through packaging used to separate doses) at no extra cost</li><li> certified diabetes educator (CDE) available for consultations</li><li> mobility aids (walkers)\n </li><li>extensive home health care supplies, including commodes</li><li>bathroom grab bars</li><li>free seasonal flu vaccines</li><li> free take-home naloxone kits (emergency response kits for opioid overdose)</li><li>INR clinic for warfarin patients</li></ul>\n<b><br></b><b>Assistive Devices Program</b> - Authorized vendor of \ngovernment-subsidized assistive devices for Ontario residents having had\n a physical disability for six months or longer\n\n<b><br></b><b><br></b><b>MedsCheck</b> - Appointments to review complex prescriptions with a pharmacist <br><br>\n<b>MedsCheck at Home</b> - Appointments in the patient's home to review complex prescriptions with a pharmacist\n<br>\n<b><br></b><b>Pharmacy Smoking Cessation Program</b> - Help to quit smoking, available for Ontario Drug Benefit recipients <br><br>\n<b>Medications Return Program</b> - Safe disposal of expired or unused medications, creams, and inhalers <br><br><b>Sharps Disposal Program</b> - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips",
+    "serviceProvisionCode": [
+      "Dispensing fee plus medication costs * prescribed medications may be covered by OHIP"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>ca39b78f-59d0-475c-80e1-693787947043</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Cambridge</p><p>physical-location-postalcode</p><p>N3H 1N3</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>209018</p><p>true</p><p>Pharmacies</p><p>Location/3785151d-fac1-465d-bd05-d4517f503b2e</p><p>Location</p><p>Preston Medical Pharmacy</p><p>General pharmacy&lt;ul&gt;&lt;li&gt; treatment and prescription of medications for common medical \nailments, including rashes, pink eye, insect bites, acne, and urinary \ntract infections&lt;br&gt;&lt;/li&gt;&lt;li&gt; prescription of COVID-19 antiviral treatment (Paxlovid)&lt;/li&gt;&lt;li&gt;basic/intermediate compounding&lt;br&gt; &lt;/li&gt;&lt;li&gt;free delivery for prescriptions\n &lt;/li&gt;&lt;li&gt;medication placed in pill organizers (containers for storing scheduled doses) at no extra cost\n &lt;/li&gt;&lt;li&gt; medication placed in blister packs (sealed, push-through packaging used to separate doses) at no extra cost&lt;/li&gt;&lt;li&gt; certified diabetes educator (CDE) available for consultations&lt;/li&gt;&lt;li&gt; mobility aids (walkers)\n &lt;/li&gt;&lt;li&gt;extensive home health care supplies, including commodes&lt;/li&gt;&lt;li&gt;bathroom grab bars&lt;/li&gt;&lt;li&gt;free seasonal flu vaccines&lt;/li&gt;&lt;li&gt; free take-home naloxone kits (emergency response kits for opioid overdose)&lt;/li&gt;&lt;li&gt;INR clinic for warfarin patients&lt;/li&gt;&lt;/ul&gt;\n&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;b&gt;Assistive Devices Program&lt;/b&gt; - Authorized vendor of \ngovernment-subsidized assistive devices for Ontario residents having had\n a physical disability for six months or longer\n\n&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;b&gt;MedsCheck&lt;/b&gt; - Appointments to review complex prescriptions with a pharmacist &lt;br&gt;&lt;br&gt;\n&lt;b&gt;MedsCheck at Home&lt;/b&gt; - Appointments in the patient's home to review complex prescriptions with a pharmacist\n&lt;br&gt;\n&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;b&gt;Pharmacy Smoking Cessation Program&lt;/b&gt; - Help to quit smoking, available for Ontario Drug Benefit recipients &lt;br&gt;&lt;br&gt;\n&lt;b&gt;Medications Return Program&lt;/b&gt; - Safe disposal of expired or unused medications, creams, and inhalers &lt;br&gt;&lt;br&gt;&lt;b&gt;Sharps Disposal Program&lt;/b&gt; - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips</p><p>Location/02068b29-7098-4645-898e-4044d810681a</p><p>Location</p><p>Dispensing fee plus medication costs * prescribed medications may be covered by OHIP</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p></div>",
+    "eligibility": [],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "Dispensary: 519-653-1870<br>Home Health Care: 519-653-1994"
+          },
+          {
+            "fax": "519-653-9232"
+          },
+          {
+            "email": "office_pmp@rogers.com"
+          },
+          {
+            "url": "prestonmed.ca/"
+          }
+        ],
+        "address": {
+          "line": [
+            "125 Waterloo St S"
+          ],
+          "city": "Cambridge",
+          "state": "ON",
+          "postalCode": "N3H 1N3"
+        },
+        "position": {
+          "longitude": -80.3614,
+          "latitude": 43.3967
+        }
+      }
+    ],
+    "contact_info": "phone: Dispensary: 519-653-1870<br>Home Health Care: 519-653-1994, fax: 519-653-9232, email: office_pmp@rogers.com, url: prestonmed.ca/",
+    "description_of_this": "General pharmacy<ul><li> treatment and prescription of medications for common medical \nailments, including rashes, pink eye, insect bites, acne, and urinary \ntract infections<br></li><li> prescription of COVID-19 antiviral treatment (Paxlovid)</li><li>basic/intermediate compounding<br> </li><li>free delivery for prescriptions\n </li><li>medication placed in pill organizers (containers for storing scheduled doses) at no extra cost\n </li><li> medication placed in blister packs (sealed, push-through packaging used to separate doses) at no extra cost</li><li> certified diabetes educator (CDE) available for consultations</li><li> mobility aids (walkers)\n </li><li>extensive home health care supplies, including commodes</li><li>bathroom grab bars</li><li>free seasonal flu vaccines</li><li> free take-home naloxone kits (emergency response kits for opioid overdose)</li><li>INR clinic for warfarin patients</li></ul>\n<b><br></b><b>Assistive Devices Program</b> - Authorized vendor of \ngovernment-subsidized assistive devices for Ontario residents having had\n a physical disability for six months or longer\n\n<b><br></b><b><br></b><b>MedsCheck</b> - Appointments to review complex prescriptions with a pharmacist <br><br>\n<b>MedsCheck at Home</b> - Appointments in the patient's home to review complex prescriptions with a pharmacist\n<br>\n<b><br></b><b>Pharmacy Smoking Cessation Program</b> - Help to quit smoking, available for Ontario Drug Benefit recipients <br><br>\n<b>Medications Return Program</b> - Safe disposal of expired or unused medications, creams, and inhalers <br><br><b>Sharps Disposal Program</b> - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips, Codes: Dispensing fee plus medication costs * prescribed medications may be covered by OHIP, Features: Wheelchair Accessible, Languages: English, Address: 125 Waterloo St S, Cambridge, ON, N3H 1N3, Location: lat: 43.3967, lon: -80.3614, Contact: phone: Dispensary: 519-653-1870<br>Home Health Care: 519-653-1994, fax: 519-653-9232, email: office_pmp@rogers.com, url: prestonmed.ca/"
+  }
+]

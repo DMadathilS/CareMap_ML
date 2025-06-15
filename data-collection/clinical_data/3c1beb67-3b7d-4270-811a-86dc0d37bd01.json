@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Alzheimer Society Waterloo Wellington - Cambridge",
+    "active": true,
+    "category": [
+      "Caregiver Support Services"
+    ],
+    "comment": "Peer support groups, education, and training for family members, service providers, and caregivers",
+    "serviceProvisionCode": [
+      "Free"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>3c1beb67-3b7d-4270-811a-86dc0d37bd01</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Cambridge</p><p>physical-location-postalcode</p><p>N3H 4L5</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>209373</p><p>true</p><p>Caregiver Support Services</p><p>Location/1854f71b-e07e-4924-8049-07a890f0e06c</p><p>Location</p><p>Alzheimer Society Waterloo Wellington - Cambridge</p><p>Peer support groups, education, and training for family members, service providers, and caregivers</p><p>Location/bf156653-da99-40b7-9ba4-acfbd1280e74</p><p>Location</p><p>Free</p><p>People who regularly provide physical, social, or emotional supports</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>Call * no referral required</p></div>",
+    "eligibility": [
+      "People who regularly provide physical, social, or emotional supports"
+    ],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [
+      "Call * no referral required"
+    ],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-650-1628"
+          },
+          {
+            "fax": "519-742-1862"
+          },
+          {
+            "email": "asww@alzheimerww.ca"
+          },
+          {
+            "url": "alzheimer.ca/en/help-support/programs-services/find-support"
+          }
+        ],
+        "address": {
+          "line": [
+            "1145 Concession Rd, 2nd Fl"
+          ],
+          "city": "Cambridge",
+          "state": "ON",
+          "postalCode": "N3H 4L5"
+        },
+        "position": {
+          "longitude": -80.3442,
+          "latitude": 43.397
+        }
+      }
+    ],
+    "contact_info": "phone: 519-650-1628, fax: 519-742-1862, email: asww@alzheimerww.ca, url: alzheimer.ca/en/help-support/programs-services/find-support",
+    "description_of_this": "Peer support groups, education, and training for family members, service providers, and caregivers, Codes: Free, Features: Wheelchair Accessible, Languages: English, Referral: Call * no referral required, Address: 1145 Concession Rd, 2nd Fl, Cambridge, ON, N3H 4L5, Location: lat: 43.397, lon: -80.3442"
+  }
+]

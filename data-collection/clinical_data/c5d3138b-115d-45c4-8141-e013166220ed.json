@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Alzheimer Society Waterloo Wellington - Kitchener",
+    "active": true,
+    "category": [
+      "Alzheimer's Disease and Related Dementias"
+    ],
+    "comment": "Supports for people with Alzheimer's disease and other dementias, and their caregivers <br><br>Seminars, workshops and training sessions * one-on-one care plan \nconsultations with health professionals * advanced care planning for \nfuture health care needs <br><br><b>First Link</b> - Networking for people affected by \nAlzheimer's disease or a related dementia, to a community of learning, \nservices and support * one-on-one counselling * caregiver support groups\n * referral to community resources by phone, drop in, or home visit * \nFirst Link Learning Series offered regularly in various locations <br><br><b>Education Programs and Resources</b> - Education, awareness programs, and resources for the general public and health care providers on Alzheimer's disease <br><br><b>Minds in Motion</b> - Community-based social program that includes physical and mental stimulation for people with early to mid-stage dementia and their care partners<br><br><b>Support Groups and Programs</b> - Support groups and programs for people with dementia, and their friends and family<BR><BR><B>Services and Programs:</B><UL><LI>First Link Program</LI></UL>",
+    "serviceProvisionCode": [
+      "Varies per program"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>c5d3138b-115d-45c4-8141-e013166220ed</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Kitchener</p><p>physical-location-postalcode</p><p>N2B 2B4</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>209303</p><p>true</p><p>Alzheimer's Disease and Related Dementias</p><p>Location/1a252cd9-a21f-4f5d-98c3-5696bded653f</p><p>Location</p><p>Alzheimer Society Waterloo Wellington - Kitchener</p><p>Supports for people with Alzheimer's disease and other dementias, and their caregivers &lt;br&gt;&lt;br&gt;Seminars, workshops and training sessions * one-on-one care plan \nconsultations with health professionals * advanced care planning for \nfuture health care needs &lt;br&gt;&lt;br&gt;&lt;b&gt;First Link&lt;/b&gt; - Networking for people affected by \nAlzheimer's disease or a related dementia, to a community of learning, \nservices and support * one-on-one counselling * caregiver support groups\n * referral to community resources by phone, drop in, or home visit * \nFirst Link Learning Series offered regularly in various locations &lt;br&gt;&lt;br&gt;&lt;b&gt;Education Programs and Resources&lt;/b&gt; - Education, awareness programs, and resources for the general public and health care providers on Alzheimer's disease &lt;br&gt;&lt;br&gt;&lt;b&gt;Minds in Motion&lt;/b&gt; - Community-based social program that includes physical and mental stimulation for people with early to mid-stage dementia and their care partners&lt;br&gt;&lt;br&gt;&lt;b&gt;Support Groups and Programs&lt;/b&gt; - Support groups and programs for people with dementia, and their friends and family&lt;BR&gt;&lt;BR&gt;&lt;B&gt;Services and Programs:&lt;/B&gt;&lt;UL&gt;&lt;LI&gt;First Link Program&lt;/LI&gt;&lt;/UL&gt;</p><p>Location/bc1b55d4-f6c3-497b-8a8b-a5d297f78256</p><p>Location</p><p>Varies per program</p><p>People with Alzheimer's disease and other dementias, and their caregivers</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>Call * no referral required</p></div>",
+    "eligibility": [
+      "People with Alzheimer's disease and other dementias, and their caregivers"
+    ],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [
+      "Call * no referral required"
+    ],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-742-1422<br>Social Worker: 519-742-8518 ext 2090"
+          },
+          {
+            "fax": "519-742-1862"
+          },
+          {
+            "email": "asww@alzheimerww.ca"
+          },
+          {
+            "url": "www.alzheimerww.ca"
+          }
+        ],
+        "address": {
+          "line": [
+            "831 Frederick St"
+          ],
+          "city": "Kitchener",
+          "state": "ON",
+          "postalCode": "N2B 2B4"
+        },
+        "position": {
+          "longitude": -80.4587,
+          "latitude": 43.4633
+        }
+      }
+    ],
+    "contact_info": "phone: 519-742-1422<br>Social Worker: 519-742-8518 ext 2090, fax: 519-742-1862, email: asww@alzheimerww.ca, url: www.alzheimerww.ca",
+    "description_of_this": "Supports for people with Alzheimer's disease and other dementias, and their caregivers <br><br>Seminars, workshops and training sessions * one-on-one care plan \nconsultations with health professionals * advanced care planning for \nfuture health care needs <br><br><b>First Link</b> - Networking for people affected by \nAlzheimer's disease or a related dementia, to a community of learning, \nservices and support * one-on-one counselling * caregiver support groups\n * referral to community resources by phone, drop in, or home visit * \nFirst Link Learning Series offered regularly in various locations <br><br><b>Education Programs and Resources</b> - Education, awareness programs, and resources for the general public and health care providers on Alzheimer's disease <br><br><b>Minds in Motion</b> - Community-based social program that includes physical and mental stimulation for people with early to mid-stage dementia and their care partners<br><br><b>Support Groups and Programs</b> - Support groups and programs for people with dementia, and their friends and family<BR><BR><B>Services and Programs:</B><UL><LI>First Link Program</LI></UL>, Codes: Varies per program, Features: Wheelchair Accessible, Languages: English, Referral: Call * no referral required, Address: 831 Frederick St, Kitchener, ON, N2B 2B4, Location: lat: 43.4633, lon: -80.4587, Contact: phone: 519-742-1422<br>Social Worker: 519-742-8518 ext 2090, fax: 519-742-1862, email: asww@alzheimerww.ca, url: www.alzheimerww.ca"
+  }
+]

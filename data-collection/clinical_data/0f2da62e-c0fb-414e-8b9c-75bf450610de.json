@@ -1,0 +1,53 @@
+[
+  {
+    "name": "Dawson Travel and Immunization Clinic",
+    "active": true,
+    "category": [
+      "Immunization Clinics"
+    ],
+    "comment": "Immunization clinic * vaccination against common infectious diseases\n<br>\n<br>General information and counselling to discuss vaccines * immunization records are reviewed to determine vaccination needs",
+    "serviceProvisionCode": [
+      "Publicly funded vaccines are free * other vaccines are provided at cost"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>0f2da62e-c0fb-414e-8b9c-75bf450610de</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Guelph</p><p>physical-location-postalcode</p><p>N1H 1B1</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>209402</p><p>true</p><p>Immunization Clinics</p><p>Location/2921504c-b346-4479-b007-4638c6d798f5</p><p>Location</p><p>Dawson Travel and Immunization Clinic</p><p>Immunization clinic * vaccination against common infectious diseases\n&lt;br&gt;\n&lt;br&gt;General information and counselling to discuss vaccines * immunization records are reviewed to determine vaccination needs</p><p>Location/d402a64d-f9fa-4dd8-8904-e31c33ca712e</p><p>Location</p><p>Publicly funded vaccines are free * other vaccines are provided at cost</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>Call for an appointment</p></div>",
+    "eligibility": [],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [
+      "Call for an appointment"
+    ],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-840-0106"
+          },
+          {
+            "email": "travel.clinic@drfmc.ca"
+          },
+          {
+            "url": "www.dawsontravelclinic.com"
+          }
+        ],
+        "address": {
+          "line": [
+            "89 Dawson Rd, Suite 215"
+          ],
+          "city": "Guelph",
+          "state": "ON",
+          "postalCode": "N1H 1B1"
+        },
+        "position": {
+          "longitude": -80.2768,
+          "latitude": 43.5501
+        }
+      }
+    ],
+    "contact_info": "phone: 519-840-0106, email: travel.clinic@drfmc.ca, url: www.dawsontravelclinic.com",
+    "description_of_this": "Immunization clinic * vaccination against common infectious diseases\n<br>\n<br>General information and counselling to discuss vaccines * immunization records are reviewed to determine vaccination needs, Codes: Publicly funded vaccines are free * other vaccines are provided at cost, Features: Wheelchair Accessible, Languages: English, Referral: Call for an appointment, Address: 89 Dawson Rd, Suite 215, Guelph, ON, N1H 1B1, Location: lat: 43.5501, lon: -80.2768"
+  }
+]

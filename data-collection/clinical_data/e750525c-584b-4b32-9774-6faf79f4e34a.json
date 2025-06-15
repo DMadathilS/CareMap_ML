@@ -1,0 +1,55 @@
+[
+  {
+    "name": "Kitchener (City of) - Community Services Department",
+    "active": true,
+    "category": [
+      "Seniors' Active Living Centres"
+    ],
+    "comment": "Community centre for older adults<ul><li>crafts (crocheting, knitting, quilting, painting, scrapbooking, stained glass)</li><li>card games (bridge, euchre)</li><li>recreation (billiards, carpet bowling, darts, lawn bowling, shuffleboard, skating)</li></ul><BR><BR><B>Services and Programs:</B><UL><LI>Peer Helping Programs</LI></UL>",
+    "serviceProvisionCode": [
+      "Membership fees"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>e750525c-584b-4b32-9774-6faf79f4e34a</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Kitchener</p><p>physical-location-postalcode</p><p>N2G 2N9</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>210850</p><p>true</p><p>Seniors' Active Living Centres</p><p>Location/974efa48-125e-4920-87cb-410ad28fa4f5</p><p>Location</p><p>Kitchener (City of) - Community Services Department</p><p>Community centre for older adults&lt;ul&gt;&lt;li&gt;crafts (crocheting, knitting, quilting, painting, scrapbooking, stained glass)&lt;/li&gt;&lt;li&gt;card games (bridge, euchre)&lt;/li&gt;&lt;li&gt;recreation (billiards, carpet bowling, darts, lawn bowling, shuffleboard, skating)&lt;/li&gt;&lt;/ul&gt;&lt;BR&gt;&lt;BR&gt;&lt;B&gt;Services and Programs:&lt;/B&gt;&lt;UL&gt;&lt;LI&gt;Peer Helping Programs&lt;/LI&gt;&lt;/UL&gt;</p><p>Location/92bfebaf-3212-459f-b15e-e250bddf49e3</p><p>Location</p><p>Membership fees</p><p>Adults 55 years and older</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>Call or drop-in * no referral required</p></div>",
+    "eligibility": [
+      "Adults 55 years and older"
+    ],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [
+      "Call or drop-in * no referral required"
+    ],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-741-2507"
+          },
+          {
+            "phone": "1-866-969-9994"
+          },
+          {
+            "url": "www.kitchener.ca/en/recreation-and-sports/rockway-centre.aspx"
+          }
+        ],
+        "address": {
+          "line": [
+            "1405 King St E"
+          ],
+          "city": "Kitchener",
+          "state": "ON",
+          "postalCode": "N2G 2N9"
+        },
+        "position": {
+          "longitude": -80.4668,
+          "latitude": 43.4396
+        }
+      }
+    ],
+    "contact_info": "phone: 519-741-2507, phone: 1-866-969-9994, url: www.kitchener.ca/en/recreation-and-sports/rockway-centre.aspx",
+    "description_of_this": "Community centre for older adults<ul><li>crafts (crocheting, knitting, quilting, painting, scrapbooking, stained glass)</li><li>card games (bridge, euchre)</li><li>recreation (billiards, carpet bowling, darts, lawn bowling, shuffleboard, skating)</li></ul><BR><BR><B>Services and Programs:</B><UL><LI>Peer Helping Programs</LI></UL>, Codes: Membership fees, Features: Wheelchair Accessible, Languages: English, Referral: Call or drop-in * no referral required, Address: 1405 King St E, Kitchener, ON, N2G 2N9, Location: lat: 43.4396, lon: -80.4668, Contact: phone: 519-741-2507, phone: 1-866-969-9994, url: www.kitchener.ca/en/recreation-and-sports/rockway-centre.aspx"
+  }
+]

@@ -1,0 +1,55 @@
+[
+  {
+    "name": "Waterloo Region - Community Services",
+    "active": true,
+    "category": [
+      "Congregate Dining"
+    ],
+    "comment": "Group meals and social activities",
+    "serviceProvisionCode": [
+      "Set fees"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>f328c1d7-95f0-40b4-b2db-779fdfba6579</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Waterloo</p><p>physical-location-postalcode</p><p>N2J 4A8</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>209390</p><p>true</p><p>Congregate Dining</p><p>Location/ceef5791-326f-4768-b36c-03745ac28c94</p><p>Location</p><p>Waterloo Region - Community Services</p><p>Group meals and social activities</p><p>Location/719799f3-4535-4926-9518-7ec304a25486</p><p>Location</p><p>Set fees</p><p>Older adults</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>Call * no referral required</p></div>",
+    "eligibility": [
+      "Older adults"
+    ],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [
+      "Call * no referral required"
+    ],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-579-6930"
+          },
+          {
+            "phone": "1-866-786-3941"
+          },
+          {
+            "url": "www.waterloo.ca/en/living/senior-services.aspx#Three-course-lunches"
+          }
+        ],
+        "address": {
+          "line": [
+            "101 Father David Bauer Dr"
+          ],
+          "city": "Waterloo",
+          "state": "ON",
+          "postalCode": "N2J 4A8"
+        },
+        "position": {
+          "longitude": -80.5326,
+          "latitude": 43.4643
+        }
+      }
+    ],
+    "contact_info": "phone: 519-579-6930, phone: 1-866-786-3941, url: www.waterloo.ca/en/living/senior-services.aspx#Three-course-lunches",
+    "description_of_this": "Group meals and social activities, Codes: Set fees, Features: Wheelchair Accessible, Languages: English, Referral: Call * no referral required, Address: 101 Father David Bauer Dr, Waterloo, ON, N2J 4A8, Location: lat: 43.4643, lon: -80.5326, Contact: phone: 519-579-6930, phone: 1-866-786-3941, url: www.waterloo.ca/en/living/senior-services.aspx#Three-course-lunches"
+  }
+]

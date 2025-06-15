@@ -1,0 +1,61 @@
+[
+  {
+    "name": "Community Care Concepts of Woolwich, Wellesley and Wilmot Townships - Meals on Wheels",
+    "active": true,
+    "category": [
+      "Meal Delivery Services"
+    ],
+    "comment": "Hot meals delivered Mon-Fri at 12noon and consist of soup, salad, entr\u00e9e and dessert * special diet types available\n<br><br><b>Frozen Meal Service</b> - Frozen meal packages are \ndelivered * clients choose from a menu or can choose standard packages *\n special diet types available * soup/dessert packages also available",
+    "serviceProvisionCode": [
+      "Set fees * subsidies available"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>e6668c44-6ef0-4de2-acec-c63d4789ae74</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Elmira</p><p>physical-location-postalcode</p><p>N3B 2Z2</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>209407</p><p>true</p><p>Meal Delivery Services</p><p>Location/bec92236-e1ab-45e2-a203-104691d5eda4</p><p>Location</p><p>Community Care Concepts of Woolwich, Wellesley and Wilmot Townships - Meals on Wheels</p><p>Hot meals delivered Mon-Fri at 12noon and consist of soup, salad, entr\u00e9e and dessert * special diet types available\n&lt;br&gt;&lt;br&gt;&lt;b&gt;Frozen Meal Service&lt;/b&gt; - Frozen meal packages are \ndelivered * clients choose from a menu or can choose standard packages *\n special diet types available * soup/dessert packages also available</p><p>Location/2905f055-9e7c-4467-a720-645a84eacdcd</p><p>Location</p><p>Set fees * subsidies available</p><p>Older adults and adults with disabilities</p><p>Not Applicable</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>Call * pre-registration required</p></div>",
+    "eligibility": [
+      "Older adults and adults with disabilities"
+    ],
+    "characteristic": [
+      "Not Applicable"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [
+      "Call * pre-registration required"
+    ],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-664-1900"
+          },
+          {
+            "phone": "1-855-664-1900"
+          },
+          {
+            "fax": "519-664-1944"
+          },
+          {
+            "email": "info@communitycareconcepts.ca"
+          },
+          {
+            "url": "www.communitycareconcepts.ca/mow.htm"
+          }
+        ],
+        "address": {
+          "line": [
+            "929 Arthur St S"
+          ],
+          "city": "Elmira",
+          "state": "ON",
+          "postalCode": "N3B 2Z2"
+        },
+        "position": {
+          "longitude": -80.5543,
+          "latitude": 43.5538
+        }
+      }
+    ],
+    "contact_info": "phone: 519-664-1900, phone: 1-855-664-1900, fax: 519-664-1944, email: info@communitycareconcepts.ca, url: www.communitycareconcepts.ca/mow.htm",
+    "description_of_this": "Hot meals delivered Mon-Fri at 12noon and consist of soup, salad, entr\u00e9e and dessert * special diet types available\n<br><br><b>Frozen Meal Service</b> - Frozen meal packages are \ndelivered * clients choose from a menu or can choose standard packages *\n special diet types available * soup/dessert packages also available, Codes: Set fees * subsidies available, Features: Not Applicable, Languages: English, Referral: Call * pre-registration required, Address: 929 Arthur St S, Elmira, ON, N3B 2Z2, Location: lat: 43.5538, lon: -80.5543, Contact: phone: 519-664-1900, phone: 1-855-664-1900, fax: 519-664-1944, email: info@communitycareconcepts.ca, url: www.communitycareconcepts.ca/mow.htm"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Pharmasave - Baden Village",
+    "active": true,
+    "category": [
+      "Pharmacies"
+    ],
+    "comment": "Compounding pharmacy<ul><li>treatment and prescription of medications for common medical ailments, including rashes, pink eye, insect bites, acne, and urinary tract infections</li><li>prescription of COVID-19 antiviral treatment (Paxlovid)</li><li>medication placed in blister packs (sealed, push-through packaging used to separate doses) at no extra cost</li><li>free seasonal flu vaccines</li><li>pharmacist available for diabetes management consultations</li><li>INR testing and anticoagulation services</li><li>asthma counselling</li><li>travel safety * vaccinations and medication for travelers</li><li>compression stockings<br></li><li>online prescription refills<br></li></ul><b><br>MedsCheck</b> - Appointments to review complex prescriptions with a pharmacist <br><br><b>Pharmacy Smoking Cessation Program</b> - Help to quit smoking, available for Ontario Drug Benefit recipients",
+    "serviceProvisionCode": [
+      "Dispensing fee plus medication costs * prescribed medications may be covered by OHIP"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>503d7501-dd25-4129-9507-4f0ed946d560</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Baden</p><p>physical-location-postalcode</p><p>N3A 0A7</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>208877</p><p>true</p><p>Pharmacies</p><p>Location/d3ee9124-a17f-4fc8-9361-96adaaf39616</p><p>Location</p><p>Pharmasave - Baden Village</p><p>Compounding pharmacy&lt;ul&gt;&lt;li&gt;treatment and prescription of medications for common medical ailments, including rashes, pink eye, insect bites, acne, and urinary tract infections&lt;/li&gt;&lt;li&gt;prescription of COVID-19 antiviral treatment (Paxlovid)&lt;/li&gt;&lt;li&gt;medication placed in blister packs (sealed, push-through packaging used to separate doses) at no extra cost&lt;/li&gt;&lt;li&gt;free seasonal flu vaccines&lt;/li&gt;&lt;li&gt;pharmacist available for diabetes management consultations&lt;/li&gt;&lt;li&gt;INR testing and anticoagulation services&lt;/li&gt;&lt;li&gt;asthma counselling&lt;/li&gt;&lt;li&gt;travel safety * vaccinations and medication for travelers&lt;/li&gt;&lt;li&gt;compression stockings&lt;br&gt;&lt;/li&gt;&lt;li&gt;online prescription refills&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;b&gt;&lt;br&gt;MedsCheck&lt;/b&gt; - Appointments to review complex prescriptions with a pharmacist &lt;br&gt;&lt;br&gt;&lt;b&gt;Pharmacy Smoking Cessation Program&lt;/b&gt; - Help to quit smoking, available for Ontario Drug Benefit recipients</p><p>Location/ce3c9b2f-1faf-463a-a677-4cfd50c44641</p><p>Location</p><p>Dispensing fee plus medication costs * prescribed medications may be covered by OHIP</p><p>Partially Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>hin</p><p>Hindi</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>pan</p><p>Punjabi</p></div>",
+    "eligibility": [],
+    "characteristic": [
+      "Partially Accessible"
+    ],
+    "communication": [
+      "English",
+      "Hindi",
+      "Punjabi"
+    ],
+    "referralMethod": [],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-214-4000"
+          },
+          {
+            "fax": "519-214-4001"
+          },
+          {
+            "email": "mail@badenvillagepharmacy.com"
+          },
+          {
+            "url": "www.badenvillagepharmacy.com/"
+          }
+        ],
+        "address": {
+          "line": [
+            "18 Snyder's Rd, Unit 6A"
+          ],
+          "city": "Baden",
+          "state": "ON",
+          "postalCode": "N3A 0A7"
+        },
+        "position": {
+          "longitude": -80.6695,
+          "latitude": 43.4042
+        }
+      }
+    ],
+    "contact_info": "phone: 519-214-4000, fax: 519-214-4001, email: mail@badenvillagepharmacy.com, url: www.badenvillagepharmacy.com/",
+    "description_of_this": "Compounding pharmacy<ul><li>treatment and prescription of medications for common medical ailments, including rashes, pink eye, insect bites, acne, and urinary tract infections</li><li>prescription of COVID-19 antiviral treatment (Paxlovid)</li><li>medication placed in blister packs (sealed, push-through packaging used to separate doses) at no extra cost</li><li>free seasonal flu vaccines</li><li>pharmacist available for diabetes management consultations</li><li>INR testing and anticoagulation services</li><li>asthma counselling</li><li>travel safety * vaccinations and medication for travelers</li><li>compression stockings<br></li><li>online prescription refills<br></li></ul><b><br>MedsCheck</b> - Appointments to review complex prescriptions with a pharmacist <br><br><b>Pharmacy Smoking Cessation Program</b> - Help to quit smoking, available for Ontario Drug Benefit recipients, Codes: Dispensing fee plus medication costs * prescribed medications may be covered by OHIP, Features: Partially Accessible, Languages: English, Hindi, Punjabi, Address: 18 Snyder's Rd, Unit 6A, Baden, ON, N3A 0A7, Location: lat: 43.4042, lon: -80.6695"
+  }
+]

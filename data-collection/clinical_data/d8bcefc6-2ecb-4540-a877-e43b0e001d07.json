@@ -1,0 +1,59 @@
+[
+  {
+    "name": "Hospice Waterloo Region",
+    "active": true,
+    "category": [
+      "Hospice Care"
+    ],
+    "comment": "Companionship, respite care, and emotional \nsupport to people and their family/caregivers dealing with a \nlife-threatening illness * bereavement support for anyone who has \nexperienced the death of a loved one due to a palliative illness * \nservices can be provided at home, hospitals and long-term care homes<br>\n<br>\n<b>Volunteer Visiting </b>- Volunteers make weekly visits to the client's home to provide emotional and psycho-social support<br>\n<br>\n<b>Day Away Program</b> - Program hosted weekly that offers opportunities to engage in discussions and group activities<br>\n<br>\n<b>Complementary Therapies</b> - Massage, reflexology, reiki, therapeutic touch is provided to those dealing with stress and anxiety<br>\n<br>\n<b>Transportation </b>- Volunteer drivers are available to provide \ntransportation to medical appointments and hospice programs * provided \nfor palliative clients<br>\n<br>\n<b>Bereavement Walking Group</b> - A program offered weekly led by volunteers who offer support and encouragement<br>\n<br>\n<b>Counselling Services </b>- Individual and family counselling * caregiver support group * bereavement support group * bereavement education program<BR><BR><B>Services and Programs:</B><UL><LI>Caregiver Support</LI></UL>",
+    "serviceProvisionCode": [
+      "Free"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>d8bcefc6-2ecb-4540-a877-e43b0e001d07</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Waterloo</p><p>physical-location-postalcode</p><p>N2K 0G3</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>209241</p><p>true</p><p>Hospice Care</p><p>Location/6c6e6ff6-8800-4fc0-b487-71c169ec3b9c</p><p>Location</p><p>Hospice Waterloo Region</p><p>Companionship, respite care, and emotional \nsupport to people and their family/caregivers dealing with a \nlife-threatening illness * bereavement support for anyone who has \nexperienced the death of a loved one due to a palliative illness * \nservices can be provided at home, hospitals and long-term care homes&lt;br&gt;\n&lt;br&gt;\n&lt;b&gt;Volunteer Visiting &lt;/b&gt;- Volunteers make weekly visits to the client's home to provide emotional and psycho-social support&lt;br&gt;\n&lt;br&gt;\n&lt;b&gt;Day Away Program&lt;/b&gt; - Program hosted weekly that offers opportunities to engage in discussions and group activities&lt;br&gt;\n&lt;br&gt;\n&lt;b&gt;Complementary Therapies&lt;/b&gt; - Massage, reflexology, reiki, therapeutic touch is provided to those dealing with stress and anxiety&lt;br&gt;\n&lt;br&gt;\n&lt;b&gt;Transportation &lt;/b&gt;- Volunteer drivers are available to provide \ntransportation to medical appointments and hospice programs * provided \nfor palliative clients&lt;br&gt;\n&lt;br&gt;\n&lt;b&gt;Bereavement Walking Group&lt;/b&gt; - A program offered weekly led by volunteers who offer support and encouragement&lt;br&gt;\n&lt;br&gt;\n&lt;b&gt;Counselling Services &lt;/b&gt;- Individual and family counselling * caregiver support group * bereavement support group * bereavement education program&lt;BR&gt;&lt;BR&gt;&lt;B&gt;Services and Programs:&lt;/B&gt;&lt;UL&gt;&lt;LI&gt;Caregiver Support&lt;/LI&gt;&lt;/UL&gt;</p><p>Location/4cd392ac-c6ea-4755-9d1d-f31e750a2214</p><p>Location</p><p>Free</p><p>People who need end-of-life care or bereavement supports</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>fra</p><p>French</p><p>Call * no referral required</p></div>",
+    "eligibility": [
+      "People who need end-of-life care or bereavement supports"
+    ],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English",
+      "French"
+    ],
+    "referralMethod": [
+      "Call * no referral required"
+    ],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-743-4114<br>Cook Family Residence: 226-666-3547"
+          },
+          {
+            "fax": "519-743-7021"
+          },
+          {
+            "email": "hospice@hospicewaterloo.ca"
+          },
+          {
+            "url": "www.hospicewaterloo.ca"
+          }
+        ],
+        "address": {
+          "line": [
+            "100 Solstice Way"
+          ],
+          "city": "Waterloo",
+          "state": "ON",
+          "postalCode": "N2K 0G3"
+        },
+        "position": {
+          "longitude": -80.5056,
+          "latitude": 43.5164
+        }
+      }
+    ],
+    "contact_info": "phone: 519-743-4114<br>Cook Family Residence: 226-666-3547, fax: 519-743-7021, email: hospice@hospicewaterloo.ca, url: www.hospicewaterloo.ca",
+    "description_of_this": "Companionship, respite care, and emotional \nsupport to people and their family/caregivers dealing with a \nlife-threatening illness * bereavement support for anyone who has \nexperienced the death of a loved one due to a palliative illness * \nservices can be provided at home, hospitals and long-term care homes<br>\n<br>\n<b>Volunteer Visiting </b>- Volunteers make weekly visits to the client's home to provide emotional and psycho-social support<br>\n<br>\n<b>Day Away Program</b> - Program hosted weekly that offers opportunities to engage in discussions and group activities<br>\n<br>\n<b>Complementary Therapies</b> - Massage, reflexology, reiki, therapeutic touch is provided to those dealing with stress and anxiety<br>\n<br>\n<b>Transportation </b>- Volunteer drivers are available to provide \ntransportation to medical appointments and hospice programs * provided \nfor palliative clients<br>\n<br>\n<b>Bereavement Walking Group</b> - A program offered weekly led by volunteers who offer support and encouragement<br>\n<br>\n<b>Counselling Services </b>- Individual and family counselling * caregiver support group * bereavement support group * bereavement education program<BR><BR><B>Services and Programs:</B><UL><LI>Caregiver Support</LI></UL>, Codes: Free, Features: Wheelchair Accessible, Languages: English, French, Referral: Call * no referral required, Address: 100 Solstice Way, Waterloo, ON, N2K 0G3, Location: lat: 43.5164, lon: -80.5056, Contact: phone: 519-743-4114<br>Cook Family Residence: 226-666-3547, fax: 519-743-7021, email: hospice@hospicewaterloo.ca, url: www.hospicewaterloo.ca"
+  }
+]

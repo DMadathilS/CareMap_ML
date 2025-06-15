@@ -1,0 +1,54 @@
+[
+  {
+    "name": "PharmaChoice - Cambridge - King St E (Bishop Pharmacy)",
+    "active": true,
+    "category": [
+      "Pharmacies"
+    ],
+    "comment": "Compounding pharmacy<ul><li>treatment and prescription of medications for common medical ailments, including rashes, pink eye, insect bites, acne, and urinary tract infections</li><li>prescription of COVID-19 antiviral treatment (Paxlovid)</li><li>medication placed in blister packs (sealed, push-through packaging used to separate doses)</li><li>free seasonal flu vaccines</li><li>vaccines</li><li>diabetes education</li></ul><br>\n<b>MedsCheck</b> - Appointments to review complex prescriptions with a pharmacist<br><br><b>Sharps Disposal Program</b> - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips <br><br><b>Medications Return Program</b> - Safe disposal of expired or unused medications, creams, and inhalers",
+    "serviceProvisionCode": [
+      "Dispensing fee plus medication costs * prescribed medications may be covered by OHIP"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>ba857a77-690e-44ab-a5f8-7c9fdeba1848</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Cambridge</p><p>physical-location-postalcode</p><p>N3H 3R6</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>202299</p><p>true</p><p>Pharmacies</p><p>Location/e6f52ade-1a03-49b6-bc56-2b85a3b019e9</p><p>Location</p><p>PharmaChoice - Cambridge - King St E (Bishop Pharmacy)</p><p>Compounding pharmacy&lt;ul&gt;&lt;li&gt;treatment and prescription of medications for common medical ailments, including rashes, pink eye, insect bites, acne, and urinary tract infections&lt;/li&gt;&lt;li&gt;prescription of COVID-19 antiviral treatment (Paxlovid)&lt;/li&gt;&lt;li&gt;medication placed in blister packs (sealed, push-through packaging used to separate doses)&lt;/li&gt;&lt;li&gt;free seasonal flu vaccines&lt;/li&gt;&lt;li&gt;vaccines&lt;/li&gt;&lt;li&gt;diabetes education&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;\n&lt;b&gt;MedsCheck&lt;/b&gt; - Appointments to review complex prescriptions with a pharmacist&lt;br&gt;&lt;br&gt;&lt;b&gt;Sharps Disposal Program&lt;/b&gt; - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips &lt;br&gt;&lt;br&gt;&lt;b&gt;Medications Return Program&lt;/b&gt; - Safe disposal of expired or unused medications, creams, and inhalers</p><p>Location/be741138-df9e-4d33-8fa0-6959ccdafee3</p><p>Location</p><p>Dispensing fee plus medication costs * prescribed medications may be covered by OHIP</p><p>Not Applicable</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p></div>",
+    "eligibility": [],
+    "characteristic": [
+      "Not Applicable"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-219-8794"
+          },
+          {
+            "fax": "519-219-8796"
+          },
+          {
+            "email": "pch5628@pharmachoice.ca"
+          },
+          {
+            "url": "www.bishoppharmacy.com"
+          }
+        ],
+        "address": {
+          "line": [
+            "1515 King St E, Unit 111"
+          ],
+          "city": "Cambridge",
+          "state": "ON",
+          "postalCode": "N3H 3R6"
+        },
+        "position": {
+          "longitude": -80.346,
+          "latitude": 43.3902
+        }
+      }
+    ],
+    "contact_info": "phone: 519-219-8794, fax: 519-219-8796, email: pch5628@pharmachoice.ca, url: www.bishoppharmacy.com",
+    "description_of_this": "Compounding pharmacy<ul><li>treatment and prescription of medications for common medical ailments, including rashes, pink eye, insect bites, acne, and urinary tract infections</li><li>prescription of COVID-19 antiviral treatment (Paxlovid)</li><li>medication placed in blister packs (sealed, push-through packaging used to separate doses)</li><li>free seasonal flu vaccines</li><li>vaccines</li><li>diabetes education</li></ul><br>\n<b>MedsCheck</b> - Appointments to review complex prescriptions with a pharmacist<br><br><b>Sharps Disposal Program</b> - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips <br><br><b>Medications Return Program</b> - Safe disposal of expired or unused medications, creams, and inhalers, Codes: Dispensing fee plus medication costs * prescribed medications may be covered by OHIP, Features: Not Applicable, Languages: English, Address: 1515 King St E, Unit 111, Cambridge, ON, N3H 3R6, Location: lat: 43.3902, lon: -80.346"
+  }
+]

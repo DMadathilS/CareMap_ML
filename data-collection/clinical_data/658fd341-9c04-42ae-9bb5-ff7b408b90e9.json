@@ -1,0 +1,55 @@
+[
+  {
+    "name": "Grand River Hospital to Waterloo Regional Health Network (WHRN) - WRHN at Chicopee",
+    "active": true,
+    "category": [
+      "Ontario Breast Screening Programs"
+    ],
+    "comment": "Breast screening for early detection of breast cancer in women * breast diagnostic assessment unit * breast screening * digital mammography * dedicated breast ultrasound<br><br>\nScreening includes mammography (x-rays of breast tissue) * screening results are sent to both the woman and her doctor<br><br>\nWomen who receive normal results are automatically recalled for their \nnext screening appointment * women who receive abnormal results are \nreferred to their doctor for further investigation, or are referred \ndirectly for additional tests",
+    "serviceProvisionCode": [
+      "Covered by OHIP"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>658fd341-9c04-42ae-9bb5-ff7b408b90e9</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Kitchener</p><p>physical-location-postalcode</p><p>N2A 2W1</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>100946</p><p>true</p><p>Ontario Breast Screening Programs</p><p>Location/d9eed13d-8935-4430-b79e-8264ed67d9d2</p><p>Location</p><p>Grand River Hospital to Waterloo Regional Health Network (WHRN) - WRHN at Chicopee</p><p>Breast screening for early detection of breast cancer in women * breast diagnostic assessment unit * breast screening * digital mammography * dedicated breast ultrasound&lt;br&gt;&lt;br&gt;\nScreening includes mammography (x-rays of breast tissue) * screening results are sent to both the woman and her doctor&lt;br&gt;&lt;br&gt;\nWomen who receive normal results are automatically recalled for their \nnext screening appointment * women who receive abnormal results are \nreferred to their doctor for further investigation, or are referred \ndirectly for additional tests</p><p>Location/2ff39fd5-b395-445e-9778-01514fbf03a4</p><p>Location</p><p>Covered by OHIP</p><p>Women with breast cancer concerns</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>Call for appointment</p></div>",
+    "eligibility": [
+      "Women with breast cancer concerns"
+    ],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [
+      "Call for appointment"
+    ],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-749-4270"
+          },
+          {
+            "email": "info@grhosp.on.ca"
+          },
+          {
+            "url": "www.grhosp.on.ca/care/services-departments/medical-imaging/medical-imaging/mammography-breast-imaging"
+          }
+        ],
+        "address": {
+          "line": [
+            "3570 King St E"
+          ],
+          "city": "Kitchener",
+          "state": "ON",
+          "postalCode": "N2A 2W1"
+        },
+        "position": {
+          "longitude": -80.4137,
+          "latitude": 43.4243
+        }
+      }
+    ],
+    "contact_info": "phone: 519-749-4270, email: info@grhosp.on.ca, url: www.grhosp.on.ca/care/services-departments/medical-imaging/medical-imaging/mammography-breast-imaging",
+    "description_of_this": "Breast screening for early detection of breast cancer in women * breast diagnostic assessment unit * breast screening * digital mammography * dedicated breast ultrasound<br><br>\nScreening includes mammography (x-rays of breast tissue) * screening results are sent to both the woman and her doctor<br><br>\nWomen who receive normal results are automatically recalled for their \nnext screening appointment * women who receive abnormal results are \nreferred to their doctor for further investigation, or are referred \ndirectly for additional tests, Codes: Covered by OHIP, Features: Wheelchair Accessible, Languages: English, Referral: Call for appointment, Address: 3570 King St E, Kitchener, ON, N2A 2W1, Location: lat: 43.4243, lon: -80.4137"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Kitchener (City of) - Community Services Department",
+    "active": true,
+    "category": [
+      "Caregiver Support Services"
+    ],
+    "comment": "Peer support and discussion for caregivers, including family and friends * sessions may include information such as advanced directives and safety issues<br><br>Services include:<ul><li>caregiver support</li><li>dementia-friendly golf</li><li>mix-and-mingle social group</li><li>step forward walking group</li><li>accessible dance program</li><li>peer helpers</li></ul>",
+    "serviceProvisionCode": [
+      "Free"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>0818dc97-4e00-4fe6-8b4d-3c40d24bc5df</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Kitchener</p><p>physical-location-postalcode</p><p>N2G 2N9</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>211206</p><p>true</p><p>Caregiver Support Services</p><p>Location/e8f2de70-8065-4e54-8ba3-94f863c1637e</p><p>Location</p><p>Kitchener (City of) - Community Services Department</p><p>Peer support and discussion for caregivers, including family and friends * sessions may include information such as advanced directives and safety issues&lt;br&gt;&lt;br&gt;Services include:&lt;ul&gt;&lt;li&gt;caregiver support&lt;/li&gt;&lt;li&gt;dementia-friendly golf&lt;/li&gt;&lt;li&gt;mix-and-mingle social group&lt;/li&gt;&lt;li&gt;step forward walking group&lt;/li&gt;&lt;li&gt;accessible dance program&lt;/li&gt;&lt;li&gt;peer helpers&lt;/li&gt;&lt;/ul&gt;</p><p>Location/49b1b699-3cb6-4372-b12e-578fc1f43572</p><p>Location</p><p>Free</p><p>People who regularly provide physical, social, or emotional supports</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>Call * no referral required</p></div>",
+    "eligibility": [
+      "People who regularly provide physical, social, or emotional supports"
+    ],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [
+      "Call * no referral required"
+    ],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-741-2200 ext 5081"
+          },
+          {
+            "phone": "1-866-969-9994"
+          },
+          {
+            "email": "rockwaycc@kitchener.ca"
+          },
+          {
+            "url": "www.kitchener.ca/en/recreation-and-sports/rockway-centre.aspx"
+          }
+        ],
+        "address": {
+          "line": [
+            "1405 King St E"
+          ],
+          "city": "Kitchener",
+          "state": "ON",
+          "postalCode": "N2G 2N9"
+        },
+        "position": {
+          "longitude": -80.4668,
+          "latitude": 43.4396
+        }
+      }
+    ],
+    "contact_info": "phone: 519-741-2200 ext 5081, phone: 1-866-969-9994, email: rockwaycc@kitchener.ca, url: www.kitchener.ca/en/recreation-and-sports/rockway-centre.aspx",
+    "description_of_this": "Peer support and discussion for caregivers, including family and friends * sessions may include information such as advanced directives and safety issues<br><br>Services include:<ul><li>caregiver support</li><li>dementia-friendly golf</li><li>mix-and-mingle social group</li><li>step forward walking group</li><li>accessible dance program</li><li>peer helpers</li></ul>, Codes: Free, Features: Wheelchair Accessible, Languages: English, Referral: Call * no referral required, Address: 1405 King St E, Kitchener, ON, N2G 2N9, Location: lat: 43.4396, lon: -80.4668"
+  }
+]

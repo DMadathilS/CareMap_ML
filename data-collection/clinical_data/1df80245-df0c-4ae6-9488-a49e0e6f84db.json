@@ -1,0 +1,59 @@
+[
+  {
+    "name": "Community Health Caring - Kitchener-Waterloo",
+    "active": true,
+    "category": [
+      "Community Health Centres"
+    ],
+    "comment": "Health centre focused on family and community health * health \nprofessionals assess and treat non-life-threatening injuries or \nillnesses * referrals to other local health services and personal \ndevelopment groups<br><br>Community-led health teams develop programs to improve the social supports and conditions that affect long-term health<br><br><b>Clinical Dietitian</b> - Nutritional information and \neducation * one-on-one, couple, or family sessions for people with food \nand health-related concerns<br><br><b>Foot Care Clinic</b> - Chiropodist assesses and treats common foot problems * includes basic foot care for both regular and clients living with diabetes<BR><BR><B>Services and Programs:</B><UL><LI>Breastfeeding Buddies</LI><LI>Diabetes Education Program</LI><LI>Identification Clinic</LI><LI>Refugee Health</LI><LI>Seniors Dental Care Program</LI></UL>",
+    "serviceProvisionCode": [
+      "Most medical services covered by OHIP * some fees for other programs"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>1df80245-df0c-4ae6-9488-a49e0e6f84db</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Kitchener</p><p>physical-location-postalcode</p><p>N2G 2A2</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>208342</p><p>true</p><p>Community Health Centres</p><p>Location/b61ad159-e70e-4436-ac4e-85a4874b420e</p><p>Location</p><p>Community Health Caring - Kitchener-Waterloo</p><p>Health centre focused on family and community health * health \nprofessionals assess and treat non-life-threatening injuries or \nillnesses * referrals to other local health services and personal \ndevelopment groups&lt;br&gt;&lt;br&gt;Community-led health teams develop programs to improve the social supports and conditions that affect long-term health&lt;br&gt;&lt;br&gt;&lt;b&gt;Clinical Dietitian&lt;/b&gt; - Nutritional information and \neducation * one-on-one, couple, or family sessions for people with food \nand health-related concerns&lt;br&gt;&lt;br&gt;&lt;b&gt;Foot Care Clinic&lt;/b&gt; - Chiropodist assesses and treats common foot problems * includes basic foot care for both regular and clients living with diabetes&lt;BR&gt;&lt;BR&gt;&lt;B&gt;Services and Programs:&lt;/B&gt;&lt;UL&gt;&lt;LI&gt;Breastfeeding Buddies&lt;/LI&gt;&lt;LI&gt;Diabetes Education Program&lt;/LI&gt;&lt;LI&gt;Identification Clinic&lt;/LI&gt;&lt;LI&gt;Refugee Health&lt;/LI&gt;&lt;LI&gt;Seniors Dental Care Program&lt;/LI&gt;&lt;/UL&gt;</p><p>Location/69d63628-4213-428d-ad3b-9695f8141c35</p><p>Location</p><p>Most medical services covered by OHIP * some fees for other programs</p><p>Varies per program</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>Call or visit * no referral required * appointments required for some programs</p></div>",
+    "eligibility": [
+      "Varies per program"
+    ],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [
+      "Call or visit * no referral required * appointments required for some programs"
+    ],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-745-4404"
+          },
+          {
+            "fax": "519-745-3709"
+          },
+          {
+            "email": "info@healthcaringkw.org"
+          },
+          {
+            "url": "www.healthcaringkw.org/"
+          }
+        ],
+        "address": {
+          "line": [
+            "Tannery Building",
+            "44 Francis St S"
+          ],
+          "city": "Kitchener",
+          "state": "ON",
+          "postalCode": "N2G 2A2"
+        },
+        "position": {
+          "longitude": -80.4975,
+          "latitude": 43.4506
+        }
+      }
+    ],
+    "contact_info": "phone: 519-745-4404, fax: 519-745-3709, email: info@healthcaringkw.org, url: www.healthcaringkw.org/",
+    "description_of_this": "Health centre focused on family and community health * health \nprofessionals assess and treat non-life-threatening injuries or \nillnesses * referrals to other local health services and personal \ndevelopment groups<br><br>Community-led health teams develop programs to improve the social supports and conditions that affect long-term health<br><br><b>Clinical Dietitian</b> - Nutritional information and \neducation * one-on-one, couple, or family sessions for people with food \nand health-related concerns<br><br><b>Foot Care Clinic</b> - Chiropodist assesses and treats common foot problems * includes basic foot care for both regular and clients living with diabetes<BR><BR><B>Services and Programs:</B><UL><LI>Breastfeeding Buddies</LI><LI>Diabetes Education Program</LI><LI>Identification Clinic</LI><LI>Refugee Health</LI><LI>Seniors Dental Care Program</LI></UL>, Codes: Most medical services covered by OHIP * some fees for other programs, Features: Wheelchair Accessible, Languages: English, Referral: Call or visit * no referral required * appointments required for some programs, Address: Tannery Building, 44 Francis St S, Kitchener, ON, N2G 2A2, Location: lat: 43.4506, lon: -80.4975"
+  }
+]

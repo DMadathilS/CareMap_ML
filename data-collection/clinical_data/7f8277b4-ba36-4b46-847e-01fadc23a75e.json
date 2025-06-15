@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Working Centre (The) - Housing at The Working Centre",
+    "active": true,
+    "category": [
+      "Supportive Housing"
+    ],
+    "comment": "Apartments with personal care",
+    "serviceProvisionCode": [
+      "Support services are free * set fees for devices and sign language interpreting services * membership available"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>7f8277b4-ba36-4b46-847e-01fadc23a75e</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Kitchener</p><p>physical-location-postalcode</p><p>N2G 1V6</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>209286</p><p>true</p><p>Supportive Housing</p><p>Location/770ce87b-e32b-4bcd-be9f-01313447a41b</p><p>Location</p><p>Working Centre (The) - Housing at The Working Centre</p><p>Apartments with personal care</p><p>Location/bd1b8cfe-39a4-469f-bb1e-45c62924f35b</p><p>Location</p><p>Support services are free * set fees for devices and sign language interpreting services * membership available</p><p>Older adults and adults with disabilities, who need physical, social, or emotional supports * care coordinators assess the needs of applicants</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>Call * assessment required</p></div>",
+    "eligibility": [
+      "Older adults and adults with disabilities, who need physical, social, or emotional supports * care coordinators assess the needs of applicants"
+    ],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [
+      "Call * assessment required"
+    ],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-743-1151"
+          },
+          {
+            "fax": "519-743-9452"
+          },
+          {
+            "email": "genmail@theworkingcentre.org"
+          },
+          {
+            "url": "www.theworkingcentre.org/hubs/housing-and-shelter/"
+          }
+        ],
+        "address": {
+          "line": [
+            "58 Queen St S"
+          ],
+          "city": "Kitchener",
+          "state": "ON",
+          "postalCode": "N2G 1V6"
+        },
+        "position": {
+          "longitude": -80.4899,
+          "latitude": 43.4492
+        }
+      }
+    ],
+    "contact_info": "phone: 519-743-1151, fax: 519-743-9452, email: genmail@theworkingcentre.org, url: www.theworkingcentre.org/hubs/housing-and-shelter/",
+    "description_of_this": "Apartments with personal care, Codes: Support services are free * set fees for devices and sign language interpreting services * membership available, Features: Wheelchair Accessible, Languages: English, Referral: Call * assessment required, Address: 58 Queen St S, Kitchener, ON, N2G 1V6, Location: lat: 43.4492, lon: -80.4899"
+  }
+]

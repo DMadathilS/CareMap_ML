@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Queens Pharmacy - Kitchener - Belmont Ave W",
+    "active": true,
+    "category": [
+      "Pharmacies"
+    ],
+    "comment": "Compounding pharmacy <br><ul><li> treatment and prescription of medications for thirteen common \nmedical ailments, including rashes, pink eye, insect bites, and urinary \ntract infections<br></li><li> prescription of COVID-19 antiviral treatment (Paxlovid)</li><li>medication placed in pill organizers (containers for storing scheduled doses) at no extra cost</li><li>medication placed in blister packs (sealed, push-through packaging used to separate doses) at no extra cost</li><li>certified diabetes educator (CDE) available for consultations</li><li>mobility aids (walkers, wheelchairs)</li><li>free delivery for prescriptions</li><li>free seasonal flu vaccines</li><li>free take-home naloxone kits (emergency response kits for opioid overdose)</li><li>INR clinics <br><br></li></ul><b>MedsCheck</b> - Appointments to review complex prescriptions with a pharmacist<br><br><b>Medications Return Program</b> - Safe disposal of expired or unused medications, creams, and inhalers\n\n<br><br><b>Sharps Disposal Program</b> - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips",
+    "serviceProvisionCode": [
+      "Dispensing fee plus medication costs * prescribed medications may be covered by OHIP"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>6c8b125f-7f1d-4196-a1da-3c140fde9fc5</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Kitchener</p><p>physical-location-postalcode</p><p>N2M 1P1</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>219975</p><p>true</p><p>Pharmacies</p><p>Location/e7e8f1f9-064a-4e54-9fae-e2fe85eaf0b0</p><p>Location</p><p>Queens Pharmacy - Kitchener - Belmont Ave W</p><p>Compounding pharmacy &lt;br&gt;&lt;ul&gt;&lt;li&gt; treatment and prescription of medications for thirteen common \nmedical ailments, including rashes, pink eye, insect bites, and urinary \ntract infections&lt;br&gt;&lt;/li&gt;&lt;li&gt; prescription of COVID-19 antiviral treatment (Paxlovid)&lt;/li&gt;&lt;li&gt;medication placed in pill organizers (containers for storing scheduled doses) at no extra cost&lt;/li&gt;&lt;li&gt;medication placed in blister packs (sealed, push-through packaging used to separate doses) at no extra cost&lt;/li&gt;&lt;li&gt;certified diabetes educator (CDE) available for consultations&lt;/li&gt;&lt;li&gt;mobility aids (walkers, wheelchairs)&lt;/li&gt;&lt;li&gt;free delivery for prescriptions&lt;/li&gt;&lt;li&gt;free seasonal flu vaccines&lt;/li&gt;&lt;li&gt;free take-home naloxone kits (emergency response kits for opioid overdose)&lt;/li&gt;&lt;li&gt;INR clinics &lt;br&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;b&gt;MedsCheck&lt;/b&gt; - Appointments to review complex prescriptions with a pharmacist&lt;br&gt;&lt;br&gt;&lt;b&gt;Medications Return Program&lt;/b&gt; - Safe disposal of expired or unused medications, creams, and inhalers\n\n&lt;br&gt;&lt;br&gt;&lt;b&gt;Sharps Disposal Program&lt;/b&gt; - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips</p><p>Location/45f34a8d-62bc-41b4-8b59-d7f28e48051e</p><p>Location</p><p>Dispensing fee plus medication costs * prescribed medications may be covered by OHIP</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p></div>",
+    "eligibility": [],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "548-288-4259"
+          },
+          {
+            "fax": "226-895-0528"
+          },
+          {
+            "url": "www.queenspharmacy.ca/home"
+          }
+        ],
+        "address": {
+          "line": [
+            "713 Belmont Ave W"
+          ],
+          "city": "Kitchener",
+          "state": "ON",
+          "postalCode": "N2M 1P1"
+        },
+        "position": {
+          "longitude": -80.5187,
+          "latitude": 43.4539
+        }
+      }
+    ],
+    "contact_info": "phone: 548-288-4259, fax: 226-895-0528, url: www.queenspharmacy.ca/home",
+    "description_of_this": "Compounding pharmacy <br><ul><li> treatment and prescription of medications for thirteen common \nmedical ailments, including rashes, pink eye, insect bites, and urinary \ntract infections<br></li><li> prescription of COVID-19 antiviral treatment (Paxlovid)</li><li>medication placed in pill organizers (containers for storing scheduled doses) at no extra cost</li><li>medication placed in blister packs (sealed, push-through packaging used to separate doses) at no extra cost</li><li>certified diabetes educator (CDE) available for consultations</li><li>mobility aids (walkers, wheelchairs)</li><li>free delivery for prescriptions</li><li>free seasonal flu vaccines</li><li>free take-home naloxone kits (emergency response kits for opioid overdose)</li><li>INR clinics <br><br></li></ul><b>MedsCheck</b> - Appointments to review complex prescriptions with a pharmacist<br><br><b>Medications Return Program</b> - Safe disposal of expired or unused medications, creams, and inhalers\n\n<br><br><b>Sharps Disposal Program</b> - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips, Codes: Dispensing fee plus medication costs * prescribed medications may be covered by OHIP, Features: Wheelchair Accessible, Languages: English, Address: 713 Belmont Ave W, Kitchener, ON, N2M 1P1, Location: lat: 43.4539, lon: -80.5187"
+  }
+]

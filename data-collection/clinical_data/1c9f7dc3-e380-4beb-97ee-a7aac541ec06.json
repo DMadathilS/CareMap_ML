@@ -1,0 +1,53 @@
+[
+  {
+    "name": "Brant Community Healthcare System - Willett Hospital (The)",
+    "active": true,
+    "category": [
+      "Urgent Care Centres",
+      "Walk-In Medical Clinics"
+    ],
+    "comment": "Urgent medical care * doctors and nurses assess and treat \nnon-life-threatening injuries or illnesses that cannot wait for a family doctor",
+    "serviceProvisionCode": [
+      "Most services covered by OHIP"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>1c9f7dc3-e380-4beb-97ee-a7aac541ec06</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Paris</p><p>physical-location-postalcode</p><p>N3L 2N7</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>182741</p><p>true</p><p>Urgent Care Centres</p><p>Walk-In Medical Clinics</p><p>Location/08579c6c-d818-4dfc-8828-00224ad30e94</p><p>Location</p><p>Brant Community Healthcare System - Willett Hospital (The)</p><p>Urgent medical care * doctors and nurses assess and treat \nnon-life-threatening injuries or illnesses that cannot wait for a family doctor</p><p>Location/6cb199c5-4615-469b-8ac9-f8d81955ca55</p><p>Location</p><p>Most services covered by OHIP</p><p>People who need urgent medical care for non-life-threatening illnesses and injuries</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>No referral required</p></div>",
+    "eligibility": [
+      "People who need urgent medical care for non-life-threatening illnesses and injuries"
+    ],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [
+      "No referral required"
+    ],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-442-2251"
+          },
+          {
+            "url": "www.bchsys.org/en/care-services/urgent-care-centre.aspx"
+          }
+        ],
+        "address": {
+          "line": [
+            "238 Grand River St N"
+          ],
+          "city": "Paris",
+          "state": "ON",
+          "postalCode": "N3L 2N7"
+        },
+        "position": {
+          "longitude": -80.3871,
+          "latitude": 43.2046
+        }
+      }
+    ],
+    "contact_info": "phone: 519-442-2251, url: www.bchsys.org/en/care-services/urgent-care-centre.aspx",
+    "description_of_this": "Urgent medical care * doctors and nurses assess and treat \nnon-life-threatening injuries or illnesses that cannot wait for a family doctor, Codes: Most services covered by OHIP, Features: Wheelchair Accessible, Languages: English, Referral: No referral required, Address: 238 Grand River St N, Paris, ON, N3L 2N7, Location: lat: 43.2046, lon: -80.3871"
+  }
+]

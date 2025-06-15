@@ -1,0 +1,60 @@
+[
+  {
+    "name": "Cambridge (City of) - Community Development",
+    "active": true,
+    "category": [
+      "Friendly Visiting"
+    ],
+    "comment": "Matches volunteers with seniors who are socially isolated, and adults with physical disabilities<br><b><br>Without Walls Program</b> - Teleconferencing phone system which provides individuals with an opportunity to meet and talk with other members of the community * sessions are facilitated by\na City of Cambridge staff member and include a wide range of activity and\ndiscussion topics * <x id=\"ctl00_ContentPlaceHolder1_lnkEmail\" itemprop=\"email\" href=\"mailto:wow@cambridge.ca\">wow@cambridge.ca</a>",
+    "serviceProvisionCode": [
+      "Free"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>50faff58-654b-49e4-87f9-142e1760baff</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Cambridge</p><p>physical-location-postalcode</p><p>N3H 4L5</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>196411</p><p>true</p><p>Friendly Visiting</p><p>Location/d80d1cbb-1121-45df-af5b-bfcc0e287884</p><p>Location</p><p>Cambridge (City of) - Community Development</p><p>Matches volunteers with seniors who are socially isolated, and adults with physical disabilities&lt;br&gt;&lt;b&gt;&lt;br&gt;Without Walls Program&lt;/b&gt; - Teleconferencing phone system which provides individuals with an opportunity to meet and talk with other members of the community * sessions are facilitated by\na City of Cambridge staff member and include a wide range of activity and\ndiscussion topics * &lt;x id=&quot;ctl00_ContentPlaceHolder1_lnkEmail&quot; itemprop=&quot;email&quot; href=&quot;mailto:wow@cambridge.ca&quot;&gt;wow@cambridge.ca&lt;/a&gt;</p><p>Location/9d0d574e-d474-4fc6-b395-0febe9f2e55b</p><p>Location</p><p>Free</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>Call or email</p></div>",
+    "eligibility": [],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [
+      "Call or email"
+    ],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-740-4681 ext 4820"
+          },
+          {
+            "phone": "519-623-6691"
+          },
+          {
+            "fax": "519-653-8347"
+          },
+          {
+            "email": "friendlyvisiting@cambridge.ca"
+          },
+          {
+            "url": "www.cambridge.ca/en/your-city/Senior-Services.aspx"
+          }
+        ],
+        "address": {
+          "line": [
+            "William E Pautler 50+ Recreation Centre",
+            "1145 Concession Rd"
+          ],
+          "city": "Cambridge",
+          "state": "ON",
+          "postalCode": "N3H 4L5"
+        },
+        "position": {
+          "longitude": -80.3446178,
+          "latitude": 43.3960546
+        }
+      }
+    ],
+    "contact_info": "phone: 519-740-4681 ext 4820, phone: 519-623-6691, fax: 519-653-8347, email: friendlyvisiting@cambridge.ca, url: www.cambridge.ca/en/your-city/Senior-Services.aspx",
+    "description_of_this": "Matches volunteers with seniors who are socially isolated, and adults with physical disabilities<br><b><br>Without Walls Program</b> - Teleconferencing phone system which provides individuals with an opportunity to meet and talk with other members of the community * sessions are facilitated by\na City of Cambridge staff member and include a wide range of activity and\ndiscussion topics * <x id=\"ctl00_ContentPlaceHolder1_lnkEmail\" itemprop=\"email\" href=\"mailto:wow@cambridge.ca\">wow@cambridge.ca</a>, Codes: Free, Features: Wheelchair Accessible, Languages: English, Referral: Call or email, Address: William E Pautler 50+ Recreation Centre, 1145 Concession Rd, Cambridge, ON, N3H 4L5, Location: lat: 43.3960546, lon: -80.3446178"
+  }
+]

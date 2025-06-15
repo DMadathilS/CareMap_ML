@@ -1,0 +1,61 @@
+[
+  {
+    "name": "Grand River Hospital to Waterloo Regional Health Network (WHRN) - WHRN at Queen\u2019s Boulevard",
+    "active": true,
+    "category": [
+      "Hospitals"
+    ],
+    "comment": "197-bed adult acute-care hospital * specializing in core areas of clinical focus:<ul><li>regional cardiac care centre</li><li>emergency care<br></li><li>integrated comprehensive care</li><li>service and supports</li><li>respiratory and thoracic care</li><li>surgical services</li><li>medicine</li><li>nuclear medicine</li></ul>\n<br><b>Emergency Department Wait Times:</b> <a href=\"https://www.smgh.ca/patients-visitors/emergency-department-wait-times\" target=\"_blank\">www.smgh.ca/patients-visitors/emergency-department-wait-times</a><BR><BR><B>Services and Programs:</B><UL><LI>Diagnostic Imaging</LI><LI>Laboratory</LI><LI>Regional Cardiac Care Centre</LI><LI>Spiritual Care</LI><LI>Waterloo Region Sexual Assault/Domestic Violence Treatment Centre</LI></UL>",
+    "serviceProvisionCode": [
+      "Most services covered by OHIP"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>632b826d-f196-42e2-81b1-6b6643eeee68</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Kitchener</p><p>physical-location-postalcode</p><p>N2M 1B2</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>102586</p><p>true</p><p>Hospitals</p><p>Location/f1fd0678-91c7-4877-940d-fdfe413c4bf5</p><p>Location</p><p>Grand River Hospital to Waterloo Regional Health Network (WHRN) - WHRN at Queen\u2019s Boulevard</p><p>197-bed adult acute-care hospital * specializing in core areas of clinical focus:&lt;ul&gt;&lt;li&gt;regional cardiac care centre&lt;/li&gt;&lt;li&gt;emergency care&lt;br&gt;&lt;/li&gt;&lt;li&gt;integrated comprehensive care&lt;/li&gt;&lt;li&gt;service and supports&lt;/li&gt;&lt;li&gt;respiratory and thoracic care&lt;/li&gt;&lt;li&gt;surgical services&lt;/li&gt;&lt;li&gt;medicine&lt;/li&gt;&lt;li&gt;nuclear medicine&lt;/li&gt;&lt;/ul&gt;\n&lt;br&gt;&lt;b&gt;Emergency Department Wait Times:&lt;/b&gt; &lt;a href=&quot;https://www.smgh.ca/patients-visitors/emergency-department-wait-times&quot; target=&quot;_blank&quot;&gt;www.smgh.ca/patients-visitors/emergency-department-wait-times&lt;/a&gt;&lt;BR&gt;&lt;BR&gt;&lt;B&gt;Services and Programs:&lt;/B&gt;&lt;UL&gt;&lt;LI&gt;Diagnostic Imaging&lt;/LI&gt;&lt;LI&gt;Laboratory&lt;/LI&gt;&lt;LI&gt;Regional Cardiac Care Centre&lt;/LI&gt;&lt;LI&gt;Spiritual Care&lt;/LI&gt;&lt;LI&gt;Waterloo Region Sexual Assault/Domestic Violence Treatment Centre&lt;/LI&gt;&lt;/UL&gt;</p><p>Location/ff0251f5-5b11-4faa-ab7d-110e71d7e73a</p><p>Location</p><p>Most services covered by OHIP</p><p>Varies depending on the program or service</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>Walk-in for emergency department * medical referral and appointment required for most other services</p></div>",
+    "eligibility": [
+      "Varies depending on the program or service"
+    ],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [
+      "Walk-in for emergency department * medical referral and appointment required for most other services"
+    ],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-744-3311"
+          },
+          {
+            "phone": "519-749-6441"
+          },
+          {
+            "fax": "519-749-6426"
+          },
+          {
+            "email": "info@smgh.ca"
+          },
+          {
+            "url": "www.smgh.ca"
+          }
+        ],
+        "address": {
+          "line": [
+            "911 Queen's Blvd"
+          ],
+          "city": "Kitchener",
+          "state": "ON",
+          "postalCode": "N2M 1B2"
+        },
+        "position": {
+          "longitude": -80.50041,
+          "latitude": 43.43804
+        }
+      }
+    ],
+    "contact_info": "phone: 519-744-3311, phone: 519-749-6441, fax: 519-749-6426, email: info@smgh.ca, url: www.smgh.ca",
+    "description_of_this": "197-bed adult acute-care hospital * specializing in core areas of clinical focus:<ul><li>regional cardiac care centre</li><li>emergency care<br></li><li>integrated comprehensive care</li><li>service and supports</li><li>respiratory and thoracic care</li><li>surgical services</li><li>medicine</li><li>nuclear medicine</li></ul>\n<br><b>Emergency Department Wait Times:</b> <a href=\"https://www.smgh.ca/patients-visitors/emergency-department-wait-times\" target=\"_blank\">www.smgh.ca/patients-visitors/emergency-department-wait-times</a><BR><BR><B>Services and Programs:</B><UL><LI>Diagnostic Imaging</LI><LI>Laboratory</LI><LI>Regional Cardiac Care Centre</LI><LI>Spiritual Care</LI><LI>Waterloo Region Sexual Assault/Domestic Violence Treatment Centre</LI></UL>, Codes: Most services covered by OHIP, Features: Wheelchair Accessible, Languages: English, Referral: Walk-in for emergency department * medical referral and appointment required for most other services, Address: 911 Queen's Blvd, Kitchener, ON, N2M 1B2, Location: lat: 43.43804, lon: -80.50041"
+  }
+]

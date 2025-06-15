@@ -1,0 +1,60 @@
+[
+  {
+    "name": "Wellington-Dufferin-Guelph Public Health - Guelph",
+    "active": true,
+    "category": [
+      "Immunization Clinics",
+      "Public Health Units"
+    ],
+    "comment": "Health agency that addresses public health issues and promotes healthy living<ul><li>clinical services * sexual health, reproductive health, harm reduction, TB testing and care</li><li>vaccine preventable diseases * immunization of school pupils act requirements, vaccine records, immunizations across the lifespan</li><li>infectious diseases and outbreak reporting * report cases of food-borne illness or outbreak of communicable diseases</li><li>healthy babies health children program</li><li>parenting and childhood growth and development support</li><li>dental services * Healthy Smiles Program and Seniors Dental Care Program</li><li>environmental health * water testing, inspections, infection and prevention control</li></ul><BR><BR><B>Services and Programs:</B><UL><LI>Community Breastfeeding Clinics</LI><LI>Dental Services</LI><LI>Parenting Supports</LI></UL>",
+    "serviceProvisionCode": [],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>6946fcc6-ab30-4eb5-b5c9-16d608ba4944</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Guelph</p><p>physical-location-postalcode</p><p>N1G 0E1</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>103177</p><p>true</p><p>Immunization Clinics</p><p>Public Health Units</p><p>Location/cbfc5778-f19f-4356-bdfa-6f3429e7bce0</p><p>Location</p><p>Wellington-Dufferin-Guelph Public Health - Guelph</p><p>Health agency that addresses public health issues and promotes healthy living&lt;ul&gt;&lt;li&gt;clinical services * sexual health, reproductive health, harm reduction, TB testing and care&lt;/li&gt;&lt;li&gt;vaccine preventable diseases * immunization of school pupils act requirements, vaccine records, immunizations across the lifespan&lt;/li&gt;&lt;li&gt;infectious diseases and outbreak reporting * report cases of food-borne illness or outbreak of communicable diseases&lt;/li&gt;&lt;li&gt;healthy babies health children program&lt;/li&gt;&lt;li&gt;parenting and childhood growth and development support&lt;/li&gt;&lt;li&gt;dental services * Healthy Smiles Program and Seniors Dental Care Program&lt;/li&gt;&lt;li&gt;environmental health * water testing, inspections, infection and prevention control&lt;/li&gt;&lt;/ul&gt;&lt;BR&gt;&lt;BR&gt;&lt;B&gt;Services and Programs:&lt;/B&gt;&lt;UL&gt;&lt;LI&gt;Community Breastfeeding Clinics&lt;/LI&gt;&lt;LI&gt;Dental Services&lt;/LI&gt;&lt;LI&gt;Parenting Supports&lt;/LI&gt;&lt;/UL&gt;</p><p>Location/0722cd5e-6b65-4005-816f-540a1e0efea9</p><p>Location</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>Interpretive Services</p></div>",
+    "eligibility": [],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English",
+      "Interpretive Services"
+    ],
+    "referralMethod": [],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-822-2715"
+          },
+          {
+            "phone": "1-800-265-7293 ext 7006"
+          },
+          {
+            "phone": "1-800-265-7293"
+          },
+          {
+            "fax": "519-836-7215"
+          },
+          {
+            "email": "clientcommunitysupport@wdgpublichealth.ca"
+          },
+          {
+            "url": "www.wdgpublichealth.ca"
+          }
+        ],
+        "address": {
+          "line": [
+            "160 Chancellors Way"
+          ],
+          "city": "Guelph",
+          "state": "ON",
+          "postalCode": "N1G 0E1"
+        },
+        "position": {
+          "longitude": -80.233709,
+          "latitude": 43.524865
+        }
+      }
+    ],
+    "contact_info": "phone: 519-822-2715, phone: 1-800-265-7293 ext 7006, phone: 1-800-265-7293, fax: 519-836-7215, email: clientcommunitysupport@wdgpublichealth.ca, url: www.wdgpublichealth.ca",
+    "description_of_this": "Health agency that addresses public health issues and promotes healthy living<ul><li>clinical services * sexual health, reproductive health, harm reduction, TB testing and care</li><li>vaccine preventable diseases * immunization of school pupils act requirements, vaccine records, immunizations across the lifespan</li><li>infectious diseases and outbreak reporting * report cases of food-borne illness or outbreak of communicable diseases</li><li>healthy babies health children program</li><li>parenting and childhood growth and development support</li><li>dental services * Healthy Smiles Program and Seniors Dental Care Program</li><li>environmental health * water testing, inspections, infection and prevention control</li></ul><BR><BR><B>Services and Programs:</B><UL><LI>Community Breastfeeding Clinics</LI><LI>Dental Services</LI><LI>Parenting Supports</LI></UL>, Features: Wheelchair Accessible, Languages: English, Interpretive Services, Address: 160 Chancellors Way, Guelph, ON, N1G 0E1, Location: lat: 43.524865, lon: -80.233709"
+  }
+]

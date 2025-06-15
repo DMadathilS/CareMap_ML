@@ -1,0 +1,54 @@
+[
+  {
+    "name": "Prescription Shoppe (The) - Cambridge",
+    "active": true,
+    "category": [
+      "Pharmacies"
+    ],
+    "comment": "Compounding pharmacy<ul><li>treatment and prescription of medications for common medical ailments, \nincluding rashes, pink eye, insect bites, acne, and urinary tract \ninfections</li><li>medication placed in pill organizers (containers for storing scheduled doses) at no extra cost\n </li><li> medication placed in blister packs (sealed, push-through packaging used to separate doses) at no extra cost</li><li> pharmacist available for diabetes management consultations</li><li> mobility aids (walkers, scooters, wheelchairs)</li><li> free delivery for prescriptions in Cambridge (can go to Kitchener)</li><li>free seasonal flu vaccines</li><li> free take-home naloxone kits (emergency response kits for opioid overdose)</li><li>home health care items, including stoma and wound care<br></li></ul>\n<b><br></b><b>MedsCheck</b> - Appointments to review complex prescriptions with a pharmacist <br><br>\n<b>Medications Return Program</b> - Safe disposal of expired or unused medications, creams, and inhalers <br><br><b>Sharps Disposal Program</b> - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips <br><br>\n<b>Pharmacy Smoking Cessation Program</b> - Help to quit smoking, available for Ontario Drug Benefit recipients",
+    "serviceProvisionCode": [
+      "Dispensing fee plus medication costs * prescribed medications may be covered by OHIP"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>c6bf5b70-1f7a-474f-92e1-0e56723dbdf7</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Cambridge</p><p>physical-location-postalcode</p><p>N1S 2M7</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>209000</p><p>true</p><p>Pharmacies</p><p>Location/74f9f43a-acd2-4b5d-a58b-941130faafe3</p><p>Location</p><p>Prescription Shoppe (The) - Cambridge</p><p>Compounding pharmacy&lt;ul&gt;&lt;li&gt;treatment and prescription of medications for common medical ailments, \nincluding rashes, pink eye, insect bites, acne, and urinary tract \ninfections&lt;/li&gt;&lt;li&gt;medication placed in pill organizers (containers for storing scheduled doses) at no extra cost\n &lt;/li&gt;&lt;li&gt; medication placed in blister packs (sealed, push-through packaging used to separate doses) at no extra cost&lt;/li&gt;&lt;li&gt; pharmacist available for diabetes management consultations&lt;/li&gt;&lt;li&gt; mobility aids (walkers, scooters, wheelchairs)&lt;/li&gt;&lt;li&gt; free delivery for prescriptions in Cambridge (can go to Kitchener)&lt;/li&gt;&lt;li&gt;free seasonal flu vaccines&lt;/li&gt;&lt;li&gt; free take-home naloxone kits (emergency response kits for opioid overdose)&lt;/li&gt;&lt;li&gt;home health care items, including stoma and wound care&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;\n&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;b&gt;MedsCheck&lt;/b&gt; - Appointments to review complex prescriptions with a pharmacist &lt;br&gt;&lt;br&gt;\n&lt;b&gt;Medications Return Program&lt;/b&gt; - Safe disposal of expired or unused medications, creams, and inhalers &lt;br&gt;&lt;br&gt;&lt;b&gt;Sharps Disposal Program&lt;/b&gt; - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips &lt;br&gt;&lt;br&gt;\n&lt;b&gt;Pharmacy Smoking Cessation Program&lt;/b&gt; - Help to quit smoking, available for Ontario Drug Benefit recipients</p><p>Location/87fd0ce8-5604-42eb-aa79-83ff81325c97</p><p>Location</p><p>Dispensing fee plus medication costs * prescribed medications may be covered by OHIP</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p></div>",
+    "eligibility": [],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-623-3900"
+          },
+          {
+            "fax": "519-623-3902"
+          },
+          {
+            "email": "theprescriptionshoppecambridge@gmail.com"
+          },
+          {
+            "url": "www.prescriptionshop.net/cambridge-pharmacy"
+          }
+        ],
+        "address": {
+          "line": [
+            "2 George St N"
+          ],
+          "city": "Cambridge",
+          "state": "ON",
+          "postalCode": "N1S 2M7"
+        },
+        "position": {
+          "longitude": -80.3189,
+          "latitude": 43.3583
+        }
+      }
+    ],
+    "contact_info": "phone: 519-623-3900, fax: 519-623-3902, email: theprescriptionshoppecambridge@gmail.com, url: www.prescriptionshop.net/cambridge-pharmacy",
+    "description_of_this": "Compounding pharmacy<ul><li>treatment and prescription of medications for common medical ailments, \nincluding rashes, pink eye, insect bites, acne, and urinary tract \ninfections</li><li>medication placed in pill organizers (containers for storing scheduled doses) at no extra cost\n </li><li> medication placed in blister packs (sealed, push-through packaging used to separate doses) at no extra cost</li><li> pharmacist available for diabetes management consultations</li><li> mobility aids (walkers, scooters, wheelchairs)</li><li> free delivery for prescriptions in Cambridge (can go to Kitchener)</li><li>free seasonal flu vaccines</li><li> free take-home naloxone kits (emergency response kits for opioid overdose)</li><li>home health care items, including stoma and wound care<br></li></ul>\n<b><br></b><b>MedsCheck</b> - Appointments to review complex prescriptions with a pharmacist <br><br>\n<b>Medications Return Program</b> - Safe disposal of expired or unused medications, creams, and inhalers <br><br><b>Sharps Disposal Program</b> - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips <br><br>\n<b>Pharmacy Smoking Cessation Program</b> - Help to quit smoking, available for Ontario Drug Benefit recipients, Codes: Dispensing fee plus medication costs * prescribed medications may be covered by OHIP, Features: Wheelchair Accessible, Languages: English, Address: 2 George St N, Cambridge, ON, N1S 2M7, Location: lat: 43.3583, lon: -80.3189, Contact: phone: 519-623-3900, fax: 519-623-3902, email: theprescriptionshoppecambridge@gmail.com, url: www.prescriptionshop.net/cambridge-pharmacy"
+  }
+]

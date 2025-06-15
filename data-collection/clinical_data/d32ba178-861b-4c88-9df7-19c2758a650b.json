@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Summerside Medical Clinic",
+    "active": true,
+    "category": [
+      "Walk-In Medical Clinics"
+    ],
+    "comment": "Walk-in medical clinic * doctors and nurses assess and treat minor illnesses and injuries",
+    "serviceProvisionCode": [
+      "Most services covered by OHIP"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>d32ba178-861b-4c88-9df7-19c2758a650b</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Guelph</p><p>physical-location-postalcode</p><p>N1G 5I4</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>187792</p><p>true</p><p>Walk-In Medical Clinics</p><p>Location/94057d33-adc0-4126-a4c6-95b6dc119aff</p><p>Location</p><p>Summerside Medical Clinic</p><p>Walk-in medical clinic * doctors and nurses assess and treat minor illnesses and injuries</p><p>Location/d2573964-5dd2-4257-a5fa-443fddd74f98</p><p>Location</p><p>Most services covered by OHIP</p><p>People who need medical care for minor illnesses and injuries</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>Call or visit * no referral required</p></div>",
+    "eligibility": [
+      "People who need medical care for minor illnesses and injuries"
+    ],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [
+      "Call or visit * no referral required"
+    ],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-780-8585"
+          },
+          {
+            "phone": "Call <b>911</b> in emergencies"
+          },
+          {
+            "fax": "519-850-8588"
+          },
+          {
+            "email": "summersidemedical@gmail.com"
+          }
+        ],
+        "address": {
+          "line": [
+            "175 Stone Rd W"
+          ],
+          "city": "Guelph",
+          "state": "ON",
+          "postalCode": "N1G 5I4"
+        },
+        "position": {
+          "longitude": -80.233,
+          "latitude": 43.523
+        }
+      }
+    ],
+    "contact_info": "phone: 519-780-8585, phone: Call <b>911</b> in emergencies, fax: 519-850-8588, email: summersidemedical@gmail.com",
+    "description_of_this": "Walk-in medical clinic * doctors and nurses assess and treat minor illnesses and injuries, Codes: Most services covered by OHIP, Features: Wheelchair Accessible, Languages: English, Referral: Call or visit * no referral required, Address: 175 Stone Rd W, Guelph, ON, N1G 5I4, Location: lat: 43.523, lon: -80.233, Contact: phone: 519-780-8585, phone: Call <b>911</b> in emergencies, fax: 519-850-8588, email: summersidemedical@gmail.com"
+  }
+]

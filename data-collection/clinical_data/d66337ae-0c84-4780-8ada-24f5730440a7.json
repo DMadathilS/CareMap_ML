@@ -1,0 +1,65 @@
+[
+  {
+    "name": "Ontario Health atHome - Guelph",
+    "active": true,
+    "category": [
+      "Ontario Health atHome"
+    ],
+    "comment": "Access to health care support at home, at school, or in the community * coordinates health services for people who are recovering from illness or injury, and for those who are living with chronic illness or disability * services help people avoid hospitalization, or return home quicker after being in hospital to recuperate in the comfort and privacy of their own homes * care is provided in community settings such as the home, school, residential facility or community clinic * provides information about other community services and refers when appropriate<br><br>Services available to eligible patients may include:<br><ul><li>nursing</li><li>nurse practitioner</li><li>personal support</li><li>social work</li><li>nutrition and food counselling (dietitians)</li><li>medical supplies and equipment</li><li>access to long-term care homes</li><li>access to supported living (adult day programs, supportive housing, retirement homes and assisted living)</li><li>health support in the school</li><li>specialized services for people living with specific health conditions</li><li>referral to other community supports</li></ul><br><b>Information and Referral -</b> thehealthline.ca provides online access to health care information and services in Ontario, or call the referral phone service at 310-2222<BR><BR><B>Services and Programs:</B><UL><LI>Dietetic Services</LI><LI>Occupational Therapy</LI><LI>Palliative Care</LI><LI>Physiotherapy Rehabilitation</LI><LI>Speech-Language Pathology</LI></UL>",
+    "serviceProvisionCode": [
+      "Covered by OHIP"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>d66337ae-0c84-4780-8ada-24f5730440a7</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Guelph</p><p>physical-location-postalcode</p><p>N1G 4Y2</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>103063</p><p>true</p><p>Ontario Health atHome</p><p>Location/2399a9db-fb05-4aca-ac13-102f3a84af38</p><p>Location</p><p>Ontario Health atHome - Guelph</p><p>Access to health care support at home, at school, or in the community * coordinates health services for people who are recovering from illness or injury, and for those who are living with chronic illness or disability * services help people avoid hospitalization, or return home quicker after being in hospital to recuperate in the comfort and privacy of their own homes * care is provided in community settings such as the home, school, residential facility or community clinic * provides information about other community services and refers when appropriate&lt;br&gt;&lt;br&gt;Services available to eligible patients may include:&lt;br&gt;&lt;ul&gt;&lt;li&gt;nursing&lt;/li&gt;&lt;li&gt;nurse practitioner&lt;/li&gt;&lt;li&gt;personal support&lt;/li&gt;&lt;li&gt;social work&lt;/li&gt;&lt;li&gt;nutrition and food counselling (dietitians)&lt;/li&gt;&lt;li&gt;medical supplies and equipment&lt;/li&gt;&lt;li&gt;access to long-term care homes&lt;/li&gt;&lt;li&gt;access to supported living (adult day programs, supportive housing, retirement homes and assisted living)&lt;/li&gt;&lt;li&gt;health support in the school&lt;/li&gt;&lt;li&gt;specialized services for people living with specific health conditions&lt;/li&gt;&lt;li&gt;referral to other community supports&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;b&gt;Information and Referral -&lt;/b&gt; thehealthline.ca provides online access to health care information and services in Ontario, or call the referral phone service at 310-2222&lt;BR&gt;&lt;BR&gt;&lt;B&gt;Services and Programs:&lt;/B&gt;&lt;UL&gt;&lt;LI&gt;Dietetic Services&lt;/LI&gt;&lt;LI&gt;Occupational Therapy&lt;/LI&gt;&lt;LI&gt;Palliative Care&lt;/LI&gt;&lt;LI&gt;Physiotherapy Rehabilitation&lt;/LI&gt;&lt;LI&gt;Speech-Language Pathology&lt;/LI&gt;&lt;/UL&gt;</p><p>Location/00806a40-acc4-4b1c-84fd-5ff5d9f67e3e</p><p>Location</p><p>Covered by OHIP</p><p>People of all ages recovering from illness or injury * those living with chronic illness or disability</p><p>Wheelchair Accessible</p><p>Assessment required * people must meet eligibility criteria in order to access publicly-funded health services * may be wait times for some services</p></div>",
+    "eligibility": [
+      "People of all ages recovering from illness or injury * those living with chronic illness or disability"
+    ],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [],
+    "referralMethod": [
+      "Assessment required * people must meet eligibility criteria in order to access publicly-funded health services * may be wait times for some services"
+    ],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-823-2550"
+          },
+          {
+            "phone": "1-888-883-3313 or 310-2222"
+          },
+          {
+            "phone": "7-1-1"
+          },
+          {
+            "phone": "519-883-5500"
+          },
+          {
+            "fax": "519-823-8682"
+          },
+          {
+            "email": "waterloowellington@hccontario.ca"
+          },
+          {
+            "url": "www.healthcareathome.ca/region/waterloo-wellington/"
+          }
+        ],
+        "address": {
+          "line": [
+            "1 Stone Rd W"
+          ],
+          "city": "Guelph",
+          "state": "ON",
+          "postalCode": "N1G 4Y2"
+        },
+        "position": {
+          "longitude": -80.2271,
+          "latitude": 43.5258
+        }
+      }
+    ],
+    "contact_info": "phone: 519-823-2550, phone: 1-888-883-3313 or 310-2222, phone: 7-1-1, phone: 519-883-5500, fax: 519-823-8682, email: waterloowellington@hccontario.ca, url: www.healthcareathome.ca/region/waterloo-wellington/",
+    "description_of_this": "Access to health care support at home, at school, or in the community * coordinates health services for people who are recovering from illness or injury, and for those who are living with chronic illness or disability * services help people avoid hospitalization, or return home quicker after being in hospital to recuperate in the comfort and privacy of their own homes * care is provided in community settings such as the home, school, residential facility or community clinic * provides information about other community services and refers when appropriate<br><br>Services available to eligible patients may include:<br><ul><li>nursing</li><li>nurse practitioner</li><li>personal support</li><li>social work</li><li>nutrition and food counselling (dietitians)</li><li>medical supplies and equipment</li><li>access to long-term care homes</li><li>access to supported living (adult day programs, supportive housing, retirement homes and assisted living)</li><li>health support in the school</li><li>specialized services for people living with specific health conditions</li><li>referral to other community supports</li></ul><br><b>Information and Referral -</b> thehealthline.ca provides online access to health care information and services in Ontario, or call the referral phone service at 310-2222<BR><BR><B>Services and Programs:</B><UL><LI>Dietetic Services</LI><LI>Occupational Therapy</LI><LI>Palliative Care</LI><LI>Physiotherapy Rehabilitation</LI><LI>Speech-Language Pathology</LI></UL>, Codes: Covered by OHIP, Features: Wheelchair Accessible, Referral: Assessment required * people must meet eligibility criteria in order to access publicly-funded health services * may be wait times for some services, Address: 1 Stone Rd W, Guelph, ON, N1G 4Y2, Location: lat: 43.5258, lon: -80.2271, Contact: phone: 519-823-2550, phone: 1-888-883-3313 or 310-2222, phone: 7-1-1, phone: 519-883-5500, fax: 519-823-8682, email: waterloowellington@hccontario.ca, url: www.healthcareathome.ca/region/waterloo-wellington/"
+  }
+]

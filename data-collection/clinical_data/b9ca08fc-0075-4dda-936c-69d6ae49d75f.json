@@ -1,0 +1,61 @@
+[
+  {
+    "name": "Community Care Concepts of Woolwich, Wellesley and Wilmot Townships - Congregate Dining",
+    "active": true,
+    "category": [
+      "Congregate Dining"
+    ],
+    "comment": "Group meals and social activities",
+    "serviceProvisionCode": [
+      "Set fees"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>b9ca08fc-0075-4dda-936c-69d6ae49d75f</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Elmira</p><p>physical-location-postalcode</p><p>N3B 2Z2</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>209389</p><p>true</p><p>Congregate Dining</p><p>Location/2d53a25d-3181-409d-92be-79f3e65a373e</p><p>Location</p><p>Community Care Concepts of Woolwich, Wellesley and Wilmot Townships - Congregate Dining</p><p>Group meals and social activities</p><p>Location/09599f70-d10f-4e8e-8138-033855c0f5e8</p><p>Location</p><p>Set fees</p><p>Older adults and adults with disabilities</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>Call * no referral required</p></div>",
+    "eligibility": [
+      "Older adults and adults with disabilities"
+    ],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [
+      "Call * no referral required"
+    ],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-664-1900"
+          },
+          {
+            "phone": "1-855-664-1900"
+          },
+          {
+            "fax": "519-664-1944"
+          },
+          {
+            "email": "info@communitycareconcepts.ca"
+          },
+          {
+            "url": "communitycareconcepts.ca/congregate.htm"
+          }
+        ],
+        "address": {
+          "line": [
+            "929 Arthur St S"
+          ],
+          "city": "Elmira",
+          "state": "ON",
+          "postalCode": "N3B 2Z2"
+        },
+        "position": {
+          "longitude": -80.5543,
+          "latitude": 43.5538
+        }
+      }
+    ],
+    "contact_info": "phone: 519-664-1900, phone: 1-855-664-1900, fax: 519-664-1944, email: info@communitycareconcepts.ca, url: communitycareconcepts.ca/congregate.htm",
+    "description_of_this": "Group meals and social activities, Codes: Set fees, Features: Wheelchair Accessible, Languages: English, Referral: Call * no referral required, Address: 929 Arthur St S, Elmira, ON, N3B 2Z2, Location: lat: 43.5538, lon: -80.5543"
+  }
+]

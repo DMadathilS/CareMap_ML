@@ -1,0 +1,55 @@
+[
+  {
+    "name": "KW Urgent Care Clinic - Kitchener - Victoria St S",
+    "active": true,
+    "category": [
+      "Walk-In Medical Clinics"
+    ],
+    "comment": "Walk-in medical clinic * doctors and nurses assess and treat minor illnesses and injuries * lab, x-ray, and pharmacy on-site",
+    "serviceProvisionCode": [
+      "Most services covered by OHIP"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>674bd05c-73a5-4c18-9b87-354c46ce6208</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Kitchener</p><p>physical-location-postalcode</p><p>N2M 5N4</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>102790</p><p>true</p><p>Walk-In Medical Clinics</p><p>Location/e29e4b66-adab-49d0-9a4f-3b3e8710e339</p><p>Location</p><p>KW Urgent Care Clinic - Kitchener - Victoria St S</p><p>Walk-in medical clinic * doctors and nurses assess and treat minor illnesses and injuries * lab, x-ray, and pharmacy on-site</p><p>Location/e114da70-609e-4223-b2f3-97a707cd689c</p><p>Location</p><p>Most services covered by OHIP</p><p>People who need medical care for minor illnesses and injuries</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>Call or visit * no referral required</p></div>",
+    "eligibility": [
+      "People who need medical care for minor illnesses and injuries"
+    ],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [
+      "Call or visit * no referral required"
+    ],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-745-2273"
+          },
+          {
+            "fax": "519-745-1871"
+          },
+          {
+            "url": "www.kwurgentcare.ca"
+          }
+        ],
+        "address": {
+          "line": [
+            "751 Victoria St S"
+          ],
+          "city": "Kitchener",
+          "state": "ON",
+          "postalCode": "N2M 5N4"
+        },
+        "position": {
+          "longitude": -80.522,
+          "latitude": 43.4386
+        }
+      }
+    ],
+    "contact_info": "phone: 519-745-2273, fax: 519-745-1871, url: www.kwurgentcare.ca",
+    "description_of_this": "Walk-in medical clinic * doctors and nurses assess and treat minor illnesses and injuries * lab, x-ray, and pharmacy on-site, Codes: Most services covered by OHIP, Features: Wheelchair Accessible, Languages: English, Referral: Call or visit * no referral required, Address: 751 Victoria St S, Kitchener, ON, N2M 5N4, Location: lat: 43.4386, lon: -80.522"
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "name": "Community Care Concepts of Woolwich, Wellesley and Wilmot Townships - Home at Last",
+    "active": true,
+    "category": [
+      "Personal Support and Independence Training",
+      "Transportation for Seniors and People with Disabilities"
+    ],
+    "comment": "Service for older adults being discharged from hospital<br><br>Transportation home from hospital * personal support worker assist in settling, may include cooking, prescription pick-up, groceries, company * care coordinator follow-up the day after discharge to coordinate community services",
+    "serviceProvisionCode": [],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>7f545cd2-fc3d-45b7-8ff1-5e7ae287d00a</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Elmira</p><p>physical-location-postalcode</p><p>N3B 2Z2</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>209288</p><p>true</p><p>Personal Support and Independence Training</p><p>Transportation for Seniors and People with Disabilities</p><p>Location/3e582778-70b7-4724-9021-fe4d8cbe058a</p><p>Location</p><p>Community Care Concepts of Woolwich, Wellesley and Wilmot Townships - Home at Last</p><p>Service for older adults being discharged from hospital&lt;br&gt;&lt;br&gt;Transportation home from hospital * personal support worker assist in settling, may include cooking, prescription pick-up, groceries, company * care coordinator follow-up the day after discharge to coordinate community services</p><p>Location/3cb024aa-d2a4-411e-8253-ca0f0555b228</p><p>Location</p><p>Older adults leaving the hospital alone</p><p>Not Applicable</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>Speak with doctor or nurse at hospital</p></div>",
+    "eligibility": [
+      "Older adults leaving the hospital alone"
+    ],
+    "characteristic": [
+      "Not Applicable"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [
+      "Speak with doctor or nurse at hospital"
+    ],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-664-1900"
+          },
+          {
+            "phone": "1-855-664-1900"
+          },
+          {
+            "fax": "519-664-1944"
+          },
+          {
+            "email": "info@communitycareconcepts.ca"
+          },
+          {
+            "url": "communitycareconcepts.ca/homeatlast.htm"
+          }
+        ],
+        "address": {
+          "line": [
+            "929 Arthur St S"
+          ],
+          "city": "Elmira",
+          "state": "ON",
+          "postalCode": "N3B 2Z2"
+        },
+        "position": {
+          "longitude": -80.5543,
+          "latitude": 43.5538
+        }
+      }
+    ],
+    "contact_info": "phone: 519-664-1900, phone: 1-855-664-1900, fax: 519-664-1944, email: info@communitycareconcepts.ca, url: communitycareconcepts.ca/homeatlast.htm",
+    "description_of_this": "Service for older adults being discharged from hospital<br><br>Transportation home from hospital * personal support worker assist in settling, may include cooking, prescription pick-up, groceries, company * care coordinator follow-up the day after discharge to coordinate community services, Features: Not Applicable, Languages: English, Referral: Speak with doctor or nurse at hospital, Address: 929 Arthur St S, Elmira, ON, N3B 2Z2, Location: lat: 43.5538, lon: -80.5543"
+  }
+]

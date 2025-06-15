@@ -1,0 +1,53 @@
+[
+  {
+    "name": "Waterloo Region Nurse Practitioner Led Clinic - Breslau Clinic",
+    "active": true,
+    "category": [
+      "Nurse Practitioner-Led Clinics"
+    ],
+    "comment": "Medical clinic focused on family and community health * nurse practitioner works with other team members including social worker and pharmacist to assess and treat non-life threatening injuries or illnesses",
+    "serviceProvisionCode": [
+      "Most services covered by OHIP"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>4d7de87f-1258-4052-8b9a-afeac852482b</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Breslau</p><p>physical-location-postalcode</p><p>N0B 1M0</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>218570</p><p>true</p><p>Nurse Practitioner-Led Clinics</p><p>Location/e3825e92-c2fd-43ba-be78-f98ef4c086a4</p><p>Location</p><p>Waterloo Region Nurse Practitioner Led Clinic - Breslau Clinic</p><p>Medical clinic focused on family and community health * nurse practitioner works with other team members including social worker and pharmacist to assess and treat non-life threatening injuries or illnesses</p><p>Location/991cae18-2141-43de-b8a3-d4fac94bd421</p><p>Location</p><p>Most services covered by OHIP</p><p>Patients without primary care provider may register with clinic</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p></div>",
+    "eligibility": [
+      "Patients without primary care provider may register with clinic"
+    ],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-772-2322"
+          },
+          {
+            "fax": "519-772-2323"
+          },
+          {
+            "url": "www.wrnplc.ca"
+          }
+        ],
+        "address": {
+          "line": [
+            "10 Townsend Dr, Unit 10"
+          ],
+          "city": "Breslau",
+          "state": "ON",
+          "postalCode": "N0B 1M0"
+        },
+        "position": {
+          "longitude": -80.4149,
+          "latitude": 43.4866
+        }
+      }
+    ],
+    "contact_info": "phone: 519-772-2322, fax: 519-772-2323, url: www.wrnplc.ca",
+    "description_of_this": "Medical clinic focused on family and community health * nurse practitioner works with other team members including social worker and pharmacist to assess and treat non-life threatening injuries or illnesses, Codes: Most services covered by OHIP, Features: Wheelchair Accessible, Languages: English, Address: 10 Townsend Dr, Unit 10, Breslau, ON, N0B 1M0, Location: lat: 43.4866, lon: -80.4149"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "name": "St Joseph's Health Centre Guelph",
+    "active": true,
+    "category": [
+      "Hospitals"
+    ],
+    "comment": "346-bed hospital * services include long term care, outpatient services, complex medical, speech and language pathology, rehabilitation, clinics and medical services, palliative care<br>geriatric outreach services, community support services and seniors housing * various outpatient services across multiple locations<BR><BR><B>Services and Programs:</B><UL><LI>Acquired Brain Injury Day Program</LI><LI>Driving Rehabilitation Program</LI><LI>Musculoskeletal Rehabilitation</LI><LI>Physiotherapy Clinic</LI><LI>St Joseph's Health Centre - Overnight Stay Respite Program</LI><LI>St Joseph's Health Centre Guelph - Alzheimer\u2019s Day Program</LI><LI>St Joseph's Health Centre Guelph - Long Term Care Home</LI><LI>Waterloo Wellington Regional Aphasia Program (WWRAP) - Allan Reuter Centre</LI><LI>Waterloo Wellington Regional Aphasia Program (WWRAP) - City of Waterloo - Adult Recreation Centre</LI><LI>Waterloo Wellington Regional Aphasia Program (WWRAP) - East Wellington Community Services</LI><LI>Waterloo Wellington Regional Aphasia Program (WWRAP) - Fergus Outreach Location</LI><LI>Waterloo Wellington Regional Aphasia Program (WWRAP) - Guelph - Huron St</LI><LI>Waterloo Wellington Regional Aphasia Program (WWRAP) - Guelph - Westmount St</LI><LI>Waterloo Wellington Regional Aphasia Program (WWRAP) - KW Seniors Day Program</LI><LI>Waterloo Wellington Regional Aphasia Program (WWRAP) - Mount Forest Outreach Location</LI><LI>Waterloo Wellington Regional Aphasia Program (WWRAP) - Traverse Independence</LI><LI>Waterloo Wellington Regional Aphasia Program (WWRAP) - William E Paulter Centre</LI><LI>Young Onset Dementia Program (YODA)</LI></UL>",
+    "serviceProvisionCode": [
+      "Rates set by the Ontario Ministry Long-Term Care * subsidies for basic rates may be available for eligible applicants"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>006b7aff-ddb6-4ecd-a048-24fb1e655cde</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Guelph</p><p>physical-location-postalcode</p><p>N1H 5H8</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>102576</p><p>true</p><p>Hospitals</p><p>Location/9c6ce7ee-76f1-4292-a66b-a9e647c4b713</p><p>Location</p><p>St Joseph's Health Centre Guelph</p><p>346-bed hospital * services include long term care, outpatient services, complex medical, speech and language pathology, rehabilitation, clinics and medical services, palliative care&lt;br&gt;geriatric outreach services, community support services and seniors housing * various outpatient services across multiple locations&lt;BR&gt;&lt;BR&gt;&lt;B&gt;Services and Programs:&lt;/B&gt;&lt;UL&gt;&lt;LI&gt;Acquired Brain Injury Day Program&lt;/LI&gt;&lt;LI&gt;Driving Rehabilitation Program&lt;/LI&gt;&lt;LI&gt;Musculoskeletal Rehabilitation&lt;/LI&gt;&lt;LI&gt;Physiotherapy Clinic&lt;/LI&gt;&lt;LI&gt;St Joseph's Health Centre - Overnight Stay Respite Program&lt;/LI&gt;&lt;LI&gt;St Joseph's Health Centre Guelph - Alzheimer\u2019s Day Program&lt;/LI&gt;&lt;LI&gt;St Joseph's Health Centre Guelph - Long Term Care Home&lt;/LI&gt;&lt;LI&gt;Waterloo Wellington Regional Aphasia Program (WWRAP) - Allan Reuter Centre&lt;/LI&gt;&lt;LI&gt;Waterloo Wellington Regional Aphasia Program (WWRAP) - City of Waterloo - Adult Recreation Centre&lt;/LI&gt;&lt;LI&gt;Waterloo Wellington Regional Aphasia Program (WWRAP) - East Wellington Community Services&lt;/LI&gt;&lt;LI&gt;Waterloo Wellington Regional Aphasia Program (WWRAP) - Fergus Outreach Location&lt;/LI&gt;&lt;LI&gt;Waterloo Wellington Regional Aphasia Program (WWRAP) - Guelph - Huron St&lt;/LI&gt;&lt;LI&gt;Waterloo Wellington Regional Aphasia Program (WWRAP) - Guelph - Westmount St&lt;/LI&gt;&lt;LI&gt;Waterloo Wellington Regional Aphasia Program (WWRAP) - KW Seniors Day Program&lt;/LI&gt;&lt;LI&gt;Waterloo Wellington Regional Aphasia Program (WWRAP) - Mount Forest Outreach Location&lt;/LI&gt;&lt;LI&gt;Waterloo Wellington Regional Aphasia Program (WWRAP) - Traverse Independence&lt;/LI&gt;&lt;LI&gt;Waterloo Wellington Regional Aphasia Program (WWRAP) - William E Paulter Centre&lt;/LI&gt;&lt;LI&gt;Young Onset Dementia Program (YODA)&lt;/LI&gt;&lt;/UL&gt;</p><p>Location/7cf879f9-5ea7-4146-8f3f-cc0694ef3d4f</p><p>Location</p><p>Rates set by the Ontario Ministry Long-Term Care * subsidies for basic rates may be available for eligible applicants</p><p>Adults who need long-term care * care coordinators assess the needs of applicants</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>Contact Ontario Health atHome Waterloo-Wellington</p></div>",
+    "eligibility": [
+      "Adults who need long-term care * care coordinators assess the needs of applicants"
+    ],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [
+      "Contact Ontario Health atHome Waterloo-Wellington"
+    ],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-824-6000"
+          },
+          {
+            "fax": "519-763-0264"
+          },
+          {
+            "email": "info@sjhcg.ca"
+          },
+          {
+            "url": "www.sjhcg.ca"
+          }
+        ],
+        "address": {
+          "line": [
+            "100 Westmount Rd"
+          ],
+          "city": "Guelph",
+          "state": "ON",
+          "postalCode": "N1H 5H8"
+        },
+        "position": {
+          "longitude": -80.271685,
+          "latitude": 43.55146
+        }
+      }
+    ],
+    "contact_info": "phone: 519-824-6000, fax: 519-763-0264, email: info@sjhcg.ca, url: www.sjhcg.ca",
+    "description_of_this": "346-bed hospital * services include long term care, outpatient services, complex medical, speech and language pathology, rehabilitation, clinics and medical services, palliative care<br>geriatric outreach services, community support services and seniors housing * various outpatient services across multiple locations<BR><BR><B>Services and Programs:</B><UL><LI>Acquired Brain Injury Day Program</LI><LI>Driving Rehabilitation Program</LI><LI>Musculoskeletal Rehabilitation</LI><LI>Physiotherapy Clinic</LI><LI>St Joseph's Health Centre - Overnight Stay Respite Program</LI><LI>St Joseph's Health Centre Guelph - Alzheimer\u2019s Day Program</LI><LI>St Joseph's Health Centre Guelph - Long Term Care Home</LI><LI>Waterloo Wellington Regional Aphasia Program (WWRAP) - Allan Reuter Centre</LI><LI>Waterloo Wellington Regional Aphasia Program (WWRAP) - City of Waterloo - Adult Recreation Centre</LI><LI>Waterloo Wellington Regional Aphasia Program (WWRAP) - East Wellington Community Services</LI><LI>Waterloo Wellington Regional Aphasia Program (WWRAP) - Fergus Outreach Location</LI><LI>Waterloo Wellington Regional Aphasia Program (WWRAP) - Guelph - Huron St</LI><LI>Waterloo Wellington Regional Aphasia Program (WWRAP) - Guelph - Westmount St</LI><LI>Waterloo Wellington Regional Aphasia Program (WWRAP) - KW Seniors Day Program</LI><LI>Waterloo Wellington Regional Aphasia Program (WWRAP) - Mount Forest Outreach Location</LI><LI>Waterloo Wellington Regional Aphasia Program (WWRAP) - Traverse Independence</LI><LI>Waterloo Wellington Regional Aphasia Program (WWRAP) - William E Paulter Centre</LI><LI>Young Onset Dementia Program (YODA)</LI></UL>, Codes: Rates set by the Ontario Ministry Long-Term Care * subsidies for basic rates may be available for eligible applicants, Features: Wheelchair Accessible, Languages: English, Referral: Contact Ontario Health atHome Waterloo-Wellington, Address: 100 Westmount Rd, Guelph, ON, N1H 5H8, Location: lat: 43.55146, lon: -80.271685"
+  }
+]

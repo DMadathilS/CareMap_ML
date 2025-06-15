@@ -1,0 +1,55 @@
+[
+  {
+    "name": "Waterloo Region - Community Services",
+    "active": true,
+    "category": [
+      "Adult Day Programs"
+    ],
+    "comment": "Adult day program * social, recreational, and therapeutic activities for people with Alzheimer's disease and other related \ndementia in a group setting for part of the day * helps to support family caregivers who provide day-to-day care<br><ul><li>meals</li></ul>",
+    "serviceProvisionCode": [
+      "$20 per day * subsidy available for eligible participants"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>42aa75f7-c806-4790-969f-a2fa14465c17</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Cambridge</p><p>physical-location-postalcode</p><p>N1R 6R1</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>208424</p><p>true</p><p>Adult Day Programs</p><p>Location/47764964-eadc-48f8-a1e9-e558a64424cc</p><p>Location</p><p>Waterloo Region - Community Services</p><p>Adult day program * social, recreational, and therapeutic activities for people with Alzheimer's disease and other related \ndementia in a group setting for part of the day * helps to support family caregivers who provide day-to-day care&lt;br&gt;&lt;ul&gt;&lt;li&gt;meals&lt;/li&gt;&lt;/ul&gt;</p><p>Location/669ed87f-37d1-44a6-8ad6-8e27a42d3b13</p><p>Location</p><p>$20 per day * subsidy available for eligible participants</p><p>People with Alzheimer's Disease or related dementias * care coordinators assess the needs of applicants</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>Contact Ontario Health atHome Waterloo-Wellington</p></div>",
+    "eligibility": [
+      "People with Alzheimer's Disease or related dementias * care coordinators assess the needs of applicants"
+    ],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [
+      "Contact Ontario Health atHome Waterloo-Wellington"
+    ],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-893-8494 ext 7807"
+          },
+          {
+            "fax": "519-623-7649"
+          },
+          {
+            "url": "www.regionofwaterloo.ca/en/health-and-wellness/dementia-services.aspx"
+          }
+        ],
+        "address": {
+          "line": [
+            "150 Main St"
+          ],
+          "city": "Cambridge",
+          "state": "ON",
+          "postalCode": "N1R 6R1"
+        },
+        "position": {
+          "longitude": -80.31,
+          "latitude": 43.3592
+        }
+      }
+    ],
+    "contact_info": "phone: 519-893-8494 ext 7807, fax: 519-623-7649, url: www.regionofwaterloo.ca/en/health-and-wellness/dementia-services.aspx",
+    "description_of_this": "Adult day program * social, recreational, and therapeutic activities for people with Alzheimer's disease and other related \ndementia in a group setting for part of the day * helps to support family caregivers who provide day-to-day care<br><ul><li>meals</li></ul>, Codes: $20 per day * subsidy available for eligible participants, Features: Wheelchair Accessible, Languages: English, Referral: Contact Ontario Health atHome Waterloo-Wellington, Address: 150 Main St, Cambridge, ON, N1R 6R1, Location: lat: 43.3592, lon: -80.31"
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "name": "Heritage Park Pharmacy",
+    "active": true,
+    "category": [
+      "Pharmacies"
+    ],
+    "comment": "General pharmacy<ul><li>treatment and prescription of medications for common medical ailments, including rashes, pink eye, insect bites, acne, and urinary tract infections</li><li>prescription of COVID-19 antiviral treatment (Paxlovid)</li><li>certified diabetes educator (CDE) available for consultations</li><li>free delivery for prescriptions</li><li>certified geriatric educator (CGE) available for consultations</li><li>insulin dosing</li><li>free blood pressure checks<br><br></li></ul><b>MedsCheck</b> - Appointments to review complex prescriptions with a pharmacist<br><br><b>Sharps Disposal Program</b> - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips",
+    "serviceProvisionCode": [
+      "Dispensing fee plus medication costs * prescribed medications may be covered by OHIP"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>aaaa9e13-4473-4bb6-a378-47d1f9d73e6a</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Kitchener</p><p>physical-location-postalcode</p><p>N2B 3R3</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>208703</p><p>true</p><p>Pharmacies</p><p>Location/541b8ea3-e90a-4604-a94b-d6f307576f5a</p><p>Location</p><p>Heritage Park Pharmacy</p><p>General pharmacy&lt;ul&gt;&lt;li&gt;treatment and prescription of medications for common medical ailments, including rashes, pink eye, insect bites, acne, and urinary tract infections&lt;/li&gt;&lt;li&gt;prescription of COVID-19 antiviral treatment (Paxlovid)&lt;/li&gt;&lt;li&gt;certified diabetes educator (CDE) available for consultations&lt;/li&gt;&lt;li&gt;free delivery for prescriptions&lt;/li&gt;&lt;li&gt;certified geriatric educator (CGE) available for consultations&lt;/li&gt;&lt;li&gt;insulin dosing&lt;/li&gt;&lt;li&gt;free blood pressure checks&lt;br&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;b&gt;MedsCheck&lt;/b&gt; - Appointments to review complex prescriptions with a pharmacist&lt;br&gt;&lt;br&gt;&lt;b&gt;Sharps Disposal Program&lt;/b&gt; - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips</p><p>Location/816cdf31-bba8-41f7-84cf-958fc16d1983</p><p>Location</p><p>Dispensing fee plus medication costs * prescribed medications may be covered by OHIP</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p></div>",
+    "eligibility": [],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-744-6770"
+          },
+          {
+            "fax": "519-744-6771"
+          },
+          {
+            "email": "pharmacyheritage@gmail.com"
+          },
+          {
+            "url": "heritageparkpharmacy.ca/"
+          }
+        ],
+        "address": {
+          "line": [
+            "200 Lorraine Ave, Unit 2"
+          ],
+          "city": "Kitchener",
+          "state": "ON",
+          "postalCode": "N2B 3R3"
+        },
+        "position": {
+          "longitude": -80.4407,
+          "latitude": 43.461
+        }
+      }
+    ],
+    "contact_info": "phone: 519-744-6770, fax: 519-744-6771, email: pharmacyheritage@gmail.com, url: heritageparkpharmacy.ca/",
+    "description_of_this": "General pharmacy<ul><li>treatment and prescription of medications for common medical ailments, including rashes, pink eye, insect bites, acne, and urinary tract infections</li><li>prescription of COVID-19 antiviral treatment (Paxlovid)</li><li>certified diabetes educator (CDE) available for consultations</li><li>free delivery for prescriptions</li><li>certified geriatric educator (CGE) available for consultations</li><li>insulin dosing</li><li>free blood pressure checks<br><br></li></ul><b>MedsCheck</b> - Appointments to review complex prescriptions with a pharmacist<br><br><b>Sharps Disposal Program</b> - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips, Codes: Dispensing fee plus medication costs * prescribed medications may be covered by OHIP, Features: Wheelchair Accessible, Languages: English, Address: 200 Lorraine Ave, Unit 2, Kitchener, ON, N2B 3R3, Location: lat: 43.461, lon: -80.4407"
+  }
+]

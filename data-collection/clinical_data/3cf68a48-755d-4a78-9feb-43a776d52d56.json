@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Waterloo Region - Community Services",
+    "active": true,
+    "category": [
+      "Home Help and Homemaking"
+    ],
+    "comment": "Assistance with daily chores, such as laundry, light housekeeping, pet \ncare, errands, shopping, and meal preparation * service is offered \nweekly, bi-weekly, monthly, or seasonally",
+    "serviceProvisionCode": [
+      "Set subsidized fee"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>3cf68a48-755d-4a78-9feb-43a776d52d56</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Kitchener</p><p>physical-location-postalcode</p><p>N2A 1Y5</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>211456</p><p>true</p><p>Home Help and Homemaking</p><p>Location/51540290-5d61-4a6f-a607-7d9a5dc8717d</p><p>Location</p><p>Waterloo Region - Community Services</p><p>Assistance with daily chores, such as laundry, light housekeeping, pet \ncare, errands, shopping, and meal preparation * service is offered \nweekly, bi-weekly, monthly, or seasonally</p><p>Location/d2589d99-c421-4ddf-8194-5ad0db0936e4</p><p>Location</p><p>Set subsidized fee</p><p>Older adults and adults with disabilities</p><p>Not Applicable</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>Call * no referral required * in-home assessment required for service</p></div>",
+    "eligibility": [
+      "Older adults and adults with disabilities"
+    ],
+    "characteristic": [
+      "Not Applicable"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [
+      "Call * no referral required * in-home assessment required for service"
+    ],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-579-6930"
+          },
+          {
+            "phone": "1-866-786-3941"
+          },
+          {
+            "email": "sunnyside@regionofwaterloo.ca"
+          },
+          {
+            "url": "www.regionofwaterloo.ca/en/living-here/homemaking-support.aspx"
+          }
+        ],
+        "address": {
+          "line": [
+            "247 Franklin St N"
+          ],
+          "city": "Kitchener",
+          "state": "ON",
+          "postalCode": "N2A 1Y5"
+        },
+        "position": {
+          "longitude": -80.4451,
+          "latitude": 43.4405
+        }
+      }
+    ],
+    "contact_info": "phone: 519-579-6930, phone: 1-866-786-3941, email: sunnyside@regionofwaterloo.ca, url: www.regionofwaterloo.ca/en/living-here/homemaking-support.aspx",
+    "description_of_this": "Assistance with daily chores, such as laundry, light housekeeping, pet \ncare, errands, shopping, and meal preparation * service is offered \nweekly, bi-weekly, monthly, or seasonally, Codes: Set subsidized fee, Features: Not Applicable, Languages: English, Referral: Call * no referral required * in-home assessment required for service, Address: 247 Franklin St N, Kitchener, ON, N2A 1Y5, Location: lat: 43.4405, lon: -80.4451"
+  }
+]

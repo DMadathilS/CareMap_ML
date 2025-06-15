@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Frederick Mall Pharmacy",
+    "active": true,
+    "category": [
+      "Pharmacies"
+    ],
+    "comment": "General pharmacy<ul><li> treatment and prescription of medications for common medical \nailments, including rashes, pink eye, insect bites, acne, and urinary \ntract infections<br></li><li> prescription of COVID-19 antiviral treatment (Paxlovid)</li><li>medication placed in pill organizers (containers for storing scheduled doses) at no extra cost\n </li><li> medication placed in blister packs (sealed, push-through packaging used to separate doses) at no extra cost</li><li>pharmacist available for diabetes management consultations</li><li>free delivery for prescriptions\n </li><li>free seasonal flu vaccines <br></li><li> free take-home naloxone kits (emergency response kits for opioid overdose)</li></ul><b><br></b><b>MedsCheck</b> - Appointments to review complex prescriptions with a pharmacist<br><br>\n<b>Medications Return Program</b> - Safe disposal of expired or unused medications, creams, and inhalers <br><br>\n<b>Sharps Disposal Program</b> - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips",
+    "serviceProvisionCode": [
+      "Dispensing fee plus medication costs * prescribed medications may be covered by OHIP"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>a0e62d54-12f3-4c70-8473-6f591925ac06</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Kitchener</p><p>physical-location-postalcode</p><p>N2H 2P2</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>208667</p><p>true</p><p>Pharmacies</p><p>Location/ccbed905-8649-4818-8140-5c4d739962e6</p><p>Location</p><p>Frederick Mall Pharmacy</p><p>General pharmacy&lt;ul&gt;&lt;li&gt; treatment and prescription of medications for common medical \nailments, including rashes, pink eye, insect bites, acne, and urinary \ntract infections&lt;br&gt;&lt;/li&gt;&lt;li&gt; prescription of COVID-19 antiviral treatment (Paxlovid)&lt;/li&gt;&lt;li&gt;medication placed in pill organizers (containers for storing scheduled doses) at no extra cost\n &lt;/li&gt;&lt;li&gt; medication placed in blister packs (sealed, push-through packaging used to separate doses) at no extra cost&lt;/li&gt;&lt;li&gt;pharmacist available for diabetes management consultations&lt;/li&gt;&lt;li&gt;free delivery for prescriptions\n &lt;/li&gt;&lt;li&gt;free seasonal flu vaccines &lt;br&gt;&lt;/li&gt;&lt;li&gt; free take-home naloxone kits (emergency response kits for opioid overdose)&lt;/li&gt;&lt;/ul&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;b&gt;MedsCheck&lt;/b&gt; - Appointments to review complex prescriptions with a pharmacist&lt;br&gt;&lt;br&gt;\n&lt;b&gt;Medications Return Program&lt;/b&gt; - Safe disposal of expired or unused medications, creams, and inhalers &lt;br&gt;&lt;br&gt;\n&lt;b&gt;Sharps Disposal Program&lt;/b&gt; - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips</p><p>Location/40a9f13c-c830-4e1a-8dd4-9ae292387ba7</p><p>Location</p><p>Dispensing fee plus medication costs * prescribed medications may be covered by OHIP</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>ara</p><p>Arabic</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>ron</p><p>Romanian</p></div>",
+    "eligibility": [],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English",
+      "Arabic",
+      "Romanian"
+    ],
+    "referralMethod": [],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-745-4700"
+          },
+          {
+            "fax": "519-745-0155"
+          },
+          {
+            "email": "frederickmallpharmacy@gmail.com"
+          },
+          {
+            "url": "www.frederickmallpharmacy.com/"
+          }
+        ],
+        "address": {
+          "line": [
+            "385 Frederick St"
+          ],
+          "city": "Kitchener",
+          "state": "ON",
+          "postalCode": "N2H 2P2"
+        },
+        "position": {
+          "longitude": -80.4726,
+          "latitude": 43.457
+        }
+      }
+    ],
+    "contact_info": "phone: 519-745-4700, fax: 519-745-0155, email: frederickmallpharmacy@gmail.com, url: www.frederickmallpharmacy.com/",
+    "description_of_this": "General pharmacy<ul><li> treatment and prescription of medications for common medical \nailments, including rashes, pink eye, insect bites, acne, and urinary \ntract infections<br></li><li> prescription of COVID-19 antiviral treatment (Paxlovid)</li><li>medication placed in pill organizers (containers for storing scheduled doses) at no extra cost\n </li><li> medication placed in blister packs (sealed, push-through packaging used to separate doses) at no extra cost</li><li>pharmacist available for diabetes management consultations</li><li>free delivery for prescriptions\n </li><li>free seasonal flu vaccines <br></li><li> free take-home naloxone kits (emergency response kits for opioid overdose)</li></ul><b><br></b><b>MedsCheck</b> - Appointments to review complex prescriptions with a pharmacist<br><br>\n<b>Medications Return Program</b> - Safe disposal of expired or unused medications, creams, and inhalers <br><br>\n<b>Sharps Disposal Program</b> - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips, Codes: Dispensing fee plus medication costs * prescribed medications may be covered by OHIP, Features: Wheelchair Accessible, Languages: English, Arabic, Romanian, Address: 385 Frederick St, Kitchener, ON, N2H 2P2, Location: lat: 43.457, lon: -80.4726"
+  }
+]

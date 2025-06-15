@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Waterloo (City of) - Community Services",
+    "active": true,
+    "category": [
+      "Home Help and Homemaking"
+    ],
+    "comment": "Assistance with daily chores, such as laundry, light housekeeping, pet care, errands, shopping, and meal preparation * workers visit weekly, bi-weekly, or monthly",
+    "serviceProvisionCode": [
+      "Set fees"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>92ed32ab-d7a2-4f18-9fec-6779e35a3731</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Waterloo</p><p>physical-location-postalcode</p><p>N2J 4A8</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>215010</p><p>true</p><p>Home Help and Homemaking</p><p>Location/dd2c42b3-cbea-49da-8507-249f315dae4a</p><p>Location</p><p>Waterloo (City of) - Community Services</p><p>Assistance with daily chores, such as laundry, light housekeeping, pet care, errands, shopping, and meal preparation * workers visit weekly, bi-weekly, or monthly</p><p>Location/59970b02-92a7-4c99-9432-84562c4d0786</p><p>Location</p><p>Set fees</p><p>Older adults</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>Call * no referral required</p></div>",
+    "eligibility": [
+      "Older adults"
+    ],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [
+      "Call * no referral required"
+    ],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-579-6930"
+          },
+          {
+            "phone": "1-866-786-3941"
+          },
+          {
+            "url": "www.waterloo.ca/en/living/senior-services.aspx#Homemaking"
+          }
+        ],
+        "address": {
+          "line": [
+            "Waterloo City Centre",
+            "100 Regina St S, PO Box 337, Stn Waterloo"
+          ],
+          "city": "Waterloo",
+          "state": "ON",
+          "postalCode": "N2J 4A8"
+        },
+        "position": {
+          "longitude": -80.5203,
+          "latitude": 43.4634
+        }
+      }
+    ],
+    "contact_info": "phone: 519-579-6930, phone: 1-866-786-3941, url: www.waterloo.ca/en/living/senior-services.aspx#Homemaking",
+    "description_of_this": "Assistance with daily chores, such as laundry, light housekeeping, pet care, errands, shopping, and meal preparation * workers visit weekly, bi-weekly, or monthly, Codes: Set fees, Features: Wheelchair Accessible, Languages: English, Referral: Call * no referral required, Address: Waterloo City Centre, 100 Regina St S, PO Box 337, Stn Waterloo, Waterloo, ON, N2J 4A8, Location: lat: 43.4634, lon: -80.5203"
+  }
+]

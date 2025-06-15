@@ -1,0 +1,55 @@
+[
+  {
+    "name": "AgeCare Elmira",
+    "active": true,
+    "category": [
+      "Long-Term Care Homes"
+    ],
+    "comment": "36-bed long-term care home * residential care for private rooms, semi-private rooms, and basic rooms\n* 24-hour nursing and personal care * access to a doctor and other health professionals<br><ul><li>bedding and furniture</li><li>laundry and housekeeping</li><li>meals</li><li>personal hygiene supplies</li><li>medical supplies and equipment (such as catheters, ostomy bags, or wound care supplies) </li><li>assistance with medication and activities of daily living</li><li>recreation and social programs</li></ul>",
+    "serviceProvisionCode": [
+      "Rates set by the Ontario Ministry of Long-Term Care * subsidies for basic rates may be available for eligible applicants"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>6d211386-5de2-444b-b914-36e914e5f0c5</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Elmira</p><p>physical-location-postalcode</p><p>N3B 2B8</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>100432</p><p>true</p><p>Long-Term Care Homes</p><p>Location/dc4e0bba-ae7d-4ef9-81d5-4f3997dba91d</p><p>Location</p><p>AgeCare Elmira</p><p>36-bed long-term care home * residential care for private rooms, semi-private rooms, and basic rooms\n* 24-hour nursing and personal care * access to a doctor and other health professionals&lt;br&gt;&lt;ul&gt;&lt;li&gt;bedding and furniture&lt;/li&gt;&lt;li&gt;laundry and housekeeping&lt;/li&gt;&lt;li&gt;meals&lt;/li&gt;&lt;li&gt;personal hygiene supplies&lt;/li&gt;&lt;li&gt;medical supplies and equipment (such as catheters, ostomy bags, or wound care supplies) &lt;/li&gt;&lt;li&gt;assistance with medication and activities of daily living&lt;/li&gt;&lt;li&gt;recreation and social programs&lt;/li&gt;&lt;/ul&gt;</p><p>Location/8961441f-3b0a-44f1-8a20-cc26da5af323</p><p>Location</p><p>Rates set by the Ontario Ministry of Long-Term Care * subsidies for basic rates may be available for eligible applicants</p><p>Adults who need long-term care * care coordinators assess the needs of applicants</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>Contact Ontario Health atHome Waterloo-Wellington</p></div>",
+    "eligibility": [
+      "Adults who need long-term care * care coordinators assess the needs of applicants"
+    ],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [
+      "Contact Ontario Health atHome Waterloo-Wellington"
+    ],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-669-2921"
+          },
+          {
+            "email": "elmira@agecare.ca"
+          },
+          {
+            "url": "www.agecare.ca/communities/elmira/"
+          }
+        ],
+        "address": {
+          "line": [
+            "11 Herbert St"
+          ],
+          "city": "Elmira",
+          "state": "ON",
+          "postalCode": "N3B 2B8"
+        },
+        "position": {
+          "longitude": -80.563743,
+          "latitude": 43.601356
+        }
+      }
+    ],
+    "contact_info": "phone: 519-669-2921, email: elmira@agecare.ca, url: www.agecare.ca/communities/elmira/",
+    "description_of_this": "36-bed long-term care home * residential care for private rooms, semi-private rooms, and basic rooms\n* 24-hour nursing and personal care * access to a doctor and other health professionals<br><ul><li>bedding and furniture</li><li>laundry and housekeeping</li><li>meals</li><li>personal hygiene supplies</li><li>medical supplies and equipment (such as catheters, ostomy bags, or wound care supplies) </li><li>assistance with medication and activities of daily living</li><li>recreation and social programs</li></ul>, Codes: Rates set by the Ontario Ministry of Long-Term Care * subsidies for basic rates may be available for eligible applicants, Features: Wheelchair Accessible, Languages: English, Referral: Contact Ontario Health atHome Waterloo-Wellington, Address: 11 Herbert St, Elmira, ON, N3B 2B8, Location: lat: 43.601356, lon: -80.563743"
+  }
+]

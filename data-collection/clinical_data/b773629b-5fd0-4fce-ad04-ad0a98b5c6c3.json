@@ -1,0 +1,64 @@
+[
+  {
+    "name": "University of Waterloo - George and Judy Woo Centre for Sight Enhancement and Low Vision Service",
+    "active": true,
+    "category": [
+      "Blindness and Impaired Vision"
+    ],
+    "comment": "Supports for people who are experiencing vision loss that cannot be corrected by glasses, surgery or other medical treatments * services include vision assessments, vision aids and counselling<br><br><b>Services:</b><br><ul><li>regional assessment centre for the government's Assistive Devices Program</li><li>eye exams and visual field testing for the Ministry of Transporation's Vision Waiver Program</li><li>assess eligibility and provide prescription, fitting, and training for individuals pursuing bioptic driving</li></ul>",
+    "serviceProvisionCode": [
+      "$240 * coverage usually provided if receiving Ontario Disability Support Program and Assistance for Children with Severe Disabilities Program"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>b773629b-5fd0-4fce-ad04-ad0a98b5c6c3</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Waterloo</p><p>physical-location-postalcode</p><p>N2L 3G1</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>208469</p><p>true</p><p>Blindness and Impaired Vision</p><p>Location/fd25e6cb-7782-4209-ad10-e88e690c8e7c</p><p>Location</p><p>University of Waterloo - George and Judy Woo Centre for Sight Enhancement and Low Vision Service</p><p>Supports for people who are experiencing vision loss that cannot be corrected by glasses, surgery or other medical treatments * services include vision assessments, vision aids and counselling&lt;br&gt;&lt;br&gt;&lt;b&gt;Services:&lt;/b&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;regional assessment centre for the government's Assistive Devices Program&lt;/li&gt;&lt;li&gt;eye exams and visual field testing for the Ministry of Transporation's Vision Waiver Program&lt;/li&gt;&lt;li&gt;assess eligibility and provide prescription, fitting, and training for individuals pursuing bioptic driving&lt;/li&gt;&lt;/ul&gt;</p><p>Location/4f82064f-3e11-4e4f-87a4-2548724eb5f5</p><p>Location</p><p>$240 * coverage usually provided if receiving Ontario Disability Support Program and Assistance for Children with Severe Disabilities Program</p><p>People who are visually impaired, blind, or deaf blind</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>Call * no referral required</p></div>",
+    "eligibility": [
+      "People who are visually impaired, blind, or deaf blind"
+    ],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [
+      "Call * no referral required"
+    ],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-888-4708"
+          },
+          {
+            "phone": "By appointment: 519-888-4623"
+          },
+          {
+            "phone": "519-888-4567 ext 40600"
+          },
+          {
+            "fax": "519-746-2337"
+          },
+          {
+            "email": "lvclinic@uwaterloo.ca"
+          },
+          {
+            "url": "uwaterloo.ca/sight-enhancement/"
+          }
+        ],
+        "address": {
+          "line": [
+            "200 University Ave W"
+          ],
+          "city": "Waterloo",
+          "state": "ON",
+          "postalCode": "N2L 3G1"
+        },
+        "position": {
+          "longitude": -80.5401,
+          "latitude": 43.473
+        }
+      }
+    ],
+    "contact_info": "phone: 519-888-4708, phone: By appointment: 519-888-4623, phone: 519-888-4567 ext 40600, fax: 519-746-2337, email: lvclinic@uwaterloo.ca, url: uwaterloo.ca/sight-enhancement/",
+    "description_of_this": "Supports for people who are experiencing vision loss that cannot be corrected by glasses, surgery or other medical treatments * services include vision assessments, vision aids and counselling<br><br><b>Services:</b><br><ul><li>regional assessment centre for the government's Assistive Devices Program</li><li>eye exams and visual field testing for the Ministry of Transporation's Vision Waiver Program</li><li>assess eligibility and provide prescription, fitting, and training for individuals pursuing bioptic driving</li></ul>, Codes: $240 * coverage usually provided if receiving Ontario Disability Support Program and Assistance for Children with Severe Disabilities Program, Features: Wheelchair Accessible, Languages: English, Referral: Call * no referral required, Address: 200 University Ave W, Waterloo, ON, N2L 3G1, Location: lat: 43.473, lon: -80.5401"
+  }
+]

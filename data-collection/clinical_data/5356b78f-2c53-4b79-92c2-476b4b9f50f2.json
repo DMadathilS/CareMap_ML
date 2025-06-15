@@ -1,0 +1,55 @@
+[
+  {
+    "name": "Woolwich Community Health Centre",
+    "active": true,
+    "category": [
+      "Community Health Centres"
+    ],
+    "comment": "Health centre focused on family and community health * health \nprofessionals assess and treat non-life-threatening injuries or \nillnesses * referrals to other local health services and personal \ndevelopment groups<br><br>Community-led health teams develop programs to improve the social supports and conditions that affect long-term health<br><ul><li>Lab services - by appointment only for registered patients</li><li>Health Children, Youth and Families programs</li><li>Healthy Living programs</li><li>Healthy Minds programs</li><li>Healthy Aging programs</li><li>Baby Friendly Initiative</li><li>fitness programs<br></li></ul><BR><BR><B>Services and Programs:</B><UL><LI>Linwood Nurse Practitioner Office</LI><LI>Wellesley Township Community Health Centre</LI><LI>Youth Centre</LI></UL>",
+    "serviceProvisionCode": [
+      "Most medical services covered by OHIP * some fees for other programs"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>5356b78f-2c53-4b79-92c2-476b4b9f50f2</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>St Jacobs</p><p>physical-location-postalcode</p><p>N0B 2N0</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>208343</p><p>true</p><p>Community Health Centres</p><p>Location/78e6ea2f-db89-4f02-bcc5-27d9012c2f41</p><p>Location</p><p>Woolwich Community Health Centre</p><p>Health centre focused on family and community health * health \nprofessionals assess and treat non-life-threatening injuries or \nillnesses * referrals to other local health services and personal \ndevelopment groups&lt;br&gt;&lt;br&gt;Community-led health teams develop programs to improve the social supports and conditions that affect long-term health&lt;br&gt;&lt;ul&gt;&lt;li&gt;Lab services - by appointment only for registered patients&lt;/li&gt;&lt;li&gt;Health Children, Youth and Families programs&lt;/li&gt;&lt;li&gt;Healthy Living programs&lt;/li&gt;&lt;li&gt;Healthy Minds programs&lt;/li&gt;&lt;li&gt;Healthy Aging programs&lt;/li&gt;&lt;li&gt;Baby Friendly Initiative&lt;/li&gt;&lt;li&gt;fitness programs&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;BR&gt;&lt;BR&gt;&lt;B&gt;Services and Programs:&lt;/B&gt;&lt;UL&gt;&lt;LI&gt;Linwood Nurse Practitioner Office&lt;/LI&gt;&lt;LI&gt;Wellesley Township Community Health Centre&lt;/LI&gt;&lt;LI&gt;Youth Centre&lt;/LI&gt;&lt;/UL&gt;</p><p>Location/3955aa58-3582-44a8-befc-aca1e416866c</p><p>Location</p><p>Most medical services covered by OHIP * some fees for other programs</p><p>Varies per program</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>Call or visit * no referral required * appointments required for some programs</p></div>",
+    "eligibility": [
+      "Varies per program"
+    ],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [
+      "Call or visit * no referral required * appointments required for some programs"
+    ],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-664-3794"
+          },
+          {
+            "fax": "519-664-2182"
+          },
+          {
+            "url": "wchc.on.ca/"
+          }
+        ],
+        "address": {
+          "line": [
+            "10 Parkside Dr, PO Box 370"
+          ],
+          "city": "St Jacobs",
+          "state": "ON",
+          "postalCode": "N0B 2N0"
+        },
+        "position": {
+          "longitude": -80.5448,
+          "latitude": 43.4921
+        }
+      }
+    ],
+    "contact_info": "phone: 519-664-3794, fax: 519-664-2182, url: wchc.on.ca/",
+    "description_of_this": "Health centre focused on family and community health * health \nprofessionals assess and treat non-life-threatening injuries or \nillnesses * referrals to other local health services and personal \ndevelopment groups<br><br>Community-led health teams develop programs to improve the social supports and conditions that affect long-term health<br><ul><li>Lab services - by appointment only for registered patients</li><li>Health Children, Youth and Families programs</li><li>Healthy Living programs</li><li>Healthy Minds programs</li><li>Healthy Aging programs</li><li>Baby Friendly Initiative</li><li>fitness programs<br></li></ul><BR><BR><B>Services and Programs:</B><UL><LI>Linwood Nurse Practitioner Office</LI><LI>Wellesley Township Community Health Centre</LI><LI>Youth Centre</LI></UL>, Codes: Most medical services covered by OHIP * some fees for other programs, Features: Wheelchair Accessible, Languages: English, Referral: Call or visit * no referral required * appointments required for some programs, Address: 10 Parkside Dr, PO Box 370, St Jacobs, ON, N0B 2N0, Location: lat: 43.4921, lon: -80.5448"
+  }
+]

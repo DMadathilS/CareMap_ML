@@ -1,0 +1,53 @@
+[
+  {
+    "name": "Waterloo Region Nurse Practitioner Led Clinic - Pioneer Park Clinic",
+    "active": true,
+    "category": [
+      "Nurse Practitioner-Led Clinics"
+    ],
+    "comment": "Medical clinic focused on family and community health * nurse practitioner works with other team members including social worker and pharmacist to assess and treat non-life threatening injuries or illnesses",
+    "serviceProvisionCode": [
+      "Most services covered by OHIP"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>c218ad27-3903-4317-96a9-5a9e0a4226cb</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Kitchener</p><p>physical-location-postalcode</p><p>N2P 2A3</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>159837</p><p>true</p><p>Nurse Practitioner-Led Clinics</p><p>Location/ca128955-1eca-4a9a-89d8-4acb590a80a2</p><p>Location</p><p>Waterloo Region Nurse Practitioner Led Clinic - Pioneer Park Clinic</p><p>Medical clinic focused on family and community health * nurse practitioner works with other team members including social worker and pharmacist to assess and treat non-life threatening injuries or illnesses</p><p>Location/80a4ad77-4c31-4eaf-8959-f4280c5b8336</p><p>Location</p><p>Most services covered by OHIP</p><p>Patients without primary care provider may register with clinic</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p></div>",
+    "eligibility": [
+      "Patients without primary care provider may register with clinic"
+    ],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-772-2322"
+          },
+          {
+            "fax": "519-772-2323"
+          },
+          {
+            "url": "www.wrnplc.ca"
+          }
+        ],
+        "address": {
+          "line": [
+            "123 Pioneer Dr, Unit B204"
+          ],
+          "city": "Kitchener",
+          "state": "ON",
+          "postalCode": "N2P 2A3"
+        },
+        "position": {
+          "longitude": -80.4321,
+          "latitude": 43.3939
+        }
+      }
+    ],
+    "contact_info": "phone: 519-772-2322, fax: 519-772-2323, url: www.wrnplc.ca",
+    "description_of_this": "Medical clinic focused on family and community health * nurse practitioner works with other team members including social worker and pharmacist to assess and treat non-life threatening injuries or illnesses, Codes: Most services covered by OHIP, Features: Wheelchair Accessible, Languages: English, Address: 123 Pioneer Dr, Unit B204, Kitchener, ON, N2P 2A3, Location: lat: 43.3939, lon: -80.4321, Contact: phone: 519-772-2322, fax: 519-772-2323, url: www.wrnplc.ca"
+  }
+]

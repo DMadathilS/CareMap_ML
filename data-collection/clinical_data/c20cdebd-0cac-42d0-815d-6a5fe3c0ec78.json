@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Community Support Connections - Home Help",
+    "active": true,
+    "category": [
+      "Home Help and Homemaking"
+    ],
+    "comment": "Assistance with household chores such as laundry, odd housework, pet care, errands, meal preparation, yard work, snow removal and small home repairs* services offered weekly, twice a month, monthly or on a weekly basis season",
+    "serviceProvisionCode": [
+      "Set fee"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>c20cdebd-0cac-42d0-815d-6a5fe3c0ec78</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Breslau</p><p>physical-location-postalcode</p><p>N0B 1M0</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>155124</p><p>true</p><p>Home Help and Homemaking</p><p>Location/60f189f2-88e6-4e2a-a83c-905317d6bb8d</p><p>Location</p><p>Community Support Connections - Home Help</p><p>Assistance with household chores such as laundry, odd housework, pet care, errands, meal preparation, yard work, snow removal and small home repairs* services offered weekly, twice a month, monthly or on a weekly basis season</p><p>Location/46282fc0-4b34-4b75-adb9-6d7757b196df</p><p>Location</p><p>Set fee</p><p>Older adults * adults 18 years and over with different abilities</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>In home assessment required</p></div>",
+    "eligibility": [
+      "Older adults * adults 18 years and over with different abilities"
+    ],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [
+      "In home assessment required"
+    ],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-772-8787"
+          },
+          {
+            "fax": "519-648-3737"
+          },
+          {
+            "email": "info@cscmow.org"
+          },
+          {
+            "url": "communitysupportconnections.org/help-at-home/homemaking/"
+          }
+        ],
+        "address": {
+          "line": [
+            "61 Woolwich St N, Box 29"
+          ],
+          "city": "Breslau",
+          "state": "ON",
+          "postalCode": "N0B 1M0"
+        },
+        "position": {
+          "longitude": -80.4155,
+          "latitude": 43.485
+        }
+      }
+    ],
+    "contact_info": "phone: 519-772-8787, fax: 519-648-3737, email: info@cscmow.org, url: communitysupportconnections.org/help-at-home/homemaking/",
+    "description_of_this": "Assistance with household chores such as laundry, odd housework, pet care, errands, meal preparation, yard work, snow removal and small home repairs* services offered weekly, twice a month, monthly or on a weekly basis season, Codes: Set fee, Features: Wheelchair Accessible, Languages: English, Referral: In home assessment required, Address: 61 Woolwich St N, Box 29, Breslau, ON, N0B 1M0, Location: lat: 43.485, lon: -80.4155, Contact: phone: 519-772-8787, fax: 519-648-3737, email: info@cscmow.org, url: communitysupportconnections.org/help-at-home/homemaking/"
+  }
+]

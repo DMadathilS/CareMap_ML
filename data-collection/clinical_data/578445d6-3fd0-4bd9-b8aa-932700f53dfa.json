@@ -1,0 +1,59 @@
+[
+  {
+    "name": "Wilfrid Laurier University - Student Wellness Centre",
+    "active": true,
+    "category": [
+      "Sexual Health Clinics"
+    ],
+    "comment": "Student health centre * doctors and nurses assess and treat minor illnesses and injuries<ul><li>specialist referrals</li><li>immunizations</li><li>TB testing</li><li>sexual health care</li><li>sexually transmitted infections (STI) testing and treatment</li><li>birth control</li><li>emergency contraception</li><li>smoking cessation</li><li>mental health and counselling</li><li>chiropractic</li><li>massage</li><li>physiotherapy<br></li></ul>",
+    "serviceProvisionCode": [
+      "Most services covered by OHIP"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>578445d6-3fd0-4bd9-b8aa-932700f53dfa</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Waterloo</p><p>physical-location-postalcode</p><p>N2L 3C5</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>210125</p><p>true</p><p>Sexual Health Clinics</p><p>Location/a272ccc6-280c-4b44-b6f3-d6fb5b329ee4</p><p>Location</p><p>Wilfrid Laurier University - Student Wellness Centre</p><p>Student health centre * doctors and nurses assess and treat minor illnesses and injuries&lt;ul&gt;&lt;li&gt;specialist referrals&lt;/li&gt;&lt;li&gt;immunizations&lt;/li&gt;&lt;li&gt;TB testing&lt;/li&gt;&lt;li&gt;sexual health care&lt;/li&gt;&lt;li&gt;sexually transmitted infections (STI) testing and treatment&lt;/li&gt;&lt;li&gt;birth control&lt;/li&gt;&lt;li&gt;emergency contraception&lt;/li&gt;&lt;li&gt;smoking cessation&lt;/li&gt;&lt;li&gt;mental health and counselling&lt;/li&gt;&lt;li&gt;chiropractic&lt;/li&gt;&lt;li&gt;massage&lt;/li&gt;&lt;li&gt;physiotherapy&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;</p><p>Location/658136ae-2da7-4e69-b244-c9707dfb20ee</p><p>Location</p><p>Most services covered by OHIP</p><p>Students of Wildfrid Laurier University</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>Call or visit to book an appointment</p></div>",
+    "eligibility": [
+      "Students of Wildfrid Laurier University"
+    ],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [
+      "Call or visit to book an appointment"
+    ],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "548-889-3239"
+          },
+          {
+            "fax": "519-340-1403"
+          },
+          {
+            "email": "wellness@wlu.ca"
+          },
+          {
+            "url": "students.wlu.ca/wellness-and-recreation/health-and-wellness/index.html"
+          }
+        ],
+        "address": {
+          "line": [
+            "Student Services Building",
+            "75 University Ave W, 2nd Fl"
+          ],
+          "city": "Waterloo",
+          "state": "ON",
+          "postalCode": "N2L 3C5"
+        },
+        "position": {
+          "longitude": -80.5287,
+          "latitude": 43.47401
+        }
+      }
+    ],
+    "contact_info": "phone: 548-889-3239, fax: 519-340-1403, email: wellness@wlu.ca, url: students.wlu.ca/wellness-and-recreation/health-and-wellness/index.html",
+    "description_of_this": "Student health centre * doctors and nurses assess and treat minor illnesses and injuries<ul><li>specialist referrals</li><li>immunizations</li><li>TB testing</li><li>sexual health care</li><li>sexually transmitted infections (STI) testing and treatment</li><li>birth control</li><li>emergency contraception</li><li>smoking cessation</li><li>mental health and counselling</li><li>chiropractic</li><li>massage</li><li>physiotherapy<br></li></ul>, Codes: Most services covered by OHIP, Features: Wheelchair Accessible, Languages: English, Referral: Call or visit to book an appointment, Address: Student Services Building, 75 University Ave W, 2nd Fl, Waterloo, ON, N2L 3C5, Location: lat: 43.47401, lon: -80.5287"
+  }
+]

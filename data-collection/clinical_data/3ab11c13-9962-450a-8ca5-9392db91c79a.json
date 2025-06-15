@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Hospice Wellington",
+    "active": true,
+    "category": [
+      "Hospice Care"
+    ],
+    "comment": "Companionship, respite care, and emotional support to people and \ntheir family/caregivers dealing with a life-threatening illness * \nbereavement support for anyone who has experienced the death of someone \nclose * services can be provided at home, or in hospitals and long-term \ncare homes <br><br><b>Programs include:</b><ul><li>grief education workshops</li><li>advance care planning (ACP) education program</li><li>hospice wellington ambassador program</li></ul><BR><BR><B>Services and Programs:</B><UL><LI>Caregiver Support</LI><LI>Palliative Support</LI></UL>",
+    "serviceProvisionCode": [
+      "Free"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>3ab11c13-9962-450a-8ca5-9392db91c79a</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Guelph</p><p>physical-location-postalcode</p><p>N1G 3R8</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>209245</p><p>true</p><p>Hospice Care</p><p>Location/e8b7739c-410d-435d-9234-ecb24a2f27ee</p><p>Location</p><p>Hospice Wellington</p><p>Companionship, respite care, and emotional support to people and \ntheir family/caregivers dealing with a life-threatening illness * \nbereavement support for anyone who has experienced the death of someone \nclose * services can be provided at home, or in hospitals and long-term \ncare homes &lt;br&gt;&lt;br&gt;&lt;b&gt;Programs include:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;grief education workshops&lt;/li&gt;&lt;li&gt;advance care planning (ACP) education program&lt;/li&gt;&lt;li&gt;hospice wellington ambassador program&lt;/li&gt;&lt;/ul&gt;&lt;BR&gt;&lt;BR&gt;&lt;B&gt;Services and Programs:&lt;/B&gt;&lt;UL&gt;&lt;LI&gt;Caregiver Support&lt;/LI&gt;&lt;LI&gt;Palliative Support&lt;/LI&gt;&lt;/UL&gt;</p><p>Location/29df63f0-1388-4c8e-bdbd-cdb0b91969e1</p><p>Location</p><p>Free</p><p>People who need end-of-life care or bereavement supports</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>Call * no referral required</p></div>",
+    "eligibility": [
+      "People who need end-of-life care or bereavement supports"
+    ],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [
+      "Call * no referral required"
+    ],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "Residence Main Line: 519-822-6660<br>Community: 519-836-3921"
+          },
+          {
+            "fax": "Residence Main Line: 519-822-2660<br>Community: 519-836-2154"
+          },
+          {
+            "email": "info@hospicewellington.org"
+          },
+          {
+            "url": "www.hospicewellington.org/"
+          }
+        ],
+        "address": {
+          "line": [
+            "795 Scottsdale Dr"
+          ],
+          "city": "Guelph",
+          "state": "ON",
+          "postalCode": "N1G 3R8"
+        },
+        "position": {
+          "longitude": -80.229,
+          "latitude": 43.5107
+        }
+      }
+    ],
+    "contact_info": "phone: Residence Main Line: 519-822-6660<br>Community: 519-836-3921, fax: Residence Main Line: 519-822-2660<br>Community: 519-836-2154, email: info@hospicewellington.org, url: www.hospicewellington.org/",
+    "description_of_this": "Companionship, respite care, and emotional support to people and \ntheir family/caregivers dealing with a life-threatening illness * \nbereavement support for anyone who has experienced the death of someone \nclose * services can be provided at home, or in hospitals and long-term \ncare homes <br><br><b>Programs include:</b><ul><li>grief education workshops</li><li>advance care planning (ACP) education program</li><li>hospice wellington ambassador program</li></ul><BR><BR><B>Services and Programs:</B><UL><LI>Caregiver Support</LI><LI>Palliative Support</LI></UL>, Codes: Free, Features: Wheelchair Accessible, Languages: English, Referral: Call * no referral required, Address: 795 Scottsdale Dr, Guelph, ON, N1G 3R8, Location: lat: 43.5107, lon: -80.229"
+  }
+]

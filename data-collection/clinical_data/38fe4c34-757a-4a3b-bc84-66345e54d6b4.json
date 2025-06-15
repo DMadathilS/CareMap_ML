@@ -1,0 +1,61 @@
+[
+  {
+    "name": "Guelph Independent Living",
+    "active": true,
+    "category": [
+      "Community Support Services"
+    ],
+    "comment": "Supports for older adults, and adults with disabilities * helps people remain independent in their own homes for as long as possible * referral to other community services<BR><BR><B>Services and Programs:</B><UL><LI>Home Help Program</LI></UL>",
+    "serviceProvisionCode": [
+      "Varies per program"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>38fe4c34-757a-4a3b-bc84-66345e54d6b4</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Guelph</p><p>physical-location-postalcode</p><p>N1H 8J1</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>209239</p><p>true</p><p>Community Support Services</p><p>Location/a235ecfe-655a-420b-b9dd-4cf75389ec6e</p><p>Location</p><p>Guelph Independent Living</p><p>Supports for older adults, and adults with disabilities * helps people remain independent in their own homes for as long as possible * referral to other community services&lt;BR&gt;&lt;BR&gt;&lt;B&gt;Services and Programs:&lt;/B&gt;&lt;UL&gt;&lt;LI&gt;Home Help Program&lt;/LI&gt;&lt;/UL&gt;</p><p>Location/93deefec-8110-4ad4-a1c9-3e1c8e20d3c2</p><p>Location</p><p>Varies per program</p><p>Older adults and people with disabilities, who need physical, social, or emotional supports</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>Call * no referral required</p></div>",
+    "eligibility": [
+      "Older adults and people with disabilities, who need physical, social, or emotional supports"
+    ],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [
+      "Call * no referral required"
+    ],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-836-1812"
+          },
+          {
+            "phone": "519-836-5952"
+          },
+          {
+            "fax": "519-836-7918"
+          },
+          {
+            "email": "r.calame@guelphil.org"
+          },
+          {
+            "url": "www.guelphindependentliving.org"
+          }
+        ],
+        "address": {
+          "line": [
+            "255 Woodlawn Rd W, Suite 207"
+          ],
+          "city": "Guelph",
+          "state": "ON",
+          "postalCode": "N1H 8J1"
+        },
+        "position": {
+          "longitude": -80.2954,
+          "latitude": 43.5533
+        }
+      }
+    ],
+    "contact_info": "phone: 519-836-1812, phone: 519-836-5952, fax: 519-836-7918, email: r.calame@guelphil.org, url: www.guelphindependentliving.org",
+    "description_of_this": "Supports for older adults, and adults with disabilities * helps people remain independent in their own homes for as long as possible * referral to other community services<BR><BR><B>Services and Programs:</B><UL><LI>Home Help Program</LI></UL>, Codes: Varies per program, Features: Wheelchair Accessible, Languages: English, Referral: Call * no referral required, Address: 255 Woodlawn Rd W, Suite 207, Guelph, ON, N1H 8J1, Location: lat: 43.5533, lon: -80.2954"
+  }
+]

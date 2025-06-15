@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Adults in Motion - Cambridge",
+    "active": true,
+    "category": [
+      "Adult Day Programs",
+      "Respite Care"
+    ],
+    "comment": "Adult day program * social, recreational, and therapeutic activities for\n older adults and for older adults and people with disabilities in a group setting for part of the day * helps to support family caregivers who provide day-to-day care * virtual programs available",
+    "serviceProvisionCode": [
+      "Subsidy available for eligible participants"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>b3d6f232-2dfb-49cb-ad8b-93cb5fb8babb</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Cambridge</p><p>physical-location-postalcode</p><p>N3H 3N7</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>221469</p><p>true</p><p>Adult Day Programs</p><p>Respite Care</p><p>Location/c4a88394-3002-48d7-a7d0-05565bbe7e61</p><p>Location</p><p>Adults in Motion - Cambridge</p><p>Adult day program * social, recreational, and therapeutic activities for\n older adults and for older adults and people with disabilities in a group setting for part of the day * helps to support family caregivers who provide day-to-day care * virtual programs available</p><p>Location/41715cb5-f6e3-4eea-868f-21bee5d96888</p><p>Location</p><p>Subsidy available for eligible participants</p><p>Older adults and adults with disabilities, who need physical, social, or emotional supports * care coordinators assess the needs of applicants</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>Contact Ontario Health atHome Waterloo-Wellington</p></div>",
+    "eligibility": [
+      "Older adults and adults with disabilities, who need physical, social, or emotional supports * care coordinators assess the needs of applicants"
+    ],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [
+      "Contact Ontario Health atHome Waterloo-Wellington"
+    ],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-277-3723"
+          },
+          {
+            "email": "cambridge@adultsinmotion.org"
+          },
+          {
+            "url": "adultsinmotion.org/cambridge/"
+          }
+        ],
+        "address": {
+          "line": [
+            "653 King St E"
+          ],
+          "city": "Cambridge",
+          "state": "ON",
+          "postalCode": "N3H 3N7"
+        },
+        "position": {
+          "longitude": -80.3585,
+          "latitude": 43.3962
+        }
+      }
+    ],
+    "contact_info": "phone: 519-277-3723, email: cambridge@adultsinmotion.org, url: adultsinmotion.org/cambridge/",
+    "description_of_this": "Adult day program * social, recreational, and therapeutic activities for\n older adults and for older adults and people with disabilities in a group setting for part of the day * helps to support family caregivers who provide day-to-day care * virtual programs available, Codes: Subsidy available for eligible participants, Features: Wheelchair Accessible, Languages: English, Referral: Contact Ontario Health atHome Waterloo-Wellington, Address: 653 King St E, Cambridge, ON, N3H 3N7, Location: lat: 43.3962, lon: -80.3585"
+  }
+]

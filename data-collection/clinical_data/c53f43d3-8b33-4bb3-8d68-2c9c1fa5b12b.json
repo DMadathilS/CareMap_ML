@@ -1,0 +1,59 @@
+[
+  {
+    "name": "KMH Cardiology Centres",
+    "active": true,
+    "category": [
+      "Diagnostic Imaging Clinics"
+    ],
+    "comment": "Diagnostic imaging clinic<br><br><b>Services include:</b><ul><li>myocardial perfusion imaging</li><li>carotid ultrasound</li><li>echocardiography</li><li>Holter monitor</li><li>bone scan</li><li>renal scan</li><li>mammography (breast x-rays used to screen and diagnose medical conditions)</li></ul>",
+    "serviceProvisionCode": [
+      "Most services covered by OHIP"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>c53f43d3-8b33-4bb3-8d68-2c9c1fa5b12b</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Kitchener</p><p>physical-location-postalcode</p><p>N2M 5N4</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>208126</p><p>true</p><p>Diagnostic Imaging Clinics</p><p>Location/0e8f8864-d4cd-4307-818b-6d83f14b3975</p><p>Location</p><p>KMH Cardiology Centres</p><p>Diagnostic imaging clinic&lt;br&gt;&lt;br&gt;&lt;b&gt;Services include:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;myocardial perfusion imaging&lt;/li&gt;&lt;li&gt;carotid ultrasound&lt;/li&gt;&lt;li&gt;echocardiography&lt;/li&gt;&lt;li&gt;Holter monitor&lt;/li&gt;&lt;li&gt;bone scan&lt;/li&gt;&lt;li&gt;renal scan&lt;/li&gt;&lt;li&gt;mammography (breast x-rays used to screen and diagnose medical conditions)&lt;/li&gt;&lt;/ul&gt;</p><p>Location/2f97f6be-a33d-4fa6-8df3-6b1fc4db2b30</p><p>Location</p><p>Most services covered by OHIP</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>Medical referral required</p></div>",
+    "eligibility": [],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [
+      "Medical referral required"
+    ],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "905-855-1860"
+          },
+          {
+            "phone": "1-877-564-5227"
+          },
+          {
+            "fax": "519-569-7069"
+          },
+          {
+            "email": "info@kmhlabs.com"
+          },
+          {
+            "url": "kmhlabs.com/"
+          }
+        ],
+        "address": {
+          "line": [
+            "751-B Victoria St S, Suite 108"
+          ],
+          "city": "Kitchener",
+          "state": "ON",
+          "postalCode": "N2M 5N4"
+        },
+        "position": {
+          "longitude": -80.5221,
+          "latitude": 43.4387
+        }
+      }
+    ],
+    "contact_info": "phone: 905-855-1860, phone: 1-877-564-5227, fax: 519-569-7069, email: info@kmhlabs.com, url: kmhlabs.com/",
+    "description_of_this": "Diagnostic imaging clinic<br><br><b>Services include:</b><ul><li>myocardial perfusion imaging</li><li>carotid ultrasound</li><li>echocardiography</li><li>Holter monitor</li><li>bone scan</li><li>renal scan</li><li>mammography (breast x-rays used to screen and diagnose medical conditions)</li></ul>, Codes: Most services covered by OHIP, Features: Wheelchair Accessible, Languages: English, Referral: Medical referral required, Address: 751-B Victoria St S, Suite 108, Kitchener, ON, N2M 5N4, Location: lat: 43.4387, lon: -80.5221, Contact: phone: 905-855-1860, phone: 1-877-564-5227, fax: 519-569-7069, email: info@kmhlabs.com, url: kmhlabs.com/"
+  }
+]

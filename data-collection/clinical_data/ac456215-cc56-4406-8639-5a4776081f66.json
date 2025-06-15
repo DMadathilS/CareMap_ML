@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Cambridge (City of) - Community Development",
+    "active": true,
+    "category": [
+      "Seniors' Active Living Centres"
+    ],
+    "comment": "Recreation centre for older adults * cooling centre * warming centre * lounge * concession stand<BR><BR><B>Services and Programs:</B><UL><LI>Adult Day Program</LI></UL>",
+    "serviceProvisionCode": [
+      "Membership fees"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>ac456215-cc56-4406-8639-5a4776081f66</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Cambridge</p><p>physical-location-postalcode</p><p>N3H 3N4</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>209248</p><p>true</p><p>Seniors' Active Living Centres</p><p>Location/b701f98a-3be4-457b-bffe-97fd2568ffb4</p><p>Location</p><p>Cambridge (City of) - Community Development</p><p>Recreation centre for older adults * cooling centre * warming centre * lounge * concession stand&lt;BR&gt;&lt;BR&gt;&lt;B&gt;Services and Programs:&lt;/B&gt;&lt;UL&gt;&lt;LI&gt;Adult Day Program&lt;/LI&gt;&lt;/UL&gt;</p><p>Location/9b27fa77-9143-47f9-bc10-d084a132a4e3</p><p>Location</p><p>Membership fees</p><p>Adults 50 years and older</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>Call or drop-in * no referral required</p></div>",
+    "eligibility": [
+      "Adults 50 years and older"
+    ],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [
+      "Call or drop-in * no referral required"
+    ],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-623-1340"
+          },
+          {
+            "phone": "519-623-6691"
+          },
+          {
+            "email": "csd@cambridge.ca"
+          },
+          {
+            "url": "facilities.cambridge.ca/home/detail?id=9ef27b76-1043-4d3a-9fc8-fe08d25428eb"
+          }
+        ],
+        "address": {
+          "line": [
+            "507 King St E"
+          ],
+          "city": "Cambridge",
+          "state": "ON",
+          "postalCode": "N3H 3N4"
+        },
+        "position": {
+          "longitude": -80.3604,
+          "latitude": 43.3973
+        }
+      }
+    ],
+    "contact_info": "phone: 519-623-1340, phone: 519-623-6691, email: csd@cambridge.ca, url: facilities.cambridge.ca/home/detail?id=9ef27b76-1043-4d3a-9fc8-fe08d25428eb",
+    "description_of_this": "Recreation centre for older adults * cooling centre * warming centre * lounge * concession stand<BR><BR><B>Services and Programs:</B><UL><LI>Adult Day Program</LI></UL>, Codes: Membership fees, Features: Wheelchair Accessible, Languages: English, Referral: Call or drop-in * no referral required, Address: 507 King St E, Cambridge, ON, N3H 3N4, Location: lat: 43.3973, lon: -80.3604"
+  }
+]

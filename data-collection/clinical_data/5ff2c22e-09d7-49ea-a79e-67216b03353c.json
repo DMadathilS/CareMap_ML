@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Woolwich Seniors Association",
+    "active": true,
+    "category": [
+      "Seniors' Active Living Centres"
+    ],
+    "comment": "Recreational centre for older adults\n<ul><li>pool tables\n</li><li>quilting station\n</li><li>library\n</li><li>puzzle swap\n</li><li>coffee corner\n</li><li>tech hub\n</li><li>fitness classes (chair yoga, bone fit)\n</li><li>crafts (quilting)\n</li><li>recreation (pickleball, shuffleboard, snooker)\n</li><li>trivial pursuit\n</li><li>health and wellness workshops\n</li></ul>",
+    "serviceProvisionCode": [
+      "Membership fees"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>5ff2c22e-09d7-49ea-a79e-67216b03353c</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Elmira</p><p>physical-location-postalcode</p><p>N3B 1Y9</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>210562</p><p>true</p><p>Seniors' Active Living Centres</p><p>Location/54b8e01c-1f7f-402f-a8c6-f95945017510</p><p>Location</p><p>Woolwich Seniors Association</p><p>Recreational centre for older adults\n&lt;ul&gt;&lt;li&gt;pool tables\n&lt;/li&gt;&lt;li&gt;quilting station\n&lt;/li&gt;&lt;li&gt;library\n&lt;/li&gt;&lt;li&gt;puzzle swap\n&lt;/li&gt;&lt;li&gt;coffee corner\n&lt;/li&gt;&lt;li&gt;tech hub\n&lt;/li&gt;&lt;li&gt;fitness classes (chair yoga, bone fit)\n&lt;/li&gt;&lt;li&gt;crafts (quilting)\n&lt;/li&gt;&lt;li&gt;recreation (pickleball, shuffleboard, snooker)\n&lt;/li&gt;&lt;li&gt;trivial pursuit\n&lt;/li&gt;&lt;li&gt;health and wellness workshops\n&lt;/li&gt;&lt;/ul&gt;</p><p>Location/ad7949a7-41ef-4d0a-b280-456918af95cc</p><p>Location</p><p>Membership fees</p><p>Adults 55 years and older</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>Call or drop-in * no referral required</p></div>",
+    "eligibility": [
+      "Adults 55 years and older"
+    ],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [
+      "Call or drop-in * no referral required"
+    ],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-669-5044"
+          },
+          {
+            "email": "contact@woolwichseniors.ca"
+          },
+          {
+            "url": "www.woolwichseniors.ca/"
+          }
+        ],
+        "address": {
+          "line": [
+            "Woolwich Memorial Center",
+            "24 Snyder Ave S, Suite 7"
+          ],
+          "city": "Elmira",
+          "state": "ON",
+          "postalCode": "N3B 1Y9"
+        },
+        "position": {
+          "longitude": -80.565,
+          "latitude": 43.5956
+        }
+      }
+    ],
+    "contact_info": "phone: 519-669-5044, email: contact@woolwichseniors.ca, url: www.woolwichseniors.ca/",
+    "description_of_this": "Recreational centre for older adults\n<ul><li>pool tables\n</li><li>quilting station\n</li><li>library\n</li><li>puzzle swap\n</li><li>coffee corner\n</li><li>tech hub\n</li><li>fitness classes (chair yoga, bone fit)\n</li><li>crafts (quilting)\n</li><li>recreation (pickleball, shuffleboard, snooker)\n</li><li>trivial pursuit\n</li><li>health and wellness workshops\n</li></ul>, Codes: Membership fees, Features: Wheelchair Accessible, Languages: English, Referral: Call or drop-in * no referral required, Address: Woolwich Memorial Center, 24 Snyder Ave S, Suite 7, Elmira, ON, N3B 1Y9, Location: lat: 43.5956, lon: -80.565"
+  }
+]

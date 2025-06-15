@@ -1,0 +1,57 @@
+[
+  {
+    "name": "Northville Pharmacy",
+    "active": true,
+    "category": [
+      "Pharmacies"
+    ],
+    "comment": "General pharmacy\n<br><ul><li>treatment and prescription of medications for common medical ailments, including rashes, pink eye, insect bites, acne, and urinary tract infections</li><li>prescription of COVID-19 antiviral treatment (Paxlovid)<br></li><li>free delivery for prescriptions</li><li>basic home health care supplies</li><li>free seasonal flu vaccines</li></ul><b><br>Medications Return Program</b> - Safe disposal of expired or unused medications, creams, and inhalers<br><b><br>MedsCheck</b> - Appointments to review complex prescriptions with a pharmacist<br><br><b>Pharmacy Smoking Cessation Program</b> - Help to quit smoking, available for Ontario Drug Benefit recipients<br><b><br>Sharps Disposal Program</b> - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips",
+    "serviceProvisionCode": [
+      "Dispensing fee plus medication costs * prescribed medications may be covered by OHIP"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>7b5cc44c-6a7b-4f91-9ff6-72e40e05ec99</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Paris</p><p>physical-location-postalcode</p><p>N3L 3R7</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>182565</p><p>true</p><p>Pharmacies</p><p>Location/6fb44e54-3495-4d31-8bd2-48e4bf47eb50</p><p>Location</p><p>Northville Pharmacy</p><p>General pharmacy\n&lt;br&gt;&lt;ul&gt;&lt;li&gt;treatment and prescription of medications for common medical ailments, including rashes, pink eye, insect bites, acne, and urinary tract infections&lt;/li&gt;&lt;li&gt;prescription of COVID-19 antiviral treatment (Paxlovid)&lt;br&gt;&lt;/li&gt;&lt;li&gt;free delivery for prescriptions&lt;/li&gt;&lt;li&gt;basic home health care supplies&lt;/li&gt;&lt;li&gt;free seasonal flu vaccines&lt;/li&gt;&lt;/ul&gt;&lt;b&gt;&lt;br&gt;Medications Return Program&lt;/b&gt; - Safe disposal of expired or unused medications, creams, and inhalers&lt;br&gt;&lt;b&gt;&lt;br&gt;MedsCheck&lt;/b&gt; - Appointments to review complex prescriptions with a pharmacist&lt;br&gt;&lt;br&gt;&lt;b&gt;Pharmacy Smoking Cessation Program&lt;/b&gt; - Help to quit smoking, available for Ontario Drug Benefit recipients&lt;br&gt;&lt;b&gt;&lt;br&gt;Sharps Disposal Program&lt;/b&gt; - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips</p><p>Location/363cdf2c-7d09-4148-960c-e099db4415ae</p><p>Location</p><p>Dispensing fee plus medication costs * prescribed medications may be covered by OHIP</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p></div>",
+    "eligibility": [],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-442-4283"
+          },
+          {
+            "phone": "519-717-2411"
+          },
+          {
+            "fax": "519-442-5415"
+          },
+          {
+            "email": "northvillepharm@on.aibn.com"
+          },
+          {
+            "url": "www.northvillepharmacy.ca"
+          }
+        ],
+        "address": {
+          "line": [
+            "300 Grand River St N"
+          ],
+          "city": "Paris",
+          "state": "ON",
+          "postalCode": "N3L 3R7"
+        },
+        "position": {
+          "longitude": -80.3899,
+          "latitude": 43.2104
+        }
+      }
+    ],
+    "contact_info": "phone: 519-442-4283, phone: 519-717-2411, fax: 519-442-5415, email: northvillepharm@on.aibn.com, url: www.northvillepharmacy.ca",
+    "description_of_this": "General pharmacy\n<br><ul><li>treatment and prescription of medications for common medical ailments, including rashes, pink eye, insect bites, acne, and urinary tract infections</li><li>prescription of COVID-19 antiviral treatment (Paxlovid)<br></li><li>free delivery for prescriptions</li><li>basic home health care supplies</li><li>free seasonal flu vaccines</li></ul><b><br>Medications Return Program</b> - Safe disposal of expired or unused medications, creams, and inhalers<br><b><br>MedsCheck</b> - Appointments to review complex prescriptions with a pharmacist<br><br><b>Pharmacy Smoking Cessation Program</b> - Help to quit smoking, available for Ontario Drug Benefit recipients<br><b><br>Sharps Disposal Program</b> - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips, Codes: Dispensing fee plus medication costs * prescribed medications may be covered by OHIP, Features: Wheelchair Accessible, Languages: English, Address: 300 Grand River St N, Paris, ON, N3L 3R7, Location: lat: 43.2104, lon: -80.3899"
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "name": "Guardian Pharmacy - New Hamburg (Cook's)",
+    "active": true,
+    "category": [
+      "Pharmacies"
+    ],
+    "comment": "Basic pharmacy<ul><li>treatment and prescription of medications for common medical ailments, \nincluding rashes, pink eye, insect bites, acne, and urinary tract \ninfections</li><li>access to compounding services<br></li><li>certified diabetes educator (CDE) available for consultations</li><li>compression stocking fittings</li><li>respiratory education<br></li><li>travel health consultation</li><li>INR management</li><li>free seasonal flu vaccines</li><li> medication placed in pill organizers (containers for storing scheduled doses) at no extra cost\n </li><li> medication placed in blister packs (sealed, push-through packaging used to separate doses) at no extra cost</li></ul><br>\n<b>MedsCheck</b> - Appointments to review complex prescriptions with a pharmacist <br><br>\n<b>Medications Return Program</b> - Safe disposal of expired or unused medications, creams, and inhalers <br><br><b>Sharps Disposal Program</b> - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips",
+    "serviceProvisionCode": [
+      "Dispensing fee plus medication costs * prescribed medications may be covered by OHIP"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>e23be6f9-8583-4dff-96f2-069867919120</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>New Hamburg</p><p>physical-location-postalcode</p><p>N3A 1K1</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>208584</p><p>true</p><p>Pharmacies</p><p>Location/fc1e4e35-93b7-4e78-ad0f-b8e3344316a4</p><p>Location</p><p>Guardian Pharmacy - New Hamburg (Cook's)</p><p>Basic pharmacy&lt;ul&gt;&lt;li&gt;treatment and prescription of medications for common medical ailments, \nincluding rashes, pink eye, insect bites, acne, and urinary tract \ninfections&lt;/li&gt;&lt;li&gt;access to compounding services&lt;br&gt;&lt;/li&gt;&lt;li&gt;certified diabetes educator (CDE) available for consultations&lt;/li&gt;&lt;li&gt;compression stocking fittings&lt;/li&gt;&lt;li&gt;respiratory education&lt;br&gt;&lt;/li&gt;&lt;li&gt;travel health consultation&lt;/li&gt;&lt;li&gt;INR management&lt;/li&gt;&lt;li&gt;free seasonal flu vaccines&lt;/li&gt;&lt;li&gt; medication placed in pill organizers (containers for storing scheduled doses) at no extra cost\n &lt;/li&gt;&lt;li&gt; medication placed in blister packs (sealed, push-through packaging used to separate doses) at no extra cost&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;\n&lt;b&gt;MedsCheck&lt;/b&gt; - Appointments to review complex prescriptions with a pharmacist &lt;br&gt;&lt;br&gt;\n&lt;b&gt;Medications Return Program&lt;/b&gt; - Safe disposal of expired or unused medications, creams, and inhalers &lt;br&gt;&lt;br&gt;&lt;b&gt;Sharps Disposal Program&lt;/b&gt; - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips</p><p>Location/4aa23a9c-1ebe-4ba0-9023-e87300fc0001</p><p>Location</p><p>Dispensing fee plus medication costs * prescribed medications may be covered by OHIP</p><p>Not Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p></div>",
+    "eligibility": [],
+    "characteristic": [
+      "Not Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-662-2640"
+          },
+          {
+            "fax": "519-662-4170"
+          },
+          {
+            "email": "cookspharmacy75@gmail.com"
+          },
+          {
+            "url": "cooksrx.ca/cooks-pharmacy-new-hamburg"
+          }
+        ],
+        "address": {
+          "line": [
+            "75 Huron St"
+          ],
+          "city": "New Hamburg",
+          "state": "ON",
+          "postalCode": "N3A 1K1"
+        },
+        "position": {
+          "longitude": -80.7111,
+          "latitude": 43.3781
+        }
+      }
+    ],
+    "contact_info": "phone: 519-662-2640, fax: 519-662-4170, email: cookspharmacy75@gmail.com, url: cooksrx.ca/cooks-pharmacy-new-hamburg",
+    "description_of_this": "Basic pharmacy<ul><li>treatment and prescription of medications for common medical ailments, \nincluding rashes, pink eye, insect bites, acne, and urinary tract \ninfections</li><li>access to compounding services<br></li><li>certified diabetes educator (CDE) available for consultations</li><li>compression stocking fittings</li><li>respiratory education<br></li><li>travel health consultation</li><li>INR management</li><li>free seasonal flu vaccines</li><li> medication placed in pill organizers (containers for storing scheduled doses) at no extra cost\n </li><li> medication placed in blister packs (sealed, push-through packaging used to separate doses) at no extra cost</li></ul><br>\n<b>MedsCheck</b> - Appointments to review complex prescriptions with a pharmacist <br><br>\n<b>Medications Return Program</b> - Safe disposal of expired or unused medications, creams, and inhalers <br><br><b>Sharps Disposal Program</b> - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips, Codes: Dispensing fee plus medication costs * prescribed medications may be covered by OHIP, Features: Not Wheelchair Accessible, Languages: English, Address: 75 Huron St, New Hamburg, ON, N3A 1K1, Location: lat: 43.3781, lon: -80.7111, Contact: phone: 519-662-2640, fax: 519-662-4170, email: cookspharmacy75@gmail.com, url: cooksrx.ca/cooks-pharmacy-new-hamburg"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Grand River Physiotherapy",
+    "active": true,
+    "category": [
+      "Physiotherapy Clinics - Publicly Funded"
+    ],
+    "comment": "Community physiotherapy clinic * health professionals assess and treat \nconditions that affect the muscles, nerves, and bones that may be caused\n by work or sports or motor vehicle collision injuries, chronic \nconditions, or to recover after an operation \n (hip and knee surgery)<br><br>OHIP-insured physiotherapy clinic",
+    "serviceProvisionCode": [
+      "Set fee * physiotherapy services may be covered by OHIP or third-party insurance, if eligible"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>8546e057-ff54-48b6-a795-c0f19964cade</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Cambridge</p><p>physical-location-postalcode</p><p>N1S 2K7</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>208265</p><p>true</p><p>Physiotherapy Clinics - Publicly Funded</p><p>Location/c6f209a6-4206-4278-a8fd-85fe2ae54da9</p><p>Location</p><p>Grand River Physiotherapy</p><p>Community physiotherapy clinic * health professionals assess and treat \nconditions that affect the muscles, nerves, and bones that may be caused\n by work or sports or motor vehicle collision injuries, chronic \nconditions, or to recover after an operation \n (hip and knee surgery)&lt;br&gt;&lt;br&gt;OHIP-insured physiotherapy clinic</p><p>Location/ccd6508a-bf8b-4b95-8f9f-b7411166c1f9</p><p>Location</p><p>Set fee * physiotherapy services may be covered by OHIP or third-party insurance, if eligible</p><p>People who require physiotherapy services * OHIP coverage for those 19 years and under, 65 years and older, ODSP or Ontario Works recipients, and people hospitalized for at least one night due to an injury</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>No referral required for private pay services * medical referral required for OHIP coverage * medical referral may be required for third-party insurance</p></div>",
+    "eligibility": [
+      "People who require physiotherapy services * OHIP coverage for those 19 years and under, 65 years and older, ODSP or Ontario Works recipients, and people hospitalized for at least one night due to an injury"
+    ],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [
+      "No referral required for private pay services * medical referral required for OHIP coverage * medical referral may be required for third-party insurance"
+    ],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-621-3265"
+          },
+          {
+            "fax": "519-621-9547"
+          },
+          {
+            "email": "grandriverphysio@yahoo.com"
+          },
+          {
+            "url": "grandriverphysio.ca/ohipclinic.html"
+          }
+        ],
+        "address": {
+          "line": [
+            "39 Grand Ave N, Suite 1"
+          ],
+          "city": "Cambridge",
+          "state": "ON",
+          "postalCode": "N1S 2K7"
+        },
+        "position": {
+          "longitude": -80.3173,
+          "latitude": 43.3602
+        }
+      }
+    ],
+    "contact_info": "phone: 519-621-3265, fax: 519-621-9547, email: grandriverphysio@yahoo.com, url: grandriverphysio.ca/ohipclinic.html",
+    "description_of_this": "Community physiotherapy clinic * health professionals assess and treat \nconditions that affect the muscles, nerves, and bones that may be caused\n by work or sports or motor vehicle collision injuries, chronic \nconditions, or to recover after an operation \n (hip and knee surgery)<br><br>OHIP-insured physiotherapy clinic, Codes: Set fee * physiotherapy services may be covered by OHIP or third-party insurance, if eligible, Features: Wheelchair Accessible, Languages: English, Referral: No referral required for private pay services * medical referral required for OHIP coverage * medical referral may be required for third-party insurance, Address: 39 Grand Ave N, Suite 1, Cambridge, ON, N1S 2K7, Location: lat: 43.3602, lon: -80.3173"
+  }
+]

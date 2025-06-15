@@ -1,0 +1,55 @@
+[
+  {
+    "name": "Lutheran Homes Kitchener-Waterloo - Trinity Village Care Centre",
+    "active": true,
+    "category": [
+      "Long-Term Care Homes"
+    ],
+    "comment": "150-bed long-term care home * residential care for 90 private rooms and 60 basic rooms\n* 24-hour nursing and personal care * access to a doctor and other health professionals * 5 houses with 30 residents<br><ul><li>bedding and furniture</li><li>laundry and housekeeping</li><li>meals</li><li>personal hygiene supplies</li><li>medical supplies and equipment (such as catheters, ostomy bags, or wound care supplies) </li><li>assistance with medication and activities of daily living</li><li>recreation and social programs</li></ul><BR><BR><B>Services and Programs:</B><UL><LI>Adult Day Program</LI><LI>Trinity Village Studios</LI><LI>Trinity Village Terrace</LI></UL>",
+    "serviceProvisionCode": [
+      "Rates set by the Ontario Ministry of Long-Term Care * subsidies for basic rates may be available for eligible applicants"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>5ce77f7f-5b41-45e6-a6d4-aacfdfcbd92a</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Kitchener</p><p>physical-location-postalcode</p><p>N2C 1A7</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>101756</p><p>true</p><p>Long-Term Care Homes</p><p>Location/cb27ae2c-b4a9-4f3a-9b5d-c19dc92583b4</p><p>Location</p><p>Lutheran Homes Kitchener-Waterloo - Trinity Village Care Centre</p><p>150-bed long-term care home * residential care for 90 private rooms and 60 basic rooms\n* 24-hour nursing and personal care * access to a doctor and other health professionals * 5 houses with 30 residents&lt;br&gt;&lt;ul&gt;&lt;li&gt;bedding and furniture&lt;/li&gt;&lt;li&gt;laundry and housekeeping&lt;/li&gt;&lt;li&gt;meals&lt;/li&gt;&lt;li&gt;personal hygiene supplies&lt;/li&gt;&lt;li&gt;medical supplies and equipment (such as catheters, ostomy bags, or wound care supplies) &lt;/li&gt;&lt;li&gt;assistance with medication and activities of daily living&lt;/li&gt;&lt;li&gt;recreation and social programs&lt;/li&gt;&lt;/ul&gt;&lt;BR&gt;&lt;BR&gt;&lt;B&gt;Services and Programs:&lt;/B&gt;&lt;UL&gt;&lt;LI&gt;Adult Day Program&lt;/LI&gt;&lt;LI&gt;Trinity Village Studios&lt;/LI&gt;&lt;LI&gt;Trinity Village Terrace&lt;/LI&gt;&lt;/UL&gt;</p><p>Location/692609a8-b6ee-4f32-86c2-0d9cb1a0e5db</p><p>Location</p><p>Rates set by the Ontario Ministry of Long-Term Care * subsidies for basic rates may be available for eligible applicants</p><p>Adults who need long-term care * care coordinators assess the needs of applicants</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>Contact Ontario Health atHome Waterloo-Wellington</p></div>",
+    "eligibility": [
+      "Adults who need long-term care * care coordinators assess the needs of applicants"
+    ],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [
+      "Contact Ontario Health atHome Waterloo-Wellington"
+    ],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-893-6320"
+          },
+          {
+            "fax": "519-893-3432"
+          },
+          {
+            "url": "trinityvillage.com/life-at-trinity/care-centre"
+          }
+        ],
+        "address": {
+          "line": [
+            "2727 Kingsway Dr"
+          ],
+          "city": "Kitchener",
+          "state": "ON",
+          "postalCode": "N2C 1A7"
+        },
+        "position": {
+          "longitude": -80.441307,
+          "latitude": 43.430673
+        }
+      }
+    ],
+    "contact_info": "phone: 519-893-6320, fax: 519-893-3432, url: trinityvillage.com/life-at-trinity/care-centre",
+    "description_of_this": "150-bed long-term care home * residential care for 90 private rooms and 60 basic rooms\n* 24-hour nursing and personal care * access to a doctor and other health professionals * 5 houses with 30 residents<br><ul><li>bedding and furniture</li><li>laundry and housekeeping</li><li>meals</li><li>personal hygiene supplies</li><li>medical supplies and equipment (such as catheters, ostomy bags, or wound care supplies) </li><li>assistance with medication and activities of daily living</li><li>recreation and social programs</li></ul><BR><BR><B>Services and Programs:</B><UL><LI>Adult Day Program</LI><LI>Trinity Village Studios</LI><LI>Trinity Village Terrace</LI></UL>, Codes: Rates set by the Ontario Ministry of Long-Term Care * subsidies for basic rates may be available for eligible applicants, Features: Wheelchair Accessible, Languages: English, Referral: Contact Ontario Health atHome Waterloo-Wellington, Address: 2727 Kingsway Dr, Kitchener, ON, N2C 1A7, Location: lat: 43.430673, lon: -80.441307"
+  }
+]

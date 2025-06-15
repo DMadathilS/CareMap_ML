@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Waterloo (City of) - Community Services",
+    "active": true,
+    "category": [
+      "Transportation for Seniors and People with Disabilities"
+    ],
+    "comment": "Non-emergency transportation to local and long-distance medical appointments, and regular activities such as grocery shopping and banking * volunteer drivers",
+    "serviceProvisionCode": [
+      "Set fees"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>ce7b4dc1-dbdc-4624-bf1f-ffc8de2e544d</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Waterloo</p><p>physical-location-postalcode</p><p>N2J 4A8</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>215013</p><p>true</p><p>Transportation for Seniors and People with Disabilities</p><p>Location/942cfa16-9bb0-41a2-b2e1-e9ea085d61c8</p><p>Location</p><p>Waterloo (City of) - Community Services</p><p>Non-emergency transportation to local and long-distance medical appointments, and regular activities such as grocery shopping and banking * volunteer drivers</p><p>Location/873531e9-0904-4a0a-b2cb-454609523594</p><p>Location</p><p>Set fees</p><p>Older adults</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>Call * pre-registration required</p></div>",
+    "eligibility": [
+      "Older adults"
+    ],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [
+      "Call * pre-registration required"
+    ],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-579-6930"
+          },
+          {
+            "phone": "1-866-786-3941"
+          },
+          {
+            "url": "www.waterloo.ca/en/living/senior-services.aspx#Rides"
+          }
+        ],
+        "address": {
+          "line": [
+            "Waterloo City Centre",
+            "100 Regina St S, PO Box 337, Stn Waterloo"
+          ],
+          "city": "Waterloo",
+          "state": "ON",
+          "postalCode": "N2J 4A8"
+        },
+        "position": {
+          "longitude": -80.5203,
+          "latitude": 43.4634
+        }
+      }
+    ],
+    "contact_info": "phone: 519-579-6930, phone: 1-866-786-3941, url: www.waterloo.ca/en/living/senior-services.aspx#Rides",
+    "description_of_this": "Non-emergency transportation to local and long-distance medical appointments, and regular activities such as grocery shopping and banking * volunteer drivers, Codes: Set fees, Features: Wheelchair Accessible, Languages: English, Referral: Call * pre-registration required, Address: Waterloo City Centre, 100 Regina St S, PO Box 337, Stn Waterloo, Waterloo, ON, N2J 4A8, Location: lat: 43.4634, lon: -80.5203, Contact: phone: 519-579-6930, phone: 1-866-786-3941, url: www.waterloo.ca/en/living/senior-services.aspx#Rides"
+  }
+]
