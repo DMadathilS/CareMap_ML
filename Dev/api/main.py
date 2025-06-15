@@ -1,13 +1,16 @@
 # api/main.py
+
 import uvicorn
 from fastapi import FastAPI
-from config import settings
-from routes.users import router as users_router
+from api.config import settings
+from api.routes.users import router as users_router
+from api.routes.llm_bot import router as llm_router  # ✅ Import this
 
 app = FastAPI()
 
-# mount under the BASE_PATH from .env
+# Mount both under base path
 app.include_router(users_router, prefix=settings.BASE_PATH)
+app.include_router(llm_router, prefix=f"{settings.BASE_PATH}")
 
 if __name__ == "__main__":
     uvicorn.run(

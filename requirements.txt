@@ -11,3 +11,9 @@ faiss-cpu
 python-dotenv
 fastapi 
 uvicorn 
+psycopg2-binary
+pgvector
+sentence-transformers
+langchain
+python-dotenv
+pydantic
