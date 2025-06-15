@@ -10,7 +10,7 @@ def create_chat(user_id: str) -> dict:
     Returns:
         A dict containing the new chat_id and the associated user_id
     """
-    from utils.uuid import generate_uuid
+    from api.utils.uuid import generate_uuid
     chat_id = generate_uuid()
     dict_chat_store[chat_id] = {"user_id": user_id}
     return {"chat_id": chat_id, "user_id": user_id}

@@ -56,11 +56,12 @@ class QueryBasedRouter:
         emb = EMBEDDER.encode(query).tolist()
         return tools[domain]["func"](emb)
 
-    def run(self, query: str):
+    def run(self, query: str) -> dict:
         domain = self.route(query)
 
         if domain == "irrelevant":
-            return AssistantOutput(domain=None, data=[], answer="Your query appears unrelated to healthcare.").model_dump_json()
+            return AssistantOutput(domain=None, data=[], answer="Your query appears unrelated to healthcare.").model_dump()
+
 
         data = self.retrieve(domain, query)
 
@@ -101,4 +102,5 @@ class QueryBasedRouter:
         except json.JSONDecodeError:
             summary = summary_json.strip()
 
-        return AssistantOutput(domain=domain, data=enriched, answer=summary).model_dump_json()
+        return AssistantOutput(domain=domain, data=enriched, answer=summary).model_dump()
+

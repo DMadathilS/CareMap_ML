@@ -1,6 +1,6 @@
 from fastapi import APIRouter, HTTPException
-from services.user_service import get_user as get_user_svc
-from services.chat_service import create_chat as create_chat_svc
+from api.services.user_service import get_user as get_user_svc
+from api.services.chat_service import create_chat as create_chat_svc
 
 router = APIRouter()
 

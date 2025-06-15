@@ -1,16 +1,32 @@
-# api/main.py
-
 import uvicorn
 from fastapi import FastAPI
+from fastapi.middleware.cors import CORSMiddleware  # ✅ Import CORS middleware
 from api.config import settings
 from api.routes.users import router as users_router
-from api.routes.llm_bot import router as llm_router  # ✅ Import this
+from api.routes.llm_bot import router as llm_router
+from api.routes.chats import router as chat_router
 
 app = FastAPI()
 
-# Mount both under base path
+# ✅ ALLOW frontend origin
+origins = [
+    "http://localhost:5173",  # Vite dev server
+    "http://localhost:3000",  # React dev server (optional)
+    "http://127.0.0.1:5173"
+]
+
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=origins,           # Or use ["*"] for all origins during dev
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
+
+# Mount routers under base path
 app.include_router(users_router, prefix=settings.BASE_PATH)
-app.include_router(llm_router, prefix=f"{settings.BASE_PATH}")
+app.include_router(llm_router, prefix=settings.BASE_PATH)
+app.include_router(chat_router, prefix=settings.BASE_PATH)
 
 if __name__ == "__main__":
     uvicorn.run(
