@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Nofrills DRUGStore Pharmacy - New Hamburg (Mackay's)",
+    "active": true,
+    "category": [
+      "Pharmacies"
+    ],
+    "comment": "General pharmacy<ul><li> treatment and prescription of medications for common medical \nailments, including rashes, pink eye, insect bites, acne, and urinary \ntract infections<br></li><li> prescription of COVID-19 antiviral treatment (Paxlovid)</li><li>medication placed in blister packs (sealed, push-through packaging used to separate doses) at no extra cost</li><li>basic home health care supplies</li><li>health clinics and seminars</li><li>blood pressure and heart health risk consultations </li><li> certified diabetes educator (CDE) available for consultations</li><li>food allergy management assessment <br></li><li>free seasonal flu vaccines</li><li>opioid treatment therapy<br></li><li>take-home naloxone kits (emergency response kits for opioid overdose)<br><br></li></ul><b>MedsCheck</b> - Appointments to review complex prescriptions with a pharmacist<br><br><b>Medications Return Program</b> - Safe disposal of expired or unused medications, creams, and inhalers <br><br><b>Pharmacy Smoking Cessation Program</b> - Help to quit smoking, available for Ontario Drug Benefit recipients",
+    "serviceProvisionCode": [
+      "Dispensing fee plus medication costs * prescribed medications may be covered by OHIP"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>8f92cecd-d0bf-4f2f-9ed0-94c32ab3330a</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>New Hamburg</p><p>physical-location-postalcode</p><p>N3A 0A2</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>208810</p><p>true</p><p>Pharmacies</p><p>Location/6a0c1a9b-d31b-4d42-b2c6-5a749a95d3b8</p><p>Location</p><p>Nofrills DRUGStore Pharmacy - New Hamburg (Mackay's)</p><p>General pharmacy&lt;ul&gt;&lt;li&gt; treatment and prescription of medications for common medical \nailments, including rashes, pink eye, insect bites, acne, and urinary \ntract infections&lt;br&gt;&lt;/li&gt;&lt;li&gt; prescription of COVID-19 antiviral treatment (Paxlovid)&lt;/li&gt;&lt;li&gt;medication placed in blister packs (sealed, push-through packaging used to separate doses) at no extra cost&lt;/li&gt;&lt;li&gt;basic home health care supplies&lt;/li&gt;&lt;li&gt;health clinics and seminars&lt;/li&gt;&lt;li&gt;blood pressure and heart health risk consultations &lt;/li&gt;&lt;li&gt; certified diabetes educator (CDE) available for consultations&lt;/li&gt;&lt;li&gt;food allergy management assessment &lt;br&gt;&lt;/li&gt;&lt;li&gt;free seasonal flu vaccines&lt;/li&gt;&lt;li&gt;opioid treatment therapy&lt;br&gt;&lt;/li&gt;&lt;li&gt;take-home naloxone kits (emergency response kits for opioid overdose)&lt;br&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;b&gt;MedsCheck&lt;/b&gt; - Appointments to review complex prescriptions with a pharmacist&lt;br&gt;&lt;br&gt;&lt;b&gt;Medications Return Program&lt;/b&gt; - Safe disposal of expired or unused medications, creams, and inhalers &lt;br&gt;&lt;br&gt;&lt;b&gt;Pharmacy Smoking Cessation Program&lt;/b&gt; - Help to quit smoking, available for Ontario Drug Benefit recipients</p><p>Location/acca004a-d1ac-4954-8e58-67f7f1045199</p><p>Location</p><p>Dispensing fee plus medication costs * prescribed medications may be covered by OHIP</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>ara</p><p>Arabic</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>zho</p><p>Chinese</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>deu</p><p>German</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>vie</p><p>Vietnamese</p></div>",
+    "eligibility": [],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English",
+      "Arabic",
+      "Chinese",
+      "German",
+      "Vietnamese"
+    ],
+    "referralMethod": [],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-662-9990"
+          },
+          {
+            "fax": "519-662-9993"
+          },
+          {
+            "email": "phr01341@loblaw.ca"
+          },
+          {
+            "url": "www.nofrills.ca/store-locator/details/1341"
+          }
+        ],
+        "address": {
+          "line": [
+            "1540 Haysville Rd"
+          ],
+          "city": "New Hamburg",
+          "state": "ON",
+          "postalCode": "N3A 0A2"
+        },
+        "position": {
+          "longitude": -80.7035,
+          "latitude": 43.3705
+        }
+      }
+    ],
+    "contact_info": "phone: 519-662-9990, fax: 519-662-9993, email: phr01341@loblaw.ca, url: www.nofrills.ca/store-locator/details/1341",
+    "description_of_this": "General pharmacy<ul><li> treatment and prescription of medications for common medical \nailments, including rashes, pink eye, insect bites, acne, and urinary \ntract infections<br></li><li> prescription of COVID-19 antiviral treatment (Paxlovid)</li><li>medication placed in blister packs (sealed, push-through packaging used to separate doses) at no extra cost</li><li>basic home health care supplies</li><li>health clinics and seminars</li><li>blood pressure and heart health risk consultations </li><li> certified diabetes educator (CDE) available for consultations</li><li>food allergy management assessment <br></li><li>free seasonal flu vaccines</li><li>opioid treatment therapy<br></li><li>take-home naloxone kits (emergency response kits for opioid overdose)<br><br></li></ul><b>MedsCheck</b> - Appointments to review complex prescriptions with a pharmacist<br><br><b>Medications Return Program</b> - Safe disposal of expired or unused medications, creams, and inhalers <br><br><b>Pharmacy Smoking Cessation Program</b> - Help to quit smoking, available for Ontario Drug Benefit recipients, Codes: Dispensing fee plus medication costs * prescribed medications may be covered by OHIP, Features: Wheelchair Accessible, Languages: English, Arabic, Chinese, German, Vietnamese, Address: 1540 Haysville Rd, New Hamburg, ON, N3A 0A2, Location: lat: 43.3705, lon: -80.7035"
+  }
+]

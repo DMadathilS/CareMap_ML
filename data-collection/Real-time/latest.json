@@ -1,20 +1,20 @@
 {
   "grhosp": {
-    "timestamp": "2025-06-12T20:16:50.842247-04:00",
-    "wait_minutes": 345,
-    "patients_waiting": 54,
-    "website_last_update": "2025-06-12T20:16:30-04:00"
+    "timestamp": "2025-06-15T12:06:27.767161-04:00",
+    "wait_minutes": 85,
+    "patients_waiting": 19,
+    "website_last_update": "2025-06-15T11:56:30-04:00"
   },
   "smgh": {
-    "timestamp": "2025-06-12T20:16:51.252820-04:00",
-    "wait_minutes": 147,
-    "patients_waiting": 9,
-    "website_last_update": "2025-06-12T20:13:06.850345-04:00"
+    "timestamp": "2025-06-15T12:06:28.192311-04:00",
+    "wait_minutes": 214,
+    "patients_waiting": 26,
+    "website_last_update": "2025-06-15T12:01:07.560815-04:00"
   },
   "wrhn": {
-    "timestamp": "2025-06-12T20:17:01.221571-04:00",
-    "wait_minutes": 231,
-    "patients_waiting": 7,
-    "website_last_update": "2025-06-12T19:38:00-04:00"
+    "timestamp": "2025-06-15T12:06:38.637054-04:00",
+    "wait_minutes": 259,
+    "patients_waiting": 24,
+    "website_last_update": "2025-06-15T11:38:00-04:00"
   }
 }

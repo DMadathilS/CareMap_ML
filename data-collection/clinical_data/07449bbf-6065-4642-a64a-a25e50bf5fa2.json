@@ -1,0 +1,48 @@
+[
+  {
+    "name": "Walmart Pharmacy - Waterloo - Farmers Market Rd",
+    "active": true,
+    "category": [
+      "Pharmacies"
+    ],
+    "comment": "General pharmacy<ul><li> treatment and prescription of medications for common medical \nailments, including rashes, pink eye, insect bites, acne, and urinary \ntract infections<br></li><li> prescription of COVID-19 antiviral treatment (Paxlovid)</li><li>free seasonal flu vaccines</li><li>medication placed in blister packs (sealed, push-through packaging used to separate doses) at no extra cost</li><li>certified diabetes educator (CDE) available for consultations</li><li>basic home health care supplies</li></ul><br><b>MedsCheck</b> - Appointments to review complex prescriptions with a pharmacist<br><br><b>Sharps Disposal Program</b> - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips<br><br><b>Medications Return Program</b> - Safe disposal of expired or unused medications, creams, and inhalers <br><br>Located in department store",
+    "serviceProvisionCode": [
+      "Dispensing fee plus medication costs * prescribed medications may be covered by OHIP"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>07449bbf-6065-4642-a64a-a25e50bf5fa2</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Waterloo</p><p>physical-location-postalcode</p><p>N2V 0A4</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>209015</p><p>true</p><p>Pharmacies</p><p>Location/cec6a1c6-2b38-431b-8c57-64389948dce8</p><p>Location</p><p>Walmart Pharmacy - Waterloo - Farmers Market Rd</p><p>General pharmacy&lt;ul&gt;&lt;li&gt; treatment and prescription of medications for common medical \nailments, including rashes, pink eye, insect bites, acne, and urinary \ntract infections&lt;br&gt;&lt;/li&gt;&lt;li&gt; prescription of COVID-19 antiviral treatment (Paxlovid)&lt;/li&gt;&lt;li&gt;free seasonal flu vaccines&lt;/li&gt;&lt;li&gt;medication placed in blister packs (sealed, push-through packaging used to separate doses) at no extra cost&lt;/li&gt;&lt;li&gt;certified diabetes educator (CDE) available for consultations&lt;/li&gt;&lt;li&gt;basic home health care supplies&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;b&gt;MedsCheck&lt;/b&gt; - Appointments to review complex prescriptions with a pharmacist&lt;br&gt;&lt;br&gt;&lt;b&gt;Sharps Disposal Program&lt;/b&gt; - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips&lt;br&gt;&lt;br&gt;&lt;b&gt;Medications Return Program&lt;/b&gt; - Safe disposal of expired or unused medications, creams, and inhalers &lt;br&gt;&lt;br&gt;Located in department store</p><p>Location/9c705838-6785-4407-9abc-cda0c366a580</p><p>Location</p><p>Dispensing fee plus medication costs * prescribed medications may be covered by OHIP</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p></div>",
+    "eligibility": [],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-746-3793"
+          },
+          {
+            "url": "www.walmart.ca/en/stores-near-me/waterloo-store-3156"
+          }
+        ],
+        "address": {
+          "line": [
+            "335 Farmers Market Rd"
+          ],
+          "city": "Waterloo",
+          "state": "ON",
+          "postalCode": "N2V 0A4"
+        },
+        "position": {
+          "longitude": -80.5482,
+          "latitude": 43.5082
+        }
+      }
+    ],
+    "contact_info": "phone: 519-746-3793, url: www.walmart.ca/en/stores-near-me/waterloo-store-3156",
+    "description_of_this": "General pharmacy<ul><li> treatment and prescription of medications for common medical \nailments, including rashes, pink eye, insect bites, acne, and urinary \ntract infections<br></li><li> prescription of COVID-19 antiviral treatment (Paxlovid)</li><li>free seasonal flu vaccines</li><li>medication placed in blister packs (sealed, push-through packaging used to separate doses) at no extra cost</li><li>certified diabetes educator (CDE) available for consultations</li><li>basic home health care supplies</li></ul><br><b>MedsCheck</b> - Appointments to review complex prescriptions with a pharmacist<br><br><b>Sharps Disposal Program</b> - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips<br><br><b>Medications Return Program</b> - Safe disposal of expired or unused medications, creams, and inhalers <br><br>Located in department store, Codes: Dispensing fee plus medication costs * prescribed medications may be covered by OHIP, Features: Wheelchair Accessible, Languages: English, Address: 335 Farmers Market Rd, Waterloo, ON, N2V 0A4, Location: lat: 43.5082, lon: -80.5482"
+  }
+]

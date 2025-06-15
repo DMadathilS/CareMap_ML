@@ -1,0 +1,51 @@
+[
+  {
+    "name": "IDA Pharmacy - Waterloo - Eastbridge Blvd",
+    "active": true,
+    "category": [
+      "Pharmacies"
+    ],
+    "comment": "General pharmacy<ul><li>treatment and prescription of medications for common medical ailments, including rashes, pink eye, insect bites, acne, and urinary tract infections</li><li>prescription of COVID-19 antiviral treatment (Paxlovid)</li><li>medication placed in blister packs (sealed, push-through packaging used to separate doses)</li><li>methadone dispensing</li><li>free seasonal flu vaccines</li><li>immunizations and injections</li><li>free delivery for prescriptions</li></ul><br>\n<b>MedsCheck</b> - Appointments to review complex prescriptions with a pharmacist",
+    "serviceProvisionCode": [
+      "Dispensing fee plus medication costs * prescribed medications may be covered by OHIP"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>5fd28e61-88e7-46f9-8f2d-ae549040413a</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Waterloo</p><p>physical-location-postalcode</p><p>N2K 4P1</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>202387</p><p>true</p><p>Pharmacies</p><p>Location/a259dafc-997c-4fc4-ad11-ad9120ae3f31</p><p>Location</p><p>IDA Pharmacy - Waterloo - Eastbridge Blvd</p><p>General pharmacy&lt;ul&gt;&lt;li&gt;treatment and prescription of medications for common medical ailments, including rashes, pink eye, insect bites, acne, and urinary tract infections&lt;/li&gt;&lt;li&gt;prescription of COVID-19 antiviral treatment (Paxlovid)&lt;/li&gt;&lt;li&gt;medication placed in blister packs (sealed, push-through packaging used to separate doses)&lt;/li&gt;&lt;li&gt;methadone dispensing&lt;/li&gt;&lt;li&gt;free seasonal flu vaccines&lt;/li&gt;&lt;li&gt;immunizations and injections&lt;/li&gt;&lt;li&gt;free delivery for prescriptions&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;\n&lt;b&gt;MedsCheck&lt;/b&gt; - Appointments to review complex prescriptions with a pharmacist</p><p>Location/cb08d3eb-df6a-4bdb-bcea-62d00b640c3c</p><p>Location</p><p>Dispensing fee plus medication costs * prescribed medications may be covered by OHIP</p><p>Not Applicable</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p></div>",
+    "eligibility": [],
+    "characteristic": [
+      "Not Applicable"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-746-1117"
+          },
+          {
+            "fax": "855-574-5465"
+          },
+          {
+            "url": "www.guardian-ida-remedysrx.ca/en/ontario/waterloo/eastbridge-pharmacy-7039141"
+          }
+        ],
+        "address": {
+          "line": [
+            "370 Eastbridge Blvd, Unit 4"
+          ],
+          "city": "Waterloo",
+          "state": "ON",
+          "postalCode": "N2K 4P1"
+        },
+        "position": {
+          "longitude": -80.509,
+          "latitude": 43.5044
+        }
+      }
+    ],
+    "contact_info": "phone: 519-746-1117, fax: 855-574-5465, url: www.guardian-ida-remedysrx.ca/en/ontario/waterloo/eastbridge-pharmacy-7039141",
+    "description_of_this": "General pharmacy<ul><li>treatment and prescription of medications for common medical ailments, including rashes, pink eye, insect bites, acne, and urinary tract infections</li><li>prescription of COVID-19 antiviral treatment (Paxlovid)</li><li>medication placed in blister packs (sealed, push-through packaging used to separate doses)</li><li>methadone dispensing</li><li>free seasonal flu vaccines</li><li>immunizations and injections</li><li>free delivery for prescriptions</li></ul><br>\n<b>MedsCheck</b> - Appointments to review complex prescriptions with a pharmacist, Codes: Dispensing fee plus medication costs * prescribed medications may be covered by OHIP, Features: Not Applicable, Languages: English, Address: 370 Eastbridge Blvd, Unit 4, Waterloo, ON, N2K 4P1, Location: lat: 43.5044, lon: -80.509"
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "name": "AIDS Committee of Cambridge Kitchener Waterloo and Area",
+    "active": true,
+    "category": [
+      "Sexual Health Clinics",
+      "Sexual Health Clinics - Anonymous Testing"
+    ],
+    "comment": "HIV information and testing * outreach services and education * referral\n to community services * pre-test counselling on how people get HIV, and\n what a positive or negative test result might mean * post-test \ncounselling to discuss the results <br><br><br><b>Anonymous HIV Testing</b> - HIV information and testing * \noutreach services and education * referral to community services * \npre-test counselling on how people get HIV, and what a positive or \nnegative test result might mean * post-test counselling to discuss the \nresults<BR><BR><B>Services and Programs:</B><UL><LI>Safepoint Needle Exchange Program</LI></UL>",
+    "serviceProvisionCode": [
+      "Free"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>1119fc77-6aef-418c-a378-8e89de5775b8</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Kitchener</p><p>physical-location-postalcode</p><p>N2G 2P1</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>210009</p><p>true</p><p>Sexual Health Clinics</p><p>Sexual Health Clinics - Anonymous Testing</p><p>Location/fb0334cc-5e75-47b8-aae6-4952d294b259</p><p>Location</p><p>AIDS Committee of Cambridge Kitchener Waterloo and Area</p><p>HIV information and testing * outreach services and education * referral\n to community services * pre-test counselling on how people get HIV, and\n what a positive or negative test result might mean * post-test \ncounselling to discuss the results &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Anonymous HIV Testing&lt;/b&gt; - HIV information and testing * \noutreach services and education * referral to community services * \npre-test counselling on how people get HIV, and what a positive or \nnegative test result might mean * post-test counselling to discuss the \nresults&lt;BR&gt;&lt;BR&gt;&lt;B&gt;Services and Programs:&lt;/B&gt;&lt;UL&gt;&lt;LI&gt;Safepoint Needle Exchange Program&lt;/LI&gt;&lt;/UL&gt;</p><p>Location/fb4ad37c-d255-4db7-a08a-10871ff6de75</p><p>Location</p><p>Free</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>No referral or identification required</p></div>",
+    "eligibility": [],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [
+      "No referral or identification required"
+    ],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-570-3687"
+          },
+          {
+            "email": "reception@acckwa.com"
+          },
+          {
+            "url": "www.acckwa.com/"
+          }
+        ],
+        "address": {
+          "line": [
+            "1770 King St E, Unit 5"
+          ],
+          "city": "Kitchener",
+          "state": "ON",
+          "postalCode": "N2G 2P1"
+        },
+        "position": {
+          "longitude": -80.46,
+          "latitude": 43.4378
+        }
+      }
+    ],
+    "contact_info": "phone: 519-570-3687, email: reception@acckwa.com, url: www.acckwa.com/",
+    "description_of_this": "HIV information and testing * outreach services and education * referral\n to community services * pre-test counselling on how people get HIV, and\n what a positive or negative test result might mean * post-test \ncounselling to discuss the results <br><br><br><b>Anonymous HIV Testing</b> - HIV information and testing * \noutreach services and education * referral to community services * \npre-test counselling on how people get HIV, and what a positive or \nnegative test result might mean * post-test counselling to discuss the \nresults<BR><BR><B>Services and Programs:</B><UL><LI>Safepoint Needle Exchange Program</LI></UL>, Codes: Free, Features: Wheelchair Accessible, Languages: English, Referral: No referral or identification required, Address: 1770 King St E, Unit 5, Kitchener, ON, N2G 2P1, Location: lat: 43.4378, lon: -80.46"
+  }
+]

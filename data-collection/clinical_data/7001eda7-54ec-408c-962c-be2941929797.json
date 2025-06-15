@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Saint Luke's Place",
+    "active": true,
+    "category": [
+      "Seniors' Active Living Centres"
+    ],
+    "comment": "Seniors centre, coffee shop/lounge, hairdressing salon, social and recreational activities, events * may be used by seniors groups for meetings and events (reasonable fees may apply) * volunteer placements",
+    "serviceProvisionCode": [
+      "Set fee"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>7001eda7-54ec-408c-962c-be2941929797</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Cambridge</p><p>physical-location-postalcode</p><p>N3C 3P4</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>193639</p><p>true</p><p>Seniors' Active Living Centres</p><p>Location/b7b0d70f-39fe-409d-84d0-7e2711379044</p><p>Location</p><p>Saint Luke's Place</p><p>Seniors centre, coffee shop/lounge, hairdressing salon, social and recreational activities, events * may be used by seniors groups for meetings and events (reasonable fees may apply) * volunteer placements</p><p>Location/03935ea1-b6e2-41ff-b31f-a8a5de71ad31</p><p>Location</p><p>Set fee</p><p>Older adults * people with physical disabilities</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>Must sign up for registered programs</p></div>",
+    "eligibility": [
+      "Older adults * people with physical disabilities"
+    ],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [
+      "Must sign up for registered programs"
+    ],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-658-5183"
+          },
+          {
+            "fax": "519-658-2991"
+          },
+          {
+            "email": "info@stlp.ca"
+          },
+          {
+            "url": "www.saintlukesplace.ca"
+          }
+        ],
+        "address": {
+          "line": [
+            "1624 Franklin Blvd"
+          ],
+          "city": "Cambridge",
+          "state": "ON",
+          "postalCode": "N3C 3P4"
+        },
+        "position": {
+          "longitude": -80.310307,
+          "latitude": 43.424089
+        }
+      }
+    ],
+    "contact_info": "phone: 519-658-5183, fax: 519-658-2991, email: info@stlp.ca, url: www.saintlukesplace.ca",
+    "description_of_this": "Seniors centre, coffee shop/lounge, hairdressing salon, social and recreational activities, events * may be used by seniors groups for meetings and events (reasonable fees may apply) * volunteer placements, Codes: Set fee, Features: Wheelchair Accessible, Languages: English, Referral: Must sign up for registered programs, Address: 1624 Franklin Blvd, Cambridge, ON, N3C 3P4, Location: lat: 43.424089, lon: -80.310307"
+  }
+]

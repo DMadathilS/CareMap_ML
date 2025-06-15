@@ -1,0 +1,59 @@
+[
+  {
+    "name": "Kitchener (City of) - Community Services Department",
+    "active": true,
+    "category": [
+      "Adult Day Programs"
+    ],
+    "comment": "Adult day program * social, recreational, and therapeutic activities for older adults and people with disabilities in a group setting for part of the day * helps to support family caregivers who provide day-to-day care<br><ul><li>meals</li><li>daily exercise programs</li></ul>",
+    "serviceProvisionCode": [
+      "$17.54 per day * subsidy available for eligible participants * additional fee for transportation"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>97c1de24-0761-411f-b727-58e850f6682d</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Kitchener</p><p>physical-location-postalcode</p><p>N2H 3Z1</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>208414</p><p>true</p><p>Adult Day Programs</p><p>Location/de68f5f1-5ca4-4663-b1ae-5aefbc559348</p><p>Location</p><p>Kitchener (City of) - Community Services Department</p><p>Adult day program * social, recreational, and therapeutic activities for older adults and people with disabilities in a group setting for part of the day * helps to support family caregivers who provide day-to-day care&lt;br&gt;&lt;ul&gt;&lt;li&gt;meals&lt;/li&gt;&lt;li&gt;daily exercise programs&lt;/li&gt;&lt;/ul&gt;</p><p>Location/a86b7a60-dcd5-4416-bbba-8fe94c614374</p><p>Location</p><p>$17.54 per day * subsidy available for eligible participants * additional fee for transportation</p><p>Older adults and adults with disabilities, who need physical, social, or emotional supports * care coordinators assess the needs of applicants</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>Contact Ontario Health atHome Waterloo-Wellington</p></div>",
+    "eligibility": [
+      "Older adults and adults with disabilities, who need physical, social, or emotional supports * care coordinators assess the needs of applicants"
+    ],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [
+      "Contact Ontario Health atHome Waterloo-Wellington"
+    ],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-741-2916"
+          },
+          {
+            "phone": "1-866-969-9994"
+          },
+          {
+            "email": "downtowncc@kitchener.ca"
+          },
+          {
+            "url": "www.kitchener.ca/en/recreation-and-sports/senior-day-program.aspx"
+          }
+        ],
+        "address": {
+          "line": [
+            "Downtown Community Centre",
+            "35 Weber St W, Unit B"
+          ],
+          "city": "Kitchener",
+          "state": "ON",
+          "postalCode": "N2H 3Z1"
+        },
+        "position": {
+          "longitude": -80.3115,
+          "latitude": 43.36
+        }
+      }
+    ],
+    "contact_info": "phone: 519-741-2916, phone: 1-866-969-9994, email: downtowncc@kitchener.ca, url: www.kitchener.ca/en/recreation-and-sports/senior-day-program.aspx",
+    "description_of_this": "Adult day program * social, recreational, and therapeutic activities for older adults and people with disabilities in a group setting for part of the day * helps to support family caregivers who provide day-to-day care<br><ul><li>meals</li><li>daily exercise programs</li></ul>, Codes: $17.54 per day * subsidy available for eligible participants * additional fee for transportation, Features: Wheelchair Accessible, Languages: English, Referral: Contact Ontario Health atHome Waterloo-Wellington, Address: Downtown Community Centre, 35 Weber St W, Unit B, Kitchener, ON, N2H 3Z1, Location: lat: 43.36, lon: -80.3115"
+  }
+]

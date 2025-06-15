@@ -1,0 +1,57 @@
+[
+  {
+    "name": "True North Imaging - Waterloo - The Boardwalk",
+    "active": true,
+    "category": [
+      "Diagnostic Imaging Clinics",
+      "Ontario Breast Screening Programs"
+    ],
+    "comment": "Diagnostic imaging clinic<br><br><b>Services include:</b><ul><li>ultrasound</li><li>x-ray</li><li>bone mineral density testing</li><li>mammography (breast x-rays used to screen and diagnose medical conditions<br><br></li></ul><b>Ontario Breast Screening Program</b> - Breast screening for\n early detection of breast cancer in women * screening includes \nmammography (x-rays of breast tissue) * screening results are sent to \nboth the woman and her doctor * women who receive normal results are \nautomatically recalled for their next screening appointment * women who \nreceive abnormal results are referred to their doctor for further \ninvestigation, or are referred directly for additional tests",
+    "serviceProvisionCode": [
+      "Most services covered by OHIP"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>349dd87e-6dbb-433c-9c0d-d7dd0741951a</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Waterloo</p><p>physical-location-postalcode</p><p>N2T 0C1</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>208240</p><p>true</p><p>Diagnostic Imaging Clinics</p><p>Ontario Breast Screening Programs</p><p>Location/3e842529-423e-4996-9c83-f7ea4fbec636</p><p>Location</p><p>True North Imaging - Waterloo - The Boardwalk</p><p>Diagnostic imaging clinic&lt;br&gt;&lt;br&gt;&lt;b&gt;Services include:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;ultrasound&lt;/li&gt;&lt;li&gt;x-ray&lt;/li&gt;&lt;li&gt;bone mineral density testing&lt;/li&gt;&lt;li&gt;mammography (breast x-rays used to screen and diagnose medical conditions&lt;br&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;b&gt;Ontario Breast Screening Program&lt;/b&gt; - Breast screening for\n early detection of breast cancer in women * screening includes \nmammography (x-rays of breast tissue) * screening results are sent to \nboth the woman and her doctor * women who receive normal results are \nautomatically recalled for their next screening appointment * women who \nreceive abnormal results are referred to their doctor for further \ninvestigation, or are referred directly for additional tests</p><p>Location/54ca6866-b0e5-4f2b-b09a-c205fb214889</p><p>Location</p><p>Most services covered by OHIP</p><p>&lt;b&gt;Ontario Breast Screening Program: &lt;/b&gt;Women 50-74 years, and women 30-69 years identified as having a high-risk</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>Medical referral required&lt;br&gt;&lt;b&gt;Ontario Breast Screening Program: &lt;/b&gt;Call for appointment * no referral required for women between 50 and 74 years * medical referrals also accepted for women between 30 and 69 years</p></div>",
+    "eligibility": [
+      "<b>Ontario Breast Screening Program: </b>Women 50-74 years, and women 30-69 years identified as having a high-risk"
+    ],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [
+      "Medical referral required<br><b>Ontario Breast Screening Program: </b>Call for appointment * no referral required for women between 50 and 74 years * medical referrals also accepted for women between 30 and 69 years"
+    ],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-576-8760"
+          },
+          {
+            "fax": "226-215-3183"
+          },
+          {
+            "url": "truenorthimaging.com/"
+          }
+        ],
+        "address": {
+          "line": [
+            "Building 1",
+            "430 The Boardwalk, Suite 108"
+          ],
+          "city": "Waterloo",
+          "state": "ON",
+          "postalCode": "N2T 0C1"
+        },
+        "position": {
+          "longitude": -80.565,
+          "latitude": 43.4403
+        }
+      }
+    ],
+    "contact_info": "phone: 519-576-8760, fax: 226-215-3183, url: truenorthimaging.com/",
+    "description_of_this": "Diagnostic imaging clinic<br><br><b>Services include:</b><ul><li>ultrasound</li><li>x-ray</li><li>bone mineral density testing</li><li>mammography (breast x-rays used to screen and diagnose medical conditions<br><br></li></ul><b>Ontario Breast Screening Program</b> - Breast screening for\n early detection of breast cancer in women * screening includes \nmammography (x-rays of breast tissue) * screening results are sent to \nboth the woman and her doctor * women who receive normal results are \nautomatically recalled for their next screening appointment * women who \nreceive abnormal results are referred to their doctor for further \ninvestigation, or are referred directly for additional tests, Codes: Most services covered by OHIP, Features: Wheelchair Accessible, Languages: English, Referral: Medical referral required<br><b>Ontario Breast Screening Program: </b>Call for appointment * no referral required for women between 50 and 74 years * medical referrals also accepted for women between 30 and 69 years, Address: Building 1, 430 The Boardwalk, Suite 108, Waterloo, ON, N2T 0C1, Location: lat: 43.4403, lon: -80.565"
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "name": "PharmaChoice - Waterloo (KW Pharmacy)",
+    "active": true,
+    "category": [
+      "Pharmacies"
+    ],
+    "comment": "Compounding pharmacy<ul><li>treatment and prescription of medications for common medical ailments, including rashes, pink eye, insect bites, acne, and urinary tract infections</li><li>prescription of COVID-19 antiviral treatment (Paxlovid)</li><li>pharmacist available for diabetes management consultations</li><li>basic home health care supplies</li><li>free delivery for prescriptions\n </li><li>medication placed in pill organizers (containers for storing scheduled doses)</li><li>compression stocking fitting</li><li>custom medications</li><li>long-term care services<br><br></li></ul><b>Medications Return Program</b> - Safe disposal of expired or unused medications, creams, and inhalers <br><br><b>MedsCheck</b> - Appointments to review complex prescriptions with a pharmacist",
+    "serviceProvisionCode": [
+      "Dispensing fee plus medication costs * prescribed medications may be covered by OHIP"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>104bedfb-26bc-4518-ae52-5c2d0e738537</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Waterloo</p><p>physical-location-postalcode</p><p>N2J 2V9</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>208691</p><p>true</p><p>Pharmacies</p><p>Location/f53d0359-f365-4847-9fff-9163d683ecdf</p><p>Location</p><p>PharmaChoice - Waterloo (KW Pharmacy)</p><p>Compounding pharmacy&lt;ul&gt;&lt;li&gt;treatment and prescription of medications for common medical ailments, including rashes, pink eye, insect bites, acne, and urinary tract infections&lt;/li&gt;&lt;li&gt;prescription of COVID-19 antiviral treatment (Paxlovid)&lt;/li&gt;&lt;li&gt;pharmacist available for diabetes management consultations&lt;/li&gt;&lt;li&gt;basic home health care supplies&lt;/li&gt;&lt;li&gt;free delivery for prescriptions\n &lt;/li&gt;&lt;li&gt;medication placed in pill organizers (containers for storing scheduled doses)&lt;/li&gt;&lt;li&gt;compression stocking fitting&lt;/li&gt;&lt;li&gt;custom medications&lt;/li&gt;&lt;li&gt;long-term care services&lt;br&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;b&gt;Medications Return Program&lt;/b&gt; - Safe disposal of expired or unused medications, creams, and inhalers &lt;br&gt;&lt;br&gt;&lt;b&gt;MedsCheck&lt;/b&gt; - Appointments to review complex prescriptions with a pharmacist</p><p>Location/c29703ec-468e-40c3-96b8-4eef9f2db95b</p><p>Location</p><p>Dispensing fee plus medication costs * prescribed medications may be covered by OHIP</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p></div>",
+    "eligibility": [],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-746-6133"
+          },
+          {
+            "fax": "519-746-3788"
+          },
+          {
+            "email": "thekwpharmacy1@gmail.com"
+          },
+          {
+            "url": "kwpharmacy.ca/"
+          }
+        ],
+        "address": {
+          "line": [
+            "65 University Ave, Unit 5A"
+          ],
+          "city": "Waterloo",
+          "state": "ON",
+          "postalCode": "N2J 2V9"
+        },
+        "position": {
+          "longitude": -80.5204,
+          "latitude": 43.4774
+        }
+      }
+    ],
+    "contact_info": "phone: 519-746-6133, fax: 519-746-3788, email: thekwpharmacy1@gmail.com, url: kwpharmacy.ca/",
+    "description_of_this": "Compounding pharmacy<ul><li>treatment and prescription of medications for common medical ailments, including rashes, pink eye, insect bites, acne, and urinary tract infections</li><li>prescription of COVID-19 antiviral treatment (Paxlovid)</li><li>pharmacist available for diabetes management consultations</li><li>basic home health care supplies</li><li>free delivery for prescriptions\n </li><li>medication placed in pill organizers (containers for storing scheduled doses)</li><li>compression stocking fitting</li><li>custom medications</li><li>long-term care services<br><br></li></ul><b>Medications Return Program</b> - Safe disposal of expired or unused medications, creams, and inhalers <br><br><b>MedsCheck</b> - Appointments to review complex prescriptions with a pharmacist, Codes: Dispensing fee plus medication costs * prescribed medications may be covered by OHIP, Features: Wheelchair Accessible, Languages: English, Address: 65 University Ave, Unit 5A, Waterloo, ON, N2J 2V9, Location: lat: 43.4774, lon: -80.5204"
+  }
+]

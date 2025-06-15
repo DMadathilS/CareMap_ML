@@ -1,0 +1,54 @@
+[
+  {
+    "name": "Pharmasave - Breslau (Breslau Commons)",
+    "active": true,
+    "category": [
+      "Pharmacies"
+    ],
+    "comment": "Compounding pharmacy<ul><li>treatment and prescription of medications for common medical ailments, including rashes, pink eye, insect bites, acne, and urinary tract infections</li><li>prescription of COVID-19 antiviral treatment (Paxlovid)</li><li>medication placed in blister packs (sealed, push-through packaging used to separate doses) at no extra cost</li><li>online prescription refills and transfers</li><li> free delivery for prescriptions\n </li><li>free seasonal flu vaccines</li><li>pharmacist available for diabetes management consultations</li><li>INR testing and anticoagulation services</li><li>asthma counselling</li><li>home safety consultations</li><li>travel safety * vaccinations and medication for travelers<br></li><li>compression stockings<br><br></li></ul><b>MedsCheck</b> - Appointments to review complex prescriptions with a pharmacist <br><br><b>Pharmacy Smoking Cessation Program</b> - Help to quit smoking, available for Ontario Drug Benefit recipients",
+    "serviceProvisionCode": [
+      "Dispensing fee plus medication costs * prescribed medications may be covered by OHIP"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>dadde446-81d1-46dd-ba0d-238fa4c9d45e</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Breslau</p><p>physical-location-postalcode</p><p>N0B 1M0</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>208878</p><p>true</p><p>Pharmacies</p><p>Location/67963df3-cefa-4903-937c-de00058bdc5a</p><p>Location</p><p>Pharmasave - Breslau (Breslau Commons)</p><p>Compounding pharmacy&lt;ul&gt;&lt;li&gt;treatment and prescription of medications for common medical ailments, including rashes, pink eye, insect bites, acne, and urinary tract infections&lt;/li&gt;&lt;li&gt;prescription of COVID-19 antiviral treatment (Paxlovid)&lt;/li&gt;&lt;li&gt;medication placed in blister packs (sealed, push-through packaging used to separate doses) at no extra cost&lt;/li&gt;&lt;li&gt;online prescription refills and transfers&lt;/li&gt;&lt;li&gt; free delivery for prescriptions\n &lt;/li&gt;&lt;li&gt;free seasonal flu vaccines&lt;/li&gt;&lt;li&gt;pharmacist available for diabetes management consultations&lt;/li&gt;&lt;li&gt;INR testing and anticoagulation services&lt;/li&gt;&lt;li&gt;asthma counselling&lt;/li&gt;&lt;li&gt;home safety consultations&lt;/li&gt;&lt;li&gt;travel safety * vaccinations and medication for travelers&lt;br&gt;&lt;/li&gt;&lt;li&gt;compression stockings&lt;br&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;b&gt;MedsCheck&lt;/b&gt; - Appointments to review complex prescriptions with a pharmacist &lt;br&gt;&lt;br&gt;&lt;b&gt;Pharmacy Smoking Cessation Program&lt;/b&gt; - Help to quit smoking, available for Ontario Drug Benefit recipients</p><p>Location/a947cf5a-3ace-4e31-9672-9a96a67a6d0b</p><p>Location</p><p>Dispensing fee plus medication costs * prescribed medications may be covered by OHIP</p><p>Partially Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p></div>",
+    "eligibility": [],
+    "characteristic": [
+      "Partially Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "226-243-5200"
+          },
+          {
+            "fax": "226-646-7847"
+          },
+          {
+            "email": "pharmasave9644@gmail.com"
+          },
+          {
+            "url": "www.pharmasavebreslaucommons.com/"
+          }
+        ],
+        "address": {
+          "line": [
+            "10 Townsend Dr, Unit 10"
+          ],
+          "city": "Breslau",
+          "state": "ON",
+          "postalCode": "N0B 1M0"
+        },
+        "position": {
+          "longitude": -80.4149,
+          "latitude": 43.4866
+        }
+      }
+    ],
+    "contact_info": "phone: 226-243-5200, fax: 226-646-7847, email: pharmasave9644@gmail.com, url: www.pharmasavebreslaucommons.com/",
+    "description_of_this": "Compounding pharmacy<ul><li>treatment and prescription of medications for common medical ailments, including rashes, pink eye, insect bites, acne, and urinary tract infections</li><li>prescription of COVID-19 antiviral treatment (Paxlovid)</li><li>medication placed in blister packs (sealed, push-through packaging used to separate doses) at no extra cost</li><li>online prescription refills and transfers</li><li> free delivery for prescriptions\n </li><li>free seasonal flu vaccines</li><li>pharmacist available for diabetes management consultations</li><li>INR testing and anticoagulation services</li><li>asthma counselling</li><li>home safety consultations</li><li>travel safety * vaccinations and medication for travelers<br></li><li>compression stockings<br><br></li></ul><b>MedsCheck</b> - Appointments to review complex prescriptions with a pharmacist <br><br><b>Pharmacy Smoking Cessation Program</b> - Help to quit smoking, available for Ontario Drug Benefit recipients, Codes: Dispensing fee plus medication costs * prescribed medications may be covered by OHIP, Features: Partially Accessible, Languages: English, Address: 10 Townsend Dr, Unit 10, Breslau, ON, N0B 1M0, Location: lat: 43.4866, lon: -80.4149, Contact: phone: 226-243-5200, fax: 226-646-7847, email: pharmasave9644@gmail.com, url: www.pharmasavebreslaucommons.com/"
+  }
+]

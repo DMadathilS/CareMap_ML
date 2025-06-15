@@ -1,0 +1,58 @@
+[
+  {
+    "name": "ONE Fertility - Kitchener",
+    "active": true,
+    "category": [
+      "Fertility Clinics"
+    ],
+    "comment": "Medical fertility treatments and care * diagnostic testing<br><ul><li>artificial insemination</li><li>intra-uterine insemination</li><li>in-vitro-fertilization</li><li>fertility preservation</li><li>ovarian stimulation</li><li>consultations</li><li>reproductive counselling</li><li>embryo freezing</li></ul>",
+    "serviceProvisionCode": [
+      "Fee for services * OHIP may cover some of the services * third-party insurance may cover some of the services"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>dfd54a8a-8521-4b53-93d3-576b53a427f2</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Kitchener</p><p>physical-location-postalcode</p><p>N2P 2X7</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>186189</p><p>true</p><p>Fertility Clinics</p><p>Location/45766528-2dab-4066-b3d0-2024bd8dc615</p><p>Location</p><p>ONE Fertility - Kitchener</p><p>Medical fertility treatments and care * diagnostic testing&lt;br&gt;&lt;ul&gt;&lt;li&gt;artificial insemination&lt;/li&gt;&lt;li&gt;intra-uterine insemination&lt;/li&gt;&lt;li&gt;in-vitro-fertilization&lt;/li&gt;&lt;li&gt;fertility preservation&lt;/li&gt;&lt;li&gt;ovarian stimulation&lt;/li&gt;&lt;li&gt;consultations&lt;/li&gt;&lt;li&gt;reproductive counselling&lt;/li&gt;&lt;li&gt;embryo freezing&lt;/li&gt;&lt;/ul&gt;</p><p>Location/b0bfa16a-8bc6-47b3-9a0e-b933a097f8a3</p><p>Location</p><p>Fee for services * OHIP may cover some of the services * third-party insurance may cover some of the services</p><p>People and couples requiring fertility assistance</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>Medical referral required</p></div>",
+    "eligibility": [
+      "People and couples requiring fertility assistance"
+    ],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [
+      "Medical referral required"
+    ],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-650-0011"
+          },
+          {
+            "fax": "519-650-0033"
+          },
+          {
+            "email": "info@onefertilitykw.com"
+          },
+          {
+            "url": "www.onefertilitykitchenerwaterloo.com"
+          }
+        ],
+        "address": {
+          "line": [
+            "4271 King St E, Suite 200"
+          ],
+          "city": "Kitchener",
+          "state": "ON",
+          "postalCode": "N2P 2X7"
+        },
+        "position": {
+          "longitude": -80.3995,
+          "latitude": 43.4093
+        }
+      }
+    ],
+    "contact_info": "phone: 519-650-0011, fax: 519-650-0033, email: info@onefertilitykw.com, url: www.onefertilitykitchenerwaterloo.com",
+    "description_of_this": "Medical fertility treatments and care * diagnostic testing<br><ul><li>artificial insemination</li><li>intra-uterine insemination</li><li>in-vitro-fertilization</li><li>fertility preservation</li><li>ovarian stimulation</li><li>consultations</li><li>reproductive counselling</li><li>embryo freezing</li></ul>, Codes: Fee for services * OHIP may cover some of the services * third-party insurance may cover some of the services, Features: Wheelchair Accessible, Languages: English, Referral: Medical referral required, Address: 4271 King St E, Suite 200, Kitchener, ON, N2P 2X7, Location: lat: 43.4093, lon: -80.3995, Contact: phone: 519-650-0011, fax: 519-650-0033, email: info@onefertilitykw.com, url: www.onefertilitykitchenerwaterloo.com"
+  }
+]

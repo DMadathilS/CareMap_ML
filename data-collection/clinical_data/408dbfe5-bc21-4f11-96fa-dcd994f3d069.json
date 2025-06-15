@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Morriston Park Nursing Home",
+    "active": true,
+    "category": [
+      "Long-Term Care Homes"
+    ],
+    "comment": "Residential care for 28 beds * 24-hour nursing and personal care * access to a doctor and other health professionals<ul><li> bedding and furniture</li><li> laundry and housekeeping</li><li> meals</li><li> personal hygiene supplies</li><li> medical supplies and equipment (such as catheters, ostomy bags, or wound care supplies)</li><li> assistance with medication and activities of daily living</li><li> recreation and social programs</li></ul>",
+    "serviceProvisionCode": [
+      "Rates set by the Ontario Ministry of Long-Term Care * subsidies for basic rates may be available for eligible applicants"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>408dbfe5-bc21-4f11-96fa-dcd994f3d069</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Puslinch</p><p>physical-location-postalcode</p><p>N0B 2J0</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>209237</p><p>true</p><p>Long-Term Care Homes</p><p>Location/5ed5096f-fab1-4300-8dee-e9a6dc224706</p><p>Location</p><p>Morriston Park Nursing Home</p><p>Residential care for 28 beds * 24-hour nursing and personal care * access to a doctor and other health professionals&lt;ul&gt;&lt;li&gt; bedding and furniture&lt;/li&gt;&lt;li&gt; laundry and housekeeping&lt;/li&gt;&lt;li&gt; meals&lt;/li&gt;&lt;li&gt; personal hygiene supplies&lt;/li&gt;&lt;li&gt; medical supplies and equipment (such as catheters, ostomy bags, or wound care supplies)&lt;/li&gt;&lt;li&gt; assistance with medication and activities of daily living&lt;/li&gt;&lt;li&gt; recreation and social programs&lt;/li&gt;&lt;/ul&gt;</p><p>Location/2fbe9ba8-ab71-45e9-a73b-b7d7591b84cd</p><p>Location</p><p>Rates set by the Ontario Ministry of Long-Term Care * subsidies for basic rates may be available for eligible applicants</p><p>Adults who need long-term care * care coordinators assess the needs of applicants</p><p>Wheelchair Accessible</p><p>Contact Ontario Health atHome Waterloo-Wellington</p></div>",
+    "eligibility": [
+      "Adults who need long-term care * care coordinators assess the needs of applicants"
+    ],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [],
+    "referralMethod": [
+      "Contact Ontario Health atHome Waterloo-Wellington"
+    ],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-822-9179"
+          },
+          {
+            "fax": "519-822-4459"
+          },
+          {
+            "email": "kbolger@morristonpark.com"
+          },
+          {
+            "url": "www.morristonpark.com"
+          }
+        ],
+        "address": {
+          "line": [
+            "7363 Calfass Rd, RR 2"
+          ],
+          "city": "Puslinch",
+          "state": "ON",
+          "postalCode": "N0B 2J0"
+        },
+        "position": {
+          "longitude": -80.1274,
+          "latitude": 43.44
+        }
+      }
+    ],
+    "contact_info": "phone: 519-822-9179, fax: 519-822-4459, email: kbolger@morristonpark.com, url: www.morristonpark.com",
+    "description_of_this": "Residential care for 28 beds * 24-hour nursing and personal care * access to a doctor and other health professionals<ul><li> bedding and furniture</li><li> laundry and housekeeping</li><li> meals</li><li> personal hygiene supplies</li><li> medical supplies and equipment (such as catheters, ostomy bags, or wound care supplies)</li><li> assistance with medication and activities of daily living</li><li> recreation and social programs</li></ul>, Codes: Rates set by the Ontario Ministry of Long-Term Care * subsidies for basic rates may be available for eligible applicants, Features: Wheelchair Accessible, Referral: Contact Ontario Health atHome Waterloo-Wellington, Address: 7363 Calfass Rd, RR 2, Puslinch, ON, N0B 2J0, Location: lat: 43.44, lon: -80.1274"
+  }
+]

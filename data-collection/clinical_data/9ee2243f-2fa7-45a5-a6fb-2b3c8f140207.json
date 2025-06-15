@@ -1,0 +1,55 @@
+[
+  {
+    "name": "Centre for Family Medicine Family Health Team - Kitchener - Joseph St",
+    "active": true,
+    "category": [
+      "Family Health Teams"
+    ],
+    "comment": "Care team focused on rostered patients and community health * team includes, nurse practitioners, nurses, psychotherapists, family and marriage therapists, social workers, outreach workers, pharmacists, chiropractor, dietitians, respiratory therapist, occupational therapist and support staff",
+    "serviceProvisionCode": [
+      "Most services covered by OHIP"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>9ee2243f-2fa7-45a5-a6fb-2b3c8f140207</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Kitchener</p><p>physical-location-postalcode</p><p>N2G 4X6</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>154470</p><p>true</p><p>Family Health Teams</p><p>Location/e5ae609a-49f5-47b6-b8ca-5714e23f4cf0</p><p>Location</p><p>Centre for Family Medicine Family Health Team - Kitchener - Joseph St</p><p>Care team focused on rostered patients and community health * team includes, nurse practitioners, nurses, psychotherapists, family and marriage therapists, social workers, outreach workers, pharmacists, chiropractor, dietitians, respiratory therapist, occupational therapist and support staff</p><p>Location/5ca4c4f6-2500-4b75-b47e-c7a199811e10</p><p>Location</p><p>Most services covered by OHIP</p><p>Registered patients</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>Call for appointment</p></div>",
+    "eligibility": [
+      "Registered patients"
+    ],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [
+      "Call for appointment"
+    ],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-578-2100"
+          },
+          {
+            "fax": "519-578-2109"
+          },
+          {
+            "url": "family-medicine.ca/joseph-street/"
+          }
+        ],
+        "address": {
+          "line": [
+            "25 Joseph St"
+          ],
+          "city": "Kitchener",
+          "state": "ON",
+          "postalCode": "N2G 4X6"
+        },
+        "position": {
+          "longitude": -80.4916843,
+          "latitude": 43.4483559
+        }
+      }
+    ],
+    "contact_info": "phone: 519-578-2100, fax: 519-578-2109, url: family-medicine.ca/joseph-street/",
+    "description_of_this": "Care team focused on rostered patients and community health * team includes, nurse practitioners, nurses, psychotherapists, family and marriage therapists, social workers, outreach workers, pharmacists, chiropractor, dietitians, respiratory therapist, occupational therapist and support staff, Codes: Most services covered by OHIP, Features: Wheelchair Accessible, Languages: English, Referral: Call for appointment, Address: 25 Joseph St, Kitchener, ON, N2G 4X6, Location: lat: 43.4483559, lon: -80.4916843"
+  }
+]

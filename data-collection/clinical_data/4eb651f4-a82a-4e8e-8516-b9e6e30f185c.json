@@ -1,0 +1,59 @@
+[
+  {
+    "name": "Cosmetic Surgery Clinic of Waterloo (The)",
+    "active": true,
+    "category": [
+      "Surgery Clinics"
+    ],
+    "comment": "Community-based laser and plastic surgery clinic * specializes in breast reconstruction",
+    "serviceProvisionCode": [
+      "Services may be covered by OHIP or third-party insurance if eligible"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>4eb651f4-a82a-4e8e-8516-b9e6e30f185c</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Waterloo</p><p>physical-location-postalcode</p><p>N2L 3S2</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>162674</p><p>true</p><p>Surgery Clinics</p><p>Location/679d5565-bc62-4dec-92f9-bdb8a6211111</p><p>Location</p><p>Cosmetic Surgery Clinic of Waterloo (The)</p><p>Community-based laser and plastic surgery clinic * specializes in breast reconstruction</p><p>Location/4133f950-1ebb-485d-94f0-f05c60c08919</p><p>Location</p><p>Services may be covered by OHIP or third-party insurance if eligible</p><p>People requiring plastic surgery</p><p>Not Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>fra</p><p>French</p><p>No referral required for private pay services * medical referral may be required for OHIP coverage * medical referral may be required for third-party insurance</p></div>",
+    "eligibility": [
+      "People requiring plastic surgery"
+    ],
+    "characteristic": [
+      "Not Wheelchair Accessible"
+    ],
+    "communication": [
+      "English",
+      "French"
+    ],
+    "referralMethod": [
+      "No referral required for private pay services * medical referral may be required for OHIP coverage * medical referral may be required for third-party insurance"
+    ],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-746-1132"
+          },
+          {
+            "fax": "519-746-0316"
+          },
+          {
+            "email": "info@thecosmeticsurgeryclinic.ca"
+          },
+          {
+            "url": "www.thecosmeticsurgeryclinic.ca"
+          }
+        ],
+        "address": {
+          "line": [
+            "50 Albert St"
+          ],
+          "city": "Waterloo",
+          "state": "ON",
+          "postalCode": "N2L 3S2"
+        },
+        "position": {
+          "longitude": -80.5245,
+          "latitude": 43.467
+        }
+      }
+    ],
+    "contact_info": "phone: 519-746-1132, fax: 519-746-0316, email: info@thecosmeticsurgeryclinic.ca, url: www.thecosmeticsurgeryclinic.ca",
+    "description_of_this": "Community-based laser and plastic surgery clinic * specializes in breast reconstruction, Codes: Services may be covered by OHIP or third-party insurance if eligible, Features: Not Wheelchair Accessible, Languages: English, French, Referral: No referral required for private pay services * medical referral may be required for OHIP coverage * medical referral may be required for third-party insurance, Address: 50 Albert St, Waterloo, ON, N2L 3S2, Location: lat: 43.467, lon: -80.5245"
+  }
+]

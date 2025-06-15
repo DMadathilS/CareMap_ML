@@ -1,0 +1,55 @@
+[
+  {
+    "name": "Traverse Independence - Acquired Brain Injury Services - Outreach Program",
+    "active": true,
+    "category": [
+      "Acquired Brain Injury Services"
+    ],
+    "comment": "Community-based support and rehabilitation services for adults living with the effects of an acquired brain injury<br><ul><li>\nscheduling appointments and transportation</li><li>menu planning, shopping, cooking</li><li>medical appointment attendance and support</li></ul>",
+    "serviceProvisionCode": [
+      "Free"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>9528dbf8-c8fd-42b4-bab4-d1ccb27db025</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Kitchener</p><p>physical-location-postalcode</p><p>N2A 1C4</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>208521</p><p>true</p><p>Acquired Brain Injury Services</p><p>Location/e8f76be3-3c77-4320-890e-67f98f3598db</p><p>Location</p><p>Traverse Independence - Acquired Brain Injury Services - Outreach Program</p><p>Community-based support and rehabilitation services for adults living with the effects of an acquired brain injury&lt;br&gt;&lt;ul&gt;&lt;li&gt;\nscheduling appointments and transportation&lt;/li&gt;&lt;li&gt;menu planning, shopping, cooking&lt;/li&gt;&lt;li&gt;medical appointment attendance and support&lt;/li&gt;&lt;/ul&gt;</p><p>Location/d315bed0-c911-4bd2-8e32-a76a3576af98</p><p>Location</p><p>Free</p><p>Adults 18 years and older, living with the effects of an acquired brain injury</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>Call * pre-admission assessment required</p></div>",
+    "eligibility": [
+      "Adults 18 years and older, living with the effects of an acquired brain injury"
+    ],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [
+      "Call * pre-admission assessment required"
+    ],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-741-5845"
+          },
+          {
+            "fax": "519-741-8731"
+          },
+          {
+            "url": "www.traverseindependence.ca/en/brain-injury-services/Outreach.aspx"
+          }
+        ],
+        "address": {
+          "line": [
+            "1382 Weber St E, Unit 1"
+          ],
+          "city": "Kitchener",
+          "state": "ON",
+          "postalCode": "N2A 1C4"
+        },
+        "position": {
+          "longitude": -80.4398,
+          "latitude": 43.4338
+        }
+      }
+    ],
+    "contact_info": "phone: 519-741-5845, fax: 519-741-8731, url: www.traverseindependence.ca/en/brain-injury-services/Outreach.aspx",
+    "description_of_this": "Community-based support and rehabilitation services for adults living with the effects of an acquired brain injury<br><ul><li>\nscheduling appointments and transportation</li><li>menu planning, shopping, cooking</li><li>medical appointment attendance and support</li></ul>, Codes: Free, Features: Wheelchair Accessible, Languages: English, Referral: Call * pre-admission assessment required, Address: 1382 Weber St E, Unit 1, Kitchener, ON, N2A 1C4, Location: lat: 43.4338, lon: -80.4398"
+  }
+]

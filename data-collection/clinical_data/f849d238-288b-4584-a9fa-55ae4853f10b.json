@@ -1,0 +1,61 @@
+[
+  {
+    "name": "Community Care Concepts of Woolwich, Wellesley and Wilmot Townships",
+    "active": true,
+    "category": [
+      "Community Support Services"
+    ],
+    "comment": "Supports for older adults, and adults with disabilities * helps people \nremain independent in their own homes for as long as possible * referral\n to other community services <br><ul><li>assisted transportation</li><li>congregate dining</li><li>home help and homemaking</li><li>friendly visiting</li><li>maintenance in and out of the home</li><li>meals on wheels</li><li>adult day and alzheimers programs</li><li>home at last<br></li></ul><BR><BR><B>Services and Programs:</B><UL><LI>Congregate Dining</LI><LI>Friendly Visiting</LI><LI>Home at Last</LI><LI>Meals on Wheels</LI><LI>Wilmot Adult Day Program</LI><LI>Woolwich Adult Day Program</LI></UL>",
+    "serviceProvisionCode": [
+      "Varies per program"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>f849d238-288b-4584-a9fa-55ae4853f10b</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Elmira</p><p>physical-location-postalcode</p><p>N3B 2Z2</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>209219</p><p>true</p><p>Community Support Services</p><p>Location/55e0d26a-084a-4fc2-892f-c6887227ef42</p><p>Location</p><p>Community Care Concepts of Woolwich, Wellesley and Wilmot Townships</p><p>Supports for older adults, and adults with disabilities * helps people \nremain independent in their own homes for as long as possible * referral\n to other community services &lt;br&gt;&lt;ul&gt;&lt;li&gt;assisted transportation&lt;/li&gt;&lt;li&gt;congregate dining&lt;/li&gt;&lt;li&gt;home help and homemaking&lt;/li&gt;&lt;li&gt;friendly visiting&lt;/li&gt;&lt;li&gt;maintenance in and out of the home&lt;/li&gt;&lt;li&gt;meals on wheels&lt;/li&gt;&lt;li&gt;adult day and alzheimers programs&lt;/li&gt;&lt;li&gt;home at last&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;BR&gt;&lt;BR&gt;&lt;B&gt;Services and Programs:&lt;/B&gt;&lt;UL&gt;&lt;LI&gt;Congregate Dining&lt;/LI&gt;&lt;LI&gt;Friendly Visiting&lt;/LI&gt;&lt;LI&gt;Home at Last&lt;/LI&gt;&lt;LI&gt;Meals on Wheels&lt;/LI&gt;&lt;LI&gt;Wilmot Adult Day Program&lt;/LI&gt;&lt;LI&gt;Woolwich Adult Day Program&lt;/LI&gt;&lt;/UL&gt;</p><p>Location/e5317ed2-b9f7-45fe-aed2-8ee9d8e57d5d</p><p>Location</p><p>Varies per program</p><p>Older adults and people with disabilities, who need physical, social, or emotional supports</p><p>Partially Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>Call * no referral required</p></div>",
+    "eligibility": [
+      "Older adults and people with disabilities, who need physical, social, or emotional supports"
+    ],
+    "characteristic": [
+      "Partially Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [
+      "Call * no referral required"
+    ],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-664-1900"
+          },
+          {
+            "phone": "1-855-664-1900"
+          },
+          {
+            "fax": "519-664-1944"
+          },
+          {
+            "email": "info@communitycareconcepts.ca"
+          },
+          {
+            "url": "communitycareconcepts.ca/index.htm"
+          }
+        ],
+        "address": {
+          "line": [
+            "929 Arthur St S"
+          ],
+          "city": "Elmira",
+          "state": "ON",
+          "postalCode": "N3B 2Z2"
+        },
+        "position": {
+          "longitude": -80.5543,
+          "latitude": 43.5538
+        }
+      }
+    ],
+    "contact_info": "phone: 519-664-1900, phone: 1-855-664-1900, fax: 519-664-1944, email: info@communitycareconcepts.ca, url: communitycareconcepts.ca/index.htm",
+    "description_of_this": "Supports for older adults, and adults with disabilities * helps people \nremain independent in their own homes for as long as possible * referral\n to other community services <br><ul><li>assisted transportation</li><li>congregate dining</li><li>home help and homemaking</li><li>friendly visiting</li><li>maintenance in and out of the home</li><li>meals on wheels</li><li>adult day and alzheimers programs</li><li>home at last<br></li></ul><BR><BR><B>Services and Programs:</B><UL><LI>Congregate Dining</LI><LI>Friendly Visiting</LI><LI>Home at Last</LI><LI>Meals on Wheels</LI><LI>Wilmot Adult Day Program</LI><LI>Woolwich Adult Day Program</LI></UL>, Codes: Varies per program, Features: Partially Accessible, Languages: English, Referral: Call * no referral required, Address: 929 Arthur St S, Elmira, ON, N3B 2Z2, Location: lat: 43.5538, lon: -80.5543, Contact: phone: 519-664-1900, phone: 1-855-664-1900, fax: 519-664-1944, email: info@communitycareconcepts.ca, url: communitycareconcepts.ca/index.htm"
+  }
+]

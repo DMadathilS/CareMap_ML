@@ -1,0 +1,54 @@
+[
+  {
+    "name": "IDA Pharmacy - Cambridge - Jamieson Pkwy (Townline)",
+    "active": true,
+    "category": [
+      "Pharmacies"
+    ],
+    "comment": "Compounding pharmacy<ul><li>treatment and prescription of medications for thirteen common medical \nailments, including rashes, pink eye, insect bites, and urinary tract infections</li><li>prescription of COVID-19 antiviral treatment (Paxlovid)</li><li>medication placed in pill organizers (containers for storing scheduled doses) at no extra cost</li><li>medication placed in blister packs (sealed, push-through packaging used to separate doses) at no extra cost</li><li>free delivery for prescriptions</li><li>pharmacist available for diabetes management consultations</li><li>basic home health care supplies</li><li>free seasonal flu vaccines<br><br></li></ul><b>Medications Return Program</b> - Safe disposal of expired or unused medications, creams, and inhalers<br><br><b>Pharmacy Smoking Cessation Program</b> - Help to quit smoking, available for Ontario Drug Benefit recipients<br><br><b>MedsCheck</b> - Appointments to review complex prescriptions with a pharmacist<br><br><b>Sharps Disposal Program</b> - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips",
+    "serviceProvisionCode": [
+      "Dispensing fee plus medication costs * prescribed medications may be covered by OHIP"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>d6b678b4-70a5-49c5-bde5-8907b7828439</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Cambridge</p><p>physical-location-postalcode</p><p>N3C 4N6</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>219969</p><p>true</p><p>Pharmacies</p><p>Location/a082f340-f53c-4334-a7bb-675db583045e</p><p>Location</p><p>IDA Pharmacy - Cambridge - Jamieson Pkwy (Townline)</p><p>Compounding pharmacy&lt;ul&gt;&lt;li&gt;treatment and prescription of medications for thirteen common medical \nailments, including rashes, pink eye, insect bites, and urinary tract infections&lt;/li&gt;&lt;li&gt;prescription of COVID-19 antiviral treatment (Paxlovid)&lt;/li&gt;&lt;li&gt;medication placed in pill organizers (containers for storing scheduled doses) at no extra cost&lt;/li&gt;&lt;li&gt;medication placed in blister packs (sealed, push-through packaging used to separate doses) at no extra cost&lt;/li&gt;&lt;li&gt;free delivery for prescriptions&lt;/li&gt;&lt;li&gt;pharmacist available for diabetes management consultations&lt;/li&gt;&lt;li&gt;basic home health care supplies&lt;/li&gt;&lt;li&gt;free seasonal flu vaccines&lt;br&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;b&gt;Medications Return Program&lt;/b&gt; - Safe disposal of expired or unused medications, creams, and inhalers&lt;br&gt;&lt;br&gt;&lt;b&gt;Pharmacy Smoking Cessation Program&lt;/b&gt; - Help to quit smoking, available for Ontario Drug Benefit recipients&lt;br&gt;&lt;br&gt;&lt;b&gt;MedsCheck&lt;/b&gt; - Appointments to review complex prescriptions with a pharmacist&lt;br&gt;&lt;br&gt;&lt;b&gt;Sharps Disposal Program&lt;/b&gt; - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips</p><p>Location/e8dd555a-773b-4dc9-b883-69694b8ef8c1</p><p>Location</p><p>Dispensing fee plus medication costs * prescribed medications may be covered by OHIP</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p></div>",
+    "eligibility": [],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-260-8000"
+          },
+          {
+            "fax": "519-260-8001"
+          },
+          {
+            "email": "townline@townlinepharmacy.com"
+          },
+          {
+            "url": "www.townlinepharmacy.com/"
+          }
+        ],
+        "address": {
+          "line": [
+            "940 Jamieson Pkwy, Unit B3"
+          ],
+          "city": "Cambridge",
+          "state": "ON",
+          "postalCode": "N3C 4N6"
+        },
+        "position": {
+          "longitude": -80.2848,
+          "latitude": 43.4237
+        }
+      }
+    ],
+    "contact_info": "phone: 519-260-8000, fax: 519-260-8001, email: townline@townlinepharmacy.com, url: www.townlinepharmacy.com/",
+    "description_of_this": "Compounding pharmacy<ul><li>treatment and prescription of medications for thirteen common medical \nailments, including rashes, pink eye, insect bites, and urinary tract infections</li><li>prescription of COVID-19 antiviral treatment (Paxlovid)</li><li>medication placed in pill organizers (containers for storing scheduled doses) at no extra cost</li><li>medication placed in blister packs (sealed, push-through packaging used to separate doses) at no extra cost</li><li>free delivery for prescriptions</li><li>pharmacist available for diabetes management consultations</li><li>basic home health care supplies</li><li>free seasonal flu vaccines<br><br></li></ul><b>Medications Return Program</b> - Safe disposal of expired or unused medications, creams, and inhalers<br><br><b>Pharmacy Smoking Cessation Program</b> - Help to quit smoking, available for Ontario Drug Benefit recipients<br><br><b>MedsCheck</b> - Appointments to review complex prescriptions with a pharmacist<br><br><b>Sharps Disposal Program</b> - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips, Codes: Dispensing fee plus medication costs * prescribed medications may be covered by OHIP, Features: Wheelchair Accessible, Languages: English, Address: 940 Jamieson Pkwy, Unit B3, Cambridge, ON, N3C 4N6, Location: lat: 43.4237, lon: -80.2848, Contact: phone: 519-260-8000, fax: 519-260-8001, email: townline@townlinepharmacy.com, url: www.townlinepharmacy.com/"
+  }
+]

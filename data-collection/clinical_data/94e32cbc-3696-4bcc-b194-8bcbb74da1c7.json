@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Pharmasave - Kitchener - Frederick St",
+    "active": true,
+    "category": [
+      "Pharmacies"
+    ],
+    "comment": "General pharmacy <br><ul><li> treatment and prescription of medications for thirteen common medical \nailments, including rashes, pink eye, insect bites, and urinary tract \ninfections\n </li><li> prescription of COVID-19 antiviral treatment (Paxlovid)</li><li>basic home health care supplies<br><br></li></ul><b>MedsCheck</b> - Appointments to review complex prescriptions with a pharmacist <br><br><b>Sharps Disposal Program</b> - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips",
+    "serviceProvisionCode": [
+      "Dispensing fee plus medication costs * prescribed medications may be covered by OHIP"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>94e32cbc-3696-4bcc-b194-8bcbb74da1c7</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Kitchener</p><p>physical-location-postalcode</p><p>N2H 2P5</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>219722</p><p>true</p><p>Pharmacies</p><p>Location/b9573557-1ea9-4c10-b70b-64b8d16607da</p><p>Location</p><p>Pharmasave - Kitchener - Frederick St</p><p>General pharmacy &lt;br&gt;&lt;ul&gt;&lt;li&gt; treatment and prescription of medications for thirteen common medical \nailments, including rashes, pink eye, insect bites, and urinary tract \ninfections\n &lt;/li&gt;&lt;li&gt; prescription of COVID-19 antiviral treatment (Paxlovid)&lt;/li&gt;&lt;li&gt;basic home health care supplies&lt;br&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;b&gt;MedsCheck&lt;/b&gt; - Appointments to review complex prescriptions with a pharmacist &lt;br&gt;&lt;br&gt;&lt;b&gt;Sharps Disposal Program&lt;/b&gt; - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips</p><p>Location/3fcc3423-296a-4360-803a-3ad0d14e427a</p><p>Location</p><p>Dispensing fee plus medication costs * prescribed medications may be covered by OHIP</p><p>Not Applicable</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p></div>",
+    "eligibility": [],
+    "characteristic": [
+      "Not Applicable"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "226-647-2700"
+          },
+          {
+            "fax": "519-340-1407"
+          },
+          {
+            "url": "pharmasavefrederick.ca/2266472700"
+          }
+        ],
+        "address": {
+          "line": [
+            "450 Frederick St, Unit 200"
+          ],
+          "city": "Kitchener",
+          "state": "ON",
+          "postalCode": "N2H 2P5"
+        },
+        "position": {
+          "longitude": -80.4728,
+          "latitude": 43.4587
+        }
+      }
+    ],
+    "contact_info": "phone: 226-647-2700, fax: 519-340-1407, url: pharmasavefrederick.ca/2266472700",
+    "description_of_this": "General pharmacy <br><ul><li> treatment and prescription of medications for thirteen common medical \nailments, including rashes, pink eye, insect bites, and urinary tract \ninfections\n </li><li> prescription of COVID-19 antiviral treatment (Paxlovid)</li><li>basic home health care supplies<br><br></li></ul><b>MedsCheck</b> - Appointments to review complex prescriptions with a pharmacist <br><br><b>Sharps Disposal Program</b> - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips, Codes: Dispensing fee plus medication costs * prescribed medications may be covered by OHIP, Features: Not Applicable, Languages: English, Address: 450 Frederick St, Unit 200, Kitchener, ON, N2H 2P5, Location: lat: 43.4587, lon: -80.4728"
+  }
+]

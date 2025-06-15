@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Ottawa and River Walk-In Clinic",
+    "active": true,
+    "category": [
+      "Walk-In Medical Clinics"
+    ],
+    "comment": "Walk-in medical clinic * doctors and nurses assess and treat minor illnesses and injuries <br><br><b>Services include:</b><ul><li>weight loss management</li><li>childhood and adult vaccinations</li><li>sexually transmitted infections testing and treatment</li><li>minor procedures</li></ul>",
+    "serviceProvisionCode": [
+      "Most services covered by OHIP"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>320a6ac2-e496-403b-bce9-868f8372c24b</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Kitchener</p><p>physical-location-postalcode</p><p>N2A 3Z3</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>221696</p><p>true</p><p>Walk-In Medical Clinics</p><p>Location/c8d91f9a-d1d4-46e1-9126-0c1b288b3f58</p><p>Location</p><p>Ottawa and River Walk-In Clinic</p><p>Walk-in medical clinic * doctors and nurses assess and treat minor illnesses and injuries &lt;br&gt;&lt;br&gt;&lt;b&gt;Services include:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;weight loss management&lt;/li&gt;&lt;li&gt;childhood and adult vaccinations&lt;/li&gt;&lt;li&gt;sexually transmitted infections testing and treatment&lt;/li&gt;&lt;li&gt;minor procedures&lt;/li&gt;&lt;/ul&gt;</p><p>Location/5e57abfb-ab1a-4b62-8ab4-2d8c1ed5b9a2</p><p>Location</p><p>Most services covered by OHIP</p><p>People who need medical care for minor illnesses and injuries</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>Call or visit * no referral required</p></div>",
+    "eligibility": [
+      "People who need medical care for minor illnesses and injuries"
+    ],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [
+      "Call or visit * no referral required"
+    ],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "647-360-2218"
+          },
+          {
+            "fax": "647-480-6309"
+          },
+          {
+            "email": "ottawariver@verismohealth.com"
+          },
+          {
+            "url": "www.ottawariverclinic.com"
+          }
+        ],
+        "address": {
+          "line": [
+            "1020 Ottawa St N, Unit 110"
+          ],
+          "city": "Kitchener",
+          "state": "ON",
+          "postalCode": "N2A 3Z3"
+        },
+        "position": {
+          "longitude": -80.4428,
+          "latitude": 43.452
+        }
+      }
+    ],
+    "contact_info": "phone: 647-360-2218, fax: 647-480-6309, email: ottawariver@verismohealth.com, url: www.ottawariverclinic.com",
+    "description_of_this": "Walk-in medical clinic * doctors and nurses assess and treat minor illnesses and injuries <br><br><b>Services include:</b><ul><li>weight loss management</li><li>childhood and adult vaccinations</li><li>sexually transmitted infections testing and treatment</li><li>minor procedures</li></ul>, Codes: Most services covered by OHIP, Features: Wheelchair Accessible, Languages: English, Referral: Call or visit * no referral required, Address: 1020 Ottawa St N, Unit 110, Kitchener, ON, N2A 3Z3, Location: lat: 43.452, lon: -80.4428"
+  }
+]

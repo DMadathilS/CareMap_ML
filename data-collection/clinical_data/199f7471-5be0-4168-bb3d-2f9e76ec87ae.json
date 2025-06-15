@@ -1,0 +1,54 @@
+[
+  {
+    "name": "Rexall Pharmacy - Guelph - Silvercreek Pkwy N",
+    "active": true,
+    "category": [
+      "Pharmacies"
+    ],
+    "comment": "General pharmacy<ul><li> treatment and prescription of medications for common medical \nailments, including rashes, pink eye, insect bites, acne, and urinary \ntract infections<br></li><li> prescription of COVID-19 antiviral treatment (Paxlovid)</li><li>free seasonal flu vaccines <br></li><li>medication placed in blister packs (sealed, push-through packaging used to separate doses) at no extra cost</li><li>pharmacist available for diabetes management consultations</li><li>basic home health care supplies</li><li>basic compounding<br></li></ul><br><b>MedsCheck</b> - Appointments to review complex prescriptions with a pharmacist<br><br><b>Medications Return Program</b> - Safe disposal of expired or unused medications, creams, and inhalers<br><br><b>Sharps Disposal Program</b> - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips",
+    "serviceProvisionCode": [
+      "Dispensing fee plus medication costs * prescribed medications may be covered by OHIP"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>199f7471-5be0-4168-bb3d-2f9e76ec87ae</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Guelph</p><p>physical-location-postalcode</p><p>N1H 6S4</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>208749</p><p>true</p><p>Pharmacies</p><p>Location/bbbed4fa-3182-4981-a9a2-458c385b84e1</p><p>Location</p><p>Rexall Pharmacy - Guelph - Silvercreek Pkwy N</p><p>General pharmacy&lt;ul&gt;&lt;li&gt; treatment and prescription of medications for common medical \nailments, including rashes, pink eye, insect bites, acne, and urinary \ntract infections&lt;br&gt;&lt;/li&gt;&lt;li&gt; prescription of COVID-19 antiviral treatment (Paxlovid)&lt;/li&gt;&lt;li&gt;free seasonal flu vaccines &lt;br&gt;&lt;/li&gt;&lt;li&gt;medication placed in blister packs (sealed, push-through packaging used to separate doses) at no extra cost&lt;/li&gt;&lt;li&gt;pharmacist available for diabetes management consultations&lt;/li&gt;&lt;li&gt;basic home health care supplies&lt;/li&gt;&lt;li&gt;basic compounding&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;b&gt;MedsCheck&lt;/b&gt; - Appointments to review complex prescriptions with a pharmacist&lt;br&gt;&lt;br&gt;&lt;b&gt;Medications Return Program&lt;/b&gt; - Safe disposal of expired or unused medications, creams, and inhalers&lt;br&gt;&lt;br&gt;&lt;b&gt;Sharps Disposal Program&lt;/b&gt; - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips</p><p>Location/98ef6d57-d9d1-42ad-b53b-707d332d80f4</p><p>Location</p><p>Dispensing fee plus medication costs * prescribed medications may be covered by OHIP</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p></div>",
+    "eligibility": [],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-822-8000"
+          },
+          {
+            "fax": "519-822-8600"
+          },
+          {
+            "email": "8171rx@rexall.ca"
+          },
+          {
+            "url": "www.rexall.ca/storelocator/store/8171"
+          }
+        ],
+        "address": {
+          "line": [
+            "105 Silvercreek Pkwy N, Suite 103"
+          ],
+          "city": "Guelph",
+          "state": "ON",
+          "postalCode": "N1H 6S4"
+        },
+        "position": {
+          "longitude": -80.2779,
+          "latitude": 43.5391
+        }
+      }
+    ],
+    "contact_info": "phone: 519-822-8000, fax: 519-822-8600, email: 8171rx@rexall.ca, url: www.rexall.ca/storelocator/store/8171",
+    "description_of_this": "General pharmacy<ul><li> treatment and prescription of medications for common medical \nailments, including rashes, pink eye, insect bites, acne, and urinary \ntract infections<br></li><li> prescription of COVID-19 antiviral treatment (Paxlovid)</li><li>free seasonal flu vaccines <br></li><li>medication placed in blister packs (sealed, push-through packaging used to separate doses) at no extra cost</li><li>pharmacist available for diabetes management consultations</li><li>basic home health care supplies</li><li>basic compounding<br></li></ul><br><b>MedsCheck</b> - Appointments to review complex prescriptions with a pharmacist<br><br><b>Medications Return Program</b> - Safe disposal of expired or unused medications, creams, and inhalers<br><br><b>Sharps Disposal Program</b> - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips, Codes: Dispensing fee plus medication costs * prescribed medications may be covered by OHIP, Features: Wheelchair Accessible, Languages: English, Address: 105 Silvercreek Pkwy N, Suite 103, Guelph, ON, N1H 6S4, Location: lat: 43.5391, lon: -80.2779"
+  }
+]

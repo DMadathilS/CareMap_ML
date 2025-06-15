@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Two Rivers Family Health Team - Hespeler Medical Clinic",
+    "active": true,
+    "category": [
+      "Diabetes Education Programs"
+    ],
+    "comment": "Supports for people living with prediabetes or diabetes * one-on-one or group consultation on monitoring blood sugar levels, medications, healthy eating, exercise, and other lifestyle choices * registered nurse and dietitian on staff<ul><li>glucose screening clinics</li></ul>",
+    "serviceProvisionCode": [
+      "Most services covered by OHIP"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>eb77f4d3-03f5-4d9a-87f7-cd22ca7413d7</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Cambridge</p><p>physical-location-postalcode</p><p>N1R 7L7</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>172855</p><p>true</p><p>Diabetes Education Programs</p><p>Location/aeccc539-c647-4b5d-8a9f-6cf928432bf0</p><p>Location</p><p>Two Rivers Family Health Team - Hespeler Medical Clinic</p><p>Supports for people living with prediabetes or diabetes * one-on-one or group consultation on monitoring blood sugar levels, medications, healthy eating, exercise, and other lifestyle choices * registered nurse and dietitian on staff&lt;ul&gt;&lt;li&gt;glucose screening clinics&lt;/li&gt;&lt;/ul&gt;</p><p>Location/8e16ef7b-f8c3-4b30-b65a-0f7923656ce3</p><p>Location</p><p>Most services covered by OHIP</p><p>Adults 18 years and older with pre-diabetes, type 1 diabetes and type 2 diabetes, gestational diabetes and people at risk for diabetes</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>Self-referral or by referral of a physician or nurse practitioner</p></div>",
+    "eligibility": [
+      "Adults 18 years and older with pre-diabetes, type 1 diabetes and type 2 diabetes, gestational diabetes and people at risk for diabetes"
+    ],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [
+      "Self-referral or by referral of a physician or nurse practitioner"
+    ],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-629-4615 ext 1"
+          },
+          {
+            "fax": "519-629-4630"
+          },
+          {
+            "email": "admin@tworiversfht.ca"
+          },
+          {
+            "url": "tworiversfht.ca/programs-services/diabetes-education-program/"
+          }
+        ],
+        "address": {
+          "line": [
+            "350 Conestoga Blvd, Unit B15"
+          ],
+          "city": "Cambridge",
+          "state": "ON",
+          "postalCode": "N1R 7L7"
+        },
+        "position": {
+          "longitude": -80.3137,
+          "latitude": 43.39
+        }
+      }
+    ],
+    "contact_info": "phone: 519-629-4615 ext 1, fax: 519-629-4630, email: admin@tworiversfht.ca, url: tworiversfht.ca/programs-services/diabetes-education-program/",
+    "description_of_this": "Supports for people living with prediabetes or diabetes * one-on-one or group consultation on monitoring blood sugar levels, medications, healthy eating, exercise, and other lifestyle choices * registered nurse and dietitian on staff<ul><li>glucose screening clinics</li></ul>, Codes: Most services covered by OHIP, Features: Wheelchair Accessible, Languages: English, Referral: Self-referral or by referral of a physician or nurse practitioner, Address: 350 Conestoga Blvd, Unit B15, Cambridge, ON, N1R 7L7, Location: lat: 43.39, lon: -80.3137, Contact: phone: 519-629-4615 ext 1, fax: 519-629-4630, email: admin@tworiversfht.ca, url: tworiversfht.ca/programs-services/diabetes-education-program/"
+  }
+]

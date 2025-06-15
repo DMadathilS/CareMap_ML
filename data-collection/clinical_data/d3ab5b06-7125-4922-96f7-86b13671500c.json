@@ -1,0 +1,54 @@
+[
+  {
+    "name": "Parkway Pharmacy",
+    "active": true,
+    "category": [
+      "Pharmacies"
+    ],
+    "comment": "General pharmacy<ul><li>treatment and prescription of medications for thirteen common medical \nailments, including rashes, pink eye, insect bites, and urinary tract infections</li><li>medication placed in pill organizers (containers for storing scheduled doses) at no extra cost</li><li>medication placed in blister packs (sealed, push-through packaging used to separate doses) at no extra cost</li><li>pharmacist available for diabetes management consultations</li><li>basic home health care supplies</li><li>free seasonal flu vaccines<br><br></li></ul><b>Medications Return Program</b> - Safe disposal of expired or unused medications, creams, and inhalers<br><br><b>MedsCheck</b> - Appointments to review complex prescriptions with a pharmacist<br><br><b>Sharps Disposal Program</b> - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips",
+    "serviceProvisionCode": [
+      "Dispensing fee plus medication costs * prescribed medications may be covered by OHIP"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>d3ab5b06-7125-4922-96f7-86b13671500c</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Cambridge</p><p>physical-location-postalcode</p><p>N3H 5E8</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>219899</p><p>true</p><p>Pharmacies</p><p>Location/d606065a-e6d8-459c-9584-fa9e58dbc4af</p><p>Location</p><p>Parkway Pharmacy</p><p>General pharmacy&lt;ul&gt;&lt;li&gt;treatment and prescription of medications for thirteen common medical \nailments, including rashes, pink eye, insect bites, and urinary tract infections&lt;/li&gt;&lt;li&gt;medication placed in pill organizers (containers for storing scheduled doses) at no extra cost&lt;/li&gt;&lt;li&gt;medication placed in blister packs (sealed, push-through packaging used to separate doses) at no extra cost&lt;/li&gt;&lt;li&gt;pharmacist available for diabetes management consultations&lt;/li&gt;&lt;li&gt;basic home health care supplies&lt;/li&gt;&lt;li&gt;free seasonal flu vaccines&lt;br&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;b&gt;Medications Return Program&lt;/b&gt; - Safe disposal of expired or unused medications, creams, and inhalers&lt;br&gt;&lt;br&gt;&lt;b&gt;MedsCheck&lt;/b&gt; - Appointments to review complex prescriptions with a pharmacist&lt;br&gt;&lt;br&gt;&lt;b&gt;Sharps Disposal Program&lt;/b&gt; - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips</p><p>Location/527e7c4f-9d5b-45b7-8e47-f56ad77b840f</p><p>Location</p><p>Dispensing fee plus medication costs * prescribed medications may be covered by OHIP</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p></div>",
+    "eligibility": [],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-650-5600"
+          },
+          {
+            "fax": "519-650-9300"
+          },
+          {
+            "email": "prestonparkrx@gmail.com"
+          },
+          {
+            "url": "www.parkwayrx.ca/"
+          }
+        ],
+        "address": {
+          "line": [
+            "201 Preston Pkwy, Unit C"
+          ],
+          "city": "Cambridge",
+          "state": "ON",
+          "postalCode": "N3H 5E8"
+        },
+        "position": {
+          "longitude": -80.3762,
+          "latitude": 43.3991
+        }
+      }
+    ],
+    "contact_info": "phone: 519-650-5600, fax: 519-650-9300, email: prestonparkrx@gmail.com, url: www.parkwayrx.ca/",
+    "description_of_this": "General pharmacy<ul><li>treatment and prescription of medications for thirteen common medical \nailments, including rashes, pink eye, insect bites, and urinary tract infections</li><li>medication placed in pill organizers (containers for storing scheduled doses) at no extra cost</li><li>medication placed in blister packs (sealed, push-through packaging used to separate doses) at no extra cost</li><li>pharmacist available for diabetes management consultations</li><li>basic home health care supplies</li><li>free seasonal flu vaccines<br><br></li></ul><b>Medications Return Program</b> - Safe disposal of expired or unused medications, creams, and inhalers<br><br><b>MedsCheck</b> - Appointments to review complex prescriptions with a pharmacist<br><br><b>Sharps Disposal Program</b> - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips, Codes: Dispensing fee plus medication costs * prescribed medications may be covered by OHIP, Features: Wheelchair Accessible, Languages: English, Address: 201 Preston Pkwy, Unit C, Cambridge, ON, N3H 5E8, Location: lat: 43.3991, lon: -80.3762, Contact: phone: 519-650-5600, fax: 519-650-9300, email: prestonparkrx@gmail.com, url: www.parkwayrx.ca/"
+  }
+]

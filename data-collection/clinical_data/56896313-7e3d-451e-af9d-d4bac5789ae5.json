@@ -1,0 +1,60 @@
+[
+  {
+    "name": "Conestoga College Institute of Technology and Advanced Learning - Medical Care Clinic",
+    "active": true,
+    "category": [
+      "Sexual Health Clinics"
+    ],
+    "comment": "Conestoga College community medical clinic * health professionals assess and treat minor infections and injuries <br><ul><li>general counselling</li><li>immunizations</li><li>birth control counselling</li><li>sexual health information and counselling</li><li>testing for sexually transmitted infections\n </li><li>testing and treatment for sexually transmitted infections</li></ul>",
+    "serviceProvisionCode": [
+      "Free testing and treatment of sexual transmitted infections"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>56896313-7e3d-451e-af9d-d4bac5789ae5</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Kitchener</p><p>physical-location-postalcode</p><p>N2G 4M4</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>210176</p><p>true</p><p>Sexual Health Clinics</p><p>Location/d6dffcea-82e6-4606-ab85-fa396e8a1435</p><p>Location</p><p>Conestoga College Institute of Technology and Advanced Learning - Medical Care Clinic</p><p>Conestoga College community medical clinic * health professionals assess and treat minor infections and injuries &lt;br&gt;&lt;ul&gt;&lt;li&gt;general counselling&lt;/li&gt;&lt;li&gt;immunizations&lt;/li&gt;&lt;li&gt;birth control counselling&lt;/li&gt;&lt;li&gt;sexual health information and counselling&lt;/li&gt;&lt;li&gt;testing for sexually transmitted infections\n &lt;/li&gt;&lt;li&gt;testing and treatment for sexually transmitted infections&lt;/li&gt;&lt;/ul&gt;</p><p>Location/831594ee-f4f7-4a94-9648-0fa1ede4e53a</p><p>Location</p><p>Free testing and treatment of sexual transmitted infections</p><p>Students and staff who need medical care * valid health card required</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>Call for appointment * no referral required</p></div>",
+    "eligibility": [
+      "Students and staff who need medical care * valid health card required"
+    ],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [
+      "Call for appointment * no referral required"
+    ],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-748-5220 ext 3679"
+          },
+          {
+            "fax": "519-748-3509"
+          },
+          {
+            "email": "medicalcare@conestogac.on.ca"
+          },
+          {
+            "url": "studentsuccess.conestogac.on.ca/myWellness/medicalcare"
+          }
+        ],
+        "address": {
+          "line": [
+            "Main Building, Student Life Centre",
+            "1A102",
+            "229 Doon Valley Dr"
+          ],
+          "city": "Kitchener",
+          "state": "ON",
+          "postalCode": "N2G 4M4"
+        },
+        "position": {
+          "longitude": -80.4087,
+          "latitude": 43.3916
+        }
+      }
+    ],
+    "contact_info": "phone: 519-748-5220 ext 3679, fax: 519-748-3509, email: medicalcare@conestogac.on.ca, url: studentsuccess.conestogac.on.ca/myWellness/medicalcare",
+    "description_of_this": "Conestoga College community medical clinic * health professionals assess and treat minor infections and injuries <br><ul><li>general counselling</li><li>immunizations</li><li>birth control counselling</li><li>sexual health information and counselling</li><li>testing for sexually transmitted infections\n </li><li>testing and treatment for sexually transmitted infections</li></ul>, Codes: Free testing and treatment of sexual transmitted infections, Features: Wheelchair Accessible, Languages: English, Referral: Call for appointment * no referral required, Address: Main Building, Student Life Centre, 1A102, 229 Doon Valley Dr, Kitchener, ON, N2G 4M4, Location: lat: 43.3916, lon: -80.4087"
+  }
+]

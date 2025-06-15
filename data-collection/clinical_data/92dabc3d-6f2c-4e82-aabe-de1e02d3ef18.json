@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Alzheimer Society Waterloo Wellington - Kitchener",
+    "active": true,
+    "category": [
+      "Caregiver Support Services"
+    ],
+    "comment": "Networking for people affected by Alzheimer's disease or a related \ndementia, to a community of learning, services and support * one-on-one \ncounselling * caregiver support groups * referral to community resources\n by phone, drop in, or home visit * First Link Learning Series offered \nregularly in various locations",
+    "serviceProvisionCode": [
+      "Free"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>92dabc3d-6f2c-4e82-aabe-de1e02d3ef18</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Kitchener</p><p>physical-location-postalcode</p><p>N2B 2B4</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>209377</p><p>true</p><p>Caregiver Support Services</p><p>Location/26fce875-2e2a-48ff-9f0e-8fc6fa22036a</p><p>Location</p><p>Alzheimer Society Waterloo Wellington - Kitchener</p><p>Networking for people affected by Alzheimer's disease or a related \ndementia, to a community of learning, services and support * one-on-one \ncounselling * caregiver support groups * referral to community resources\n by phone, drop in, or home visit * First Link Learning Series offered \nregularly in various locations</p><p>Location/760eb44c-3855-42de-a5d4-9774a43f89f0</p><p>Location</p><p>Free</p><p>People who regularly provide physical, social, or emotional supports</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>Call * no referral required</p></div>",
+    "eligibility": [
+      "People who regularly provide physical, social, or emotional supports"
+    ],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [
+      "Call * no referral required"
+    ],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-742-1422"
+          },
+          {
+            "fax": "519-742-1862"
+          },
+          {
+            "email": "asww@alzheimerww.ca"
+          },
+          {
+            "url": "alzheimer.ca/ww/en/help-support/programs-services/first-linkr"
+          }
+        ],
+        "address": {
+          "line": [
+            "831 Frederick St"
+          ],
+          "city": "Kitchener",
+          "state": "ON",
+          "postalCode": "N2B 2B4"
+        },
+        "position": {
+          "longitude": -80.4587,
+          "latitude": 43.4633
+        }
+      }
+    ],
+    "contact_info": "phone: 519-742-1422, fax: 519-742-1862, email: asww@alzheimerww.ca, url: alzheimer.ca/ww/en/help-support/programs-services/first-linkr",
+    "description_of_this": "Networking for people affected by Alzheimer's disease or a related \ndementia, to a community of learning, services and support * one-on-one \ncounselling * caregiver support groups * referral to community resources\n by phone, drop in, or home visit * First Link Learning Series offered \nregularly in various locations, Codes: Free, Features: Wheelchair Accessible, Languages: English, Referral: Call * no referral required, Address: 831 Frederick St, Kitchener, ON, N2B 2B4, Location: lat: 43.4633, lon: -80.4587"
+  }
+]

@@ -1,0 +1,59 @@
+[
+  {
+    "name": "Grand River Hospital to Waterloo Regional Health Network (WHRN) - WRHN at Midtown",
+    "active": true,
+    "category": [
+      "Diabetes Education Programs"
+    ],
+    "comment": "Diabetes education for children and adolescents * children, adolescents and their families receive interdisciplinary care * follow-up is maintained at regular three month intervals for ongoing support and education * team members involved are nurses, dietitians, social workers, child life and art therapy instructors, endocrinologist and psychologist by referral * fully developed insulin pump program",
+    "serviceProvisionCode": [
+      "None"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>bac9a516-17bc-4fc4-a760-8d8efd60cab8</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Kitchener</p><p>physical-location-postalcode</p><p>N2G 1G3</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>100950</p><p>true</p><p>Diabetes Education Programs</p><p>Location/e2cb2252-eb26-489d-b947-e4ea9dd63b68</p><p>Location</p><p>Grand River Hospital to Waterloo Regional Health Network (WHRN) - WRHN at Midtown</p><p>Diabetes education for children and adolescents * children, adolescents and their families receive interdisciplinary care * follow-up is maintained at regular three month intervals for ongoing support and education * team members involved are nurses, dietitians, social workers, child life and art therapy instructors, endocrinologist and psychologist by referral * fully developed insulin pump program</p><p>Location/d8cb63dd-0b43-472b-9738-4d67659ee470</p><p>Location</p><p>None</p><p>Child and youth up to 18 years with diabetes and their families</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>Medical referral required</p></div>",
+    "eligibility": [
+      "Child and youth up to 18 years with diabetes and their families"
+    ],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [
+      "Medical referral required"
+    ],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-749-4300 ext 2491"
+          },
+          {
+            "fax": "519-749-4206"
+          },
+          {
+            "email": "childservices@grhosp.on.ca"
+          },
+          {
+            "url": "www.grhosp.on.ca/care/services-departments/childrens-program/childrens-outpatient-services/additional-services-and-clinics"
+          }
+        ],
+        "address": {
+          "line": [
+            "3rd Fl, A Wing",
+            "835 King St W"
+          ],
+          "city": "Kitchener",
+          "state": "ON",
+          "postalCode": "N2G 1G3"
+        },
+        "position": {
+          "longitude": -80.5122248,
+          "latitude": 43.4564654
+        }
+      }
+    ],
+    "contact_info": "phone: 519-749-4300 ext 2491, fax: 519-749-4206, email: childservices@grhosp.on.ca, url: www.grhosp.on.ca/care/services-departments/childrens-program/childrens-outpatient-services/additional-services-and-clinics",
+    "description_of_this": "Diabetes education for children and adolescents * children, adolescents and their families receive interdisciplinary care * follow-up is maintained at regular three month intervals for ongoing support and education * team members involved are nurses, dietitians, social workers, child life and art therapy instructors, endocrinologist and psychologist by referral * fully developed insulin pump program, Codes: None, Features: Wheelchair Accessible, Languages: English, Referral: Medical referral required, Address: 3rd Fl, A Wing, 835 King St W, Kitchener, ON, N2G 1G3, Location: lat: 43.4564654, lon: -80.5122248"
+  }
+]

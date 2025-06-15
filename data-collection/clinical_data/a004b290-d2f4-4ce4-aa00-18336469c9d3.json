@@ -1,0 +1,59 @@
+[
+  {
+    "name": "Waterloo Wellington Hospice Palliative Care Consultation Services",
+    "active": true,
+    "category": [
+      "Palliative Care Education and Consultation Programs"
+    ],
+    "comment": "Education and consultation to service providers offering end-of-life \ncare * sessions includes basic and advance palliative-care training * \nconsultation regarding pain and symptom management",
+    "serviceProvisionCode": [
+      "Free"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>a004b290-d2f4-4ce4-aa00-18336469c9d3</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Waterloo</p><p>physical-location-postalcode</p><p>N2K 0G3</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>209418</p><p>true</p><p>Palliative Care Education and Consultation Programs</p><p>Location/e14e684b-5de9-422d-98a9-516526264ded</p><p>Location</p><p>Waterloo Wellington Hospice Palliative Care Consultation Services</p><p>Education and consultation to service providers offering end-of-life \ncare * sessions includes basic and advance palliative-care training * \nconsultation regarding pain and symptom management</p><p>Location/1e56e6a4-2d84-4dbe-bd81-ce5ff7cb0c55</p><p>Location</p><p>Free</p><p>Service providers offering end-of-life care</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>Call * no referral required</p></div>",
+    "eligibility": [
+      "Service providers offering end-of-life care"
+    ],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [
+      "Call * no referral required"
+    ],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-743-4114 ext 129"
+          },
+          {
+            "fax": "519-743-7021"
+          },
+          {
+            "email": "hpcinfo@hospicewaterloo.ca"
+          },
+          {
+            "url": "www.hpcconnection.ca"
+          }
+        ],
+        "address": {
+          "line": [
+            "Hospice of Waterloo Region",
+            "100 Solstice Way"
+          ],
+          "city": "Waterloo",
+          "state": "ON",
+          "postalCode": "N2K 0G3"
+        },
+        "position": {
+          "longitude": -80.5056,
+          "latitude": 43.5164
+        }
+      }
+    ],
+    "contact_info": "phone: 519-743-4114 ext 129, fax: 519-743-7021, email: hpcinfo@hospicewaterloo.ca, url: www.hpcconnection.ca",
+    "description_of_this": "Education and consultation to service providers offering end-of-life \ncare * sessions includes basic and advance palliative-care training * \nconsultation regarding pain and symptom management, Codes: Free, Features: Wheelchair Accessible, Languages: English, Referral: Call * no referral required, Address: Hospice of Waterloo Region, 100 Solstice Way, Waterloo, ON, N2K 0G3, Location: lat: 43.5164, lon: -80.5056"
+  }
+]

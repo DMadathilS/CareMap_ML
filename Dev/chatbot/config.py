@@ -29,4 +29,4 @@ tool_llm = ChatGroq(model=LLM_MODEL, temperature=0.0, max_tokens=200, api_key=os
 
 # Constants
 PAGE_SIZE = 5
-REALTIME_PATH = "Real-time/latest.json"
+REALTIME_PATH = "data-collection/Real-time/latest.json"

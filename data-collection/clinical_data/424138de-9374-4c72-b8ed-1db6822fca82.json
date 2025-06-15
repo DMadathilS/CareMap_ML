@@ -1,0 +1,60 @@
+[
+  {
+    "name": "PeopleCare - AR Goudie Kitchener",
+    "active": true,
+    "category": [
+      "Long-Term Care Homes"
+    ],
+    "comment": "80-bed long-term care home * residential care for private rooms, semi-private rooms, and basic rooms\n* 24-hour nursing and personal care * access to a doctor and other health professionals<br><ul><li>bedding and furniture</li><li>laundry and housekeeping</li><li>meals</li><li>personal hygiene supplies</li><li>medical supplies and equipment (such as catheters, ostomy bags, or wound care supplies) </li><li>assistance with medication and activities of daily living</li><li>spiritual care</li><li>recreation and social programs</li></ul>",
+    "serviceProvisionCode": [
+      "Rates set by the Ontario Ministry of Long-Term Care * subsidies for basic rates may be available for eligible applicants"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>424138de-9374-4c72-b8ed-1db6822fca82</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Kitchener</p><p>physical-location-postalcode</p><p>N2H 2P1</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>102366</p><p>true</p><p>Long-Term Care Homes</p><p>Location/a19dd0cd-ba7b-4034-9ce9-eeb33aeb7618</p><p>Location</p><p>PeopleCare - AR Goudie Kitchener</p><p>80-bed long-term care home * residential care for private rooms, semi-private rooms, and basic rooms\n* 24-hour nursing and personal care * access to a doctor and other health professionals&lt;br&gt;&lt;ul&gt;&lt;li&gt;bedding and furniture&lt;/li&gt;&lt;li&gt;laundry and housekeeping&lt;/li&gt;&lt;li&gt;meals&lt;/li&gt;&lt;li&gt;personal hygiene supplies&lt;/li&gt;&lt;li&gt;medical supplies and equipment (such as catheters, ostomy bags, or wound care supplies) &lt;/li&gt;&lt;li&gt;assistance with medication and activities of daily living&lt;/li&gt;&lt;li&gt;spiritual care&lt;/li&gt;&lt;li&gt;recreation and social programs&lt;/li&gt;&lt;/ul&gt;</p><p>Location/4c1a5979-419f-46fb-b68f-57eb0785acd4</p><p>Location</p><p>Rates set by the Ontario Ministry of Long-Term Care * subsidies for basic rates may be available for eligible applicants</p><p>Adults who need long-term care * care coordinators assess the needs of applicants</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>deu</p><p>German</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>rus</p><p>Russian</p><p>Contact Ontario Health atHome Waterloo-Wellington</p></div>",
+    "eligibility": [
+      "Adults who need long-term care * care coordinators assess the needs of applicants"
+    ],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English",
+      "German",
+      "Russian"
+    ],
+    "referralMethod": [
+      "Contact Ontario Health atHome Waterloo-Wellington"
+    ],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-744-5182"
+          },
+          {
+            "fax": "519-744-3887"
+          },
+          {
+            "email": "info-argoudie@peoplecare.ca"
+          },
+          {
+            "url": "peoplecare.ca/long-term-care/ar-goudie/"
+          }
+        ],
+        "address": {
+          "line": [
+            "369 Frederick St"
+          ],
+          "city": "Kitchener",
+          "state": "ON",
+          "postalCode": "N2H 2P1"
+        },
+        "position": {
+          "longitude": -80.475159,
+          "latitude": 43.457212
+        }
+      }
+    ],
+    "contact_info": "phone: 519-744-5182, fax: 519-744-3887, email: info-argoudie@peoplecare.ca, url: peoplecare.ca/long-term-care/ar-goudie/",
+    "description_of_this": "80-bed long-term care home * residential care for private rooms, semi-private rooms, and basic rooms\n* 24-hour nursing and personal care * access to a doctor and other health professionals<br><ul><li>bedding and furniture</li><li>laundry and housekeeping</li><li>meals</li><li>personal hygiene supplies</li><li>medical supplies and equipment (such as catheters, ostomy bags, or wound care supplies) </li><li>assistance with medication and activities of daily living</li><li>spiritual care</li><li>recreation and social programs</li></ul>, Codes: Rates set by the Ontario Ministry of Long-Term Care * subsidies for basic rates may be available for eligible applicants, Features: Wheelchair Accessible, Languages: English, German, Russian, Referral: Contact Ontario Health atHome Waterloo-Wellington, Address: 369 Frederick St, Kitchener, ON, N2H 2P1, Location: lat: 43.457212, lon: -80.475159"
+  }
+]

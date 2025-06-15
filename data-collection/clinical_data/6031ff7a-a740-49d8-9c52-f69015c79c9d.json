@@ -1,0 +1,55 @@
+[
+  {
+    "name": "Cambridge Memorial Hospital - Emergency Department",
+    "active": true,
+    "category": [
+      "Emergency Departments"
+    ],
+    "comment": "Emergency room care * doctors, nurses, and other health professionals assess and treat life-threatening injuries or severe illness\n<br><br>\n<b>Emergency Department Wait Times:</b> <a href=\"https://www.cmh.org/services/emergency-department/wait-time-clock\" target=\"_blank\">www.cmh.org/services/emergency-department/wait-time-clock</a>",
+    "serviceProvisionCode": [
+      "Most services covered by OHIP"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>6031ff7a-a740-49d8-9c52-f69015c79c9d</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Cambridge</p><p>physical-location-postalcode</p><p>N1R 3G2</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>154965</p><p>true</p><p>Emergency Departments</p><p>Location/f7d07589-30ee-413c-bf2f-857ea8d44881</p><p>Location</p><p>Cambridge Memorial Hospital - Emergency Department</p><p>Emergency room care * doctors, nurses, and other health professionals assess and treat life-threatening injuries or severe illness\n&lt;br&gt;&lt;br&gt;\n&lt;b&gt;Emergency Department Wait Times:&lt;/b&gt; &lt;a href=&quot;https://www.cmh.org/services/emergency-department/wait-time-clock&quot; target=&quot;_blank&quot;&gt;www.cmh.org/services/emergency-department/wait-time-clock&lt;/a&gt;</p><p>Location/7a97314e-d59f-410c-a45d-20f9afccd73e</p><p>Location</p><p>Most services covered by OHIP</p><p>People who need medical care for serious illnesses and injuries</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>No referral required * call or walk-in</p></div>",
+    "eligibility": [
+      "People who need medical care for serious illnesses and injuries"
+    ],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [
+      "No referral required * call or walk-in"
+    ],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-740-4922"
+          },
+          {
+            "phone": "Call <b>911</b> in emergencies"
+          },
+          {
+            "url": "www.cmh.org/services/emergency"
+          }
+        ],
+        "address": {
+          "line": [
+            "700 Coronation Blvd"
+          ],
+          "city": "Cambridge",
+          "state": "ON",
+          "postalCode": "N1R 3G2"
+        },
+        "position": {
+          "longitude": -80.3281,
+          "latitude": 43.3781
+        }
+      }
+    ],
+    "contact_info": "phone: 519-740-4922, phone: Call <b>911</b> in emergencies, url: www.cmh.org/services/emergency",
+    "description_of_this": "Emergency room care * doctors, nurses, and other health professionals assess and treat life-threatening injuries or severe illness\n<br><br>\n<b>Emergency Department Wait Times:</b> <a href=\"https://www.cmh.org/services/emergency-department/wait-time-clock\" target=\"_blank\">www.cmh.org/services/emergency-department/wait-time-clock</a>, Codes: Most services covered by OHIP, Features: Wheelchair Accessible, Languages: English, Referral: No referral required * call or walk-in, Address: 700 Coronation Blvd, Cambridge, ON, N1R 3G2, Location: lat: 43.3781, lon: -80.3281"
+  }
+]

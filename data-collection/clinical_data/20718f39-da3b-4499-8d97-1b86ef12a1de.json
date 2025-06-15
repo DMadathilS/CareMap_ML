@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Langs - North Dumfries - Community Health Centre",
+    "active": true,
+    "category": [
+      "Community Health Centres"
+    ],
+    "comment": "Health centre focused on family and community health * health \nprofessionals assess and treat non-life-threatening injuries or \nillnesses * referrals to other local health services and personal \ndevelopment groups<br><br>Community-led health teams develop programs to improve the social supports and conditions that affect long-term health",
+    "serviceProvisionCode": [
+      "Most medical services covered by OHIP * some fees for other programs"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>20718f39-da3b-4499-8d97-1b86ef12a1de</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Ayr</p><p>physical-location-postalcode</p><p>N0B 1E0</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>208330</p><p>true</p><p>Community Health Centres</p><p>Location/1de91eba-1244-41c0-9817-dc2b3cae2f60</p><p>Location</p><p>Langs - North Dumfries - Community Health Centre</p><p>Health centre focused on family and community health * health \nprofessionals assess and treat non-life-threatening injuries or \nillnesses * referrals to other local health services and personal \ndevelopment groups&lt;br&gt;&lt;br&gt;Community-led health teams develop programs to improve the social supports and conditions that affect long-term health</p><p>Location/4d9bfc8b-0c2b-4a33-874f-393de6ae8949</p><p>Location</p><p>Most medical services covered by OHIP * some fees for other programs</p><p>Varies per program</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>Call or visit * no referral required * appointments required for some programs</p></div>",
+    "eligibility": [
+      "Varies per program"
+    ],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [
+      "Call or visit * no referral required * appointments required for some programs"
+    ],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-632-1229"
+          },
+          {
+            "fax": "519-632-1253"
+          },
+          {
+            "email": "info@langs.org"
+          },
+          {
+            "url": "www.langs.org/contact-us/locations-hours/north-dumfries-chc"
+          }
+        ],
+        "address": {
+          "line": [
+            "2958 Greenfield Rd"
+          ],
+          "city": "Ayr",
+          "state": "ON",
+          "postalCode": "N0B 1E0"
+        },
+        "position": {
+          "longitude": -80.4624,
+          "latitude": 43.3018
+        }
+      }
+    ],
+    "contact_info": "phone: 519-632-1229, fax: 519-632-1253, email: info@langs.org, url: www.langs.org/contact-us/locations-hours/north-dumfries-chc",
+    "description_of_this": "Health centre focused on family and community health * health \nprofessionals assess and treat non-life-threatening injuries or \nillnesses * referrals to other local health services and personal \ndevelopment groups<br><br>Community-led health teams develop programs to improve the social supports and conditions that affect long-term health, Codes: Most medical services covered by OHIP * some fees for other programs, Features: Wheelchair Accessible, Languages: English, Referral: Call or visit * no referral required * appointments required for some programs, Address: 2958 Greenfield Rd, Ayr, ON, N0B 1E0, Location: lat: 43.3018, lon: -80.4624"
+  }
+]

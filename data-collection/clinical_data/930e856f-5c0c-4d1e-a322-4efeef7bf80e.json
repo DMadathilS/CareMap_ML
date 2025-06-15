@@ -1,0 +1,61 @@
+[
+  {
+    "name": "Revera - Columbia Forest Long Term Care Centre",
+    "active": true,
+    "category": [
+      "Long-Term Care Homes"
+    ],
+    "comment": "156-bed long-term care home * residential care for private rooms, semi-private rooms, and basic rooms\n* 24-hour nursing and personal care * access to a doctor and other health professionals<br><ul><li>bedding and furniture</li><li>laundry and housekeeping</li><li>meals</li><li>personal hygiene supplies</li><li>medical supplies and equipment (such as catheters, ostomy bags, or wound care supplies) </li><li>assistance with medication and activities of daily living</li><li>recreation and social programs</li></ul><br>Additional services and facilities:<ul><li>hair care</li><li>spiritual care</li><li>tuck shop</li></ul>",
+    "serviceProvisionCode": [
+      "Rates set by the Ontario Ministry of Long-Term Care * subsidies for basic rates may be available for eligible applicants"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>930e856f-5c0c-4d1e-a322-4efeef7bf80e</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Waterloo</p><p>physical-location-postalcode</p><p>N2V 2P7</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>100484</p><p>true</p><p>Long-Term Care Homes</p><p>Location/96ac3399-f7db-4e6b-a18f-61992302eb7e</p><p>Location</p><p>Revera - Columbia Forest Long Term Care Centre</p><p>156-bed long-term care home * residential care for private rooms, semi-private rooms, and basic rooms\n* 24-hour nursing and personal care * access to a doctor and other health professionals&lt;br&gt;&lt;ul&gt;&lt;li&gt;bedding and furniture&lt;/li&gt;&lt;li&gt;laundry and housekeeping&lt;/li&gt;&lt;li&gt;meals&lt;/li&gt;&lt;li&gt;personal hygiene supplies&lt;/li&gt;&lt;li&gt;medical supplies and equipment (such as catheters, ostomy bags, or wound care supplies) &lt;/li&gt;&lt;li&gt;assistance with medication and activities of daily living&lt;/li&gt;&lt;li&gt;recreation and social programs&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;Additional services and facilities:&lt;ul&gt;&lt;li&gt;hair care&lt;/li&gt;&lt;li&gt;spiritual care&lt;/li&gt;&lt;li&gt;tuck shop&lt;/li&gt;&lt;/ul&gt;</p><p>Location/1aeeab52-7fba-40da-a5f4-68ab348d7e43</p><p>Location</p><p>Rates set by the Ontario Ministry of Long-Term Care * subsidies for basic rates may be available for eligible applicants</p><p>Adults who need long-term care * care coordinators assess the needs of applicants</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>Contact Ontario Health atHome Waterloo-Wellington</p></div>",
+    "eligibility": [
+      "Adults who need long-term care * care coordinators assess the needs of applicants"
+    ],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [
+      "Contact Ontario Health atHome Waterloo-Wellington"
+    ],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-884-4480"
+          },
+          {
+            "phone": "1-866-434-0144"
+          },
+          {
+            "fax": "519-884-4873"
+          },
+          {
+            "email": "cnh_columbiaforest@extendicare.com"
+          },
+          {
+            "url": "www.extendicarecolumbiaforest.com/"
+          }
+        ],
+        "address": {
+          "line": [
+            "650 Mountain Maple Ave"
+          ],
+          "city": "Waterloo",
+          "state": "ON",
+          "postalCode": "N2V 2P7"
+        },
+        "position": {
+          "longitude": -80.590179,
+          "latitude": 43.464246
+        }
+      }
+    ],
+    "contact_info": "phone: 519-884-4480, phone: 1-866-434-0144, fax: 519-884-4873, email: cnh_columbiaforest@extendicare.com, url: www.extendicarecolumbiaforest.com/",
+    "description_of_this": "156-bed long-term care home * residential care for private rooms, semi-private rooms, and basic rooms\n* 24-hour nursing and personal care * access to a doctor and other health professionals<br><ul><li>bedding and furniture</li><li>laundry and housekeeping</li><li>meals</li><li>personal hygiene supplies</li><li>medical supplies and equipment (such as catheters, ostomy bags, or wound care supplies) </li><li>assistance with medication and activities of daily living</li><li>recreation and social programs</li></ul><br>Additional services and facilities:<ul><li>hair care</li><li>spiritual care</li><li>tuck shop</li></ul>, Codes: Rates set by the Ontario Ministry of Long-Term Care * subsidies for basic rates may be available for eligible applicants, Features: Wheelchair Accessible, Languages: English, Referral: Contact Ontario Health atHome Waterloo-Wellington, Address: 650 Mountain Maple Ave, Waterloo, ON, N2V 2P7, Location: lat: 43.464246, lon: -80.590179"
+  }
+]

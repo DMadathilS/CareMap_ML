@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Cambridge (City of) - Community Development",
+    "active": true,
+    "category": [
+      "Adult Day Programs"
+    ],
+    "comment": "Adult day program * social, recreational, and therapeutic activities for older adults, people with disabilities and for people with Alzheimer's disease and other related \ndementia in a group setting for part of the day * helps to support family caregivers who provide day-to-day care<ul>\n<li>meals</li>\n<li>personal care assistance</li>\n<li>daily exercise programs</li>\n<li>foot care</li>\n</ul>",
+    "serviceProvisionCode": [
+      "$23.01-$30.13 per day * subsidy available for eligible participants * additional fee for transportation"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>6ee83e5a-c994-45f5-a4a2-6a800bf9ea99</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Cambridge</p><p>physical-location-postalcode</p><p>N3H 3N4</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>208412</p><p>true</p><p>Adult Day Programs</p><p>Location/cebabc06-f0cb-49e8-ad80-09de41ba0af0</p><p>Location</p><p>Cambridge (City of) - Community Development</p><p>Adult day program * social, recreational, and therapeutic activities for older adults, people with disabilities and for people with Alzheimer's disease and other related \ndementia in a group setting for part of the day * helps to support family caregivers who provide day-to-day care&lt;ul&gt;\n&lt;li&gt;meals&lt;/li&gt;\n&lt;li&gt;personal care assistance&lt;/li&gt;\n&lt;li&gt;daily exercise programs&lt;/li&gt;\n&lt;li&gt;foot care&lt;/li&gt;\n&lt;/ul&gt;</p><p>Location/91e4972b-29bd-4782-9833-fd5607095a8d</p><p>Location</p><p>$23.01-$30.13 per day * subsidy available for eligible participants * additional fee for transportation</p><p>Older adults and adults with disabilities, who need physical, social, or emotional supports * care coordinators assess the needs of applicants</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>Contact Ontario Health atHome Waterloo-Wellington</p></div>",
+    "eligibility": [
+      "Older adults and adults with disabilities, who need physical, social, or emotional supports * care coordinators assess the needs of applicants"
+    ],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [
+      "Contact Ontario Health atHome Waterloo-Wellington"
+    ],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-623-1340 ext 4406"
+          },
+          {
+            "phone": "519-623-6691"
+          },
+          {
+            "email": "csd@cambridge.ca"
+          },
+          {
+            "url": "www.cambridge.ca/en/your-city/Senior-Services.aspx"
+          }
+        ],
+        "address": {
+          "line": [
+            "531 King St E"
+          ],
+          "city": "Cambridge",
+          "state": "ON",
+          "postalCode": "N3H 3N4"
+        },
+        "position": {
+          "longitude": -80.3605,
+          "latitude": 43.3971
+        }
+      }
+    ],
+    "contact_info": "phone: 519-623-1340 ext 4406, phone: 519-623-6691, email: csd@cambridge.ca, url: www.cambridge.ca/en/your-city/Senior-Services.aspx",
+    "description_of_this": "Adult day program * social, recreational, and therapeutic activities for older adults, people with disabilities and for people with Alzheimer's disease and other related \ndementia in a group setting for part of the day * helps to support family caregivers who provide day-to-day care<ul>\n<li>meals</li>\n<li>personal care assistance</li>\n<li>daily exercise programs</li>\n<li>foot care</li>\n</ul>, Codes: $23.01-$30.13 per day * subsidy available for eligible participants * additional fee for transportation, Features: Wheelchair Accessible, Languages: English, Referral: Contact Ontario Health atHome Waterloo-Wellington, Address: 531 King St E, Cambridge, ON, N3H 3N4, Location: lat: 43.3971, lon: -80.3605"
+  }
+]

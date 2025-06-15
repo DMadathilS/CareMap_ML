@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Grand River Hospital to Waterloo Regional Health Network (WHRN) - WRHN at Chicopee",
+    "active": true,
+    "category": [
+      "Pharmacies"
+    ],
+    "comment": "Hospital pharmacy open to the public<ul><li>treatment and prescription of medications for common medical ailments, including rashes, pink eye, insect bites, acne, and urinary tract infections</li><li>prescription of COVID-19 antiviral treatment (Paxlovid)</li><li>compliance packaging</li><li>\nprescription and non-prescription medications</li><li>\nbasic home health care supplies<br><br></li></ul><b>MedsCheck</b>- Appointments to review complex prescriptions with a pharmacist",
+    "serviceProvisionCode": [
+      "Dispensing fee plus medication costs * prescribed medications may be covered by OHIP"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>3e87e302-acb9-4b92-bf67-87d6fa56d4a0</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Kitchener</p><p>physical-location-postalcode</p><p>N2A 2W6</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>204795</p><p>true</p><p>Pharmacies</p><p>Location/982ad1b7-dca5-46fc-8f11-c64c0eb6a451</p><p>Location</p><p>Grand River Hospital to Waterloo Regional Health Network (WHRN) - WRHN at Chicopee</p><p>Hospital pharmacy open to the public&lt;ul&gt;&lt;li&gt;treatment and prescription of medications for common medical ailments, including rashes, pink eye, insect bites, acne, and urinary tract infections&lt;/li&gt;&lt;li&gt;prescription of COVID-19 antiviral treatment (Paxlovid)&lt;/li&gt;&lt;li&gt;compliance packaging&lt;/li&gt;&lt;li&gt;\nprescription and non-prescription medications&lt;/li&gt;&lt;li&gt;\nbasic home health care supplies&lt;br&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;b&gt;MedsCheck&lt;/b&gt;- Appointments to review complex prescriptions with a pharmacist</p><p>Location/1621843c-e996-4ddc-9d54-a356bef20d29</p><p>Location</p><p>Dispensing fee plus medication costs * prescribed medications may be covered by OHIP</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p></div>",
+    "eligibility": [],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-894-8399"
+          },
+          {
+            "phone": "519-749-4236"
+          },
+          {
+            "fax": "519-894-8378"
+          },
+          {
+            "email": "info@grhosp.on.ca"
+          },
+          {
+            "url": "www.grhosp.on.ca/care/services-departments/pharmacy/inpatient-pharmacy-services"
+          }
+        ],
+        "address": {
+          "line": [
+            "Grand River Hospital - Freeport Campus",
+            "3570 King St E"
+          ],
+          "city": "Kitchener",
+          "state": "ON",
+          "postalCode": "N2A 2W6"
+        },
+        "position": {
+          "longitude": -80.4126,
+          "latitude": 43.4252
+        }
+      }
+    ],
+    "contact_info": "phone: 519-894-8399, phone: 519-749-4236, fax: 519-894-8378, email: info@grhosp.on.ca, url: www.grhosp.on.ca/care/services-departments/pharmacy/inpatient-pharmacy-services",
+    "description_of_this": "Hospital pharmacy open to the public<ul><li>treatment and prescription of medications for common medical ailments, including rashes, pink eye, insect bites, acne, and urinary tract infections</li><li>prescription of COVID-19 antiviral treatment (Paxlovid)</li><li>compliance packaging</li><li>\nprescription and non-prescription medications</li><li>\nbasic home health care supplies<br><br></li></ul><b>MedsCheck</b>- Appointments to review complex prescriptions with a pharmacist, Codes: Dispensing fee plus medication costs * prescribed medications may be covered by OHIP, Features: Wheelchair Accessible, Languages: English, Address: Grand River Hospital - Freeport Campus, 3570 King St E, Kitchener, ON, N2A 2W6, Location: lat: 43.4252, lon: -80.4126"
+  }
+]

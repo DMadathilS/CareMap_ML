@@ -1,0 +1,60 @@
+[
+  {
+    "name": "PeopleCare - Hilltop Manor",
+    "active": true,
+    "category": [
+      "Long-Term Care Homes"
+    ],
+    "comment": "185-bed long-term care home * residential care for private rooms, semi-private rooms, and basic rooms\n* 24-hour nursing and personal care * access to a doctor and other health professionals<br><ul><li>bedding and furniture</li><li>laundry and housekeeping</li><li>meals</li><li>personal hygiene supplies</li><li>medical supplies and equipment (such as catheters, ostomy bags, or wound care supplies) </li><li>assistance with medication and activities of daily living</li><li>recreation and social programs</li></ul>",
+    "serviceProvisionCode": [
+      "Rates set by the Ontario Ministry of Long-Term Care * subsidies for basic rates may be available for eligible applicants"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>10d48df5-b3ae-4f4f-8b76-6f070ceae121</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Cambridge</p><p>physical-location-postalcode</p><p>N1R 2J2</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>102141</p><p>true</p><p>Long-Term Care Homes</p><p>Location/1f6cbac5-7d93-4c52-a5e0-75b70ff7959e</p><p>Location</p><p>PeopleCare - Hilltop Manor</p><p>185-bed long-term care home * residential care for private rooms, semi-private rooms, and basic rooms\n* 24-hour nursing and personal care * access to a doctor and other health professionals&lt;br&gt;&lt;ul&gt;&lt;li&gt;bedding and furniture&lt;/li&gt;&lt;li&gt;laundry and housekeeping&lt;/li&gt;&lt;li&gt;meals&lt;/li&gt;&lt;li&gt;personal hygiene supplies&lt;/li&gt;&lt;li&gt;medical supplies and equipment (such as catheters, ostomy bags, or wound care supplies) &lt;/li&gt;&lt;li&gt;assistance with medication and activities of daily living&lt;/li&gt;&lt;li&gt;recreation and social programs&lt;/li&gt;&lt;/ul&gt;</p><p>Location/65f8a088-8fd5-4763-b27d-e4ce467250cc</p><p>Location</p><p>Rates set by the Ontario Ministry of Long-Term Care * subsidies for basic rates may be available for eligible applicants</p><p>Adults who need long-term care * care coordinators assess the needs of applicants</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>ita</p><p>Italian</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>por</p><p>Portuguese</p><p>Contact Ontario Health atHome Waterloo-Wellington</p></div>",
+    "eligibility": [
+      "Adults who need long-term care * care coordinators assess the needs of applicants"
+    ],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English",
+      "Italian",
+      "Portuguese"
+    ],
+    "referralMethod": [
+      "Contact Ontario Health atHome Waterloo-Wellington"
+    ],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-621-3067"
+          },
+          {
+            "fax": "519-621-3443"
+          },
+          {
+            "email": "info-hilltopmanor@peoplecare.ca"
+          },
+          {
+            "url": "peoplecare.ca/long-term-care/hilltop-manor/"
+          }
+        ],
+        "address": {
+          "line": [
+            "42 Elliott St"
+          ],
+          "city": "Cambridge",
+          "state": "ON",
+          "postalCode": "N1R 2J2"
+        },
+        "position": {
+          "longitude": -80.31,
+          "latitude": 43.3535
+        }
+      }
+    ],
+    "contact_info": "phone: 519-621-3067, fax: 519-621-3443, email: info-hilltopmanor@peoplecare.ca, url: peoplecare.ca/long-term-care/hilltop-manor/",
+    "description_of_this": "185-bed long-term care home * residential care for private rooms, semi-private rooms, and basic rooms\n* 24-hour nursing and personal care * access to a doctor and other health professionals<br><ul><li>bedding and furniture</li><li>laundry and housekeeping</li><li>meals</li><li>personal hygiene supplies</li><li>medical supplies and equipment (such as catheters, ostomy bags, or wound care supplies) </li><li>assistance with medication and activities of daily living</li><li>recreation and social programs</li></ul>, Codes: Rates set by the Ontario Ministry of Long-Term Care * subsidies for basic rates may be available for eligible applicants, Features: Wheelchair Accessible, Languages: English, Italian, Portuguese, Referral: Contact Ontario Health atHome Waterloo-Wellington, Address: 42 Elliott St, Cambridge, ON, N1R 2J2, Location: lat: 43.3535, lon: -80.31"
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "name": "Rexall Pharma Plus - Kitchener - Highland Rd",
+    "active": true,
+    "category": [
+      "Pharmacies"
+    ],
+    "comment": "General pharmacy<ul><li> treatment and prescription of medications for common medical \nailments, including rashes, pink eye, insect bites, acne, and urinary \ntract infections<br></li><li> prescription of COVID-19 antiviral treatment (Paxlovid)</li><li>medication placed in pill organizers (containers for storing scheduled doses) at no extra cost\n </li><li> medication placed in blister packs (sealed, push-through packaging used to separate doses) at no extra cost</li><li> free delivery for prescriptions\n </li><li>free seasonal flu vaccines</li><li> free take-home naloxone kits (emergency response kits for opioid overdose)</li><li>COVID vaccines</li><li>A1C diabetes testing</li><li>blood pressure screening and kiosk</li></ul>\n<b><br></b><b>MedsCheck</b> - Appointments to review complex prescriptions with a pharmacist <br><br>\n<b>Medications Return Program</b> - Safe disposal of expired or unused medications, creams, and inhalers <br><br>\n<b>Sharps Disposal Program</b> - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips",
+    "serviceProvisionCode": [
+      "Dispensing fee plus medication costs * prescribed medications may be covered by OHIP"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>10101ba3-f35e-4d81-92bc-3bdcabf1e780</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Kitchener</p><p>physical-location-postalcode</p><p>N2M 5G2</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>209076</p><p>true</p><p>Pharmacies</p><p>Location/c9605f79-6f35-4bbe-8ddc-0ebe49785220</p><p>Location</p><p>Rexall Pharma Plus - Kitchener - Highland Rd</p><p>General pharmacy&lt;ul&gt;&lt;li&gt; treatment and prescription of medications for common medical \nailments, including rashes, pink eye, insect bites, acne, and urinary \ntract infections&lt;br&gt;&lt;/li&gt;&lt;li&gt; prescription of COVID-19 antiviral treatment (Paxlovid)&lt;/li&gt;&lt;li&gt;medication placed in pill organizers (containers for storing scheduled doses) at no extra cost\n &lt;/li&gt;&lt;li&gt; medication placed in blister packs (sealed, push-through packaging used to separate doses) at no extra cost&lt;/li&gt;&lt;li&gt; free delivery for prescriptions\n &lt;/li&gt;&lt;li&gt;free seasonal flu vaccines&lt;/li&gt;&lt;li&gt; free take-home naloxone kits (emergency response kits for opioid overdose)&lt;/li&gt;&lt;li&gt;COVID vaccines&lt;/li&gt;&lt;li&gt;A1C diabetes testing&lt;/li&gt;&lt;li&gt;blood pressure screening and kiosk&lt;/li&gt;&lt;/ul&gt;\n&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;b&gt;MedsCheck&lt;/b&gt; - Appointments to review complex prescriptions with a pharmacist &lt;br&gt;&lt;br&gt;\n&lt;b&gt;Medications Return Program&lt;/b&gt; - Safe disposal of expired or unused medications, creams, and inhalers &lt;br&gt;&lt;br&gt;\n&lt;b&gt;Sharps Disposal Program&lt;/b&gt; - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips</p><p>Location/9b1187ef-bb06-4882-801b-622cf2ec8595</p><p>Location</p><p>Dispensing fee plus medication costs * prescribed medications may be covered by OHIP</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p></div>",
+    "eligibility": [],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-745-4739"
+          },
+          {
+            "fax": "519-745-1801"
+          },
+          {
+            "email": "2477rx@rexall.ca"
+          },
+          {
+            "url": "www.rexall.ca/storelocator/store/2477"
+          }
+        ],
+        "address": {
+          "line": [
+            "324 Highland Rd W"
+          ],
+          "city": "Kitchener",
+          "state": "ON",
+          "postalCode": "N2M 5G2"
+        },
+        "position": {
+          "longitude": -80.5104,
+          "latitude": 43.4392
+        }
+      }
+    ],
+    "contact_info": "phone: 519-745-4739, fax: 519-745-1801, email: 2477rx@rexall.ca, url: www.rexall.ca/storelocator/store/2477",
+    "description_of_this": "General pharmacy<ul><li> treatment and prescription of medications for common medical \nailments, including rashes, pink eye, insect bites, acne, and urinary \ntract infections<br></li><li> prescription of COVID-19 antiviral treatment (Paxlovid)</li><li>medication placed in pill organizers (containers for storing scheduled doses) at no extra cost\n </li><li> medication placed in blister packs (sealed, push-through packaging used to separate doses) at no extra cost</li><li> free delivery for prescriptions\n </li><li>free seasonal flu vaccines</li><li> free take-home naloxone kits (emergency response kits for opioid overdose)</li><li>COVID vaccines</li><li>A1C diabetes testing</li><li>blood pressure screening and kiosk</li></ul>\n<b><br></b><b>MedsCheck</b> - Appointments to review complex prescriptions with a pharmacist <br><br>\n<b>Medications Return Program</b> - Safe disposal of expired or unused medications, creams, and inhalers <br><br>\n<b>Sharps Disposal Program</b> - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips, Codes: Dispensing fee plus medication costs * prescribed medications may be covered by OHIP, Features: Wheelchair Accessible, Languages: English, Address: 324 Highland Rd W, Kitchener, ON, N2M 5G2, Location: lat: 43.4392, lon: -80.5104"
+  }
+]

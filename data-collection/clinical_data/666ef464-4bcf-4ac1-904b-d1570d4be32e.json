@@ -1,0 +1,54 @@
+[
+  {
+    "name": "Shoppers Drug Mart - Elmira",
+    "active": true,
+    "category": [
+      "Pharmacies"
+    ],
+    "comment": "General pharmacy<ul><li> treatment and prescription of medications for common medical \nailments, including rashes, pink eye, insect bites, acne, and urinary \ntract infections<br></li><li> prescription of COVID-19 antiviral treatment (Paxlovid)</li><li>free seasonal flu vaccines</li><li>certified diabetes educator (CDE) available for consultations</li><li>basic home health care supplies</li><li>medication placed in blister packs (sealed, push-through packaging used to separate doses) at no extra cost<br><br></li></ul><b>Pharmacy Smoking Cessation Program</b> - Help to quit smoking, available for Ontario Drug Benefit recipients <br><br><b>MedsCheck</b> - Appointments to review complex prescriptions with a pharmacist<br><br><b>Sharps Disposal Program</b> - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips",
+    "serviceProvisionCode": [
+      "Dispensing fee plus medication costs * prescribed medications may be covered by OHIP"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>666ef464-4bcf-4ac1-904b-d1570d4be32e</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Elmira</p><p>physical-location-postalcode</p><p>N3B 1Z4</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>209143</p><p>true</p><p>Pharmacies</p><p>Location/c50a8a26-85c2-4b99-a904-16c4086926cd</p><p>Location</p><p>Shoppers Drug Mart - Elmira</p><p>General pharmacy&lt;ul&gt;&lt;li&gt; treatment and prescription of medications for common medical \nailments, including rashes, pink eye, insect bites, acne, and urinary \ntract infections&lt;br&gt;&lt;/li&gt;&lt;li&gt; prescription of COVID-19 antiviral treatment (Paxlovid)&lt;/li&gt;&lt;li&gt;free seasonal flu vaccines&lt;/li&gt;&lt;li&gt;certified diabetes educator (CDE) available for consultations&lt;/li&gt;&lt;li&gt;basic home health care supplies&lt;/li&gt;&lt;li&gt;medication placed in blister packs (sealed, push-through packaging used to separate doses) at no extra cost&lt;br&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;b&gt;Pharmacy Smoking Cessation Program&lt;/b&gt; - Help to quit smoking, available for Ontario Drug Benefit recipients &lt;br&gt;&lt;br&gt;&lt;b&gt;MedsCheck&lt;/b&gt; - Appointments to review complex prescriptions with a pharmacist&lt;br&gt;&lt;br&gt;&lt;b&gt;Sharps Disposal Program&lt;/b&gt; - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips</p><p>Location/139eb1c4-494c-423a-b6eb-f332a2eefc53</p><p>Location</p><p>Dispensing fee plus medication costs * prescribed medications may be covered by OHIP</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p></div>",
+    "eligibility": [],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-669-1653"
+          },
+          {
+            "fax": "519-669-4943"
+          },
+          {
+            "email": "asdm1088@shoppersdrugmart.ca"
+          },
+          {
+            "url": "www1.shoppersdrugmart.ca/en/store-locator/store/1088/pharmacy"
+          }
+        ],
+        "address": {
+          "line": [
+            "11 Arthur St N"
+          ],
+          "city": "Elmira",
+          "state": "ON",
+          "postalCode": "N3B 1Z4"
+        },
+        "position": {
+          "longitude": -80.5573,
+          "latitude": 43.6002
+        }
+      }
+    ],
+    "contact_info": "phone: 519-669-1653, fax: 519-669-4943, email: asdm1088@shoppersdrugmart.ca, url: www1.shoppersdrugmart.ca/en/store-locator/store/1088/pharmacy",
+    "description_of_this": "General pharmacy<ul><li> treatment and prescription of medications for common medical \nailments, including rashes, pink eye, insect bites, acne, and urinary \ntract infections<br></li><li> prescription of COVID-19 antiviral treatment (Paxlovid)</li><li>free seasonal flu vaccines</li><li>certified diabetes educator (CDE) available for consultations</li><li>basic home health care supplies</li><li>medication placed in blister packs (sealed, push-through packaging used to separate doses) at no extra cost<br><br></li></ul><b>Pharmacy Smoking Cessation Program</b> - Help to quit smoking, available for Ontario Drug Benefit recipients <br><br><b>MedsCheck</b> - Appointments to review complex prescriptions with a pharmacist<br><br><b>Sharps Disposal Program</b> - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips, Codes: Dispensing fee plus medication costs * prescribed medications may be covered by OHIP, Features: Wheelchair Accessible, Languages: English, Address: 11 Arthur St N, Elmira, ON, N3B 1Z4, Location: lat: 43.6002, lon: -80.5573"
+  }
+]

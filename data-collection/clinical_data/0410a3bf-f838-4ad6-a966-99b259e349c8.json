@@ -1,0 +1,53 @@
+[
+  {
+    "name": "Waterloo Region Nurse Practitioner Led Clinic - Community Cancer Screening",
+    "active": true,
+    "category": [
+      "Cervical Cancer Screening"
+    ],
+    "comment": "Cervical cancer screening",
+    "serviceProvisionCode": [
+      "Most services covered by OHIP"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>0410a3bf-f838-4ad6-a966-99b259e349c8</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Cambridge</p><p>physical-location-postalcode</p><p>N1R 3B2</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>222981</p><p>true</p><p>Cervical Cancer Screening</p><p>Location/46a2c99d-3678-4598-a7a4-aee508c83d62</p><p>Location</p><p>Waterloo Region Nurse Practitioner Led Clinic - Community Cancer Screening</p><p>Cervical cancer screening</p><p>Location/512a4b70-7f03-42eb-87fb-44e072fa0183</p><p>Location</p><p>Most services covered by OHIP</p><p>People who do not have a primary care provider, such as a family doctor or nurse practitioner</p><p>Not Applicable</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p></div>",
+    "eligibility": [
+      "People who do not have a primary care provider, such as a family doctor or nurse practitioner"
+    ],
+    "characteristic": [
+      "Not Applicable"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-772-2322"
+          },
+          {
+            "fax": "519-772-2323"
+          },
+          {
+            "url": "wrnplc.ca/community-cancer-screening/"
+          }
+        ],
+        "address": {
+          "line": [
+            "13 Water St N"
+          ],
+          "city": "Cambridge",
+          "state": "ON",
+          "postalCode": "N1R 3B2"
+        },
+        "position": {
+          "longitude": -80.315328,
+          "latitude": 43.359884
+        }
+      }
+    ],
+    "contact_info": "phone: 519-772-2322, fax: 519-772-2323, url: wrnplc.ca/community-cancer-screening/",
+    "description_of_this": "Cervical cancer screening, Codes: Most services covered by OHIP, Features: Not Applicable, Languages: English, Address: 13 Water St N, Cambridge, ON, N1R 3B2, Location: lat: 43.359884, lon: -80.315328"
+  }
+]

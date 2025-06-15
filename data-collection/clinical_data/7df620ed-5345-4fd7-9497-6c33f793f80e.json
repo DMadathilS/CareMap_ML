@@ -1,0 +1,59 @@
+[
+  {
+    "name": "Community Health Caring - Kitchener-Waterloo - Diabetes Education Program",
+    "active": true,
+    "category": [
+      "Diabetes Education Programs"
+    ],
+    "comment": "Supports for people living with prediabetes or diabetes * one-on-one or \ngroup consultation on monitoring blood sugar levels, medications, \nhealthy eating, exercise, and other lifestyle choices * registered nurse\n and dietitian on staff <br><ul><li>nutritional counselling <br></li><li>footcare services<br></li></ul>",
+    "serviceProvisionCode": [
+      "Free"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>7df620ed-5345-4fd7-9497-6c33f793f80e</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Kitchener</p><p>physical-location-postalcode</p><p>N2G 2A2</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>209396</p><p>true</p><p>Diabetes Education Programs</p><p>Location/0aaf6b6d-58fc-43f8-84d8-60475c5709c3</p><p>Location</p><p>Community Health Caring - Kitchener-Waterloo - Diabetes Education Program</p><p>Supports for people living with prediabetes or diabetes * one-on-one or \ngroup consultation on monitoring blood sugar levels, medications, \nhealthy eating, exercise, and other lifestyle choices * registered nurse\n and dietitian on staff &lt;br&gt;&lt;ul&gt;&lt;li&gt;nutritional counselling &lt;br&gt;&lt;/li&gt;&lt;li&gt;footcare services&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;</p><p>Location/a9893ed7-0cc5-4476-bef7-da8c49870cd3</p><p>Location</p><p>Free</p><p>Adults 18 years and older with pre-diabetes, type 1 diabetes and type 2 diabetes</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>Call * no referral required</p></div>",
+    "eligibility": [
+      "Adults 18 years and older with pre-diabetes, type 1 diabetes and type 2 diabetes"
+    ],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [
+      "Call * no referral required"
+    ],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-772-0192<br>Intake: 519-653-1470 ext 372"
+          },
+          {
+            "fax": "519-745-3709"
+          },
+          {
+            "email": "info@healthcaringkw.org"
+          },
+          {
+            "url": "healthcaringkw.org/diabetes-education-program"
+          }
+        ],
+        "address": {
+          "line": [
+            "Tannery Building",
+            "44 Francis St S"
+          ],
+          "city": "Kitchener",
+          "state": "ON",
+          "postalCode": "N2G 2A2"
+        },
+        "position": {
+          "longitude": -80.4975,
+          "latitude": 43.4506
+        }
+      }
+    ],
+    "contact_info": "phone: 519-772-0192<br>Intake: 519-653-1470 ext 372, fax: 519-745-3709, email: info@healthcaringkw.org, url: healthcaringkw.org/diabetes-education-program",
+    "description_of_this": "Supports for people living with prediabetes or diabetes * one-on-one or \ngroup consultation on monitoring blood sugar levels, medications, \nhealthy eating, exercise, and other lifestyle choices * registered nurse\n and dietitian on staff <br><ul><li>nutritional counselling <br></li><li>footcare services<br></li></ul>, Codes: Free, Features: Wheelchair Accessible, Languages: English, Referral: Call * no referral required, Address: Tannery Building, 44 Francis St S, Kitchener, ON, N2G 2A2, Location: lat: 43.4506, lon: -80.4975"
+  }
+]

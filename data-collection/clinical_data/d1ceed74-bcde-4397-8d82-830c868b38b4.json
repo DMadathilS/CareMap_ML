@@ -1,0 +1,55 @@
+[
+  {
+    "name": "Phoenix Healthcare Centre - Waterloo Office",
+    "active": true,
+    "category": [
+      "Walk-In Medical Clinics"
+    ],
+    "comment": "Walk-in medical clinic * doctors and nurses assess and treat minor illnesses and injuries * travel vaccine advice by appointment * family medicine by appointment",
+    "serviceProvisionCode": [
+      "Most services covered by OHIP"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>d1ceed74-bcde-4397-8d82-830c868b38b4</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Waterloo</p><p>physical-location-postalcode</p><p>N2K 3P9</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>221316</p><p>true</p><p>Walk-In Medical Clinics</p><p>Location/bc515e38-0115-4eea-b4ff-d9bd34ab7b95</p><p>Location</p><p>Phoenix Healthcare Centre - Waterloo Office</p><p>Walk-in medical clinic * doctors and nurses assess and treat minor illnesses and injuries * travel vaccine advice by appointment * family medicine by appointment</p><p>Location/c8eeb2d9-f407-4435-934c-714538aea4ed</p><p>Location</p><p>Most services covered by OHIP</p><p>People who need medical care for minor illnesses and injuries</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>Call or visit * no referral required</p></div>",
+    "eligibility": [
+      "People who need medical care for minor illnesses and injuries"
+    ],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [
+      "Call or visit * no referral required"
+    ],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-279-1497"
+          },
+          {
+            "fax": "519-279-9642"
+          },
+          {
+            "url": "www.phoenixhealthcare.ca/"
+          }
+        ],
+        "address": {
+          "line": [
+            "99 Northfield Dr E, Unit 306"
+          ],
+          "city": "Waterloo",
+          "state": "ON",
+          "postalCode": "N2K 3P9"
+        },
+        "position": {
+          "longitude": -80.5256,
+          "latitude": 43.5047
+        }
+      }
+    ],
+    "contact_info": "phone: 519-279-1497, fax: 519-279-9642, url: www.phoenixhealthcare.ca/",
+    "description_of_this": "Walk-in medical clinic * doctors and nurses assess and treat minor illnesses and injuries * travel vaccine advice by appointment * family medicine by appointment, Codes: Most services covered by OHIP, Features: Wheelchair Accessible, Languages: English, Referral: Call or visit * no referral required, Address: 99 Northfield Dr E, Unit 306, Waterloo, ON, N2K 3P9, Location: lat: 43.5047, lon: -80.5256, Contact: phone: 519-279-1497, fax: 519-279-9642, url: www.phoenixhealthcare.ca/"
+  }
+]

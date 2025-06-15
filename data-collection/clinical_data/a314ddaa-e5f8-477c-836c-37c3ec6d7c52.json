@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Frederick Street Family Medicine",
+    "active": true,
+    "category": [
+      "Walk-In Medical Clinics"
+    ],
+    "comment": "Medical care focused on family and community health * coordinates patient care in order to assess and treat injuries or illness * team includes family doctors, nurses",
+    "serviceProvisionCode": [
+      "Most services covered by OHIP"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>a314ddaa-e5f8-477c-836c-37c3ec6d7c52</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Kitchener</p><p>physical-location-postalcode</p><p>N2H 2P5</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>183707</p><p>true</p><p>Walk-In Medical Clinics</p><p>Location/91db299e-aafa-4b5e-83a8-59cdb317c375</p><p>Location</p><p>Frederick Street Family Medicine</p><p>Medical care focused on family and community health * coordinates patient care in order to assess and treat injuries or illness * team includes family doctors, nurses</p><p>Location/2af67113-cb06-43d7-ae18-a3587c4775a7</p><p>Location</p><p>Most services covered by OHIP</p><p>People who need medical care for minor illnesses and injuries</p><p>Not Applicable</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>Call for appointment</p></div>",
+    "eligibility": [
+      "People who need medical care for minor illnesses and injuries"
+    ],
+    "characteristic": [
+      "Not Applicable"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [
+      "Call for appointment"
+    ],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-618-9260"
+          },
+          {
+            "fax": "226-647-5788"
+          },
+          {
+            "email": "info@tannerymedical.com"
+          },
+          {
+            "url": "frederickstreetfamilymedicine.com/"
+          }
+        ],
+        "address": {
+          "line": [
+            "450 Frederick St, Unit 202"
+          ],
+          "city": "Kitchener",
+          "state": "ON",
+          "postalCode": "N2H 2P5"
+        },
+        "position": {
+          "longitude": -80.4979,
+          "latitude": 43.4511
+        }
+      }
+    ],
+    "contact_info": "phone: 519-618-9260, fax: 226-647-5788, email: info@tannerymedical.com, url: frederickstreetfamilymedicine.com/",
+    "description_of_this": "Medical care focused on family and community health * coordinates patient care in order to assess and treat injuries or illness * team includes family doctors, nurses, Codes: Most services covered by OHIP, Features: Not Applicable, Languages: English, Referral: Call for appointment, Address: 450 Frederick St, Unit 202, Kitchener, ON, N2H 2P5, Location: lat: 43.4511, lon: -80.4979"
+  }
+]

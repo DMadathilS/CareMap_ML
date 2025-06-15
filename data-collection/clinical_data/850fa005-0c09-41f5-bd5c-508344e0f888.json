@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Community Support Connections - Transportation",
+    "active": true,
+    "category": [
+      "Transportation for Seniors and People with Disabilities"
+    ],
+    "comment": "Screened volunteers use their own vehicles to provide escorted transportation services to and from medical appointments and regular activities such as grocery shopping and banking * agency vehicles take groups to adult day programs and shopping trips",
+    "serviceProvisionCode": [
+      "Set fees"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>850fa005-0c09-41f5-bd5c-508344e0f888</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Breslau</p><p>physical-location-postalcode</p><p>N0B 1M0</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>155122</p><p>true</p><p>Transportation for Seniors and People with Disabilities</p><p>Location/9980f56d-b340-40a4-94a7-08b1b797125c</p><p>Location</p><p>Community Support Connections - Transportation</p><p>Screened volunteers use their own vehicles to provide escorted transportation services to and from medical appointments and regular activities such as grocery shopping and banking * agency vehicles take groups to adult day programs and shopping trips</p><p>Location/748ef402-2d9e-4579-9618-592643a3611e</p><p>Location</p><p>Set fees</p><p>Older adults * adults 18 years and over with disabilities</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p></div>",
+    "eligibility": [
+      "Older adults * adults 18 years and over with disabilities"
+    ],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-772-8787"
+          },
+          {
+            "fax": "519-648-3737"
+          },
+          {
+            "email": "info@cscmow.org"
+          },
+          {
+            "url": "communitysupportconnections.org/transportation/"
+          }
+        ],
+        "address": {
+          "line": [
+            "61 Woolwich St N, Box 29"
+          ],
+          "city": "Breslau",
+          "state": "ON",
+          "postalCode": "N0B 1M0"
+        },
+        "position": {
+          "longitude": -80.4156223,
+          "latitude": 43.4857191
+        }
+      }
+    ],
+    "contact_info": "phone: 519-772-8787, fax: 519-648-3737, email: info@cscmow.org, url: communitysupportconnections.org/transportation/",
+    "description_of_this": "Screened volunteers use their own vehicles to provide escorted transportation services to and from medical appointments and regular activities such as grocery shopping and banking * agency vehicles take groups to adult day programs and shopping trips, Codes: Set fees, Features: Wheelchair Accessible, Languages: English, Address: 61 Woolwich St N, Box 29, Breslau, ON, N0B 1M0, Location: lat: 43.4857191, lon: -80.4156223"
+  }
+]

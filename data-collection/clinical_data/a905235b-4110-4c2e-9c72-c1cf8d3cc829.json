@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Sienna Senior Living - Barnswallow Place Care Community",
+    "active": true,
+    "category": [
+      "Long-Term Care Homes"
+    ],
+    "comment": "96-bed long-term care home * residential care for private rooms and basic rooms * 24-hour nursing and personal care * access to a doctor and other health professionals<br><ul><li>bedding and furniture</li><li>laundry and housekeeping</li><li>meals</li><li>personal hygiene supplies</li><li>medical supplies and equipment (such as catheters, ostomy bags, or wound care supplies) </li><li>assistance with medication and activities of daily living</li><li>recreation and social programs</li><li>spiritual care</li></ul>",
+    "serviceProvisionCode": [
+      "Rates set by the Ontario Ministry of Long-Term Care * subsidies for basic rates may be available for eligible applicants"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>a905235b-4110-4c2e-9c72-c1cf8d3cc829</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Elmira</p><p>physical-location-postalcode</p><p>N3B 2Y9</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>101701</p><p>true</p><p>Long-Term Care Homes</p><p>Location/a02a0cef-f454-4d87-a9fe-d3be8235dfb2</p><p>Location</p><p>Sienna Senior Living - Barnswallow Place Care Community</p><p>96-bed long-term care home * residential care for private rooms and basic rooms * 24-hour nursing and personal care * access to a doctor and other health professionals&lt;br&gt;&lt;ul&gt;&lt;li&gt;bedding and furniture&lt;/li&gt;&lt;li&gt;laundry and housekeeping&lt;/li&gt;&lt;li&gt;meals&lt;/li&gt;&lt;li&gt;personal hygiene supplies&lt;/li&gt;&lt;li&gt;medical supplies and equipment (such as catheters, ostomy bags, or wound care supplies) &lt;/li&gt;&lt;li&gt;assistance with medication and activities of daily living&lt;/li&gt;&lt;li&gt;recreation and social programs&lt;/li&gt;&lt;li&gt;spiritual care&lt;/li&gt;&lt;/ul&gt;</p><p>Location/a16ad9af-f654-4d88-b3a6-f25d4be36d7c</p><p>Location</p><p>Rates set by the Ontario Ministry of Long-Term Care * subsidies for basic rates may be available for eligible applicants</p><p>Adults who need long-term care * care coordinators assess the needs of applicants</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>Contact Ontario Health atHome Waterloo-Wellington</p></div>",
+    "eligibility": [
+      "Adults who need long-term care * care coordinators assess the needs of applicants"
+    ],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [
+      "Contact Ontario Health atHome Waterloo-Wellington"
+    ],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-669-5777"
+          },
+          {
+            "fax": "519-669-0928"
+          },
+          {
+            "email": "info@siennaliving.ca"
+          },
+          {
+            "url": "www.siennaliving.ca/Long-Term-Care/Locations/Barnswallow-Place.aspx"
+          }
+        ],
+        "address": {
+          "line": [
+            "120 Barnswallow Dr"
+          ],
+          "city": "Elmira",
+          "state": "ON",
+          "postalCode": "N3B 2Y9"
+        },
+        "position": {
+          "longitude": -80.577299,
+          "latitude": 43.593132
+        }
+      }
+    ],
+    "contact_info": "phone: 519-669-5777, fax: 519-669-0928, email: info@siennaliving.ca, url: www.siennaliving.ca/Long-Term-Care/Locations/Barnswallow-Place.aspx",
+    "description_of_this": "96-bed long-term care home * residential care for private rooms and basic rooms * 24-hour nursing and personal care * access to a doctor and other health professionals<br><ul><li>bedding and furniture</li><li>laundry and housekeeping</li><li>meals</li><li>personal hygiene supplies</li><li>medical supplies and equipment (such as catheters, ostomy bags, or wound care supplies) </li><li>assistance with medication and activities of daily living</li><li>recreation and social programs</li><li>spiritual care</li></ul>, Codes: Rates set by the Ontario Ministry of Long-Term Care * subsidies for basic rates may be available for eligible applicants, Features: Wheelchair Accessible, Languages: English, Referral: Contact Ontario Health atHome Waterloo-Wellington, Address: 120 Barnswallow Dr, Elmira, ON, N3B 2Y9, Location: lat: 43.593132, lon: -80.577299"
+  }
+]

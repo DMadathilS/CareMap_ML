@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Grand River Hospital to Waterloo Regional Health Network (WHRN) - WRHN at Midtown",
+    "active": true,
+    "category": [
+      "Emergency Departments"
+    ],
+    "comment": "Emergency room care * doctors, nurses, and other health professionals assess and treat life-threatening injuries or severe illness\n<br><br>\n<b>Emergency Department Wait Times:</b> <a href=\"https://www.grhosp.on.ca/care/services-departments/emergency/current-emergency-wait\" target=\"_blank\">www.grhosp.on.ca/care/services-departments/emergency/current-emergency-wait</a>",
+    "serviceProvisionCode": [
+      "Most services covered by OHIP"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>751bb84f-7d31-44e3-a6f9-8921e2f67d41</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Kitchener</p><p>physical-location-postalcode</p><p>N2G 1G3</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>154963</p><p>true</p><p>Emergency Departments</p><p>Location/72e3a8ee-90cd-409e-a2eb-cc2180a6540c</p><p>Location</p><p>Grand River Hospital to Waterloo Regional Health Network (WHRN) - WRHN at Midtown</p><p>Emergency room care * doctors, nurses, and other health professionals assess and treat life-threatening injuries or severe illness\n&lt;br&gt;&lt;br&gt;\n&lt;b&gt;Emergency Department Wait Times:&lt;/b&gt; &lt;a href=&quot;https://www.grhosp.on.ca/care/services-departments/emergency/current-emergency-wait&quot; target=&quot;_blank&quot;&gt;www.grhosp.on.ca/care/services-departments/emergency/current-emergency-wait&lt;/a&gt;</p><p>Location/3c0af94b-bbe0-43bb-8ae1-1ecc171f04fc</p><p>Location</p><p>Most services covered by OHIP</p><p>People who need medical care for serious illnesses and injuries</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>fra</p><p>French</p><p>No referral required * call or walk-in</p></div>",
+    "eligibility": [
+      "People who need medical care for serious illnesses and injuries"
+    ],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English",
+      "French"
+    ],
+    "referralMethod": [
+      "No referral required * call or walk-in"
+    ],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "Switchboard: 519-742-3611<br>Automated Switchboard: 519-749-4300"
+          },
+          {
+            "phone": "519-749-4236"
+          },
+          {
+            "phone": "Call <b>911</b> in emergencies"
+          },
+          {
+            "email": "info@grhosp.on.ca"
+          },
+          {
+            "url": "www.grhosp.on.ca/care/services-departments/emergency"
+          }
+        ],
+        "address": {
+          "line": [
+            "835 King St W"
+          ],
+          "city": "Kitchener",
+          "state": "ON",
+          "postalCode": "N2G 1G3"
+        },
+        "position": {
+          "longitude": -80.512,
+          "latitude": 43.4562
+        }
+      }
+    ],
+    "contact_info": "phone: Switchboard: 519-742-3611<br>Automated Switchboard: 519-749-4300, phone: 519-749-4236, phone: Call <b>911</b> in emergencies, email: info@grhosp.on.ca, url: www.grhosp.on.ca/care/services-departments/emergency",
+    "description_of_this": "Emergency room care * doctors, nurses, and other health professionals assess and treat life-threatening injuries or severe illness\n<br><br>\n<b>Emergency Department Wait Times:</b> <a href=\"https://www.grhosp.on.ca/care/services-departments/emergency/current-emergency-wait\" target=\"_blank\">www.grhosp.on.ca/care/services-departments/emergency/current-emergency-wait</a>, Codes: Most services covered by OHIP, Features: Wheelchair Accessible, Languages: English, French, Referral: No referral required * call or walk-in, Address: 835 King St W, Kitchener, ON, N2G 1G3, Location: lat: 43.4562, lon: -80.512"
+  }
+]

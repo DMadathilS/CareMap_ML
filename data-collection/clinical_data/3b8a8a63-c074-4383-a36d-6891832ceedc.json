@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Physiotherapy Alliance - New Hamburg",
+    "active": true,
+    "category": [
+      "Physiotherapy Clinics - Publicly Funded"
+    ],
+    "comment": "Community physiotherapy clinic * health professionals assess and treat \nconditions that affect the muscles, nerves, and bones that may be caused\n by work or sports or motor vehicle collision injuries, chronic \nconditions, or to recover after an operation \n (hip and knee surgery)<br><br><ul><li>acupuncture</li><li>registered massage therapy</li></ul><br>OHIP-insured physiotherapy clinic",
+    "serviceProvisionCode": [
+      "Set fee * physiotherapy services may be covered by OHIP or third-party insurance, if eligible"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>3b8a8a63-c074-4383-a36d-6891832ceedc</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>New Hamburg</p><p>physical-location-postalcode</p><p>N3A 1V5</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>208272</p><p>true</p><p>Physiotherapy Clinics - Publicly Funded</p><p>Location/b91f7166-fda4-4530-a330-1452264fb790</p><p>Location</p><p>Physiotherapy Alliance - New Hamburg</p><p>Community physiotherapy clinic * health professionals assess and treat \nconditions that affect the muscles, nerves, and bones that may be caused\n by work or sports or motor vehicle collision injuries, chronic \nconditions, or to recover after an operation \n (hip and knee surgery)&lt;br&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;acupuncture&lt;/li&gt;&lt;li&gt;registered massage therapy&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;OHIP-insured physiotherapy clinic</p><p>Location/b39b911e-cbad-48dc-8591-8109e70882b2</p><p>Location</p><p>Set fee * physiotherapy services may be covered by OHIP or third-party insurance, if eligible</p><p>People who require physiotherapy services * OHIP coverage for those 19 years and under, 65 years and older, ODSP or Ontario Works recipients, and people hospitalized for at least one night due to an injury</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>No referral required for private pay services * medical referral required for OHIP coverage * medical referral may be required for third-party insurance</p></div>",
+    "eligibility": [
+      "People who require physiotherapy services * OHIP coverage for those 19 years and under, 65 years and older, ODSP or Ontario Works recipients, and people hospitalized for at least one night due to an injury"
+    ],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [
+      "No referral required for private pay services * medical referral required for OHIP coverage * medical referral may be required for third-party insurance"
+    ],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-662-4676"
+          },
+          {
+            "fax": "519-662-4484"
+          },
+          {
+            "email": "newhamburg@physiotherapyalliance.com"
+          },
+          {
+            "url": "physiotherapyalliance.com/contact/#newhamburg"
+          }
+        ],
+        "address": {
+          "line": [
+            "10 Waterloo St, Unit 4"
+          ],
+          "city": "New Hamburg",
+          "state": "ON",
+          "postalCode": "N3A 1V5"
+        },
+        "position": {
+          "longitude": -80.7141,
+          "latitude": 43.3776
+        }
+      }
+    ],
+    "contact_info": "phone: 519-662-4676, fax: 519-662-4484, email: newhamburg@physiotherapyalliance.com, url: physiotherapyalliance.com/contact/#newhamburg",
+    "description_of_this": "Community physiotherapy clinic * health professionals assess and treat \nconditions that affect the muscles, nerves, and bones that may be caused\n by work or sports or motor vehicle collision injuries, chronic \nconditions, or to recover after an operation \n (hip and knee surgery)<br><br><ul><li>acupuncture</li><li>registered massage therapy</li></ul><br>OHIP-insured physiotherapy clinic, Codes: Set fee * physiotherapy services may be covered by OHIP or third-party insurance, if eligible, Features: Wheelchair Accessible, Languages: English, Referral: No referral required for private pay services * medical referral required for OHIP coverage * medical referral may be required for third-party insurance, Address: 10 Waterloo St, Unit 4, New Hamburg, ON, N3A 1V5, Location: lat: 43.3776, lon: -80.7141"
+  }
+]

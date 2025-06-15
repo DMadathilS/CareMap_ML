@@ -1,0 +1,55 @@
+[
+  {
+    "name": "Langs - Geriatric Mental Health Services",
+    "active": true,
+    "category": [
+      "Seniors' Intervention and Assistance Services"
+    ],
+    "comment": "Psychogeriatric team provides in home assessment, counselling, and support * assists in maintaining seniors in their homes * referrals to community agencies",
+    "serviceProvisionCode": [
+      "Free"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>0181a509-2a51-461c-afe1-73b23866dfbc</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Cambridge</p><p>physical-location-postalcode</p><p>N3H 4L5</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>100234</p><p>true</p><p>Seniors' Intervention and Assistance Services</p><p>Location/dbf14da8-1b70-4586-be2b-a52b6bc5df0e</p><p>Location</p><p>Langs - Geriatric Mental Health Services</p><p>Psychogeriatric team provides in home assessment, counselling, and support * assists in maintaining seniors in their homes * referrals to community agencies</p><p>Location/62c96c15-0f4b-405d-9ddf-fba8efc85467</p><p>Location</p><p>Free</p><p>People aged 65 years and over with mental health concerns who are living independently, in nursing homes or residences * families and caregivers</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>Call 1-855-849-6228 * doctor referral required</p></div>",
+    "eligibility": [
+      "People aged 65 years and over with mental health concerns who are living independently, in nursing homes or residences * families and caregivers"
+    ],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [
+      "Call 1-855-849-6228 * doctor referral required"
+    ],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "1-844-264-2993 ext 2052"
+          },
+          {
+            "fax": "1-888-205-1491"
+          },
+          {
+            "email": "info@langs.org"
+          }
+        ],
+        "address": {
+          "line": [
+            "1145 Concession Rd"
+          ],
+          "city": "Cambridge",
+          "state": "ON",
+          "postalCode": "N3H 4L5"
+        },
+        "position": {
+          "longitude": -80.3442,
+          "latitude": 43.397
+        }
+      }
+    ],
+    "contact_info": "phone: 1-844-264-2993 ext 2052, fax: 1-888-205-1491, email: info@langs.org",
+    "description_of_this": "Psychogeriatric team provides in home assessment, counselling, and support * assists in maintaining seniors in their homes * referrals to community agencies, Codes: Free, Features: Wheelchair Accessible, Languages: English, Referral: Call 1-855-849-6228 * doctor referral required, Address: 1145 Concession Rd, Cambridge, ON, N3H 4L5, Location: lat: 43.397, lon: -80.3442"
+  }
+]

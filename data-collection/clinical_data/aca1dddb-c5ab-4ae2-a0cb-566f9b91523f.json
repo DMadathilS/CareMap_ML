@@ -1,0 +1,58 @@
+[
+  {
+    "name": "PEAK Sleep - Kitchener",
+    "active": true,
+    "category": [
+      "Sleep Clinics"
+    ],
+    "comment": "Community-based sleep clinic * diagnostic and treatment services for sleep disorders",
+    "serviceProvisionCode": [
+      "Most services covered by OHIP"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>aca1dddb-c5ab-4ae2-a0cb-566f9b91523f</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Kitchener</p><p>physical-location-postalcode</p><p>N2G 2B3</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>208450</p><p>true</p><p>Sleep Clinics</p><p>Location/4e9baea7-7557-4af2-a9da-c4d1176d4053</p><p>Location</p><p>PEAK Sleep - Kitchener</p><p>Community-based sleep clinic * diagnostic and treatment services for sleep disorders</p><p>Location/e72647f8-68ac-4637-b3e1-538307473d99</p><p>Location</p><p>Most services covered by OHIP</p><p>People with sleep disorders, or who have trouble staying awake during the day</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>Medical referral required</p></div>",
+    "eligibility": [
+      "People with sleep disorders, or who have trouble staying awake during the day"
+    ],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [
+      "Medical referral required"
+    ],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "905-338-3331 option 4"
+          },
+          {
+            "fax": "905-338-2923"
+          },
+          {
+            "email": "info@peaksleep.ca"
+          },
+          {
+            "url": "www.peaksleep.ca/"
+          }
+        ],
+        "address": {
+          "line": [
+            "100 Victoria St S, Ground Floor, Unit B"
+          ],
+          "city": "Kitchener",
+          "state": "ON",
+          "postalCode": "N2G 2B3"
+        },
+        "position": {
+          "longitude": -80.5007,
+          "latitude": 43.4503
+        }
+      }
+    ],
+    "contact_info": "phone: 905-338-3331 option 4, fax: 905-338-2923, email: info@peaksleep.ca, url: www.peaksleep.ca/",
+    "description_of_this": "Community-based sleep clinic * diagnostic and treatment services for sleep disorders, Codes: Most services covered by OHIP, Features: Wheelchair Accessible, Languages: English, Referral: Medical referral required, Address: 100 Victoria St S, Ground Floor, Unit B, Kitchener, ON, N2G 2B3, Location: lat: 43.4503, lon: -80.5007"
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "name": "Guardian Pharmacy - Kitchener - Battler Rd (Huron Heights)",
+    "active": true,
+    "category": [
+      "Pharmacies"
+    ],
+    "comment": "General pharmacy <br><ul><li> treatment and prescription of medications for common medical ailments, including rashes, pink eye, insect bites, acne, and urinary tract infections</li><li> prescription of COVID-19 antiviral treatment (Paxlovid)</li><li>free seasonal flu vaccines by appointment</li><li>certified diabetes educator (CDE) available for consultations</li><li>A1C blood glucose testing<br></li><li>telemedicine walk-in clinic<br><br></li></ul><b>MedsCheck</b> - Appointments to review complex prescriptions with a pharmacist <br><br><b>Sharps Disposal Program</b> - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips",
+    "serviceProvisionCode": [
+      "Dispensing fee plus medication costs * prescribed medications may be covered by OHIP"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>7653f20d-bd27-4d18-8bc4-d039645c32f7</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Kitchener</p><p>physical-location-postalcode</p><p>N2R 0C9</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>208689</p><p>true</p><p>Pharmacies</p><p>Location/8e95e00b-87e7-419c-a655-e3c3d0d39d8e</p><p>Location</p><p>Guardian Pharmacy - Kitchener - Battler Rd (Huron Heights)</p><p>General pharmacy &lt;br&gt;&lt;ul&gt;&lt;li&gt; treatment and prescription of medications for common medical ailments, including rashes, pink eye, insect bites, acne, and urinary tract infections&lt;/li&gt;&lt;li&gt; prescription of COVID-19 antiviral treatment (Paxlovid)&lt;/li&gt;&lt;li&gt;free seasonal flu vaccines by appointment&lt;/li&gt;&lt;li&gt;certified diabetes educator (CDE) available for consultations&lt;/li&gt;&lt;li&gt;A1C blood glucose testing&lt;br&gt;&lt;/li&gt;&lt;li&gt;telemedicine walk-in clinic&lt;br&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;b&gt;MedsCheck&lt;/b&gt; - Appointments to review complex prescriptions with a pharmacist &lt;br&gt;&lt;br&gt;&lt;b&gt;Sharps Disposal Program&lt;/b&gt; - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips</p><p>Location/91c4fc7b-2ad0-427c-b6ac-5d6d015ed26d</p><p>Location</p><p>Dispensing fee plus medication costs * prescribed medications may be covered by OHIP</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p></div>",
+    "eligibility": [],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-895-8585"
+          },
+          {
+            "fax": "519-894-5665"
+          },
+          {
+            "email": "info@huronpharmacy.com"
+          },
+          {
+            "url": "www.huronpharmacy.com/"
+          }
+        ],
+        "address": {
+          "line": [
+            "1606 Battler Rd"
+          ],
+          "city": "Kitchener",
+          "state": "ON",
+          "postalCode": "N2R 0C9"
+        },
+        "position": {
+          "longitude": -80.4626,
+          "latitude": 43.3964
+        }
+      }
+    ],
+    "contact_info": "phone: 519-895-8585, fax: 519-894-5665, email: info@huronpharmacy.com, url: www.huronpharmacy.com/",
+    "description_of_this": "General pharmacy <br><ul><li> treatment and prescription of medications for common medical ailments, including rashes, pink eye, insect bites, acne, and urinary tract infections</li><li> prescription of COVID-19 antiviral treatment (Paxlovid)</li><li>free seasonal flu vaccines by appointment</li><li>certified diabetes educator (CDE) available for consultations</li><li>A1C blood glucose testing<br></li><li>telemedicine walk-in clinic<br><br></li></ul><b>MedsCheck</b> - Appointments to review complex prescriptions with a pharmacist <br><br><b>Sharps Disposal Program</b> - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips, Codes: Dispensing fee plus medication costs * prescribed medications may be covered by OHIP, Features: Wheelchair Accessible, Languages: English, Address: 1606 Battler Rd, Kitchener, ON, N2R 0C9, Location: lat: 43.3964, lon: -80.4626"
+  }
+]

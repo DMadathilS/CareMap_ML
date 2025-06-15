@@ -1,0 +1,55 @@
+[
+  {
+    "name": "Guelph Pulmonary Function Lab",
+    "active": true,
+    "category": [
+      "Pulmonary Function Labs"
+    ],
+    "comment": "Community-based respiratory clinic * lung diagnostic and treatment services by a respirologist and respiratory therapists",
+    "serviceProvisionCode": [
+      "Most services covered by OHIP"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>b38492fe-8821-4bab-bcfa-fabe471a89ee</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Guelph</p><p>physical-location-postalcode</p><p>N1H 3V4</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>208435</p><p>true</p><p>Pulmonary Function Labs</p><p>Location/20c118d0-d016-4532-86e4-77ebb724febc</p><p>Location</p><p>Guelph Pulmonary Function Lab</p><p>Community-based respiratory clinic * lung diagnostic and treatment services by a respirologist and respiratory therapists</p><p>Location/950ddc26-322c-4085-8547-de118eeeef3d</p><p>Location</p><p>Most services covered by OHIP</p><p>People with lung disease</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>Medical referral required</p></div>",
+    "eligibility": [
+      "People with lung disease"
+    ],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [
+      "Medical referral required"
+    ],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-341-3344"
+          },
+          {
+            "fax": "519-341-4433"
+          },
+          {
+            "email": "sleep.study@live.com"
+          }
+        ],
+        "address": {
+          "line": [
+            "311 Woolwich St"
+          ],
+          "city": "Guelph",
+          "state": "ON",
+          "postalCode": "N1H 3V4"
+        },
+        "position": {
+          "longitude": -80.2573,
+          "latitude": 43.5507
+        }
+      }
+    ],
+    "contact_info": "phone: 519-341-3344, fax: 519-341-4433, email: sleep.study@live.com",
+    "description_of_this": "Community-based respiratory clinic * lung diagnostic and treatment services by a respirologist and respiratory therapists, Codes: Most services covered by OHIP, Features: Wheelchair Accessible, Languages: English, Referral: Medical referral required, Address: 311 Woolwich St, Guelph, ON, N1H 3V4, Location: lat: 43.5507, lon: -80.2573"
+  }
+]

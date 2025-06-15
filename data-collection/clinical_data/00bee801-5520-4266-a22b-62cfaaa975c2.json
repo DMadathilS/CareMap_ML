@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Traverse Independence",
+    "active": true,
+    "category": [
+      "Acquired Brain Injury Services",
+      "Community Support Services"
+    ],
+    "comment": "Supports for older adults, and adults with disabilities * helps people \nremain independent in their own homes for as long as possible * referral\n to other community services<BR><BR><B>Services and Programs:</B><UL><LI>Acquired Brain Injury Services - Beginnings Day Program</LI><LI>Acquired Brain Injury Services - Outreach Program</LI><LI>Acquired Brain Injury Services - Slow to Recover Group Home</LI><LI>Acquired Brain Injury Services - The Opportunity Centre Day Program</LI><LI>Acquired Brain Injury Services - Transitional Living Program - Fergus</LI><LI>Acquired Brain Injury Services - Transitional Living Program - Kitchener</LI><LI>Kitchener - Strasburg Rd - Supportive Housing</LI><LI>Kitchener - Union Lane - Supportive Housing</LI></UL>",
+    "serviceProvisionCode": [
+      "Varies per program"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>00bee801-5520-4266-a22b-62cfaaa975c2</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Kitchener</p><p>physical-location-postalcode</p><p>N2A 1C4</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>211192</p><p>true</p><p>Acquired Brain Injury Services</p><p>Community Support Services</p><p>Location/705a1866-1966-4c0a-a04c-a2bab8850a3e</p><p>Location</p><p>Traverse Independence</p><p>Supports for older adults, and adults with disabilities * helps people \nremain independent in their own homes for as long as possible * referral\n to other community services&lt;BR&gt;&lt;BR&gt;&lt;B&gt;Services and Programs:&lt;/B&gt;&lt;UL&gt;&lt;LI&gt;Acquired Brain Injury Services - Beginnings Day Program&lt;/LI&gt;&lt;LI&gt;Acquired Brain Injury Services - Outreach Program&lt;/LI&gt;&lt;LI&gt;Acquired Brain Injury Services - Slow to Recover Group Home&lt;/LI&gt;&lt;LI&gt;Acquired Brain Injury Services - The Opportunity Centre Day Program&lt;/LI&gt;&lt;LI&gt;Acquired Brain Injury Services - Transitional Living Program - Fergus&lt;/LI&gt;&lt;LI&gt;Acquired Brain Injury Services - Transitional Living Program - Kitchener&lt;/LI&gt;&lt;LI&gt;Kitchener - Strasburg Rd - Supportive Housing&lt;/LI&gt;&lt;LI&gt;Kitchener - Union Lane - Supportive Housing&lt;/LI&gt;&lt;/UL&gt;</p><p>Location/4858fd62-188f-40e3-b661-40fc99c2dd46</p><p>Location</p><p>Varies per program</p><p>Older adults and people with disabilities, who need physical, social, or emotional supports</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>Call * no referral required</p></div>",
+    "eligibility": [
+      "Older adults and people with disabilities, who need physical, social, or emotional supports"
+    ],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [
+      "Call * no referral required"
+    ],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-741-5845"
+          },
+          {
+            "fax": "519-741-8731"
+          },
+          {
+            "url": "www.traverseindependence.ca/en/index.aspx#"
+          }
+        ],
+        "address": {
+          "line": [
+            "1382 Weber St E, Unit 1"
+          ],
+          "city": "Kitchener",
+          "state": "ON",
+          "postalCode": "N2A 1C4"
+        },
+        "position": {
+          "longitude": -80.4398,
+          "latitude": 43.4338
+        }
+      }
+    ],
+    "contact_info": "phone: 519-741-5845, fax: 519-741-8731, url: www.traverseindependence.ca/en/index.aspx#",
+    "description_of_this": "Supports for older adults, and adults with disabilities * helps people \nremain independent in their own homes for as long as possible * referral\n to other community services<BR><BR><B>Services and Programs:</B><UL><LI>Acquired Brain Injury Services - Beginnings Day Program</LI><LI>Acquired Brain Injury Services - Outreach Program</LI><LI>Acquired Brain Injury Services - Slow to Recover Group Home</LI><LI>Acquired Brain Injury Services - The Opportunity Centre Day Program</LI><LI>Acquired Brain Injury Services - Transitional Living Program - Fergus</LI><LI>Acquired Brain Injury Services - Transitional Living Program - Kitchener</LI><LI>Kitchener - Strasburg Rd - Supportive Housing</LI><LI>Kitchener - Union Lane - Supportive Housing</LI></UL>, Codes: Varies per program, Features: Wheelchair Accessible, Languages: English, Referral: Call * no referral required, Address: 1382 Weber St E, Unit 1, Kitchener, ON, N2A 1C4, Location: lat: 43.4338, lon: -80.4398"
+  }
+]

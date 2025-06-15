@@ -1,0 +1,61 @@
+[
+  {
+    "name": "Steeves and Rozema Enterprises - St Andrews Terrace",
+    "active": true,
+    "category": [
+      "Long-Term Care Homes"
+    ],
+    "comment": "128-bed long-term care home * residential care for private rooms, semi-private rooms, and  basic rooms\n* 24-hour nursing and personal care * access to a doctor and other health professionals<br><ul><li>bedding and furniture</li><li>laundry and housekeeping</li><li>meals</li><li>personal hygiene supplies</li><li>medical supplies and equipment (such as catheters, ostomy bags, or wound care supplies) </li><li>assistance with medication and activities of daily living</li><li>recreation and social programs</li><li>spiritual care</li></ul>",
+    "serviceProvisionCode": [
+      "Rates set by the Ontario Ministry of Long-Term Care * subsidies for basic rates may be available for eligible applicants"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>cd45a7c2-029e-4ad4-b59a-9a1c4377fe68</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Cambridge</p><p>physical-location-postalcode</p><p>N1S 1P1</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>102547</p><p>true</p><p>Long-Term Care Homes</p><p>Location/2940f54b-ce17-4f40-9c5b-a664e8bfcc9c</p><p>Location</p><p>Steeves and Rozema Enterprises - St Andrews Terrace</p><p>128-bed long-term care home * residential care for private rooms, semi-private rooms, and  basic rooms\n* 24-hour nursing and personal care * access to a doctor and other health professionals&lt;br&gt;&lt;ul&gt;&lt;li&gt;bedding and furniture&lt;/li&gt;&lt;li&gt;laundry and housekeeping&lt;/li&gt;&lt;li&gt;meals&lt;/li&gt;&lt;li&gt;personal hygiene supplies&lt;/li&gt;&lt;li&gt;medical supplies and equipment (such as catheters, ostomy bags, or wound care supplies) &lt;/li&gt;&lt;li&gt;assistance with medication and activities of daily living&lt;/li&gt;&lt;li&gt;recreation and social programs&lt;/li&gt;&lt;li&gt;spiritual care&lt;/li&gt;&lt;/ul&gt;</p><p>Location/10377113-40ba-473c-b58c-eef46a5565f0</p><p>Location</p><p>Rates set by the Ontario Ministry of Long-Term Care * subsidies for basic rates may be available for eligible applicants</p><p>Adults who need long-term care * care coordinators assess the needs of applicants</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>Contact Ontario Health atHome Waterloo-Wellington</p></div>",
+    "eligibility": [
+      "Adults who need long-term care * care coordinators assess the needs of applicants"
+    ],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [
+      "Contact Ontario Health atHome Waterloo-Wellington"
+    ],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-620-9512"
+          },
+          {
+            "phone": "1-888-524-8869"
+          },
+          {
+            "fax": "519-620-1434"
+          },
+          {
+            "email": "standrewsterrace@srgroup.ca"
+          },
+          {
+            "url": "ltc.srgroup.ca/st_andrews_terrace_cambridge.htm"
+          }
+        ],
+        "address": {
+          "line": [
+            "255 St Andrews St"
+          ],
+          "city": "Cambridge",
+          "state": "ON",
+          "postalCode": "N1S 1P1"
+        },
+        "position": {
+          "longitude": -80.3284,
+          "latitude": 43.3456
+        }
+      }
+    ],
+    "contact_info": "phone: 519-620-9512, phone: 1-888-524-8869, fax: 519-620-1434, email: standrewsterrace@srgroup.ca, url: ltc.srgroup.ca/st_andrews_terrace_cambridge.htm",
+    "description_of_this": "128-bed long-term care home * residential care for private rooms, semi-private rooms, and  basic rooms\n* 24-hour nursing and personal care * access to a doctor and other health professionals<br><ul><li>bedding and furniture</li><li>laundry and housekeeping</li><li>meals</li><li>personal hygiene supplies</li><li>medical supplies and equipment (such as catheters, ostomy bags, or wound care supplies) </li><li>assistance with medication and activities of daily living</li><li>recreation and social programs</li><li>spiritual care</li></ul>, Codes: Rates set by the Ontario Ministry of Long-Term Care * subsidies for basic rates may be available for eligible applicants, Features: Wheelchair Accessible, Languages: English, Referral: Contact Ontario Health atHome Waterloo-Wellington, Address: 255 St Andrews St, Cambridge, ON, N1S 1P1, Location: lat: 43.3456, lon: -80.3284, Contact: phone: 519-620-9512, phone: 1-888-524-8869, fax: 519-620-1434, email: standrewsterrace@srgroup.ca, url: ltc.srgroup.ca/st_andrews_terrace_cambridge.htm"
+  }
+]

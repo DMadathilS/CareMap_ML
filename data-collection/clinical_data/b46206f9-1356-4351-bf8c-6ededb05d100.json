@@ -1,0 +1,53 @@
+[
+  {
+    "name": "Belmont Park Pharmacy",
+    "active": true,
+    "category": [
+      "Pharmacies"
+    ],
+    "comment": "General pharmacy<ul><li>treatment and prescription of medications for common medical ailments, including rashes, pink eye, insect bites, acne, and urinary tract infections</li><li>prescription of COVID-19 antiviral treatment (Paxlovid)</li><li>medication placed in pill organizers (containers for storing scheduled doses) at no extra cost\n</li><li> medication placed in blister packs (sealed, push-through packaging used to separate doses) at no extra cost</li><li> free delivery for prescriptions (Kitchener and Waterloo)</li><li> free take-home naloxone kits (emergency response kits for opioid overdose)</li></ul><br>\n<b>MedsCheck</b> - Appointments to review complex prescriptions with a pharmacist <br><br>\n<b>Medications Return Program</b> - Safe disposal of expired or unused medications, creams, and inhalers <br><br>\n<b>Sharps Disposal Program</b> - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips",
+    "serviceProvisionCode": [
+      "Dispensing fee plus medication costs * prescribed medications may be covered by OHIP"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>b46206f9-1356-4351-bf8c-6ededb05d100</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Kitchener</p><p>physical-location-postalcode</p><p>N2M 5E9</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>208574</p><p>true</p><p>Pharmacies</p><p>Location/5c348f8b-2c09-44b7-902b-ff49fde3ca90</p><p>Location</p><p>Belmont Park Pharmacy</p><p>General pharmacy&lt;ul&gt;&lt;li&gt;treatment and prescription of medications for common medical ailments, including rashes, pink eye, insect bites, acne, and urinary tract infections&lt;/li&gt;&lt;li&gt;prescription of COVID-19 antiviral treatment (Paxlovid)&lt;/li&gt;&lt;li&gt;medication placed in pill organizers (containers for storing scheduled doses) at no extra cost\n&lt;/li&gt;&lt;li&gt; medication placed in blister packs (sealed, push-through packaging used to separate doses) at no extra cost&lt;/li&gt;&lt;li&gt; free delivery for prescriptions (Kitchener and Waterloo)&lt;/li&gt;&lt;li&gt; free take-home naloxone kits (emergency response kits for opioid overdose)&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;\n&lt;b&gt;MedsCheck&lt;/b&gt; - Appointments to review complex prescriptions with a pharmacist &lt;br&gt;&lt;br&gt;\n&lt;b&gt;Medications Return Program&lt;/b&gt; - Safe disposal of expired or unused medications, creams, and inhalers &lt;br&gt;&lt;br&gt;\n&lt;b&gt;Sharps Disposal Program&lt;/b&gt; - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips</p><p>Location/5d40adb9-3f17-46c6-bf96-73aef4ab867c</p><p>Location</p><p>Dispensing fee plus medication costs * prescribed medications may be covered by OHIP</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>ara</p><p>Arabic</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>cmn</p><p>Chinese (Mandarin)</p></div>",
+    "eligibility": [],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English",
+      "Arabic",
+      "Chinese (Mandarin)"
+    ],
+    "referralMethod": [],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-742-4654"
+          },
+          {
+            "fax": "519-742-1140"
+          },
+          {
+            "email": "myhealthpark@gmail.com"
+          }
+        ],
+        "address": {
+          "line": [
+            "535 Belmont Ave W, Unit 105"
+          ],
+          "city": "Kitchener",
+          "state": "ON",
+          "postalCode": "N2M 5E9"
+        },
+        "position": {
+          "longitude": -80.5156,
+          "latitude": 43.4487
+        }
+      }
+    ],
+    "contact_info": "phone: 519-742-4654, fax: 519-742-1140, email: myhealthpark@gmail.com",
+    "description_of_this": "General pharmacy<ul><li>treatment and prescription of medications for common medical ailments, including rashes, pink eye, insect bites, acne, and urinary tract infections</li><li>prescription of COVID-19 antiviral treatment (Paxlovid)</li><li>medication placed in pill organizers (containers for storing scheduled doses) at no extra cost\n</li><li> medication placed in blister packs (sealed, push-through packaging used to separate doses) at no extra cost</li><li> free delivery for prescriptions (Kitchener and Waterloo)</li><li> free take-home naloxone kits (emergency response kits for opioid overdose)</li></ul><br>\n<b>MedsCheck</b> - Appointments to review complex prescriptions with a pharmacist <br><br>\n<b>Medications Return Program</b> - Safe disposal of expired or unused medications, creams, and inhalers <br><br>\n<b>Sharps Disposal Program</b> - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips, Codes: Dispensing fee plus medication costs * prescribed medications may be covered by OHIP, Features: Wheelchair Accessible, Languages: English, Arabic, Chinese (Mandarin), Address: 535 Belmont Ave W, Unit 105, Kitchener, ON, N2M 5E9, Location: lat: 43.4487, lon: -80.5156"
+  }
+]

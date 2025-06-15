@@ -1,0 +1,60 @@
+[
+  {
+    "name": "SHORE Centre",
+    "active": true,
+    "category": [
+      "Abortion Services",
+      "Cervical Cancer Screening",
+      "Sexual Health Clinics"
+    ],
+    "comment": "Sexual health information and support<ul><li>medication abortion</li><li>inter-uterine device and nexplanon insertion and removal</li><li>pap testing and pelvic exams</li><li>contraception prescriptions and referrals</li><li>counselling</li></ul>",
+    "serviceProvisionCode": [
+      "Most services covered by OHIP"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>42431871-c5b4-41e0-9121-3b93c6c20ed0</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Kitchener</p><p>physical-location-postalcode</p><p>N2G 4N5</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>208470</p><p>true</p><p>Abortion Services</p><p>Cervical Cancer Screening</p><p>Sexual Health Clinics</p><p>Location/1ba98f26-c012-4a26-b444-0042dd373fa2</p><p>Location</p><p>SHORE Centre</p><p>Sexual health information and support&lt;ul&gt;&lt;li&gt;medication abortion&lt;/li&gt;&lt;li&gt;inter-uterine device and nexplanon insertion and removal&lt;/li&gt;&lt;li&gt;pap testing and pelvic exams&lt;/li&gt;&lt;li&gt;contraception prescriptions and referrals&lt;/li&gt;&lt;li&gt;counselling&lt;/li&gt;&lt;/ul&gt;</p><p>Location/ff9160ef-a76c-4173-ab61-5e1f6cfdd970</p><p>Location</p><p>Most services covered by OHIP</p><p>People seeking abortion, contraception, or sexual health care</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>Call * no referral required * pregnancy must have been confirmed with a pregnancy test prior to making an appointment&lt;br&gt;Book online &lt;x href=&quot;https://shore.inputhealth.com/ebooking#new&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;</p></div>",
+    "eligibility": [
+      "People seeking abortion, contraception, or sexual health care"
+    ],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [
+      "Call * no referral required * pregnancy must have been confirmed with a pregnancy test prior to making an appointment<br>Book online <x href=\"https://shore.inputhealth.com/ebooking#new\" target=\"_blank\">here</a>"
+    ],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-743-9360"
+          },
+          {
+            "fax": "519-743-6710"
+          },
+          {
+            "email": "general@shorecentre.ca"
+          },
+          {
+            "url": "clinic.shorecentre.ca/"
+          }
+        ],
+        "address": {
+          "line": [
+            "235 King St E, Suite 130"
+          ],
+          "city": "Kitchener",
+          "state": "ON",
+          "postalCode": "N2G 4N5"
+        },
+        "position": {
+          "longitude": -80.4857,
+          "latitude": 43.4479
+        }
+      }
+    ],
+    "contact_info": "phone: 519-743-9360, fax: 519-743-6710, email: general@shorecentre.ca, url: clinic.shorecentre.ca/",
+    "description_of_this": "Sexual health information and support<ul><li>medication abortion</li><li>inter-uterine device and nexplanon insertion and removal</li><li>pap testing and pelvic exams</li><li>contraception prescriptions and referrals</li><li>counselling</li></ul>, Codes: Most services covered by OHIP, Features: Wheelchair Accessible, Languages: English, Referral: Call * no referral required * pregnancy must have been confirmed with a pregnancy test prior to making an appointment<br>Book online <x href=\"https://shore.inputhealth.com/ebooking#new\" target=\"_blank\">here</a>, Address: 235 King St E, Suite 130, Kitchener, ON, N2G 4N5, Location: lat: 43.4479, lon: -80.4857"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Hartsland Clinic",
+    "active": true,
+    "category": [
+      "Walk-In Medical Clinics"
+    ],
+    "comment": "Walk-in medical clinic * doctors and nurses assess and treat minor illnesses and injuries",
+    "serviceProvisionCode": [
+      "Most services covered by OHIP"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>1c008b79-5d5a-4532-93e9-2fd9c277cb5c</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Guelph</p><p>physical-location-postalcode</p><p>N1G 4X4</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>218543</p><p>true</p><p>Walk-In Medical Clinics</p><p>Location/958b0d8e-75fc-4de0-bddf-4b858d2784f4</p><p>Location</p><p>Hartsland Clinic</p><p>Walk-in medical clinic * doctors and nurses assess and treat minor illnesses and injuries</p><p>Location/91d69f65-c453-49a6-9073-e5ba9a69c6f3</p><p>Location</p><p>Most services covered by OHIP</p><p>People who need medical care for minor illnesses and injuries</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>ara</p><p>Arabic</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>hin</p><p>Hindi</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>pan</p><p>Punjabi</p><p>Call or visit * no referral required</p></div>",
+    "eligibility": [
+      "People who need medical care for minor illnesses and injuries"
+    ],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English",
+      "Arabic",
+      "Hindi",
+      "Punjabi"
+    ],
+    "referralMethod": [
+      "Call or visit * no referral required"
+    ],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-838-7122"
+          },
+          {
+            "fax": "519-340-6826"
+          },
+          {
+            "email": "hartslandclinic@gmail.com"
+          }
+        ],
+        "address": {
+          "line": [
+            "210 Kortright Rd W, Unit 6"
+          ],
+          "city": "Guelph",
+          "state": "ON",
+          "postalCode": "N1G 4X4"
+        },
+        "position": {
+          "longitude": -80.2205,
+          "latitude": 43.5129
+        }
+      }
+    ],
+    "contact_info": "phone: 519-838-7122, fax: 519-340-6826, email: hartslandclinic@gmail.com",
+    "description_of_this": "Walk-in medical clinic * doctors and nurses assess and treat minor illnesses and injuries, Codes: Most services covered by OHIP, Features: Wheelchair Accessible, Languages: English, Arabic, Hindi, Punjabi, Referral: Call or visit * no referral required, Address: 210 Kortright Rd W, Unit 6, Guelph, ON, N1G 4X4, Location: lat: 43.5129, lon: -80.2205"
+  }
+]

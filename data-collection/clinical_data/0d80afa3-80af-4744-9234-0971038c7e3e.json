@@ -1,0 +1,55 @@
+[
+  {
+    "name": "Phoenix Healthcare Centre - Kitchener Office",
+    "active": true,
+    "category": [
+      "Walk-In Medical Clinics"
+    ],
+    "comment": "Walk-in medical clinic * doctors and nurses assess and treat minor illnesses and injuries * travel vaccine advice by appointment * family medicine by appointment",
+    "serviceProvisionCode": [
+      "Most services covered by OHIP"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>0d80afa3-80af-4744-9234-0971038c7e3e</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Kitchener</p><p>physical-location-postalcode</p><p>N2H 2P5</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>103111</p><p>true</p><p>Walk-In Medical Clinics</p><p>Location/4b1d3b55-6cad-45ae-9b65-2d38f3700a36</p><p>Location</p><p>Phoenix Healthcare Centre - Kitchener Office</p><p>Walk-in medical clinic * doctors and nurses assess and treat minor illnesses and injuries * travel vaccine advice by appointment * family medicine by appointment</p><p>Location/709c5092-20fb-440d-9e90-a05a6a6fe218</p><p>Location</p><p>Most services covered by OHIP</p><p>People who need medical care for minor illnesses and injuries</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>Call or visit * no referral required</p></div>",
+    "eligibility": [
+      "People who need medical care for minor illnesses and injuries"
+    ],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [
+      "Call or visit * no referral required"
+    ],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-748-6933"
+          },
+          {
+            "fax": "519-748-9733"
+          },
+          {
+            "url": "www.phoenixhealthcare.ca/"
+          }
+        ],
+        "address": {
+          "line": [
+            "450 Frederick St, Suite 301"
+          ],
+          "city": "Kitchener",
+          "state": "ON",
+          "postalCode": "N2H 2P5"
+        },
+        "position": {
+          "longitude": -80.4728,
+          "latitude": 43.4587
+        }
+      }
+    ],
+    "contact_info": "phone: 519-748-6933, fax: 519-748-9733, url: www.phoenixhealthcare.ca/",
+    "description_of_this": "Walk-in medical clinic * doctors and nurses assess and treat minor illnesses and injuries * travel vaccine advice by appointment * family medicine by appointment, Codes: Most services covered by OHIP, Features: Wheelchair Accessible, Languages: English, Referral: Call or visit * no referral required, Address: 450 Frederick St, Suite 301, Kitchener, ON, N2H 2P5, Location: lat: 43.4587, lon: -80.4728"
+  }
+]

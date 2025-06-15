@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Guelph Community Health Centre - Wyndham St N",
+    "active": true,
+    "category": [
+      "Community Health Centres"
+    ],
+    "comment": "Health centre focused on family and community health * health \nprofessionals assess and treat non-life-threatening injuries or \nillnesses * referrals to other local health services and personal \ndevelopment groups<br><br>Community-led health teams develop programs to improve the social supports and conditions that affect long-term health<br><br><b>Breastfeeding Support</b> - Counselling for breastfeeding \nmothers * phone calls or home visits * breast pump rentals * discussion \nof the effects of foods and medications on breast milk<br><br><b>Clinical Dietitian</b> - Nutritional information and \neducation * one-on-one, couple, or family sessions for people with food \nand health-related concerns<BR><BR><B>Services and Programs:</B><UL><LI>Guelph - Downtown Location - Primary Care Services</LI><LI>Guelph - Stone Road Mall - EarlyON Child and Family Centre Guelph</LI><LI>Guelph Civic Museum - EarlyON Mobile Site</LI><LI>Indigenous Health and Wellness Program</LI><LI>Puslinch Community Centre - Aberfoyle EarlyON Mobile Site</LI><LI>Shelldale Satellite Clinic</LI></UL>",
+    "serviceProvisionCode": [
+      "Most medical services covered by OHIP * some fees for other programs"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>ad974827-23f9-48f3-bd81-03ba5cab0c01</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Guelph</p><p>physical-location-postalcode</p><p>N1H 8N9</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>208338</p><p>true</p><p>Community Health Centres</p><p>Location/43df5165-9bd2-48fa-9854-74063b81adc5</p><p>Location</p><p>Guelph Community Health Centre - Wyndham St N</p><p>Health centre focused on family and community health * health \nprofessionals assess and treat non-life-threatening injuries or \nillnesses * referrals to other local health services and personal \ndevelopment groups&lt;br&gt;&lt;br&gt;Community-led health teams develop programs to improve the social supports and conditions that affect long-term health&lt;br&gt;&lt;br&gt;&lt;b&gt;Breastfeeding Support&lt;/b&gt; - Counselling for breastfeeding \nmothers * phone calls or home visits * breast pump rentals * discussion \nof the effects of foods and medications on breast milk&lt;br&gt;&lt;br&gt;&lt;b&gt;Clinical Dietitian&lt;/b&gt; - Nutritional information and \neducation * one-on-one, couple, or family sessions for people with food \nand health-related concerns&lt;BR&gt;&lt;BR&gt;&lt;B&gt;Services and Programs:&lt;/B&gt;&lt;UL&gt;&lt;LI&gt;Guelph - Downtown Location - Primary Care Services&lt;/LI&gt;&lt;LI&gt;Guelph - Stone Road Mall - EarlyON Child and Family Centre Guelph&lt;/LI&gt;&lt;LI&gt;Guelph Civic Museum - EarlyON Mobile Site&lt;/LI&gt;&lt;LI&gt;Indigenous Health and Wellness Program&lt;/LI&gt;&lt;LI&gt;Puslinch Community Centre - Aberfoyle EarlyON Mobile Site&lt;/LI&gt;&lt;LI&gt;Shelldale Satellite Clinic&lt;/LI&gt;&lt;/UL&gt;</p><p>Location/71b5f004-7542-4e8c-be0d-899945684384</p><p>Location</p><p>Most medical services covered by OHIP * some fees for other programs</p><p>Varies per program</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>Call or visit * no referral required * appointments required for some programs</p></div>",
+    "eligibility": [
+      "Varies per program"
+    ],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [
+      "Call or visit * no referral required * appointments required for some programs"
+    ],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-821-6638"
+          },
+          {
+            "fax": "Health Services Fax: 519-821-5834"
+          },
+          {
+            "email": "info@guelphchc.ca"
+          },
+          {
+            "url": "guelphchc.ca"
+          }
+        ],
+        "address": {
+          "line": [
+            "176 Wyndham St N"
+          ],
+          "city": "Guelph",
+          "state": "ON",
+          "postalCode": "N1H 8N9"
+        },
+        "position": {
+          "longitude": -80.2513,
+          "latitude": 43.5479
+        }
+      }
+    ],
+    "contact_info": "phone: 519-821-6638, fax: Health Services Fax: 519-821-5834, email: info@guelphchc.ca, url: guelphchc.ca",
+    "description_of_this": "Health centre focused on family and community health * health \nprofessionals assess and treat non-life-threatening injuries or \nillnesses * referrals to other local health services and personal \ndevelopment groups<br><br>Community-led health teams develop programs to improve the social supports and conditions that affect long-term health<br><br><b>Breastfeeding Support</b> - Counselling for breastfeeding \nmothers * phone calls or home visits * breast pump rentals * discussion \nof the effects of foods and medications on breast milk<br><br><b>Clinical Dietitian</b> - Nutritional information and \neducation * one-on-one, couple, or family sessions for people with food \nand health-related concerns<BR><BR><B>Services and Programs:</B><UL><LI>Guelph - Downtown Location - Primary Care Services</LI><LI>Guelph - Stone Road Mall - EarlyON Child and Family Centre Guelph</LI><LI>Guelph Civic Museum - EarlyON Mobile Site</LI><LI>Indigenous Health and Wellness Program</LI><LI>Puslinch Community Centre - Aberfoyle EarlyON Mobile Site</LI><LI>Shelldale Satellite Clinic</LI></UL>, Codes: Most medical services covered by OHIP * some fees for other programs, Features: Wheelchair Accessible, Languages: English, Referral: Call or visit * no referral required * appointments required for some programs, Address: 176 Wyndham St N, Guelph, ON, N1H 8N9, Location: lat: 43.5479, lon: -80.2513"
+  }
+]

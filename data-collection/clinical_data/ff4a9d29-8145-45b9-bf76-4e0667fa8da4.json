@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Guelph General Hospital - Ontario Breast Screening Program",
+    "active": true,
+    "category": [
+      "Ontario Breast Screening Programs"
+    ],
+    "comment": "Breast screening for early detection of breast cancer in women\n<br><br>Screening includes mammography (x-rays of breast tissue) * screening results are sent to both the woman and her doctor<br><br>Women who receive normal results are automatically recalled for their next screening appointment * women who receive abnormal results are referred to their doctor for further investigation, or are referred directly for additional tests",
+    "serviceProvisionCode": [
+      "Covered by OHIP"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>ff4a9d29-8145-45b9-bf76-4e0667fa8da4</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Guelph</p><p>physical-location-postalcode</p><p>N1E 4J4</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>162746</p><p>true</p><p>Ontario Breast Screening Programs</p><p>Location/5576d086-c82f-4dab-a5b9-8c7a62d4220d</p><p>Location</p><p>Guelph General Hospital - Ontario Breast Screening Program</p><p>Breast screening for early detection of breast cancer in women\n&lt;br&gt;&lt;br&gt;Screening includes mammography (x-rays of breast tissue) * screening results are sent to both the woman and her doctor&lt;br&gt;&lt;br&gt;Women who receive normal results are automatically recalled for their next screening appointment * women who receive abnormal results are referred to their doctor for further investigation, or are referred directly for additional tests</p><p>Location/ae903a3e-3a8f-4246-bf41-8c08fe21779f</p><p>Location</p><p>Covered by OHIP</p><p>Women 50-74 years and women 30-69 years confirmed to be at high risk for breast cancer * no breast augmentation or incidence of breast cancer in the past</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>Call for appointment * no referral required for women 50-74 years * medical referrals also accepted for women between 30 and 69 years</p></div>",
+    "eligibility": [
+      "Women 50-74 years and women 30-69 years confirmed to be at high risk for breast cancer * no breast augmentation or incidence of breast cancer in the past"
+    ],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [
+      "Call for appointment * no referral required for women 50-74 years * medical referrals also accepted for women between 30 and 69 years"
+    ],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519 837-6401"
+          },
+          {
+            "phone": "1-800-668-9304"
+          },
+          {
+            "phone": "519-837-6437"
+          },
+          {
+            "url": "www.gghorg.ca/diagnostic-imaging/"
+          }
+        ],
+        "address": {
+          "line": [
+            "115 Delhi St"
+          ],
+          "city": "Guelph",
+          "state": "ON",
+          "postalCode": "N1E 4J4"
+        },
+        "position": {
+          "longitude": -80.253547,
+          "latitude": 43.556362
+        }
+      }
+    ],
+    "contact_info": "phone: 519 837-6401, phone: 1-800-668-9304, phone: 519-837-6437, url: www.gghorg.ca/diagnostic-imaging/",
+    "description_of_this": "Breast screening for early detection of breast cancer in women\n<br><br>Screening includes mammography (x-rays of breast tissue) * screening results are sent to both the woman and her doctor<br><br>Women who receive normal results are automatically recalled for their next screening appointment * women who receive abnormal results are referred to their doctor for further investigation, or are referred directly for additional tests, Codes: Covered by OHIP, Features: Wheelchair Accessible, Languages: English, Referral: Call for appointment * no referral required for women 50-74 years * medical referrals also accepted for women between 30 and 69 years, Address: 115 Delhi St, Guelph, ON, N1E 4J4, Location: lat: 43.556362, lon: -80.253547, Contact: phone: 519 837-6401, phone: 1-800-668-9304, phone: 519-837-6437, url: www.gghorg.ca/diagnostic-imaging/"
+  }
+]

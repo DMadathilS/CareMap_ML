@@ -1,0 +1,64 @@
+[
+  {
+    "name": "Guelph General Hospital",
+    "active": true,
+    "category": [
+      "Hospitals"
+    ],
+    "comment": "Comprehensive acute care facility that provides inpatient and outpatient services<ul><li>emergency department with separate emergency mental health unit</li><li>dietetics and nutritional counselling</li><li>family birthing unit</li><li>rehabilitation therapies</li><li>sexual assault and domestic violence treatment</li><li>social work and discharge planning</li><li>spiritual and religious care</li></ul><BR><BR><B>Services and Programs:</B><UL><LI>Diagnostic Imaging</LI><LI>Emergency Department</LI><LI>Guelph Wellington Care and Treatment Centre for Sexual Assault and Domestic Violence</LI><LI>Laboratory</LI><LI>Lifeline</LI><LI>Ontario Breast Screening Program</LI><LI>Sleep Lab</LI></UL>",
+    "serviceProvisionCode": [
+      "Most services covered by OHIP"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>1b2a2bac-0b06-498e-bfdf-b6df8eec20ec</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Guelph</p><p>physical-location-postalcode</p><p>N1E 4J4</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>101042</p><p>true</p><p>Hospitals</p><p>Location/0f4d1aaf-e6fe-4795-8112-5b372155fe50</p><p>Location</p><p>Guelph General Hospital</p><p>Comprehensive acute care facility that provides inpatient and outpatient services&lt;ul&gt;&lt;li&gt;emergency department with separate emergency mental health unit&lt;/li&gt;&lt;li&gt;dietetics and nutritional counselling&lt;/li&gt;&lt;li&gt;family birthing unit&lt;/li&gt;&lt;li&gt;rehabilitation therapies&lt;/li&gt;&lt;li&gt;sexual assault and domestic violence treatment&lt;/li&gt;&lt;li&gt;social work and discharge planning&lt;/li&gt;&lt;li&gt;spiritual and religious care&lt;/li&gt;&lt;/ul&gt;&lt;BR&gt;&lt;BR&gt;&lt;B&gt;Services and Programs:&lt;/B&gt;&lt;UL&gt;&lt;LI&gt;Diagnostic Imaging&lt;/LI&gt;&lt;LI&gt;Emergency Department&lt;/LI&gt;&lt;LI&gt;Guelph Wellington Care and Treatment Centre for Sexual Assault and Domestic Violence&lt;/LI&gt;&lt;LI&gt;Laboratory&lt;/LI&gt;&lt;LI&gt;Lifeline&lt;/LI&gt;&lt;LI&gt;Ontario Breast Screening Program&lt;/LI&gt;&lt;LI&gt;Sleep Lab&lt;/LI&gt;&lt;/UL&gt;</p><p>Location/4de966aa-1178-4848-810d-0d9aac149628</p><p>Location</p><p>Most services covered by OHIP</p><p>Varies depending on the program or service</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>Walk in for emergency department * medical referral and appointment required for most other services</p></div>",
+    "eligibility": [
+      "Varies depending on the program or service"
+    ],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [
+      "Walk in for emergency department * medical referral and appointment required for most other services"
+    ],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "Reception and patient inquiries: 519-822-5350<br>Automated telephone: 519-837-6440<br>Emergency: 519-837-6420"
+          },
+          {
+            "phone": "519-837-6437"
+          },
+          {
+            "phone": "Call <b>911</b> in emergencies<br>Poison Control Centre: 1-800-268-9017"
+          },
+          {
+            "fax": "519-822-2170"
+          },
+          {
+            "email": "info@gghorg.ca"
+          },
+          {
+            "url": "www.gghorg.ca"
+          }
+        ],
+        "address": {
+          "line": [
+            "115 Delhi St"
+          ],
+          "city": "Guelph",
+          "state": "ON",
+          "postalCode": "N1E 4J4"
+        },
+        "position": {
+          "longitude": -80.253547,
+          "latitude": 43.556362
+        }
+      }
+    ],
+    "contact_info": "phone: Reception and patient inquiries: 519-822-5350<br>Automated telephone: 519-837-6440<br>Emergency: 519-837-6420, phone: 519-837-6437, phone: Call <b>911</b> in emergencies<br>Poison Control Centre: 1-800-268-9017, fax: 519-822-2170, email: info@gghorg.ca, url: www.gghorg.ca",
+    "description_of_this": "Comprehensive acute care facility that provides inpatient and outpatient services<ul><li>emergency department with separate emergency mental health unit</li><li>dietetics and nutritional counselling</li><li>family birthing unit</li><li>rehabilitation therapies</li><li>sexual assault and domestic violence treatment</li><li>social work and discharge planning</li><li>spiritual and religious care</li></ul><BR><BR><B>Services and Programs:</B><UL><LI>Diagnostic Imaging</LI><LI>Emergency Department</LI><LI>Guelph Wellington Care and Treatment Centre for Sexual Assault and Domestic Violence</LI><LI>Laboratory</LI><LI>Lifeline</LI><LI>Ontario Breast Screening Program</LI><LI>Sleep Lab</LI></UL>, Codes: Most services covered by OHIP, Features: Wheelchair Accessible, Languages: English, Referral: Walk in for emergency department * medical referral and appointment required for most other services, Address: 115 Delhi St, Guelph, ON, N1E 4J4, Location: lat: 43.556362, lon: -80.253547"
+  }
+]

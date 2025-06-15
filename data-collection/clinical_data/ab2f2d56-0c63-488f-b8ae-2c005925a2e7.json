@@ -1,0 +1,57 @@
+[
+  {
+    "name": "Rexall Pharma Plus - Waterloo - Weber St (Northfield)",
+    "active": true,
+    "category": [
+      "Pharmacies"
+    ],
+    "comment": "General pharmacy<ul><li> treatment and prescription of medications for common medical \nailments, including rashes, pink eye, insect bites, acne, and urinary \ntract infections<br></li><li> prescription of COVID-19 antiviral treatment (Paxlovid)</li><li>compounding can be sent out to partners</li><li> medication placed in blister packs (sealed, push-through packaging used to separate doses) for a set fee</li><li>medication reminders</li><li> certified diabetes educator (CDE) available for consultations</li><li> free delivery for prescriptions\n </li><li>free seasonal flu vaccines</li><li>travel vaccines</li><li> free take-home naloxone kits (emergency response kits for opioid overdose)</li><li>A1C diabetes testing</li><li>blood pressure screening and kiosk</li><li>opioid addiction treatment</li></ul><br>\n<b>MedsCheck</b> - Appointments to review complex prescriptions with a pharmacist <br><br><b>Medications Return Program</b> - Safe disposal of expired or unused medications, creams, and inhalers <br><br>\n<b>Sharps Disposal Program</b> - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips",
+    "serviceProvisionCode": [
+      "Dispensing fee plus medication costs * prescribed medications may be covered by OHIP"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>ab2f2d56-0c63-488f-b8ae-2c005925a2e7</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Waterloo</p><p>physical-location-postalcode</p><p>N2V 1V8</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>209112</p><p>true</p><p>Pharmacies</p><p>Location/97c53f51-597e-417d-8b4d-83ca144245d1</p><p>Location</p><p>Rexall Pharma Plus - Waterloo - Weber St (Northfield)</p><p>General pharmacy&lt;ul&gt;&lt;li&gt; treatment and prescription of medications for common medical \nailments, including rashes, pink eye, insect bites, acne, and urinary \ntract infections&lt;br&gt;&lt;/li&gt;&lt;li&gt; prescription of COVID-19 antiviral treatment (Paxlovid)&lt;/li&gt;&lt;li&gt;compounding can be sent out to partners&lt;/li&gt;&lt;li&gt; medication placed in blister packs (sealed, push-through packaging used to separate doses) for a set fee&lt;/li&gt;&lt;li&gt;medication reminders&lt;/li&gt;&lt;li&gt; certified diabetes educator (CDE) available for consultations&lt;/li&gt;&lt;li&gt; free delivery for prescriptions\n &lt;/li&gt;&lt;li&gt;free seasonal flu vaccines&lt;/li&gt;&lt;li&gt;travel vaccines&lt;/li&gt;&lt;li&gt; free take-home naloxone kits (emergency response kits for opioid overdose)&lt;/li&gt;&lt;li&gt;A1C diabetes testing&lt;/li&gt;&lt;li&gt;blood pressure screening and kiosk&lt;/li&gt;&lt;li&gt;opioid addiction treatment&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;\n&lt;b&gt;MedsCheck&lt;/b&gt; - Appointments to review complex prescriptions with a pharmacist &lt;br&gt;&lt;br&gt;&lt;b&gt;Medications Return Program&lt;/b&gt; - Safe disposal of expired or unused medications, creams, and inhalers &lt;br&gt;&lt;br&gt;\n&lt;b&gt;Sharps Disposal Program&lt;/b&gt; - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips</p><p>Location/a0a2429b-24c7-4e82-954c-6bbf93214099</p><p>Location</p><p>Dispensing fee plus medication costs * prescribed medications may be covered by OHIP</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>cmn</p><p>Chinese (Mandarin)</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>rus</p><p>Russian</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>tgl</p><p>Tagalog</p></div>",
+    "eligibility": [],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English",
+      "Chinese (Mandarin)",
+      "Russian",
+      "Tagalog"
+    ],
+    "referralMethod": [],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-746-7676"
+          },
+          {
+            "fax": "519-746-3090"
+          },
+          {
+            "email": "2469rx@rexall.ca"
+          },
+          {
+            "url": "www.rexall.ca/storelocator/store/2469"
+          }
+        ],
+        "address": {
+          "line": [
+            "585 Weber St"
+          ],
+          "city": "Waterloo",
+          "state": "ON",
+          "postalCode": "N2V 1V8"
+        },
+        "position": {
+          "longitude": -80.5511,
+          "latitude": 43.4964
+        }
+      }
+    ],
+    "contact_info": "phone: 519-746-7676, fax: 519-746-3090, email: 2469rx@rexall.ca, url: www.rexall.ca/storelocator/store/2469",
+    "description_of_this": "General pharmacy<ul><li> treatment and prescription of medications for common medical \nailments, including rashes, pink eye, insect bites, acne, and urinary \ntract infections<br></li><li> prescription of COVID-19 antiviral treatment (Paxlovid)</li><li>compounding can be sent out to partners</li><li> medication placed in blister packs (sealed, push-through packaging used to separate doses) for a set fee</li><li>medication reminders</li><li> certified diabetes educator (CDE) available for consultations</li><li> free delivery for prescriptions\n </li><li>free seasonal flu vaccines</li><li>travel vaccines</li><li> free take-home naloxone kits (emergency response kits for opioid overdose)</li><li>A1C diabetes testing</li><li>blood pressure screening and kiosk</li><li>opioid addiction treatment</li></ul><br>\n<b>MedsCheck</b> - Appointments to review complex prescriptions with a pharmacist <br><br><b>Medications Return Program</b> - Safe disposal of expired or unused medications, creams, and inhalers <br><br>\n<b>Sharps Disposal Program</b> - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips, Codes: Dispensing fee plus medication costs * prescribed medications may be covered by OHIP, Features: Wheelchair Accessible, Languages: English, Chinese (Mandarin), Russian, Tagalog, Address: 585 Weber St, Waterloo, ON, N2V 1V8, Location: lat: 43.4964, lon: -80.5511"
+  }
+]

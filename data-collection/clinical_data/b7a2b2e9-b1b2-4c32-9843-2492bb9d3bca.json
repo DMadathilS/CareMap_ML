@@ -1,0 +1,50 @@
+[
+  {
+    "name": "University of Guelph - J T Powell Building - Student Wellness",
+    "active": true,
+    "category": [
+      "Sexual Health Clinics"
+    ],
+    "comment": "Sexual health clinic * health professionals test for and treat sexually transmitted infections * family planning services <ul><li>flu clinics and immunizations</li><li>nursing services</li><li>medical notes</li><li>dietitian and physician services</li></ul>",
+    "serviceProvisionCode": [
+      "Free testing and treatment of sexual transmitted infections"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>b7a2b2e9-b1b2-4c32-9843-2492bb9d3bca</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Guelph</p><p>physical-location-postalcode</p><p>N1G 4Z8</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>214060</p><p>true</p><p>Sexual Health Clinics</p><p>Location/38918c4e-066e-4462-aaed-815ba80ef312</p><p>Location</p><p>University of Guelph - J T Powell Building - Student Wellness</p><p>Sexual health clinic * health professionals test for and treat sexually transmitted infections * family planning services &lt;ul&gt;&lt;li&gt;flu clinics and immunizations&lt;/li&gt;&lt;li&gt;nursing services&lt;/li&gt;&lt;li&gt;medical notes&lt;/li&gt;&lt;li&gt;dietitian and physician services&lt;/li&gt;&lt;/ul&gt;</p><p>Location/70c480c9-e4e8-4f69-b088-823b5aa1971b</p><p>Location</p><p>Free testing and treatment of sexual transmitted infections</p><p>Students and staff who need medical care * valid health card required</p><p>Not Applicable</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p></div>",
+    "eligibility": [
+      "Students and staff who need medical care * valid health card required"
+    ],
+    "characteristic": [
+      "Not Applicable"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-824-4120 ext 52131"
+          },
+          {
+            "url": "wellness.uoguelph.ca/health/"
+          }
+        ],
+        "address": {
+          "line": [
+            "168 Reynolds Walk, 1st Fl"
+          ],
+          "city": "Guelph",
+          "state": "ON",
+          "postalCode": "N1G 4Z8"
+        },
+        "position": {
+          "longitude": -80.2236,
+          "latitude": 43.5334
+        }
+      }
+    ],
+    "contact_info": "phone: 519-824-4120 ext 52131, url: wellness.uoguelph.ca/health/",
+    "description_of_this": "Sexual health clinic * health professionals test for and treat sexually transmitted infections * family planning services <ul><li>flu clinics and immunizations</li><li>nursing services</li><li>medical notes</li><li>dietitian and physician services</li></ul>, Codes: Free testing and treatment of sexual transmitted infections, Features: Not Applicable, Languages: English, Address: 168 Reynolds Walk, 1st Fl, Guelph, ON, N1G 4Z8, Location: lat: 43.5334, lon: -80.2236"
+  }
+]

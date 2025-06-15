@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Extendicare - Stirling Heights Long Term Care",
+    "active": true,
+    "category": [
+      "Long-Term Care Homes"
+    ],
+    "comment": "110-bed long-term care home * residential care for private rooms, semi-private rooms, and basic rooms\n* 24-hour nursing and personal care * access to a doctor and other health professionals<br><ul><li>bedding and furniture</li><li>laundry and housekeeping</li><li>meals</li><li>personal hygiene supplies</li><li>medical supplies and equipment (such as catheters, ostomy bags, or wound care supplies) </li><li>assistance with medication and activities of daily living</li><li>recreation and social programs</li><li>spiritual care</li></ul>",
+    "serviceProvisionCode": [
+      "Rates set by the Ontario Ministry of Long-Term Care * subsidies for basic rates may be available for eligible applicants"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>7a7b271e-e02b-460d-9d4a-d5d9c3934100</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Cambridge</p><p>physical-location-postalcode</p><p>N1S 5B7</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>102606</p><p>true</p><p>Long-Term Care Homes</p><p>Location/9a5148d3-397c-4da0-9b50-d43f50f0642e</p><p>Location</p><p>Extendicare - Stirling Heights Long Term Care</p><p>110-bed long-term care home * residential care for private rooms, semi-private rooms, and basic rooms\n* 24-hour nursing and personal care * access to a doctor and other health professionals&lt;br&gt;&lt;ul&gt;&lt;li&gt;bedding and furniture&lt;/li&gt;&lt;li&gt;laundry and housekeeping&lt;/li&gt;&lt;li&gt;meals&lt;/li&gt;&lt;li&gt;personal hygiene supplies&lt;/li&gt;&lt;li&gt;medical supplies and equipment (such as catheters, ostomy bags, or wound care supplies) &lt;/li&gt;&lt;li&gt;assistance with medication and activities of daily living&lt;/li&gt;&lt;li&gt;recreation and social programs&lt;/li&gt;&lt;li&gt;spiritual care&lt;/li&gt;&lt;/ul&gt;</p><p>Location/39298849-ac9f-4f1b-a45a-1212245adc0a</p><p>Location</p><p>Rates set by the Ontario Ministry of Long-Term Care * subsidies for basic rates may be available for eligible applicants</p><p>Adults who need long-term care * care coordinators assess the needs of applicants</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>Contact Ontario Health atHome Waterloo-Wellington</p></div>",
+    "eligibility": [
+      "Adults who need long-term care * care coordinators assess the needs of applicants"
+    ],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [
+      "Contact Ontario Health atHome Waterloo-Wellington"
+    ],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-622-3434"
+          },
+          {
+            "fax": "519-622-0403"
+          },
+          {
+            "email": "cnh_stirlingheights@extendicare.com"
+          },
+          {
+            "url": "www.extendicarestirlingheights.com/"
+          }
+        ],
+        "address": {
+          "line": [
+            "200 Stirling MacGregor Dr"
+          ],
+          "city": "Cambridge",
+          "state": "ON",
+          "postalCode": "N1S 5B7"
+        },
+        "position": {
+          "longitude": -80.332435,
+          "latitude": 43.338849
+        }
+      }
+    ],
+    "contact_info": "phone: 519-622-3434, fax: 519-622-0403, email: cnh_stirlingheights@extendicare.com, url: www.extendicarestirlingheights.com/",
+    "description_of_this": "110-bed long-term care home * residential care for private rooms, semi-private rooms, and basic rooms\n* 24-hour nursing and personal care * access to a doctor and other health professionals<br><ul><li>bedding and furniture</li><li>laundry and housekeeping</li><li>meals</li><li>personal hygiene supplies</li><li>medical supplies and equipment (such as catheters, ostomy bags, or wound care supplies) </li><li>assistance with medication and activities of daily living</li><li>recreation and social programs</li><li>spiritual care</li></ul>, Codes: Rates set by the Ontario Ministry of Long-Term Care * subsidies for basic rates may be available for eligible applicants, Features: Wheelchair Accessible, Languages: English, Referral: Contact Ontario Health atHome Waterloo-Wellington, Address: 200 Stirling MacGregor Dr, Cambridge, ON, N1S 5B7, Location: lat: 43.338849, lon: -80.332435"
+  }
+]

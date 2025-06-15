@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Onyx Urgent Care Clinic",
+    "active": true,
+    "category": [
+      "Walk-In Medical Clinics"
+    ],
+    "comment": "Walk-in medical clinic * doctors and nurses assess and treat minor illnesses and injuries<BR><BR><B>Services and Programs:</B><UL><LI>Options Clinic</LI><LI>Virtual Care Clinic</LI></UL>",
+    "serviceProvisionCode": [
+      "Services may be covered by OHIP"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>39dd2fb7-b6dd-4f21-a643-ba454becf6e3</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Kitchener</p><p>physical-location-postalcode</p><p>N2K 1M3</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>179340</p><p>true</p><p>Walk-In Medical Clinics</p><p>Location/c2291454-0567-489f-a12f-6ee792c5e31e</p><p>Location</p><p>Onyx Urgent Care Clinic</p><p>Walk-in medical clinic * doctors and nurses assess and treat minor illnesses and injuries&lt;BR&gt;&lt;BR&gt;&lt;B&gt;Services and Programs:&lt;/B&gt;&lt;UL&gt;&lt;LI&gt;Options Clinic&lt;/LI&gt;&lt;LI&gt;Virtual Care Clinic&lt;/LI&gt;&lt;/UL&gt;</p><p>Location/89f5f1ac-7a1a-4cfd-9b0d-95eeb3c60504</p><p>Location</p><p>Services may be covered by OHIP</p><p>People who need medical care for minor illnesses and injuries</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>Call or visit * no referral required</p></div>",
+    "eligibility": [
+      "People who need medical care for minor illnesses and injuries"
+    ],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [
+      "Call or visit * no referral required"
+    ],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-896-6699"
+          },
+          {
+            "fax": "519-279-1585"
+          },
+          {
+            "email": "onyxmedicalcentre@gmail.com"
+          },
+          {
+            "url": "onyxurgentcare.com"
+          }
+        ],
+        "address": {
+          "line": [
+            "580 Lancaster St W"
+          ],
+          "city": "Kitchener",
+          "state": "ON",
+          "postalCode": "N2K 1M3"
+        },
+        "position": {
+          "longitude": -80.4839,
+          "latitude": 43.48
+        }
+      }
+    ],
+    "contact_info": "phone: 519-896-6699, fax: 519-279-1585, email: onyxmedicalcentre@gmail.com, url: onyxurgentcare.com",
+    "description_of_this": "Walk-in medical clinic * doctors and nurses assess and treat minor illnesses and injuries<BR><BR><B>Services and Programs:</B><UL><LI>Options Clinic</LI><LI>Virtual Care Clinic</LI></UL>, Codes: Services may be covered by OHIP, Features: Wheelchair Accessible, Languages: English, Referral: Call or visit * no referral required, Address: 580 Lancaster St W, Kitchener, ON, N2K 1M3, Location: lat: 43.48, lon: -80.4839"
+  }
+]

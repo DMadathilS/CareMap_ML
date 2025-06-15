@@ -1,0 +1,60 @@
+[
+  {
+    "name": "Greengate Walk-In Clinic",
+    "active": true,
+    "category": [
+      "Walk-In Medical Clinics"
+    ],
+    "comment": "Walk-in medical clinic * doctors and nurses assess and treat minor illnesses and injuries",
+    "serviceProvisionCode": [
+      "Most services covered by OHIP"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>4a3ec7e6-7d31-43ad-b64c-64ffe9851812</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Guelph</p><p>physical-location-postalcode</p><p>N1H 7P7</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>192634</p><p>true</p><p>Walk-In Medical Clinics</p><p>Location/b23fcb3b-a367-42c0-8943-9ecd10e101f6</p><p>Location</p><p>Greengate Walk-In Clinic</p><p>Walk-in medical clinic * doctors and nurses assess and treat minor illnesses and injuries</p><p>Location/2386fb7f-2f6f-4547-b646-bddca83f3a81</p><p>Location</p><p>Most services covered by OHIP</p><p>People who need medical care for minor illnesses and injuries</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>hin</p><p>Hindi</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>pan</p><p>Punjabi</p><p>Call or visit * no referral required</p></div>",
+    "eligibility": [
+      "People who need medical care for minor illnesses and injuries"
+    ],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English",
+      "Hindi",
+      "Punjabi"
+    ],
+    "referralMethod": [
+      "Call or visit * no referral required"
+    ],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-265-8807"
+          },
+          {
+            "fax": "226-486-0172"
+          },
+          {
+            "email": "info@greengatemedical.ca"
+          },
+          {
+            "url": "greengatemedical.ca/"
+          }
+        ],
+        "address": {
+          "line": [
+            "170 Silvercreek Pkwy N, Unit 2"
+          ],
+          "city": "Guelph",
+          "state": "ON",
+          "postalCode": "N1H 7P7"
+        },
+        "position": {
+          "longitude": -80.2824,
+          "latitude": 43.5407
+        }
+      }
+    ],
+    "contact_info": "phone: 519-265-8807, fax: 226-486-0172, email: info@greengatemedical.ca, url: greengatemedical.ca/",
+    "description_of_this": "Walk-in medical clinic * doctors and nurses assess and treat minor illnesses and injuries, Codes: Most services covered by OHIP, Features: Wheelchair Accessible, Languages: English, Hindi, Punjabi, Referral: Call or visit * no referral required, Address: 170 Silvercreek Pkwy N, Unit 2, Guelph, ON, N1H 7P7, Location: lat: 43.5407, lon: -80.2824"
+  }
+]

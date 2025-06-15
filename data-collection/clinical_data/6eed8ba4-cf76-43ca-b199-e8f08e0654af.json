@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Greenbrook Pharmacy",
+    "active": true,
+    "category": [
+      "Pharmacies"
+    ],
+    "comment": "Compounding pharmacy<ul><li>treatment and prescription of medications for common medical ailments, including rashes, pink eye, insect bites, acne, and urinary tract infections</li><li>prescription of COVID-19 antiviral treatment (Paxlovid)</li><li>medication placed in pill organizers (containers for storing scheduled doses) at no extra cost\n </li><li> medication placed in blister packs (sealed, push-through packaging used to separate doses) at no extra cost</li><li> certified diabetes educator (CDE) available for consultations</li><li> free delivery for prescriptions\n </li><li>free seasonal flu vaccines</li></ul><br>\n<b>MedsCheck</b> - Appointments to review complex prescriptions with a pharmacist <br><br>\n<b>Medications Return Program</b> - Safe disposal of expired or unused medications, creams, and inhalers <br><br>\n<b>Sharps Disposal Program</b> - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips",
+    "serviceProvisionCode": [
+      "Dispensing fee plus medication costs * prescribed medications may be covered by OHIP"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>6eed8ba4-cf76-43ca-b199-e8f08e0654af</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Kitchener</p><p>physical-location-postalcode</p><p>N2M 4K1</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>208670</p><p>true</p><p>Pharmacies</p><p>Location/33c9d648-e504-45e4-a70d-4c76c1cb4f62</p><p>Location</p><p>Greenbrook Pharmacy</p><p>Compounding pharmacy&lt;ul&gt;&lt;li&gt;treatment and prescription of medications for common medical ailments, including rashes, pink eye, insect bites, acne, and urinary tract infections&lt;/li&gt;&lt;li&gt;prescription of COVID-19 antiviral treatment (Paxlovid)&lt;/li&gt;&lt;li&gt;medication placed in pill organizers (containers for storing scheduled doses) at no extra cost\n &lt;/li&gt;&lt;li&gt; medication placed in blister packs (sealed, push-through packaging used to separate doses) at no extra cost&lt;/li&gt;&lt;li&gt; certified diabetes educator (CDE) available for consultations&lt;/li&gt;&lt;li&gt; free delivery for prescriptions\n &lt;/li&gt;&lt;li&gt;free seasonal flu vaccines&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;\n&lt;b&gt;MedsCheck&lt;/b&gt; - Appointments to review complex prescriptions with a pharmacist &lt;br&gt;&lt;br&gt;\n&lt;b&gt;Medications Return Program&lt;/b&gt; - Safe disposal of expired or unused medications, creams, and inhalers &lt;br&gt;&lt;br&gt;\n&lt;b&gt;Sharps Disposal Program&lt;/b&gt; - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips</p><p>Location/968af189-4d97-4985-a09f-f2888ef882ca</p><p>Location</p><p>Dispensing fee plus medication costs * prescribed medications may be covered by OHIP</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p></div>",
+    "eligibility": [],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-742-9955"
+          },
+          {
+            "fax": "519-742-3468"
+          },
+          {
+            "url": "www.greenrx.ca/"
+          }
+        ],
+        "address": {
+          "line": [
+            "421 Greenbrook Dr"
+          ],
+          "city": "Kitchener",
+          "state": "ON",
+          "postalCode": "N2M 4K1"
+        },
+        "position": {
+          "longitude": -80.5109,
+          "latitude": 43.4249
+        }
+      }
+    ],
+    "contact_info": "phone: 519-742-9955, fax: 519-742-3468, url: www.greenrx.ca/",
+    "description_of_this": "Compounding pharmacy<ul><li>treatment and prescription of medications for common medical ailments, including rashes, pink eye, insect bites, acne, and urinary tract infections</li><li>prescription of COVID-19 antiviral treatment (Paxlovid)</li><li>medication placed in pill organizers (containers for storing scheduled doses) at no extra cost\n </li><li> medication placed in blister packs (sealed, push-through packaging used to separate doses) at no extra cost</li><li> certified diabetes educator (CDE) available for consultations</li><li> free delivery for prescriptions\n </li><li>free seasonal flu vaccines</li></ul><br>\n<b>MedsCheck</b> - Appointments to review complex prescriptions with a pharmacist <br><br>\n<b>Medications Return Program</b> - Safe disposal of expired or unused medications, creams, and inhalers <br><br>\n<b>Sharps Disposal Program</b> - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips, Codes: Dispensing fee plus medication costs * prescribed medications may be covered by OHIP, Features: Wheelchair Accessible, Languages: English, Address: 421 Greenbrook Dr, Kitchener, ON, N2M 4K1, Location: lat: 43.4249, lon: -80.5109"
+  }
+]

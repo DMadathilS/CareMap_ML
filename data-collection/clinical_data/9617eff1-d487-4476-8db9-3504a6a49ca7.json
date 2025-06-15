@@ -1,0 +1,53 @@
+[
+  {
+    "name": "True North Imaging - Kitchener - Fairway Rd S (Fairway X-Ray & Ultrasound)",
+    "active": true,
+    "category": [
+      "Diagnostic Imaging Clinics"
+    ],
+    "comment": "Diagnostic imaging clinic<br><br><b>Services include:</b><ul><li>ultrasound</li></ul>",
+    "serviceProvisionCode": [
+      "Most services covered by OHIP"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>9617eff1-d487-4476-8db9-3504a6a49ca7</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Kitchener</p><p>physical-location-postalcode</p><p>N2C 1X2</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>208209</p><p>true</p><p>Diagnostic Imaging Clinics</p><p>Location/6141d8ef-37f1-45d5-8902-38b15571598c</p><p>Location</p><p>True North Imaging - Kitchener - Fairway Rd S (Fairway X-Ray &amp; Ultrasound)</p><p>Diagnostic imaging clinic&lt;br&gt;&lt;br&gt;&lt;b&gt;Services include:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;ultrasound&lt;/li&gt;&lt;/ul&gt;</p><p>Location/993edf4b-736a-4d2e-adc3-2d768f28a067</p><p>Location</p><p>Most services covered by OHIP</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>Medical referral required</p></div>",
+    "eligibility": [],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [
+      "Medical referral required"
+    ],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-748-6844"
+          },
+          {
+            "fax": "519-748-5306"
+          },
+          {
+            "url": "truenorthimaging.com/"
+          }
+        ],
+        "address": {
+          "line": [
+            "385 Fairway Rd S"
+          ],
+          "city": "Kitchener",
+          "state": "ON",
+          "postalCode": "N2C 1X2"
+        },
+        "position": {
+          "longitude": -80.4423,
+          "latitude": 43.4207
+        }
+      }
+    ],
+    "contact_info": "phone: 519-748-6844, fax: 519-748-5306, url: truenorthimaging.com/",
+    "description_of_this": "Diagnostic imaging clinic<br><br><b>Services include:</b><ul><li>ultrasound</li></ul>, Codes: Most services covered by OHIP, Features: Wheelchair Accessible, Languages: English, Referral: Medical referral required, Address: 385 Fairway Rd S, Kitchener, ON, N2C 1X2, Location: lat: 43.4207, lon: -80.4423"
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "name": "IDA Pharmacy - Kitchener - Ottawa St",
+    "active": true,
+    "category": [
+      "Pharmacies"
+    ],
+    "comment": "General pharmacy<ul><li>treatment and prescription of medications for thirteen common medical \nailments, including rashes, pink eye, insect bites, and urinary tract infections</li><li>medication placed in pill organizers (containers for storing scheduled doses) at no extra cost</li><li>medication placed in blister packs (sealed, push-through packaging used to separate doses) at no extra cost</li><li>pharmacist available for diabetes management consultations</li><li>basic home health care supplies</li><li>free delivery for prescriptions</li></ul><br>\n<b>Medications Return Program</b> - Safe disposal of expired or unused medications, creams, and inhalers<br><br><b>MedsCheck</b> - Appointments to review complex prescriptions with a pharmacist<br><br><b>Sharps Disposal Program</b> - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips",
+    "serviceProvisionCode": [
+      "Dispensing fee plus medication costs * prescribed medications may be covered by OHIP"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>9c54e2f3-6b7c-4e53-a67c-890e27a8aa2f</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Kitchener</p><p>physical-location-postalcode</p><p>N2A 3Z3</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>219911</p><p>true</p><p>Pharmacies</p><p>Location/3e81212b-9d6d-485e-87a4-82f17cc0ad18</p><p>Location</p><p>IDA Pharmacy - Kitchener - Ottawa St</p><p>General pharmacy&lt;ul&gt;&lt;li&gt;treatment and prescription of medications for thirteen common medical \nailments, including rashes, pink eye, insect bites, and urinary tract infections&lt;/li&gt;&lt;li&gt;medication placed in pill organizers (containers for storing scheduled doses) at no extra cost&lt;/li&gt;&lt;li&gt;medication placed in blister packs (sealed, push-through packaging used to separate doses) at no extra cost&lt;/li&gt;&lt;li&gt;pharmacist available for diabetes management consultations&lt;/li&gt;&lt;li&gt;basic home health care supplies&lt;/li&gt;&lt;li&gt;free delivery for prescriptions&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;\n&lt;b&gt;Medications Return Program&lt;/b&gt; - Safe disposal of expired or unused medications, creams, and inhalers&lt;br&gt;&lt;br&gt;&lt;b&gt;MedsCheck&lt;/b&gt; - Appointments to review complex prescriptions with a pharmacist&lt;br&gt;&lt;br&gt;&lt;b&gt;Sharps Disposal Program&lt;/b&gt; - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips</p><p>Location/621bd233-739d-4c5d-b3a1-96ea023b3502</p><p>Location</p><p>Dispensing fee plus medication costs * prescribed medications may be covered by OHIP</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p></div>",
+    "eligibility": [],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "226-647-1972"
+          },
+          {
+            "fax": "226-215-3504"
+          },
+          {
+            "url": "www.ottawariverida.ca/2266471972"
+          }
+        ],
+        "address": {
+          "line": [
+            "1020 Ottawa St N, Unit 110"
+          ],
+          "city": "Kitchener",
+          "state": "ON",
+          "postalCode": "N2A 3Z3"
+        },
+        "position": {
+          "longitude": -80.4428,
+          "latitude": 43.452
+        }
+      }
+    ],
+    "contact_info": "phone: 226-647-1972, fax: 226-215-3504, url: www.ottawariverida.ca/2266471972",
+    "description_of_this": "General pharmacy<ul><li>treatment and prescription of medications for thirteen common medical \nailments, including rashes, pink eye, insect bites, and urinary tract infections</li><li>medication placed in pill organizers (containers for storing scheduled doses) at no extra cost</li><li>medication placed in blister packs (sealed, push-through packaging used to separate doses) at no extra cost</li><li>pharmacist available for diabetes management consultations</li><li>basic home health care supplies</li><li>free delivery for prescriptions</li></ul><br>\n<b>Medications Return Program</b> - Safe disposal of expired or unused medications, creams, and inhalers<br><br><b>MedsCheck</b> - Appointments to review complex prescriptions with a pharmacist<br><br><b>Sharps Disposal Program</b> - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips, Codes: Dispensing fee plus medication costs * prescribed medications may be covered by OHIP, Features: Wheelchair Accessible, Languages: English, Address: 1020 Ottawa St N, Unit 110, Kitchener, ON, N2A 3Z3, Location: lat: 43.452, lon: -80.4428"
+  }
+]

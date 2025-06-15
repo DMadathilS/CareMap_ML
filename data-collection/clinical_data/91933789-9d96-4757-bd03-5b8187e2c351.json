@@ -1,0 +1,57 @@
+[
+  {
+    "name": "Spruce Medical Walk-in Clinic",
+    "active": true,
+    "category": [
+      "Walk-In Medical Clinics"
+    ],
+    "comment": "Walk-in medical clinic * doctors and nurses assess and treat minor illnesses and injuries",
+    "serviceProvisionCode": [
+      "Most services covered by OHIP"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>91933789-9d96-4757-bd03-5b8187e2c351</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Waterloo</p><p>physical-location-postalcode</p><p>N2L 0E9</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>173241</p><p>true</p><p>Walk-In Medical Clinics</p><p>Location/bea63f9e-4834-4e30-a824-5ec0f1e45405</p><p>Location</p><p>Spruce Medical Walk-in Clinic</p><p>Walk-in medical clinic * doctors and nurses assess and treat minor illnesses and injuries</p><p>Location/12e7ed08-ed30-42b1-a89e-57cd5564025f</p><p>Location</p><p>Most services covered by OHIP</p><p>People who need medical care for minor illness and injuries</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>hin</p><p>Hindi</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>pan</p><p>Punjabi</p><p>Call or visit * no referral required</p></div>",
+    "eligibility": [
+      "People who need medical care for minor illness and injuries"
+    ],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English",
+      "Hindi",
+      "Punjabi"
+    ],
+    "referralMethod": [
+      "Call or visit * no referral required"
+    ],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-725-1111"
+          },
+          {
+            "fax": "519-742-4308"
+          },
+          {
+            "url": "www.sprucemedical.ca"
+          }
+        ],
+        "address": {
+          "line": [
+            "318 Spruce St, Unit 106"
+          ],
+          "city": "Waterloo",
+          "state": "ON",
+          "postalCode": "N2L 0E9"
+        },
+        "position": {
+          "longitude": -80.5265,
+          "latitude": 43.4791
+        }
+      }
+    ],
+    "contact_info": "phone: 519-725-1111, fax: 519-742-4308, url: www.sprucemedical.ca",
+    "description_of_this": "Walk-in medical clinic * doctors and nurses assess and treat minor illnesses and injuries, Codes: Most services covered by OHIP, Features: Wheelchair Accessible, Languages: English, Hindi, Punjabi, Referral: Call or visit * no referral required, Address: 318 Spruce St, Unit 106, Waterloo, ON, N2L 0E9, Location: lat: 43.4791, lon: -80.5265"
+  }
+]

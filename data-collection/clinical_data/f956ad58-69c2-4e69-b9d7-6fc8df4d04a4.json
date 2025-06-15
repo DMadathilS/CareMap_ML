@@ -1,0 +1,55 @@
+[
+  {
+    "name": "Centre for Family Medicine Family Health Team - Waterloo - The Boardwalk",
+    "active": true,
+    "category": [
+      "Family Health Teams"
+    ],
+    "comment": "Medical health care team focused on family and community health * coordinates patient care in order to assess and treat injuries or illness * team includes family doctors, nurses, nurse practitioners, social workers, pharmacists, dietitians, respiratory therapists, and occupational therapists",
+    "serviceProvisionCode": [
+      "Most services covered by OHIP"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>f956ad58-69c2-4e69-b9d7-6fc8df4d04a4</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Waterloo</p><p>physical-location-postalcode</p><p>N2J 3Z4</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>198437</p><p>true</p><p>Family Health Teams</p><p>Location/b6fec088-6069-41a3-863e-6276b38cad63</p><p>Location</p><p>Centre for Family Medicine Family Health Team - Waterloo - The Boardwalk</p><p>Medical health care team focused on family and community health * coordinates patient care in order to assess and treat injuries or illness * team includes family doctors, nurses, nurse practitioners, social workers, pharmacists, dietitians, respiratory therapists, and occupational therapists</p><p>Location/1bb5e8f9-b689-4064-993d-389da1e9e5f4</p><p>Location</p><p>Most services covered by OHIP</p><p>Registered patients</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>Call for appointment</p></div>",
+    "eligibility": [
+      "Registered patients"
+    ],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [
+      "Call for appointment"
+    ],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "226-476-3178"
+          },
+          {
+            "fax": "226-336-8105"
+          },
+          {
+            "url": "family-medicine.ca/the-boardwalk/"
+          }
+        ],
+        "address": {
+          "line": [
+            "435 The Boardwalk, Suite 404"
+          ],
+          "city": "Waterloo",
+          "state": "ON",
+          "postalCode": "N2J 3Z4"
+        },
+        "position": {
+          "longitude": -80.565,
+          "latitude": 43.4403
+        }
+      }
+    ],
+    "contact_info": "phone: 226-476-3178, fax: 226-336-8105, url: family-medicine.ca/the-boardwalk/",
+    "description_of_this": "Medical health care team focused on family and community health * coordinates patient care in order to assess and treat injuries or illness * team includes family doctors, nurses, nurse practitioners, social workers, pharmacists, dietitians, respiratory therapists, and occupational therapists, Codes: Most services covered by OHIP, Features: Wheelchair Accessible, Languages: English, Referral: Call for appointment, Address: 435 The Boardwalk, Suite 404, Waterloo, ON, N2J 3Z4, Location: lat: 43.4403, lon: -80.565, Contact: phone: 226-476-3178, fax: 226-336-8105, url: family-medicine.ca/the-boardwalk/"
+  }
+]

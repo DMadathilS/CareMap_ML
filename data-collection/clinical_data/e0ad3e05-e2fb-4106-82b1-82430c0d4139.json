@@ -1,0 +1,61 @@
+[
+  {
+    "name": "Telfer Place Long-Term Care Home",
+    "active": true,
+    "category": [
+      "Long-Term Care Homes"
+    ],
+    "comment": "Long-term care home and retirement residence<br><br><b>Long-Term Care</b> - 45-bed home * 24-hour nursing and personal care * access to a doctor and other health professionals<br><ul><li>bedding and furniture</li><li>laundry and housekeeping</li><li>meals</li><li>personal hygiene supplies</li><li>medical supplies and equipment (such as catheters, ostomy bags, or wound care supplies)</li><li>assistance with medication and activities of daily living</li><li>recreation and social programs</li></ul><BR><BR><B>Services and Programs:</B><UL><LI>Retirement Home</LI></UL>",
+    "serviceProvisionCode": [
+      "Rates set by the Ontario Ministry of Long-Term Care * subsidies for basic rates may be available for eligible applicants"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>e0ad3e05-e2fb-4106-82b1-82430c0d4139</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Paris</p><p>physical-location-postalcode</p><p>N3L 3V8</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>178594</p><p>true</p><p>Long-Term Care Homes</p><p>Location/6a37ba1d-967f-4646-b74c-d2b7f658e2a8</p><p>Location</p><p>Telfer Place Long-Term Care Home</p><p>Long-term care home and retirement residence&lt;br&gt;&lt;br&gt;&lt;b&gt;Long-Term Care&lt;/b&gt; - 45-bed home * 24-hour nursing and personal care * access to a doctor and other health professionals&lt;br&gt;&lt;ul&gt;&lt;li&gt;bedding and furniture&lt;/li&gt;&lt;li&gt;laundry and housekeeping&lt;/li&gt;&lt;li&gt;meals&lt;/li&gt;&lt;li&gt;personal hygiene supplies&lt;/li&gt;&lt;li&gt;medical supplies and equipment (such as catheters, ostomy bags, or wound care supplies)&lt;/li&gt;&lt;li&gt;assistance with medication and activities of daily living&lt;/li&gt;&lt;li&gt;recreation and social programs&lt;/li&gt;&lt;/ul&gt;&lt;BR&gt;&lt;BR&gt;&lt;B&gt;Services and Programs:&lt;/B&gt;&lt;UL&gt;&lt;LI&gt;Retirement Home&lt;/LI&gt;&lt;/UL&gt;</p><p>Location/3db52a74-f7c4-46ed-bed0-6d48636ada73</p><p>Location</p><p>Rates set by the Ontario Ministry of Long-Term Care * subsidies for basic rates may be available for eligible applicants</p><p>Adults who need long-term care * care coordinators assess the needs of applicants</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>Contact Ontario Health atHome</p></div>",
+    "eligibility": [
+      "Adults who need long-term care * care coordinators assess the needs of applicants"
+    ],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [
+      "Contact Ontario Health atHome"
+    ],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-442-4411"
+          },
+          {
+            "phone": "Ontario Long-Term Care Family Support and Action Line: 1-866-434-0144"
+          },
+          {
+            "fax": "519-442-6724"
+          },
+          {
+            "email": "cnh_telferplace@exeassist.ca"
+          },
+          {
+            "url": "www.telferplaceltc.com"
+          }
+        ],
+        "address": {
+          "line": [
+            "245 Grand River St N"
+          ],
+          "city": "Paris",
+          "state": "ON",
+          "postalCode": "N3L 3V8"
+        },
+        "position": {
+          "longitude": -80.3864,
+          "latitude": 43.2075
+        }
+      }
+    ],
+    "contact_info": "phone: 519-442-4411, phone: Ontario Long-Term Care Family Support and Action Line: 1-866-434-0144, fax: 519-442-6724, email: cnh_telferplace@exeassist.ca, url: www.telferplaceltc.com",
+    "description_of_this": "Long-term care home and retirement residence<br><br><b>Long-Term Care</b> - 45-bed home * 24-hour nursing and personal care * access to a doctor and other health professionals<br><ul><li>bedding and furniture</li><li>laundry and housekeeping</li><li>meals</li><li>personal hygiene supplies</li><li>medical supplies and equipment (such as catheters, ostomy bags, or wound care supplies)</li><li>assistance with medication and activities of daily living</li><li>recreation and social programs</li></ul><BR><BR><B>Services and Programs:</B><UL><LI>Retirement Home</LI></UL>, Codes: Rates set by the Ontario Ministry of Long-Term Care * subsidies for basic rates may be available for eligible applicants, Features: Wheelchair Accessible, Languages: English, Referral: Contact Ontario Health atHome, Address: 245 Grand River St N, Paris, ON, N3L 3V8, Location: lat: 43.2075, lon: -80.3864, Contact: phone: 519-442-4411, phone: Ontario Long-Term Care Family Support and Action Line: 1-866-434-0144, fax: 519-442-6724, email: cnh_telferplace@exeassist.ca, url: www.telferplaceltc.com"
+  }
+]

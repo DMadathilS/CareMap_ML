@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Community Support Connections",
+    "active": true,
+    "category": [
+      "Community Support Services"
+    ],
+    "comment": "Supports for older adults, and adults with disabilities * helps people remain independent in their own homes for as long as possible * referral to other community services<ul><li>care coordination and support</li><li>caregiver support</li><li>community dining</li><li>exercise and falls prevention programs</li><li>friendly visiting</li><li>Meals on Wheels</li><li>telephone reassurance</li><li>transportation</li></ul><BR><BR><B>Services and Programs:</B><UL><LI>Care Coordination and Support - Help at Home</LI><LI>Caregiver Support</LI><LI>Exercise and Falls Prevention Programs</LI><LI>Friendly Connections</LI><LI>Friendly Visiting</LI><LI>Home Help</LI><LI>Meals on Wheels</LI><LI>Telephone Reassurance</LI><LI>Transportation</LI></UL>",
+    "serviceProvisionCode": [
+      "Fees for some services * billed monthly"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>55e02553-6598-406c-b322-1dbfabe9f397</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Breslau</p><p>physical-location-postalcode</p><p>N0B 1M0</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>100543</p><p>true</p><p>Community Support Services</p><p>Location/5d04c5de-ec18-4823-9c6f-b5689b57cb5c</p><p>Location</p><p>Community Support Connections</p><p>Supports for older adults, and adults with disabilities * helps people remain independent in their own homes for as long as possible * referral to other community services&lt;ul&gt;&lt;li&gt;care coordination and support&lt;/li&gt;&lt;li&gt;caregiver support&lt;/li&gt;&lt;li&gt;community dining&lt;/li&gt;&lt;li&gt;exercise and falls prevention programs&lt;/li&gt;&lt;li&gt;friendly visiting&lt;/li&gt;&lt;li&gt;Meals on Wheels&lt;/li&gt;&lt;li&gt;telephone reassurance&lt;/li&gt;&lt;li&gt;transportation&lt;/li&gt;&lt;/ul&gt;&lt;BR&gt;&lt;BR&gt;&lt;B&gt;Services and Programs:&lt;/B&gt;&lt;UL&gt;&lt;LI&gt;Care Coordination and Support - Help at Home&lt;/LI&gt;&lt;LI&gt;Caregiver Support&lt;/LI&gt;&lt;LI&gt;Exercise and Falls Prevention Programs&lt;/LI&gt;&lt;LI&gt;Friendly Connections&lt;/LI&gt;&lt;LI&gt;Friendly Visiting&lt;/LI&gt;&lt;LI&gt;Home Help&lt;/LI&gt;&lt;LI&gt;Meals on Wheels&lt;/LI&gt;&lt;LI&gt;Telephone Reassurance&lt;/LI&gt;&lt;LI&gt;Transportation&lt;/LI&gt;&lt;/UL&gt;</p><p>Location/408cfd36-a4f6-4e7e-bdc4-37f6372faad1</p><p>Location</p><p>Fees for some services * billed monthly</p><p>Older adults * adults 18 years and over with disabilities</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>Call * no referral required</p></div>",
+    "eligibility": [
+      "Older adults * adults 18 years and over with disabilities"
+    ],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [
+      "Call * no referral required"
+    ],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-772-8787"
+          },
+          {
+            "fax": "519-648-3737"
+          },
+          {
+            "email": "info@cscmow.org"
+          },
+          {
+            "url": "www.communitysupportconnections.org"
+          }
+        ],
+        "address": {
+          "line": [
+            "61 Woolwich St N, Box 29"
+          ],
+          "city": "Breslau",
+          "state": "ON",
+          "postalCode": "N0B 1M0"
+        },
+        "position": {
+          "longitude": -80.4156223,
+          "latitude": 43.4857191
+        }
+      }
+    ],
+    "contact_info": "phone: 519-772-8787, fax: 519-648-3737, email: info@cscmow.org, url: www.communitysupportconnections.org",
+    "description_of_this": "Supports for older adults, and adults with disabilities * helps people remain independent in their own homes for as long as possible * referral to other community services<ul><li>care coordination and support</li><li>caregiver support</li><li>community dining</li><li>exercise and falls prevention programs</li><li>friendly visiting</li><li>Meals on Wheels</li><li>telephone reassurance</li><li>transportation</li></ul><BR><BR><B>Services and Programs:</B><UL><LI>Care Coordination and Support - Help at Home</LI><LI>Caregiver Support</LI><LI>Exercise and Falls Prevention Programs</LI><LI>Friendly Connections</LI><LI>Friendly Visiting</LI><LI>Home Help</LI><LI>Meals on Wheels</LI><LI>Telephone Reassurance</LI><LI>Transportation</LI></UL>, Codes: Fees for some services * billed monthly, Features: Wheelchair Accessible, Languages: English, Referral: Call * no referral required, Address: 61 Woolwich St N, Box 29, Breslau, ON, N0B 1M0, Location: lat: 43.4857191, lon: -80.4156223"
+  }
+]

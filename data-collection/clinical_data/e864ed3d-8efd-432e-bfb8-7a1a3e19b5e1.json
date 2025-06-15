@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Community Support Connections - Caregiver Support",
+    "active": true,
+    "category": [
+      "Caregiver Support Services"
+    ],
+    "comment": "Virtual and in-person support groups for caregivers of older adults and adults with different abilities * groups are an opportunity for people to discuss the joys and challenges of care-giving with other caregivers * discussions include effective communication, self-care, and navigating the health care system <br><br>One-to-one support also available",
+    "serviceProvisionCode": [
+      "Free"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>e864ed3d-8efd-432e-bfb8-7a1a3e19b5e1</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Breslau</p><p>physical-location-postalcode</p><p>N0B 1M0</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>185401</p><p>true</p><p>Caregiver Support Services</p><p>Location/0cdeb1f0-2f04-4eed-a9ae-fb0b509c368a</p><p>Location</p><p>Community Support Connections - Caregiver Support</p><p>Virtual and in-person support groups for caregivers of older adults and adults with different abilities * groups are an opportunity for people to discuss the joys and challenges of care-giving with other caregivers * discussions include effective communication, self-care, and navigating the health care system &lt;br&gt;&lt;br&gt;One-to-one support also available</p><p>Location/0f91940d-623a-4dd3-ba9c-945868d94956</p><p>Location</p><p>Free</p><p>Caregivers of older adults and adults with different abilities</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>Call for more information and to register</p></div>",
+    "eligibility": [
+      "Caregivers of older adults and adults with different abilities"
+    ],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [
+      "Call for more information and to register"
+    ],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-772-8787 ext 136"
+          },
+          {
+            "fax": "519-648-3737"
+          },
+          {
+            "email": "info@cscmow.org"
+          },
+          {
+            "url": "www.communitysupportconnections.org/services/caregiver-support/"
+          }
+        ],
+        "address": {
+          "line": [
+            "61 Woolwich St N, Box 29"
+          ],
+          "city": "Breslau",
+          "state": "ON",
+          "postalCode": "N0B 1M0"
+        },
+        "position": {
+          "longitude": -80.4156,
+          "latitude": 43.4851
+        }
+      }
+    ],
+    "contact_info": "phone: 519-772-8787 ext 136, fax: 519-648-3737, email: info@cscmow.org, url: www.communitysupportconnections.org/services/caregiver-support/",
+    "description_of_this": "Virtual and in-person support groups for caregivers of older adults and adults with different abilities * groups are an opportunity for people to discuss the joys and challenges of care-giving with other caregivers * discussions include effective communication, self-care, and navigating the health care system <br><br>One-to-one support also available, Codes: Free, Features: Wheelchair Accessible, Languages: English, Referral: Call for more information and to register, Address: 61 Woolwich St N, Box 29, Breslau, ON, N0B 1M0, Location: lat: 43.4851, lon: -80.4156, Contact: phone: 519-772-8787 ext 136, fax: 519-648-3737, email: info@cscmow.org, url: www.communitysupportconnections.org/services/caregiver-support/"
+  }
+]

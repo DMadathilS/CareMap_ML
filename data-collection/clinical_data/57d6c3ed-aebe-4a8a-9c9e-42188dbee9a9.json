@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Waterloo Nuclear and Radiography - Waterloo - 826 King St N",
+    "active": true,
+    "category": [
+      "Diagnostic Imaging Clinics"
+    ],
+    "comment": "Diagnostic imaging clinic<br><ul><li>digital x-ray</li><li>nuchal translucency prenatal scan</li><li>bone mineral density</li><li>mammography (breast x-rays used to screen and diagnose medical conditions</li><li>muscular-skeletal ultrasound</li><li>electrocardiography</li><li>Holter monitoring</li><li>nuclear diagnostic services</li></ul>",
+    "serviceProvisionCode": [
+      "Most services covered by OHIP"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>57d6c3ed-aebe-4a8a-9c9e-42188dbee9a9</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Waterloo</p><p>physical-location-postalcode</p><p>N2J 4G8</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>220279</p><p>true</p><p>Diagnostic Imaging Clinics</p><p>Location/9ff47649-efa0-4cee-9a8d-4131321406c2</p><p>Location</p><p>Waterloo Nuclear and Radiography - Waterloo - 826 King St N</p><p>Diagnostic imaging clinic&lt;br&gt;&lt;ul&gt;&lt;li&gt;digital x-ray&lt;/li&gt;&lt;li&gt;nuchal translucency prenatal scan&lt;/li&gt;&lt;li&gt;bone mineral density&lt;/li&gt;&lt;li&gt;mammography (breast x-rays used to screen and diagnose medical conditions&lt;/li&gt;&lt;li&gt;muscular-skeletal ultrasound&lt;/li&gt;&lt;li&gt;electrocardiography&lt;/li&gt;&lt;li&gt;Holter monitoring&lt;/li&gt;&lt;li&gt;nuclear diagnostic services&lt;/li&gt;&lt;/ul&gt;</p><p>Location/8060c60a-9815-4718-b51a-7aef618c52d3</p><p>Location</p><p>Most services covered by OHIP</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>Medical referral required</p></div>",
+    "eligibility": [],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [
+      "Medical referral required"
+    ],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-206-7777"
+          },
+          {
+            "fax": "519-206-7778"
+          },
+          {
+            "email": "info@waterlooxray.com"
+          },
+          {
+            "url": "www.waterlooxray.com/"
+          }
+        ],
+        "address": {
+          "line": [
+            "826 King St N, Unit 18"
+          ],
+          "city": "Waterloo",
+          "state": "ON",
+          "postalCode": "N2J 4G8"
+        },
+        "position": {
+          "longitude": -80.5537,
+          "latitude": 43.5135
+        }
+      }
+    ],
+    "contact_info": "phone: 519-206-7777, fax: 519-206-7778, email: info@waterlooxray.com, url: www.waterlooxray.com/",
+    "description_of_this": "Diagnostic imaging clinic<br><ul><li>digital x-ray</li><li>nuchal translucency prenatal scan</li><li>bone mineral density</li><li>mammography (breast x-rays used to screen and diagnose medical conditions</li><li>muscular-skeletal ultrasound</li><li>electrocardiography</li><li>Holter monitoring</li><li>nuclear diagnostic services</li></ul>, Codes: Most services covered by OHIP, Features: Wheelchair Accessible, Languages: English, Referral: Medical referral required, Address: 826 King St N, Unit 18, Waterloo, ON, N2J 4G8, Location: lat: 43.5135, lon: -80.5537"
+  }
+]

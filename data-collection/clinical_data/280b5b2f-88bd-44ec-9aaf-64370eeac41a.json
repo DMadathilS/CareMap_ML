@@ -1,0 +1,61 @@
+[
+  {
+    "name": "KWHL Medical Walk-In Clinic",
+    "active": true,
+    "category": [
+      "Walk-In Medical Clinics"
+    ],
+    "comment": "Walk-in medical clinic * doctors and nurses assess and treat minor illnesses and injuries",
+    "serviceProvisionCode": [
+      "Most services covered by OHIP"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>280b5b2f-88bd-44ec-9aaf-64370eeac41a</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Kitchener</p><p>physical-location-postalcode</p><p>N2A 1C4</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>183713</p><p>true</p><p>Walk-In Medical Clinics</p><p>Location/35dbad98-04de-4a1b-83cd-78ab8734e483</p><p>Location</p><p>KWHL Medical Walk-In Clinic</p><p>Walk-in medical clinic * doctors and nurses assess and treat minor illnesses and injuries</p><p>Location/2c08565a-a977-4fb0-8bba-cad33d7db4d9</p><p>Location</p><p>Most services covered by OHIP</p><p>People who need medical care for minor illnesses and injuries</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>ara</p><p>Arabic</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>hin</p><p>Hindi</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>pan</p><p>Punjabi</p><p>Call or visit * no referral required</p></div>",
+    "eligibility": [
+      "People who need medical care for minor illnesses and injuries"
+    ],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English",
+      "Arabic",
+      "Hindi",
+      "Punjabi"
+    ],
+    "referralMethod": [
+      "Call or visit * no referral required"
+    ],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-340-3043"
+          },
+          {
+            "fax": "226-215-3142"
+          },
+          {
+            "email": "kwmedicalcentre@gmail.com"
+          },
+          {
+            "url": "www.kwhlclinic.com/"
+          }
+        ],
+        "address": {
+          "line": [
+            "1360 Weber St E"
+          ],
+          "city": "Kitchener",
+          "state": "ON",
+          "postalCode": "N2A 1C4"
+        },
+        "position": {
+          "longitude": -80.4398,
+          "latitude": 43.4338
+        }
+      }
+    ],
+    "contact_info": "phone: 519-340-3043, fax: 226-215-3142, email: kwmedicalcentre@gmail.com, url: www.kwhlclinic.com/",
+    "description_of_this": "Walk-in medical clinic * doctors and nurses assess and treat minor illnesses and injuries, Codes: Most services covered by OHIP, Features: Wheelchair Accessible, Languages: English, Arabic, Hindi, Punjabi, Referral: Call or visit * no referral required, Address: 1360 Weber St E, Kitchener, ON, N2A 1C4, Location: lat: 43.4338, lon: -80.4398"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Grand River Hospital to Waterloo Regional Health Network (WHRN) - WRHN at Midtown",
+    "active": true,
+    "category": [
+      "Hospitals"
+    ],
+    "comment": "Campus services include acute care, pediatrics, maternal care, mental health and addiction services, emergency department and outpatient programs * regional cancer centre\n<br><br>\n<b>Emergency Department Wait Times:</b> <a href=\"https://www.grhosp.on.ca/care/services-departments/emergency/current-emergency-wait\" target=\"_blank\">www.grhosp.on.ca/care/services-departments/emergency/current-emergency-wait</a><BR><BR><B>Services and Programs:</B><UL><LI>Adult Diabetes Education Centre</LI><LI>Clinical Nutrition - Nutrition Counselling</LI><LI>Emergency Department</LI><LI>Laboratory</LI><LI>Medical Imaging</LI><LI>Occupational Therapy</LI><LI>Renal Clinic</LI><LI>Secondary Stroke Prevention Clinic</LI><LI>Spiritual Care</LI></UL>",
+    "serviceProvisionCode": [
+      "Most services covered by OHIP"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>1f69b5d7-43a8-40e7-bed8-9d6e47870960</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Kitchener</p><p>physical-location-postalcode</p><p>N2G 1G3</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>100973</p><p>true</p><p>Hospitals</p><p>Location/4a744b8c-2aa0-47a5-b709-6df8dcc28445</p><p>Location</p><p>Grand River Hospital to Waterloo Regional Health Network (WHRN) - WRHN at Midtown</p><p>Campus services include acute care, pediatrics, maternal care, mental health and addiction services, emergency department and outpatient programs * regional cancer centre\n&lt;br&gt;&lt;br&gt;\n&lt;b&gt;Emergency Department Wait Times:&lt;/b&gt; &lt;a href=&quot;https://www.grhosp.on.ca/care/services-departments/emergency/current-emergency-wait&quot; target=&quot;_blank&quot;&gt;www.grhosp.on.ca/care/services-departments/emergency/current-emergency-wait&lt;/a&gt;&lt;BR&gt;&lt;BR&gt;&lt;B&gt;Services and Programs:&lt;/B&gt;&lt;UL&gt;&lt;LI&gt;Adult Diabetes Education Centre&lt;/LI&gt;&lt;LI&gt;Clinical Nutrition - Nutrition Counselling&lt;/LI&gt;&lt;LI&gt;Emergency Department&lt;/LI&gt;&lt;LI&gt;Laboratory&lt;/LI&gt;&lt;LI&gt;Medical Imaging&lt;/LI&gt;&lt;LI&gt;Occupational Therapy&lt;/LI&gt;&lt;LI&gt;Renal Clinic&lt;/LI&gt;&lt;LI&gt;Secondary Stroke Prevention Clinic&lt;/LI&gt;&lt;LI&gt;Spiritual Care&lt;/LI&gt;&lt;/UL&gt;</p><p>Location/c595b5c4-524e-4ffd-883a-2762f90cfa5e</p><p>Location</p><p>Most services covered by OHIP</p><p>Varies depending on the program or service</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>Walk-in for emergency department * medical referral and appointment required for most other services</p></div>",
+    "eligibility": [
+      "Varies depending on the program or service"
+    ],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [
+      "Walk-in for emergency department * medical referral and appointment required for most other services"
+    ],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "Switchboard: 519-742-3611<br>Automated Switchboard: 519-749-4300"
+          },
+          {
+            "phone": "519-749-4236"
+          },
+          {
+            "email": "info@grhosp.on.ca"
+          },
+          {
+            "url": "www.grhosp.on.ca"
+          }
+        ],
+        "address": {
+          "line": [
+            "835 King St W"
+          ],
+          "city": "Kitchener",
+          "state": "ON",
+          "postalCode": "N2G 1G3"
+        },
+        "position": {
+          "longitude": -80.5122248,
+          "latitude": 43.4564654
+        }
+      }
+    ],
+    "contact_info": "phone: Switchboard: 519-742-3611<br>Automated Switchboard: 519-749-4300, phone: 519-749-4236, email: info@grhosp.on.ca, url: www.grhosp.on.ca",
+    "description_of_this": "Campus services include acute care, pediatrics, maternal care, mental health and addiction services, emergency department and outpatient programs * regional cancer centre\n<br><br>\n<b>Emergency Department Wait Times:</b> <a href=\"https://www.grhosp.on.ca/care/services-departments/emergency/current-emergency-wait\" target=\"_blank\">www.grhosp.on.ca/care/services-departments/emergency/current-emergency-wait</a><BR><BR><B>Services and Programs:</B><UL><LI>Adult Diabetes Education Centre</LI><LI>Clinical Nutrition - Nutrition Counselling</LI><LI>Emergency Department</LI><LI>Laboratory</LI><LI>Medical Imaging</LI><LI>Occupational Therapy</LI><LI>Renal Clinic</LI><LI>Secondary Stroke Prevention Clinic</LI><LI>Spiritual Care</LI></UL>, Codes: Most services covered by OHIP, Features: Wheelchair Accessible, Languages: English, Referral: Walk-in for emergency department * medical referral and appointment required for most other services, Address: 835 King St W, Kitchener, ON, N2G 1G3, Location: lat: 43.4564654, lon: -80.5122248"
+  }
+]

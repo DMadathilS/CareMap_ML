@@ -1,0 +1,55 @@
+[
+  {
+    "name": "Guelph Independent Living - Home Help Program",
+    "active": true,
+    "category": [
+      "Home Help and Homemaking"
+    ],
+    "comment": "Provides assistance with routine household activities to improve the quality of life for qualifying older adults and adults with physical disabilities * homemakers can assist with:<br><br><ul><li>light housekeeping</li>\n<li>shopping</li>\n<li>meal preparation</li>\n<li>laundry</li></ul>",
+    "serviceProvisionCode": [
+      "Set fees"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>eb5f452a-6b7a-46b0-9b2b-2fadcf013eda</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Guelph</p><p>physical-location-postalcode</p><p>N1H 8J1</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>172629</p><p>true</p><p>Home Help and Homemaking</p><p>Location/2f598647-b124-4264-bd56-1bead819362e</p><p>Location</p><p>Guelph Independent Living - Home Help Program</p><p>Provides assistance with routine household activities to improve the quality of life for qualifying older adults and adults with physical disabilities * homemakers can assist with:&lt;br&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;light housekeeping&lt;/li&gt;\n&lt;li&gt;shopping&lt;/li&gt;\n&lt;li&gt;meal preparation&lt;/li&gt;\n&lt;li&gt;laundry&lt;/li&gt;&lt;/ul&gt;</p><p>Location/e45e006c-d78b-484f-aad4-ad619958b37f</p><p>Location</p><p>Set fees</p><p>Older adults and adults with physical disabilities</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>Call for appointment</p></div>",
+    "eligibility": [
+      "Older adults and adults with physical disabilities"
+    ],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [
+      "Call for appointment"
+    ],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-836-1812 ext 222"
+          },
+          {
+            "email": "stacey@guelphindependentliving.org"
+          },
+          {
+            "url": "guelphindependentliving.org/homemaking-for-seniors/"
+          }
+        ],
+        "address": {
+          "line": [
+            "255 Woodlawn Rd W, Suite 207"
+          ],
+          "city": "Guelph",
+          "state": "ON",
+          "postalCode": "N1H 8J1"
+        },
+        "position": {
+          "longitude": -80.2954,
+          "latitude": 43.5533
+        }
+      }
+    ],
+    "contact_info": "phone: 519-836-1812 ext 222, email: stacey@guelphindependentliving.org, url: guelphindependentliving.org/homemaking-for-seniors/",
+    "description_of_this": "Provides assistance with routine household activities to improve the quality of life for qualifying older adults and adults with physical disabilities * homemakers can assist with:<br><br><ul><li>light housekeeping</li>\n<li>shopping</li>\n<li>meal preparation</li>\n<li>laundry</li></ul>, Codes: Set fees, Features: Wheelchair Accessible, Languages: English, Referral: Call for appointment, Address: 255 Woodlawn Rd W, Suite 207, Guelph, ON, N1H 8J1, Location: lat: 43.5533, lon: -80.2954, Contact: phone: 519-836-1812 ext 222, email: stacey@guelphindependentliving.org, url: guelphindependentliving.org/homemaking-for-seniors/"
+  }
+]

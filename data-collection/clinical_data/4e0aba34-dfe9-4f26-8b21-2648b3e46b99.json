@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Whole Health Pharmacy Partners - Kitchener (Weber Pharmacy)",
+    "active": true,
+    "category": [
+      "Pharmacies"
+    ],
+    "comment": "General pharmacy<ul><li>treatment and prescription of medications for thirteen common medical \nailments, including rashes, pink eye, insect bites, and urinary tract infections</li><li>medication placed in pill organizers (containers for storing scheduled doses) at no extra cost</li><li>medication placed in blister packs (sealed, push-through packaging used to separate doses) at no extra cost</li><li>pharmacist available for diabetes management consultations</li><li>basic home health care supplies</li><li>free seasonal flu vaccines<br><br></li></ul><b>MedsCheck</b> - Appointments to review complex prescriptions with a pharmacist<br><br><b>Medications Return Program</b> - Safe disposal of expired or unused medications, creams, and inhalers <br><br><b>Sharps Disposal Program</b> - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips",
+    "serviceProvisionCode": [
+      "Dispensing fee plus medication costs * prescribed medications may be covered by OHIP"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>4e0aba34-dfe9-4f26-8b21-2648b3e46b99</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Kitchener</p><p>physical-location-postalcode</p><p>N2A 3A7</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>219844</p><p>true</p><p>Pharmacies</p><p>Location/3a4ad629-d447-4df7-b86b-03c48e6e05f9</p><p>Location</p><p>Whole Health Pharmacy Partners - Kitchener (Weber Pharmacy)</p><p>General pharmacy&lt;ul&gt;&lt;li&gt;treatment and prescription of medications for thirteen common medical \nailments, including rashes, pink eye, insect bites, and urinary tract infections&lt;/li&gt;&lt;li&gt;medication placed in pill organizers (containers for storing scheduled doses) at no extra cost&lt;/li&gt;&lt;li&gt;medication placed in blister packs (sealed, push-through packaging used to separate doses) at no extra cost&lt;/li&gt;&lt;li&gt;pharmacist available for diabetes management consultations&lt;/li&gt;&lt;li&gt;basic home health care supplies&lt;/li&gt;&lt;li&gt;free seasonal flu vaccines&lt;br&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;b&gt;MedsCheck&lt;/b&gt; - Appointments to review complex prescriptions with a pharmacist&lt;br&gt;&lt;br&gt;&lt;b&gt;Medications Return Program&lt;/b&gt; - Safe disposal of expired or unused medications, creams, and inhalers &lt;br&gt;&lt;br&gt;&lt;b&gt;Sharps Disposal Program&lt;/b&gt; - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips</p><p>Location/535ab046-77d4-4c18-81ba-7ebf9b4031f4</p><p>Location</p><p>Dispensing fee plus medication costs * prescribed medications may be covered by OHIP</p><p>Not Applicable</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p></div>",
+    "eligibility": [],
+    "characteristic": [
+      "Not Applicable"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-896-8164"
+          },
+          {
+            "fax": "519-340-1410"
+          },
+          {
+            "email": "wholehealthweber@gmail.com"
+          }
+        ],
+        "address": {
+          "line": [
+            "1335 Weber St E"
+          ],
+          "city": "Kitchener",
+          "state": "ON",
+          "postalCode": "N2A 3A7"
+        },
+        "position": {
+          "longitude": -80.4416,
+          "latitude": 43.4331
+        }
+      }
+    ],
+    "contact_info": "phone: 519-896-8164, fax: 519-340-1410, email: wholehealthweber@gmail.com",
+    "description_of_this": "General pharmacy<ul><li>treatment and prescription of medications for thirteen common medical \nailments, including rashes, pink eye, insect bites, and urinary tract infections</li><li>medication placed in pill organizers (containers for storing scheduled doses) at no extra cost</li><li>medication placed in blister packs (sealed, push-through packaging used to separate doses) at no extra cost</li><li>pharmacist available for diabetes management consultations</li><li>basic home health care supplies</li><li>free seasonal flu vaccines<br><br></li></ul><b>MedsCheck</b> - Appointments to review complex prescriptions with a pharmacist<br><br><b>Medications Return Program</b> - Safe disposal of expired or unused medications, creams, and inhalers <br><br><b>Sharps Disposal Program</b> - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips, Codes: Dispensing fee plus medication costs * prescribed medications may be covered by OHIP, Features: Not Applicable, Languages: English, Address: 1335 Weber St E, Kitchener, ON, N2A 3A7, Location: lat: 43.4331, lon: -80.4416"
+  }
+]

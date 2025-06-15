@@ -1,0 +1,46 @@
+[
+  {
+    "name": "A and K Pharmacy",
+    "active": true,
+    "category": [
+      "Pharmacies"
+    ],
+    "comment": "General pharmacy<ul><li>treatment and prescription of medications for common medical ailments, including rashes, pink eye, insect bites, acne, and urinary tract infections</li><li>prescription of COVID-19 antiviral treatment (Paxlovid)</li><li>medication placed in pill organizers (containers for storing scheduled doses) at no extra cost</li><li> medication placed in blister packs (sealed, push-through packaging used to separate doses) at no extra cost</li><li> free delivery for prescriptions\n</li></ul><br>\n<b>MedsCheck</b> - Appointments to review complex prescriptions with a pharmacist <br><br>\n<b>Sharps Disposal Program</b> - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips<br><br><b>Medications Return Program</b> - Safe disposal of expired or unused medications, creams, and inhalers",
+    "serviceProvisionCode": [
+      "Dispensing fee plus medication costs * prescribed medications may be covered by OHIP"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>7871b2d4-add8-45a2-8d2f-9720263a9324</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Kitchener</p><p>physical-location-postalcode</p><p>N2G 2L2</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>208525</p><p>true</p><p>Pharmacies</p><p>Location/57454d3c-0d33-4442-91d1-1fe8e726dcfd</p><p>Location</p><p>A and K Pharmacy</p><p>General pharmacy&lt;ul&gt;&lt;li&gt;treatment and prescription of medications for common medical ailments, including rashes, pink eye, insect bites, acne, and urinary tract infections&lt;/li&gt;&lt;li&gt;prescription of COVID-19 antiviral treatment (Paxlovid)&lt;/li&gt;&lt;li&gt;medication placed in pill organizers (containers for storing scheduled doses) at no extra cost&lt;/li&gt;&lt;li&gt; medication placed in blister packs (sealed, push-through packaging used to separate doses) at no extra cost&lt;/li&gt;&lt;li&gt; free delivery for prescriptions\n&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;\n&lt;b&gt;MedsCheck&lt;/b&gt; - Appointments to review complex prescriptions with a pharmacist &lt;br&gt;&lt;br&gt;\n&lt;b&gt;Sharps Disposal Program&lt;/b&gt; - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips&lt;br&gt;&lt;br&gt;&lt;b&gt;Medications Return Program&lt;/b&gt; - Safe disposal of expired or unused medications, creams, and inhalers</p><p>Location/00b2256d-bb58-431d-97a7-abfbdb441e4e</p><p>Location</p><p>Dispensing fee plus medication costs * prescribed medications may be covered by OHIP</p><p>Not Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>vie</p><p>Vietnamese</p></div>",
+    "eligibility": [],
+    "characteristic": [
+      "Not Wheelchair Accessible"
+    ],
+    "communication": [
+      "English",
+      "Vietnamese"
+    ],
+    "referralMethod": [],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-954-2002"
+          }
+        ],
+        "address": {
+          "line": [
+            "301 King St E, Unit 204"
+          ],
+          "city": "Kitchener",
+          "state": "ON",
+          "postalCode": "N2G 2L2"
+        },
+        "position": {
+          "longitude": -80.4843,
+          "latitude": 43.4476
+        }
+      }
+    ],
+    "contact_info": "phone: 519-954-2002",
+    "description_of_this": "General pharmacy<ul><li>treatment and prescription of medications for common medical ailments, including rashes, pink eye, insect bites, acne, and urinary tract infections</li><li>prescription of COVID-19 antiviral treatment (Paxlovid)</li><li>medication placed in pill organizers (containers for storing scheduled doses) at no extra cost</li><li> medication placed in blister packs (sealed, push-through packaging used to separate doses) at no extra cost</li><li> free delivery for prescriptions\n</li></ul><br>\n<b>MedsCheck</b> - Appointments to review complex prescriptions with a pharmacist <br><br>\n<b>Sharps Disposal Program</b> - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips<br><br><b>Medications Return Program</b> - Safe disposal of expired or unused medications, creams, and inhalers, Codes: Dispensing fee plus medication costs * prescribed medications may be covered by OHIP, Features: Not Wheelchair Accessible, Languages: English, Vietnamese, Address: 301 King St E, Unit 204, Kitchener, ON, N2G 2L2, Location: lat: 43.4476, lon: -80.4843"
+  }
+]

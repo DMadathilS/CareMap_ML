@@ -1,0 +1,51 @@
+[
+  {
+    "name": "PharmaChoice - Drumbo",
+    "active": true,
+    "category": [
+      "Pharmacies"
+    ],
+    "comment": "General pharmacy<br><ul><li>medication placed in blister packs (sealed, push-through packaging used to separate doses) for a set fee</li><li>medication placed in pill organizers (containers for storing scheduled doses)</li><li>basic home health care supplies</li><li>home health care supplies (incontinence and ostomy products - special order)</li><li>blood pressure monitors</li><li>free seasonal flu vaccine by appointment</li><li>treatment and prescription of medications for common medical ailments, including rashes, pink eye, insect bites, acne, and urinary tract infections</li></ul><br><b>MedsCheck </b>- Appointments to review complex prescriptions with a pharmacist",
+    "serviceProvisionCode": [
+      "Dispensing fee plus medication costs * prescribed medications may be covered by OHIP"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>ae6059d8-0afe-44e3-a7a2-82e46275f02d</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Drumbo</p><p>physical-location-postalcode</p><p>N0J 1G0</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>199509</p><p>true</p><p>Pharmacies</p><p>Location/0c2ccfbf-0f96-4bda-84d4-24b47470f663</p><p>Location</p><p>PharmaChoice - Drumbo</p><p>General pharmacy&lt;br&gt;&lt;ul&gt;&lt;li&gt;medication placed in blister packs (sealed, push-through packaging used to separate doses) for a set fee&lt;/li&gt;&lt;li&gt;medication placed in pill organizers (containers for storing scheduled doses)&lt;/li&gt;&lt;li&gt;basic home health care supplies&lt;/li&gt;&lt;li&gt;home health care supplies (incontinence and ostomy products - special order)&lt;/li&gt;&lt;li&gt;blood pressure monitors&lt;/li&gt;&lt;li&gt;free seasonal flu vaccine by appointment&lt;/li&gt;&lt;li&gt;treatment and prescription of medications for common medical ailments, including rashes, pink eye, insect bites, acne, and urinary tract infections&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;b&gt;MedsCheck &lt;/b&gt;- Appointments to review complex prescriptions with a pharmacist</p><p>Location/5e0c7a22-7ae2-4afc-b7db-77bda8a3139f</p><p>Location</p><p>Dispensing fee plus medication costs * prescribed medications may be covered by OHIP</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p></div>",
+    "eligibility": [],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-463-5151"
+          },
+          {
+            "fax": "519-463-5959"
+          },
+          {
+            "url": "www.pharmachoice.com/locations/drumbo/"
+          }
+        ],
+        "address": {
+          "line": [
+            "4 Wilmot St N"
+          ],
+          "city": "Drumbo",
+          "state": "ON",
+          "postalCode": "N0J 1G0"
+        },
+        "position": {
+          "longitude": -80.5526,
+          "latitude": 43.2369
+        }
+      }
+    ],
+    "contact_info": "phone: 519-463-5151, fax: 519-463-5959, url: www.pharmachoice.com/locations/drumbo/",
+    "description_of_this": "General pharmacy<br><ul><li>medication placed in blister packs (sealed, push-through packaging used to separate doses) for a set fee</li><li>medication placed in pill organizers (containers for storing scheduled doses)</li><li>basic home health care supplies</li><li>home health care supplies (incontinence and ostomy products - special order)</li><li>blood pressure monitors</li><li>free seasonal flu vaccine by appointment</li><li>treatment and prescription of medications for common medical ailments, including rashes, pink eye, insect bites, acne, and urinary tract infections</li></ul><br><b>MedsCheck </b>- Appointments to review complex prescriptions with a pharmacist, Codes: Dispensing fee plus medication costs * prescribed medications may be covered by OHIP, Features: Wheelchair Accessible, Languages: English, Address: 4 Wilmot St N, Drumbo, ON, N0J 1G0, Location: lat: 43.2369, lon: -80.5526"
+  }
+]

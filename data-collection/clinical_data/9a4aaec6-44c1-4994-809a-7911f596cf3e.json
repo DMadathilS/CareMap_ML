@@ -1,0 +1,61 @@
+[
+  {
+    "name": "Waterloo Region - Community Services",
+    "active": true,
+    "category": [
+      "Alzheimer's Disease and Related Dementias"
+    ],
+    "comment": "Supports for people with Alzheimer's disease and other dementias, and their caregivers\n\n<br><br>Seminars, workshops and training sessions * one-on-one care plan \nconsultations with health professionals * advanced care planning for \nfuture health care needs",
+    "serviceProvisionCode": [
+      "Varies per program"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>9a4aaec6-44c1-4994-809a-7911f596cf3e</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Kitchener</p><p>physical-location-postalcode</p><p>N2A 1Y5</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>209319</p><p>true</p><p>Alzheimer's Disease and Related Dementias</p><p>Location/c1a1b587-4ca8-420f-b3d5-6cd3f5302483</p><p>Location</p><p>Waterloo Region - Community Services</p><p>Supports for people with Alzheimer's disease and other dementias, and their caregivers\n\n&lt;br&gt;&lt;br&gt;Seminars, workshops and training sessions * one-on-one care plan \nconsultations with health professionals * advanced care planning for \nfuture health care needs</p><p>Location/130d5ee5-9072-450e-a5bc-b272f333dd87</p><p>Location</p><p>Varies per program</p><p>People with Alzheimer's disease and other dementias, and their caregivers</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>Call * no referral required</p></div>",
+    "eligibility": [
+      "People with Alzheimer's disease and other dementias, and their caregivers"
+    ],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [
+      "Call * no referral required"
+    ],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-893-8494 ext 6307 or ext 6289"
+          },
+          {
+            "phone": "519-575-4608"
+          },
+          {
+            "fax": "519-893-1036"
+          },
+          {
+            "email": "sunnyside@regionofwaterloo.ca"
+          },
+          {
+            "url": "www.regionofwaterloo.ca/en/health-and-wellness/dementia-services.aspx#Locations-fees-and-schedule"
+          }
+        ],
+        "address": {
+          "line": [
+            "247 Franklin St N"
+          ],
+          "city": "Kitchener",
+          "state": "ON",
+          "postalCode": "N2A 1Y5"
+        },
+        "position": {
+          "longitude": -80.4451,
+          "latitude": 43.4405
+        }
+      }
+    ],
+    "contact_info": "phone: 519-893-8494 ext 6307 or ext 6289, phone: 519-575-4608, fax: 519-893-1036, email: sunnyside@regionofwaterloo.ca, url: www.regionofwaterloo.ca/en/health-and-wellness/dementia-services.aspx#Locations-fees-and-schedule",
+    "description_of_this": "Supports for people with Alzheimer's disease and other dementias, and their caregivers\n\n<br><br>Seminars, workshops and training sessions * one-on-one care plan \nconsultations with health professionals * advanced care planning for \nfuture health care needs, Codes: Varies per program, Features: Wheelchair Accessible, Languages: English, Referral: Call * no referral required, Address: 247 Franklin St N, Kitchener, ON, N2A 1Y5, Location: lat: 43.4405, lon: -80.4451"
+  }
+]

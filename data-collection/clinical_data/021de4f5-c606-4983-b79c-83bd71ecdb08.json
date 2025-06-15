@@ -1,0 +1,60 @@
+[
+  {
+    "name": "KWIC Walk-In Clinic - Kitchener Walk-In Clinic",
+    "active": true,
+    "category": [
+      "Walk-In Medical Clinics"
+    ],
+    "comment": "Walk-in medical clinic * doctors and nurses assess and treat minor illnesses and injuries<br><br><b>Service include:</b><ul><li>general health consultations</li><li>preventive care</li><li>vaccinations</li><li>sexually transmitted infections and urinary tract infections testing</li><li>sick notes</li><li>flu and allergy shots</li><li>driver\u2019s medicals</li><li>work and travel exams</li><li>wart removal</li><li>pregnancy testing</li><li>specialist referrals</li></ul>",
+    "serviceProvisionCode": [
+      "Most services covered by OHIP"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>021de4f5-c606-4983-b79c-83bd71ecdb08</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Kitchener</p><p>physical-location-postalcode</p><p>N2C 2J6</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>204608</p><p>true</p><p>Walk-In Medical Clinics</p><p>Location/3e3a5032-d5e5-457d-8ae1-50033cae8eec</p><p>Location</p><p>KWIC Walk-In Clinic - Kitchener Walk-In Clinic</p><p>Walk-in medical clinic * doctors and nurses assess and treat minor illnesses and injuries&lt;br&gt;&lt;br&gt;&lt;b&gt;Service include:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;general health consultations&lt;/li&gt;&lt;li&gt;preventive care&lt;/li&gt;&lt;li&gt;vaccinations&lt;/li&gt;&lt;li&gt;sexually transmitted infections and urinary tract infections testing&lt;/li&gt;&lt;li&gt;sick notes&lt;/li&gt;&lt;li&gt;flu and allergy shots&lt;/li&gt;&lt;li&gt;driver\u2019s medicals&lt;/li&gt;&lt;li&gt;work and travel exams&lt;/li&gt;&lt;li&gt;wart removal&lt;/li&gt;&lt;li&gt;pregnancy testing&lt;/li&gt;&lt;li&gt;specialist referrals&lt;/li&gt;&lt;/ul&gt;</p><p>Location/fb929d68-2add-411b-95bb-5a65172008eb</p><p>Location</p><p>Most services covered by OHIP</p><p>People who need medical care for minor illnesses and injuries</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>hin</p><p>Hindi</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>pan</p><p>Punjabi</p><p>Call or visit * no referral required. Online appointments available &lt;x href=&quot;https://ocean.cognisantmd.com/intake/patients.html?linkRef=b08affd4-21e9-4510-80d9-e944ba4659b4#/online-booking&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.</p></div>",
+    "eligibility": [
+      "People who need medical care for minor illnesses and injuries"
+    ],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English",
+      "Hindi",
+      "Punjabi"
+    ],
+    "referralMethod": [
+      "Call or visit * no referral required. Online appointments available <x href=\"https://ocean.cognisantmd.com/intake/patients.html?linkRef=b08affd4-21e9-4510-80d9-e944ba4659b4#/online-booking\" target=\"_blank\">here</a>."
+    ],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "548-558-3433"
+          },
+          {
+            "fax": "519-340-2110"
+          },
+          {
+            "email": "kwicwalkinclinic@gmail.com"
+          },
+          {
+            "url": "www.kwicwalkin.ca/"
+          }
+        ],
+        "address": {
+          "line": [
+            "5 Manitou Dr, Entrance A"
+          ],
+          "city": "Kitchener",
+          "state": "ON",
+          "postalCode": "N2C 2J6"
+        },
+        "position": {
+          "longitude": -80.4545,
+          "latitude": 43.4183
+        }
+      }
+    ],
+    "contact_info": "phone: 548-558-3433, fax: 519-340-2110, email: kwicwalkinclinic@gmail.com, url: www.kwicwalkin.ca/",
+    "description_of_this": "Walk-in medical clinic * doctors and nurses assess and treat minor illnesses and injuries<br><br><b>Service include:</b><ul><li>general health consultations</li><li>preventive care</li><li>vaccinations</li><li>sexually transmitted infections and urinary tract infections testing</li><li>sick notes</li><li>flu and allergy shots</li><li>driver\u2019s medicals</li><li>work and travel exams</li><li>wart removal</li><li>pregnancy testing</li><li>specialist referrals</li></ul>, Codes: Most services covered by OHIP, Features: Wheelchair Accessible, Languages: English, Hindi, Punjabi, Referral: Call or visit * no referral required. Online appointments available <x href=\"https://ocean.cognisantmd.com/intake/patients.html?linkRef=b08affd4-21e9-4510-80d9-e944ba4659b4#/online-booking\" target=\"_blank\">here</a>., Address: 5 Manitou Dr, Entrance A, Kitchener, ON, N2C 2J6, Location: lat: 43.4183, lon: -80.4545"
+  }
+]

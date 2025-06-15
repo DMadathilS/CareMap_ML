@@ -1,0 +1,59 @@
+[
+  {
+    "name": "Extendicare - Forest Heights Long Term Care",
+    "active": true,
+    "category": [
+      "Long-Term Care Homes"
+    ],
+    "comment": "240-bed long-term care home * residential care for private rooms, semi-private rooms, and basic rooms * 24-hour nursing and personal care * access to a doctor and other health professionals<br><ul><li>bedding and furniture</li><li>laundry and housekeeping</li><li>meals</li><li>personal hygiene supplies</li><li>medical supplies and equipment (such as catheters, ostomy bags, or wound care supplies)</li><li>assistance with medication and activities of daily living</li><li>recreation and social programs</li></ul><br>Additional services and facilities:<ul><li>peritoneal dialysis</li><li>physiotherapy and occupational therapy</li><li>registered dietitian</li><li>spiritual care</li><li>music therapy</li><li>art classes</li><li>foot care</li><li>hair care</li><li>dental care</li></ul>",
+    "serviceProvisionCode": [
+      "Rates set by the Ontario Ministry of Long-Term Care * subsidies for basic rates may be available for eligible applicants"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>14dc1e09-fe8d-46ee-a915-faab6ea8ba8f</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Kitchener</p><p>physical-location-postalcode</p><p>N2N 2A8</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>100871</p><p>true</p><p>Long-Term Care Homes</p><p>Location/bee77880-9d64-4efe-82ea-b34a4afc44d1</p><p>Location</p><p>Extendicare - Forest Heights Long Term Care</p><p>240-bed long-term care home * residential care for private rooms, semi-private rooms, and basic rooms * 24-hour nursing and personal care * access to a doctor and other health professionals&lt;br&gt;&lt;ul&gt;&lt;li&gt;bedding and furniture&lt;/li&gt;&lt;li&gt;laundry and housekeeping&lt;/li&gt;&lt;li&gt;meals&lt;/li&gt;&lt;li&gt;personal hygiene supplies&lt;/li&gt;&lt;li&gt;medical supplies and equipment (such as catheters, ostomy bags, or wound care supplies)&lt;/li&gt;&lt;li&gt;assistance with medication and activities of daily living&lt;/li&gt;&lt;li&gt;recreation and social programs&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;Additional services and facilities:&lt;ul&gt;&lt;li&gt;peritoneal dialysis&lt;/li&gt;&lt;li&gt;physiotherapy and occupational therapy&lt;/li&gt;&lt;li&gt;registered dietitian&lt;/li&gt;&lt;li&gt;spiritual care&lt;/li&gt;&lt;li&gt;music therapy&lt;/li&gt;&lt;li&gt;art classes&lt;/li&gt;&lt;li&gt;foot care&lt;/li&gt;&lt;li&gt;hair care&lt;/li&gt;&lt;li&gt;dental care&lt;/li&gt;&lt;/ul&gt;</p><p>Location/d416f786-44ff-4544-8192-4c248a113805</p><p>Location</p><p>Rates set by the Ontario Ministry of Long-Term Care * subsidies for basic rates may be available for eligible applicants</p><p>Adults who need long-term care * care coordinators assess the needs of applicants</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>fra</p><p>French</p><p>Contact Ontario Health atHome Waterloo-Wellington</p></div>",
+    "eligibility": [
+      "Adults who need long-term care * care coordinators assess the needs of applicants"
+    ],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English",
+      "French"
+    ],
+    "referralMethod": [
+      "Contact Ontario Health atHome Waterloo-Wellington"
+    ],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-576-3320"
+          },
+          {
+            "fax": "519-745-3227"
+          },
+          {
+            "email": "cnh_forestheights@exeassist.ca"
+          },
+          {
+            "url": "www.forestheightsltc.com/"
+          }
+        ],
+        "address": {
+          "line": [
+            "60 Westheights Dr"
+          ],
+          "city": "Kitchener",
+          "state": "ON",
+          "postalCode": "N2N 2A8"
+        },
+        "position": {
+          "longitude": -80.53028,
+          "latitude": 43.428038
+        }
+      }
+    ],
+    "contact_info": "phone: 519-576-3320, fax: 519-745-3227, email: cnh_forestheights@exeassist.ca, url: www.forestheightsltc.com/",
+    "description_of_this": "240-bed long-term care home * residential care for private rooms, semi-private rooms, and basic rooms * 24-hour nursing and personal care * access to a doctor and other health professionals<br><ul><li>bedding and furniture</li><li>laundry and housekeeping</li><li>meals</li><li>personal hygiene supplies</li><li>medical supplies and equipment (such as catheters, ostomy bags, or wound care supplies)</li><li>assistance with medication and activities of daily living</li><li>recreation and social programs</li></ul><br>Additional services and facilities:<ul><li>peritoneal dialysis</li><li>physiotherapy and occupational therapy</li><li>registered dietitian</li><li>spiritual care</li><li>music therapy</li><li>art classes</li><li>foot care</li><li>hair care</li><li>dental care</li></ul>, Codes: Rates set by the Ontario Ministry of Long-Term Care * subsidies for basic rates may be available for eligible applicants, Features: Wheelchair Accessible, Languages: English, French, Referral: Contact Ontario Health atHome Waterloo-Wellington, Address: 60 Westheights Dr, Kitchener, ON, N2N 2A8, Location: lat: 43.428038, lon: -80.53028"
+  }
+]

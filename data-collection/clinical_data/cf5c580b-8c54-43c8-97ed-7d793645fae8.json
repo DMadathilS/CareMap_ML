@@ -1,0 +1,48 @@
+[
+  {
+    "name": "Northfield Pharmacy",
+    "active": true,
+    "category": [
+      "Pharmacies"
+    ],
+    "comment": "General pharmacy<ul><li>treatment and prescription of medications for common medical ailments, including rashes, pink eye, insect bites, acne, and urinary tract infections</li><li>prescription of COVID-19 antiviral treatment (Paxlovid)</li><li>free delivery for prescriptions to all of Kitchener-Waterloo and surrounding areas</li><li>medication placed in pill organizers (containers for storing scheduled doses) at no extra cost</li><li>basic home health care supplies<br><br></li></ul><b>MedsCheck</b> - Appointments to review complex prescriptions with a pharmacist<br><br><b>Medications Return Program</b> - Safe disposal of expired or unused medications, creams, and inhalers",
+    "serviceProvisionCode": [
+      "Dispensing fee plus medication costs * prescribed medications may be covered by OHIP"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>cf5c580b-8c54-43c8-97ed-7d793645fae8</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Waterloo</p><p>physical-location-postalcode</p><p>N2L 6C7</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>208812</p><p>true</p><p>Pharmacies</p><p>Location/899417b2-28b6-4f6d-9887-623d30639da4</p><p>Location</p><p>Northfield Pharmacy</p><p>General pharmacy&lt;ul&gt;&lt;li&gt;treatment and prescription of medications for common medical ailments, including rashes, pink eye, insect bites, acne, and urinary tract infections&lt;/li&gt;&lt;li&gt;prescription of COVID-19 antiviral treatment (Paxlovid)&lt;/li&gt;&lt;li&gt;free delivery for prescriptions to all of Kitchener-Waterloo and surrounding areas&lt;/li&gt;&lt;li&gt;medication placed in pill organizers (containers for storing scheduled doses) at no extra cost&lt;/li&gt;&lt;li&gt;basic home health care supplies&lt;br&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;b&gt;MedsCheck&lt;/b&gt; - Appointments to review complex prescriptions with a pharmacist&lt;br&gt;&lt;br&gt;&lt;b&gt;Medications Return Program&lt;/b&gt; - Safe disposal of expired or unused medications, creams, and inhalers</p><p>Location/899cede1-412b-4f20-a869-43dc55e6c1ba</p><p>Location</p><p>Dispensing fee plus medication costs * prescribed medications may be covered by OHIP</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p></div>",
+    "eligibility": [],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-725-3470"
+          },
+          {
+            "fax": "519-725-3471"
+          }
+        ],
+        "address": {
+          "line": [
+            "465 Phillip St, Unit 9"
+          ],
+          "city": "Waterloo",
+          "state": "ON",
+          "postalCode": "N2L 6C7"
+        },
+        "position": {
+          "longitude": -80.5409,
+          "latitude": 43.4847
+        }
+      }
+    ],
+    "contact_info": "phone: 519-725-3470, fax: 519-725-3471",
+    "description_of_this": "General pharmacy<ul><li>treatment and prescription of medications for common medical ailments, including rashes, pink eye, insect bites, acne, and urinary tract infections</li><li>prescription of COVID-19 antiviral treatment (Paxlovid)</li><li>free delivery for prescriptions to all of Kitchener-Waterloo and surrounding areas</li><li>medication placed in pill organizers (containers for storing scheduled doses) at no extra cost</li><li>basic home health care supplies<br><br></li></ul><b>MedsCheck</b> - Appointments to review complex prescriptions with a pharmacist<br><br><b>Medications Return Program</b> - Safe disposal of expired or unused medications, creams, and inhalers, Codes: Dispensing fee plus medication costs * prescribed medications may be covered by OHIP, Features: Wheelchair Accessible, Languages: English, Address: 465 Phillip St, Unit 9, Waterloo, ON, N2L 6C7, Location: lat: 43.4847, lon: -80.5409, Contact: phone: 519-725-3470, fax: 519-725-3471"
+  }
+]

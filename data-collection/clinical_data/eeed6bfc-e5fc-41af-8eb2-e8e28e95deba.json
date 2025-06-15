@@ -1,0 +1,55 @@
+[
+  {
+    "name": "UC Pharmacy",
+    "active": true,
+    "category": [
+      "Pharmacies"
+    ],
+    "comment": "General pharmacy<ul><li>treatment and prescription of medications for thirteen common medical \nailments, including rashes, pink eye, insect bites, and urinary tract infections</li><li>medication placed in pill organizers (containers for storing scheduled doses) at no extra cost</li><li>medication placed in blister packs (sealed, push-through packaging used to separate doses) at no extra cost</li><li>pharmacist available for diabetes management consultations</li><li>basic home health care supplies</li><li>free seasonal flu vaccines<br><br></li></ul><b>MedsCheck</b> - Appointments to review complex prescriptions with a pharmacist <br><br><b>Medications Return Program</b> - Safe disposal of expired or unused medications, creams, and inhalers<br><br><b>Sharps Disposal Program</b> - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips",
+    "serviceProvisionCode": [
+      "Dispensing fee plus medication costs * prescribed medications may be covered by OHIP"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>eeed6bfc-e5fc-41af-8eb2-e8e28e95deba</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Guelph</p><p>physical-location-postalcode</p><p>N1G 2W1</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>219847</p><p>true</p><p>Pharmacies</p><p>Location/5b96bc6a-2217-4835-8d97-3e78ae9bc523</p><p>Location</p><p>UC Pharmacy</p><p>General pharmacy&lt;ul&gt;&lt;li&gt;treatment and prescription of medications for thirteen common medical \nailments, including rashes, pink eye, insect bites, and urinary tract infections&lt;/li&gt;&lt;li&gt;medication placed in pill organizers (containers for storing scheduled doses) at no extra cost&lt;/li&gt;&lt;li&gt;medication placed in blister packs (sealed, push-through packaging used to separate doses) at no extra cost&lt;/li&gt;&lt;li&gt;pharmacist available for diabetes management consultations&lt;/li&gt;&lt;li&gt;basic home health care supplies&lt;/li&gt;&lt;li&gt;free seasonal flu vaccines&lt;br&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;b&gt;MedsCheck&lt;/b&gt; - Appointments to review complex prescriptions with a pharmacist &lt;br&gt;&lt;br&gt;&lt;b&gt;Medications Return Program&lt;/b&gt; - Safe disposal of expired or unused medications, creams, and inhalers&lt;br&gt;&lt;br&gt;&lt;b&gt;Sharps Disposal Program&lt;/b&gt; - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips</p><p>Location/5bf7554f-92b4-4e7d-a31d-fa96d8fc340b</p><p>Location</p><p>Dispensing fee plus medication costs * prescribed medications may be covered by OHIP</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p></div>",
+    "eligibility": [],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-763-7773"
+          },
+          {
+            "fax": "519-763-7776"
+          },
+          {
+            "email": "ucpharmacy2017@gmail.com"
+          },
+          {
+            "url": "www.ucpharmacy.ca/"
+          }
+        ],
+        "address": {
+          "line": [
+            "University Centre",
+            "50 Stone Rd E"
+          ],
+          "city": "Guelph",
+          "state": "ON",
+          "postalCode": "N1G 2W1"
+        },
+        "position": {
+          "longitude": -80.2328,
+          "latitude": 43.5343
+        }
+      }
+    ],
+    "contact_info": "phone: 519-763-7773, fax: 519-763-7776, email: ucpharmacy2017@gmail.com, url: www.ucpharmacy.ca/",
+    "description_of_this": "General pharmacy<ul><li>treatment and prescription of medications for thirteen common medical \nailments, including rashes, pink eye, insect bites, and urinary tract infections</li><li>medication placed in pill organizers (containers for storing scheduled doses) at no extra cost</li><li>medication placed in blister packs (sealed, push-through packaging used to separate doses) at no extra cost</li><li>pharmacist available for diabetes management consultations</li><li>basic home health care supplies</li><li>free seasonal flu vaccines<br><br></li></ul><b>MedsCheck</b> - Appointments to review complex prescriptions with a pharmacist <br><br><b>Medications Return Program</b> - Safe disposal of expired or unused medications, creams, and inhalers<br><br><b>Sharps Disposal Program</b> - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips, Codes: Dispensing fee plus medication costs * prescribed medications may be covered by OHIP, Features: Wheelchair Accessible, Languages: English, Address: University Centre, 50 Stone Rd E, Guelph, ON, N1G 2W1, Location: lat: 43.5343, lon: -80.2328, Contact: phone: 519-763-7773, fax: 519-763-7776, email: ucpharmacy2017@gmail.com, url: www.ucpharmacy.ca/"
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "name": "Shoppers Drug Mart - Cambridge - Hespeler Rd",
+    "active": true,
+    "category": [
+      "Pharmacies"
+    ],
+    "comment": "General pharmacy<ul><li> treatment and prescription of medications for common medical \nailments, including rashes, pink eye, insect bites, acne, and urinary \ntract infections<br></li><li>free seasonal flu vaccines</li><li>medication placed in blister packs (sealed, push-through packaging used to separate doses) at no extra cost</li><li>basic home health care supplies</li><li>pharmacist available for diabetes management consultations<br><br></li></ul><b>Pharmacy Smoking Cessation Program</b> - Help to quit smoking, available for Ontario Drug Benefit recipients <br><br><b>MedsCheck</b> - Appointments to review complex prescriptions with a pharmacist<br><br><b>Sharps Disposal Program</b> - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips",
+    "serviceProvisionCode": [
+      "Dispensing fee plus medication costs * prescribed medications may be covered by OHIP"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>87e6d8fc-b2b2-478a-bb08-e909c9554f09</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Cambridge</p><p>physical-location-postalcode</p><p>N1R 6J2</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>209164</p><p>true</p><p>Pharmacies</p><p>Location/e6050880-168d-4c8b-b791-ebcfa76d1d4a</p><p>Location</p><p>Shoppers Drug Mart - Cambridge - Hespeler Rd</p><p>General pharmacy&lt;ul&gt;&lt;li&gt; treatment and prescription of medications for common medical \nailments, including rashes, pink eye, insect bites, acne, and urinary \ntract infections&lt;br&gt;&lt;/li&gt;&lt;li&gt;free seasonal flu vaccines&lt;/li&gt;&lt;li&gt;medication placed in blister packs (sealed, push-through packaging used to separate doses) at no extra cost&lt;/li&gt;&lt;li&gt;basic home health care supplies&lt;/li&gt;&lt;li&gt;pharmacist available for diabetes management consultations&lt;br&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;b&gt;Pharmacy Smoking Cessation Program&lt;/b&gt; - Help to quit smoking, available for Ontario Drug Benefit recipients &lt;br&gt;&lt;br&gt;&lt;b&gt;MedsCheck&lt;/b&gt; - Appointments to review complex prescriptions with a pharmacist&lt;br&gt;&lt;br&gt;&lt;b&gt;Sharps Disposal Program&lt;/b&gt; - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips</p><p>Location/30c7722c-f923-4866-a7be-8c602fd49fbd</p><p>Location</p><p>Dispensing fee plus medication costs * prescribed medications may be covered by OHIP</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p></div>",
+    "eligibility": [],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-623-6770"
+          },
+          {
+            "fax": "519-623-7778"
+          },
+          {
+            "email": "asdm721@shoppersdrugmart.ca"
+          },
+          {
+            "url": "www1.shoppersdrugmart.ca/en/store-locator/store/721/pharmacy"
+          }
+        ],
+        "address": {
+          "line": [
+            "499 Hespeler Rd"
+          ],
+          "city": "Cambridge",
+          "state": "ON",
+          "postalCode": "N1R 6J2"
+        },
+        "position": {
+          "longitude": -80.3238,
+          "latitude": 43.3986
+        }
+      }
+    ],
+    "contact_info": "phone: 519-623-6770, fax: 519-623-7778, email: asdm721@shoppersdrugmart.ca, url: www1.shoppersdrugmart.ca/en/store-locator/store/721/pharmacy",
+    "description_of_this": "General pharmacy<ul><li> treatment and prescription of medications for common medical \nailments, including rashes, pink eye, insect bites, acne, and urinary \ntract infections<br></li><li>free seasonal flu vaccines</li><li>medication placed in blister packs (sealed, push-through packaging used to separate doses) at no extra cost</li><li>basic home health care supplies</li><li>pharmacist available for diabetes management consultations<br><br></li></ul><b>Pharmacy Smoking Cessation Program</b> - Help to quit smoking, available for Ontario Drug Benefit recipients <br><br><b>MedsCheck</b> - Appointments to review complex prescriptions with a pharmacist<br><br><b>Sharps Disposal Program</b> - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips, Codes: Dispensing fee plus medication costs * prescribed medications may be covered by OHIP, Features: Wheelchair Accessible, Languages: English, Address: 499 Hespeler Rd, Cambridge, ON, N1R 6J2, Location: lat: 43.3986, lon: -80.3238"
+  }
+]

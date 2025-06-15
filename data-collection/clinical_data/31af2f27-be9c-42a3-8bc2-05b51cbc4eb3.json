@@ -1,0 +1,54 @@
+[
+  {
+    "name": "Guardian Pharmacy - Kitchener - Lancaster St W (Lancaster Wellness)",
+    "active": true,
+    "category": [
+      "Pharmacies"
+    ],
+    "comment": "Compounding pharmacy<ul><li>treatment and prescription of medications for common medical ailments, including rashes, pink eye, insect bites, acne, and urinary tract infections</li><li>prescription of COVID-19 antiviral treatment (Paxlovid)</li><li>free seasonal flu vaccines</li><li>medication placed in pill organizers (containers for storing scheduled doses)</li><li>pharmacist available for diabetes management consultations</li><li>free delivery for prescriptions\n </li><li>health and wellness counselling <br></li><li>cholesterol and metabolic screening <br></li><li>heart health assessment <br></li><li>hormone replacement therapy</li><li>ideal protein weight loss program</li><li>pharmacogenetic testing</li><li>maternity support <br></li><li>INR check<br><br></li></ul><b>Pharmacy Smoking Cessation Program</b> - Help to quit smoking, available for Ontario Drug Benefit recipients<br><br><b>MedsCheck</b> - Appointments to review complex prescriptions with a pharmacist<br><br><b>Sharps Disposal Program</b> - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips",
+    "serviceProvisionCode": [
+      "Dispensing fee plus medication costs * prescribed medications may be covered by OHIP"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>31af2f27-be9c-42a3-8bc2-05b51cbc4eb3</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Kitchener</p><p>physical-location-postalcode</p><p>N2K 1L8</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>208699</p><p>true</p><p>Pharmacies</p><p>Location/51f4ee0b-2598-435d-a567-9596e0be2525</p><p>Location</p><p>Guardian Pharmacy - Kitchener - Lancaster St W (Lancaster Wellness)</p><p>Compounding pharmacy&lt;ul&gt;&lt;li&gt;treatment and prescription of medications for common medical ailments, including rashes, pink eye, insect bites, acne, and urinary tract infections&lt;/li&gt;&lt;li&gt;prescription of COVID-19 antiviral treatment (Paxlovid)&lt;/li&gt;&lt;li&gt;free seasonal flu vaccines&lt;/li&gt;&lt;li&gt;medication placed in pill organizers (containers for storing scheduled doses)&lt;/li&gt;&lt;li&gt;pharmacist available for diabetes management consultations&lt;/li&gt;&lt;li&gt;free delivery for prescriptions\n &lt;/li&gt;&lt;li&gt;health and wellness counselling &lt;br&gt;&lt;/li&gt;&lt;li&gt;cholesterol and metabolic screening &lt;br&gt;&lt;/li&gt;&lt;li&gt;heart health assessment &lt;br&gt;&lt;/li&gt;&lt;li&gt;hormone replacement therapy&lt;/li&gt;&lt;li&gt;ideal protein weight loss program&lt;/li&gt;&lt;li&gt;pharmacogenetic testing&lt;/li&gt;&lt;li&gt;maternity support &lt;br&gt;&lt;/li&gt;&lt;li&gt;INR check&lt;br&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;b&gt;Pharmacy Smoking Cessation Program&lt;/b&gt; - Help to quit smoking, available for Ontario Drug Benefit recipients&lt;br&gt;&lt;br&gt;&lt;b&gt;MedsCheck&lt;/b&gt; - Appointments to review complex prescriptions with a pharmacist&lt;br&gt;&lt;br&gt;&lt;b&gt;Sharps Disposal Program&lt;/b&gt; - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips</p><p>Location/010dd765-6665-4be6-91e7-f9dbe7a4bdfa</p><p>Location</p><p>Dispensing fee plus medication costs * prescribed medications may be covered by OHIP</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p></div>",
+    "eligibility": [],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-745-4444"
+          },
+          {
+            "fax": "519-745-0440"
+          },
+          {
+            "email": "info@lancasterwellnesspharmacy.com"
+          },
+          {
+            "url": "lancasterwellnesspharmacy.com/"
+          }
+        ],
+        "address": {
+          "line": [
+            "493 Lancaster St W, Unit 102"
+          ],
+          "city": "Kitchener",
+          "state": "ON",
+          "postalCode": "N2K 1L8"
+        },
+        "position": {
+          "longitude": -80.4847,
+          "latitude": 43.4756
+        }
+      }
+    ],
+    "contact_info": "phone: 519-745-4444, fax: 519-745-0440, email: info@lancasterwellnesspharmacy.com, url: lancasterwellnesspharmacy.com/",
+    "description_of_this": "Compounding pharmacy<ul><li>treatment and prescription of medications for common medical ailments, including rashes, pink eye, insect bites, acne, and urinary tract infections</li><li>prescription of COVID-19 antiviral treatment (Paxlovid)</li><li>free seasonal flu vaccines</li><li>medication placed in pill organizers (containers for storing scheduled doses)</li><li>pharmacist available for diabetes management consultations</li><li>free delivery for prescriptions\n </li><li>health and wellness counselling <br></li><li>cholesterol and metabolic screening <br></li><li>heart health assessment <br></li><li>hormone replacement therapy</li><li>ideal protein weight loss program</li><li>pharmacogenetic testing</li><li>maternity support <br></li><li>INR check<br><br></li></ul><b>Pharmacy Smoking Cessation Program</b> - Help to quit smoking, available for Ontario Drug Benefit recipients<br><br><b>MedsCheck</b> - Appointments to review complex prescriptions with a pharmacist<br><br><b>Sharps Disposal Program</b> - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips, Codes: Dispensing fee plus medication costs * prescribed medications may be covered by OHIP, Features: Wheelchair Accessible, Languages: English, Address: 493 Lancaster St W, Unit 102, Kitchener, ON, N2K 1L8, Location: lat: 43.4756, lon: -80.4847"
+  }
+]

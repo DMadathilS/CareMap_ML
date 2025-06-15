@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Pharmasave - Kitchener - Country Hill Dr (Country Hills Pharmacy)",
+    "active": true,
+    "category": [
+      "Pharmacies"
+    ],
+    "comment": "General pharmacy <br><ul><li>medication placed in pill organizers (containers for storing scheduled doses)</li><li>medication placed in blister packs (sealed, push-through packaging used to separate doses)</li><li> free take-home naloxone kits (emergency response kits for opioid overdose)</li><li>delivery available</li><li> certified diabetes educator (CDE) available for consultations</li><li>mobility aids</li><li>blood pressure management</li><li>Warfarin/INR (International Normalized Ratio) testing</li><li>smoking cessation support</li><li>weight management</li><li> treatment and prescription of medications for thirteen common medical \nailments, including rashes, pink eye, insect bites, and urinary tract \ninfections\n </li><li> prescription of COVID-19 antiviral treatment (Paxlovid)</li></ul><br>\n<b>Medications Return Program</b> - Safe disposal of expired or unused medications, creams, and inhalers <br><br><b>Sharps Disposal Program</b> - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips",
+    "serviceProvisionCode": [
+      "Dispensing fee plus medication costs * prescribed medications may be covered by OHIP"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>85157e4d-9103-4a2b-9346-fa6e500c78e2</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Kitchener</p><p>physical-location-postalcode</p><p>N2E 2G7</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>219720</p><p>true</p><p>Pharmacies</p><p>Location/6917e752-2ee9-4cbe-ba70-3cbf3df5017a</p><p>Location</p><p>Pharmasave - Kitchener - Country Hill Dr (Country Hills Pharmacy)</p><p>General pharmacy &lt;br&gt;&lt;ul&gt;&lt;li&gt;medication placed in pill organizers (containers for storing scheduled doses)&lt;/li&gt;&lt;li&gt;medication placed in blister packs (sealed, push-through packaging used to separate doses)&lt;/li&gt;&lt;li&gt; free take-home naloxone kits (emergency response kits for opioid overdose)&lt;/li&gt;&lt;li&gt;delivery available&lt;/li&gt;&lt;li&gt; certified diabetes educator (CDE) available for consultations&lt;/li&gt;&lt;li&gt;mobility aids&lt;/li&gt;&lt;li&gt;blood pressure management&lt;/li&gt;&lt;li&gt;Warfarin/INR (International Normalized Ratio) testing&lt;/li&gt;&lt;li&gt;smoking cessation support&lt;/li&gt;&lt;li&gt;weight management&lt;/li&gt;&lt;li&gt; treatment and prescription of medications for thirteen common medical \nailments, including rashes, pink eye, insect bites, and urinary tract \ninfections\n &lt;/li&gt;&lt;li&gt; prescription of COVID-19 antiviral treatment (Paxlovid)&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;\n&lt;b&gt;Medications Return Program&lt;/b&gt; - Safe disposal of expired or unused medications, creams, and inhalers &lt;br&gt;&lt;br&gt;&lt;b&gt;Sharps Disposal Program&lt;/b&gt; - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips</p><p>Location/584b1486-7230-4388-a5d1-496e8d57c206</p><p>Location</p><p>Dispensing fee plus medication costs * prescribed medications may be covered by OHIP</p><p>Not Applicable</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p></div>",
+    "eligibility": [],
+    "characteristic": [
+      "Not Applicable"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-954-3777"
+          },
+          {
+            "fax": "519-954-3776"
+          },
+          {
+            "url": "pharmasave.com/store/pharmasave-country-hills__trashed/"
+          }
+        ],
+        "address": {
+          "line": [
+            "153 Country Hill Dr, Unit 2A"
+          ],
+          "city": "Kitchener",
+          "state": "ON",
+          "postalCode": "N2E 2G7"
+        },
+        "position": {
+          "longitude": -80.4722,
+          "latitude": 43.4135
+        }
+      }
+    ],
+    "contact_info": "phone: 519-954-3777, fax: 519-954-3776, url: pharmasave.com/store/pharmasave-country-hills__trashed/",
+    "description_of_this": "General pharmacy <br><ul><li>medication placed in pill organizers (containers for storing scheduled doses)</li><li>medication placed in blister packs (sealed, push-through packaging used to separate doses)</li><li> free take-home naloxone kits (emergency response kits for opioid overdose)</li><li>delivery available</li><li> certified diabetes educator (CDE) available for consultations</li><li>mobility aids</li><li>blood pressure management</li><li>Warfarin/INR (International Normalized Ratio) testing</li><li>smoking cessation support</li><li>weight management</li><li> treatment and prescription of medications for thirteen common medical \nailments, including rashes, pink eye, insect bites, and urinary tract \ninfections\n </li><li> prescription of COVID-19 antiviral treatment (Paxlovid)</li></ul><br>\n<b>Medications Return Program</b> - Safe disposal of expired or unused medications, creams, and inhalers <br><br><b>Sharps Disposal Program</b> - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips, Codes: Dispensing fee plus medication costs * prescribed medications may be covered by OHIP, Features: Not Applicable, Languages: English, Address: 153 Country Hill Dr, Unit 2A, Kitchener, ON, N2E 2G7, Location: lat: 43.4135, lon: -80.4722"
+  }
+]

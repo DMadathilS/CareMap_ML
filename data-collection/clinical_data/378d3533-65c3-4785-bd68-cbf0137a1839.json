@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Chryssa McAlister Medicine - Ophthalmology Clinic",
+    "active": true,
+    "category": [
+      "Ophthalmology Clinics"
+    ],
+    "comment": "Community-based eye care clinic * ophthalmologist (eye doctor) specializes in glaucoma and cataracts",
+    "serviceProvisionCode": [
+      "Services covered by OHIP"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>378d3533-65c3-4785-bd68-cbf0137a1839</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Kitchener</p><p>physical-location-postalcode</p><p>N2M 5N6</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>210008</p><p>true</p><p>Ophthalmology Clinics</p><p>Location/d8905f11-8897-4d68-b18d-58e18323cde9</p><p>Location</p><p>Chryssa McAlister Medicine - Ophthalmology Clinic</p><p>Community-based eye care clinic * ophthalmologist (eye doctor) specializes in glaucoma and cataracts</p><p>Location/3b019002-45c4-4064-bc78-4f77154496e3</p><p>Location</p><p>Services covered by OHIP</p><p>People with eye issues which require surgical intervention</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>Medical referral preferred</p></div>",
+    "eligibility": [
+      "People with eye issues which require surgical intervention"
+    ],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [
+      "Medical referral preferred"
+    ],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-579-7000"
+          },
+          {
+            "fax": "1-888-465-6912"
+          },
+          {
+            "email": "chryssa@doctormcalister.com"
+          },
+          {
+            "url": "www.waterlooeye.ca/surgeons/chryssa-mcalister"
+          }
+        ],
+        "address": {
+          "line": [
+            "564 Belmont Ave W, Suite 411"
+          ],
+          "city": "Kitchener",
+          "state": "ON",
+          "postalCode": "N2M 5N6"
+        },
+        "position": {
+          "longitude": -80.5155,
+          "latitude": 43.4503
+        }
+      }
+    ],
+    "contact_info": "phone: 519-579-7000, fax: 1-888-465-6912, email: chryssa@doctormcalister.com, url: www.waterlooeye.ca/surgeons/chryssa-mcalister",
+    "description_of_this": "Community-based eye care clinic * ophthalmologist (eye doctor) specializes in glaucoma and cataracts, Codes: Services covered by OHIP, Features: Wheelchair Accessible, Languages: English, Referral: Medical referral preferred, Address: 564 Belmont Ave W, Suite 411, Kitchener, ON, N2M 5N6, Location: lat: 43.4503, lon: -80.5155"
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Pharmasave - Waterloo - King St N (St Jacobs)",
+    "active": true,
+    "category": [
+      "Pharmacies"
+    ],
+    "comment": "General pharmacy<ul><li>treatment and prescription of medications for thirteen common medical \nailments, including rashes, pink eye, insect bites, and urinary tract infections</li><li>prescription of COVID-19 antiviral treatment (Paxlovid)</li><li>medication placed in pill organizers (containers for storing scheduled doses) at no extra cost</li><li>medication placed in blister packs (sealed, push-through packaging used to separate doses) at no extra cost</li><li>pharmacist available for diabetes management consultations</li><li>basic home health care supplies</li><li>free seasonal flu vaccines<br><br></li></ul><b>Medications Return Program</b> - Safe disposal of expired or unused medications, creams, and inhalers<br><br><b>MedsCheck</b> - Appointments to review complex prescriptions with a pharmacist<br><br><b>Sharps Disposal Program</b> - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips",
+    "serviceProvisionCode": [
+      "Dispensing fee plus medication costs * prescribed medications may be covered by OHIP"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>9b9f6a1c-62aa-446c-a197-0a9210996347</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Waterloo</p><p>physical-location-postalcode</p><p>N2J 4G8</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>219946</p><p>true</p><p>Pharmacies</p><p>Location/6c3c8cd1-7aa3-47b9-850b-c25d101cfc9c</p><p>Location</p><p>Pharmasave - Waterloo - King St N (St Jacobs)</p><p>General pharmacy&lt;ul&gt;&lt;li&gt;treatment and prescription of medications for thirteen common medical \nailments, including rashes, pink eye, insect bites, and urinary tract infections&lt;/li&gt;&lt;li&gt;prescription of COVID-19 antiviral treatment (Paxlovid)&lt;/li&gt;&lt;li&gt;medication placed in pill organizers (containers for storing scheduled doses) at no extra cost&lt;/li&gt;&lt;li&gt;medication placed in blister packs (sealed, push-through packaging used to separate doses) at no extra cost&lt;/li&gt;&lt;li&gt;pharmacist available for diabetes management consultations&lt;/li&gt;&lt;li&gt;basic home health care supplies&lt;/li&gt;&lt;li&gt;free seasonal flu vaccines&lt;br&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;b&gt;Medications Return Program&lt;/b&gt; - Safe disposal of expired or unused medications, creams, and inhalers&lt;br&gt;&lt;br&gt;&lt;b&gt;MedsCheck&lt;/b&gt; - Appointments to review complex prescriptions with a pharmacist&lt;br&gt;&lt;br&gt;&lt;b&gt;Sharps Disposal Program&lt;/b&gt; - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips</p><p>Location/55d3fa7b-c1fa-424b-9c48-08cde337e079</p><p>Location</p><p>Dispensing fee plus medication costs * prescribed medications may be covered by OHIP</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p></div>",
+    "eligibility": [],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-206-6777"
+          },
+          {
+            "fax": "519-206-6779"
+          },
+          {
+            "url": "www.pharmasave.com/store/pharmasave-waterloo-st-jacobs-pharmacy__trashed/"
+          }
+        ],
+        "address": {
+          "line": [
+            "820 King St N, Unit 1"
+          ],
+          "city": "Waterloo",
+          "state": "ON",
+          "postalCode": "N2J 4G8"
+        },
+        "position": {
+          "longitude": -80.554,
+          "latitude": 43.5128
+        }
+      }
+    ],
+    "contact_info": "phone: 519-206-6777, fax: 519-206-6779, url: www.pharmasave.com/store/pharmasave-waterloo-st-jacobs-pharmacy__trashed/",
+    "description_of_this": "General pharmacy<ul><li>treatment and prescription of medications for thirteen common medical \nailments, including rashes, pink eye, insect bites, and urinary tract infections</li><li>prescription of COVID-19 antiviral treatment (Paxlovid)</li><li>medication placed in pill organizers (containers for storing scheduled doses) at no extra cost</li><li>medication placed in blister packs (sealed, push-through packaging used to separate doses) at no extra cost</li><li>pharmacist available for diabetes management consultations</li><li>basic home health care supplies</li><li>free seasonal flu vaccines<br><br></li></ul><b>Medications Return Program</b> - Safe disposal of expired or unused medications, creams, and inhalers<br><br><b>MedsCheck</b> - Appointments to review complex prescriptions with a pharmacist<br><br><b>Sharps Disposal Program</b> - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips, Codes: Dispensing fee plus medication costs * prescribed medications may be covered by OHIP, Features: Wheelchair Accessible, Languages: English, Address: 820 King St N, Unit 1, Waterloo, ON, N2J 4G8, Location: lat: 43.5128, lon: -80.554"
+  }
+]

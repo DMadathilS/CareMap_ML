@@ -1,0 +1,48 @@
+[
+  {
+    "name": "Avalon Pharmacy",
+    "active": true,
+    "category": [
+      "Pharmacies"
+    ],
+    "comment": "General pharmacy<ul><li>medication placed in blister packs (sealed, push-through packaging used to separate doses) at no extra cost</li><li>free seasonal flu vaccines</li><li>vaccines</li><li>diabetes education</li><li> free delivery for prescriptions\n </li><li>discount for older adults<br></li></ul><br>\n<b>MedsCheck</b> - Appointments to review complex prescriptions with a pharmacist<br><br><b>Sharps Disposal Program</b> - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips",
+    "serviceProvisionCode": [
+      "Dispensing fee plus medication costs * prescribed medications may be covered by OHIP"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>8b8815f0-a08b-4fa6-a140-2c07b6fa6d44</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Cambridge</p><p>physical-location-postalcode</p><p>N1R 5N6</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>202282</p><p>true</p><p>Pharmacies</p><p>Location/f5735a73-51d3-440b-b53a-3fc578d1ebcb</p><p>Location</p><p>Avalon Pharmacy</p><p>General pharmacy&lt;ul&gt;&lt;li&gt;medication placed in blister packs (sealed, push-through packaging used to separate doses) at no extra cost&lt;/li&gt;&lt;li&gt;free seasonal flu vaccines&lt;/li&gt;&lt;li&gt;vaccines&lt;/li&gt;&lt;li&gt;diabetes education&lt;/li&gt;&lt;li&gt; free delivery for prescriptions\n &lt;/li&gt;&lt;li&gt;discount for older adults&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;\n&lt;b&gt;MedsCheck&lt;/b&gt; - Appointments to review complex prescriptions with a pharmacist&lt;br&gt;&lt;br&gt;&lt;b&gt;Sharps Disposal Program&lt;/b&gt; - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips</p><p>Location/fa5e9b8c-6290-499f-ba0f-1866a8b70fd8</p><p>Location</p><p>Dispensing fee plus medication costs * prescribed medications may be covered by OHIP</p><p>Not Applicable</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p></div>",
+    "eligibility": [],
+    "characteristic": [
+      "Not Applicable"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-624-8620"
+          },
+          {
+            "fax": "519-624-8814"
+          }
+        ],
+        "address": {
+          "line": [
+            "85 Dundas St"
+          ],
+          "city": "Cambridge",
+          "state": "ON",
+          "postalCode": "N1R 5N6"
+        },
+        "position": {
+          "longitude": -80.2933,
+          "latitude": 43.3585
+        }
+      }
+    ],
+    "contact_info": "phone: 519-624-8620, fax: 519-624-8814",
+    "description_of_this": "General pharmacy<ul><li>medication placed in blister packs (sealed, push-through packaging used to separate doses) at no extra cost</li><li>free seasonal flu vaccines</li><li>vaccines</li><li>diabetes education</li><li> free delivery for prescriptions\n </li><li>discount for older adults<br></li></ul><br>\n<b>MedsCheck</b> - Appointments to review complex prescriptions with a pharmacist<br><br><b>Sharps Disposal Program</b> - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips, Codes: Dispensing fee plus medication costs * prescribed medications may be covered by OHIP, Features: Not Applicable, Languages: English, Address: 85 Dundas St, Cambridge, ON, N1R 5N6, Location: lat: 43.3585, lon: -80.2933"
+  }
+]

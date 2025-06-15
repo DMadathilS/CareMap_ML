@@ -1,0 +1,54 @@
+[
+  {
+    "name": "Pharmasave - Guelph - Arkell Rd (Arkell Pharmacy)",
+    "active": true,
+    "category": [
+      "Pharmacies"
+    ],
+    "comment": "General pharmacy<br><ul><li>free seasonal flu vaccines</li><li>medication placed in blister packs (sealed, push-through packaging used to separate doses) at no extra cost</li><li>pharmacist available for diabetes management consultations</li><li>basic compounding</li><li>basic home health care supplies</li></ul><br><b>MedsCheck</b> - Appointments to review complex prescriptions with a pharmacist<br><br><b>Pharmacy Smoking Cessation Program</b> - Help to quit smoking, available for Ontario Drug Benefit recipients<br><br><b>Sharps Disposal Program</b> - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips",
+    "serviceProvisionCode": [
+      "Dispensing fee plus medication costs * prescribed medications may be covered by OHIP"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>c9667427-4cd2-494f-b32f-4ce1c5e359c8</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Guelph</p><p>physical-location-postalcode</p><p>N1L 1E5</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>208939</p><p>true</p><p>Pharmacies</p><p>Location/0cd696bf-94b2-44be-ab23-c8c7381e4fae</p><p>Location</p><p>Pharmasave - Guelph - Arkell Rd (Arkell Pharmacy)</p><p>General pharmacy&lt;br&gt;&lt;ul&gt;&lt;li&gt;free seasonal flu vaccines&lt;/li&gt;&lt;li&gt;medication placed in blister packs (sealed, push-through packaging used to separate doses) at no extra cost&lt;/li&gt;&lt;li&gt;pharmacist available for diabetes management consultations&lt;/li&gt;&lt;li&gt;basic compounding&lt;/li&gt;&lt;li&gt;basic home health care supplies&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;b&gt;MedsCheck&lt;/b&gt; - Appointments to review complex prescriptions with a pharmacist&lt;br&gt;&lt;br&gt;&lt;b&gt;Pharmacy Smoking Cessation Program&lt;/b&gt; - Help to quit smoking, available for Ontario Drug Benefit recipients&lt;br&gt;&lt;br&gt;&lt;b&gt;Sharps Disposal Program&lt;/b&gt; - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips</p><p>Location/1d9939f6-b993-496e-94ed-7a2eb183fe17</p><p>Location</p><p>Dispensing fee plus medication costs * prescribed medications may be covered by OHIP</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p></div>",
+    "eligibility": [],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-822-7859"
+          },
+          {
+            "fax": "519-822-5631"
+          },
+          {
+            "email": "pharmacy@arkellmedical.ca"
+          },
+          {
+            "url": "www.arkellmedical.ca/pharmacy-pharmacy"
+          }
+        ],
+        "address": {
+          "line": [
+            "403 Arkell Rd, Suite 4"
+          ],
+          "city": "Guelph",
+          "state": "ON",
+          "postalCode": "N1L 1E5"
+        },
+        "position": {
+          "longitude": -80.1855,
+          "latitude": 43.5236
+        }
+      }
+    ],
+    "contact_info": "phone: 519-822-7859, fax: 519-822-5631, email: pharmacy@arkellmedical.ca, url: www.arkellmedical.ca/pharmacy-pharmacy",
+    "description_of_this": "General pharmacy<br><ul><li>free seasonal flu vaccines</li><li>medication placed in blister packs (sealed, push-through packaging used to separate doses) at no extra cost</li><li>pharmacist available for diabetes management consultations</li><li>basic compounding</li><li>basic home health care supplies</li></ul><br><b>MedsCheck</b> - Appointments to review complex prescriptions with a pharmacist<br><br><b>Pharmacy Smoking Cessation Program</b> - Help to quit smoking, available for Ontario Drug Benefit recipients<br><br><b>Sharps Disposal Program</b> - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips, Codes: Dispensing fee plus medication costs * prescribed medications may be covered by OHIP, Features: Wheelchair Accessible, Languages: English, Address: 403 Arkell Rd, Suite 4, Guelph, ON, N1L 1E5, Location: lat: 43.5236, lon: -80.1855, Contact: phone: 519-822-7859, fax: 519-822-5631, email: pharmacy@arkellmedical.ca, url: www.arkellmedical.ca/pharmacy-pharmacy"
+  }
+]

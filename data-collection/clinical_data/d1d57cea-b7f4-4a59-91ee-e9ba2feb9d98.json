@@ -1,0 +1,55 @@
+[
+  {
+    "name": "Woolwich Community Health Centre - Community Diabetes Program",
+    "active": true,
+    "category": [
+      "Diabetes Education Programs"
+    ],
+    "comment": "Supports for people living with prediabetes or diabetes * one-on-one or group consultation on monitoring blood sugar levels, medications, healthy eating, exercise, and other lifestyle choices * registered nurse and dietitian on staff",
+    "serviceProvisionCode": [
+      "Free except for some group activities"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>d1d57cea-b7f4-4a59-91ee-e9ba2feb9d98</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>St Jacobs</p><p>physical-location-postalcode</p><p>N0B 2N0</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>172851</p><p>true</p><p>Diabetes Education Programs</p><p>Location/ca0ed724-b3a2-4648-8251-d54efc5b3453</p><p>Location</p><p>Woolwich Community Health Centre - Community Diabetes Program</p><p>Supports for people living with prediabetes or diabetes * one-on-one or group consultation on monitoring blood sugar levels, medications, healthy eating, exercise, and other lifestyle choices * registered nurse and dietitian on staff</p><p>Location/1ddf304f-f5ef-4763-a01b-e72485967c8f</p><p>Location</p><p>Free except for some group activities</p><p>Adults 18 years and older with pre-diabetes, type 1 diabetes or type 2 diabetes</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>Self referral or by referral of a physician or nurse practitioner</p></div>",
+    "eligibility": [
+      "Adults 18 years and older with pre-diabetes, type 1 diabetes or type 2 diabetes"
+    ],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [
+      "Self referral or by referral of a physician or nurse practitioner"
+    ],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-664-3794 ext 372"
+          },
+          {
+            "fax": "519-664-2182"
+          },
+          {
+            "url": "wchc.on.ca/community-programs/health-promotion/"
+          }
+        ],
+        "address": {
+          "line": [
+            "10 Parkside Dr"
+          ],
+          "city": "St Jacobs",
+          "state": "ON",
+          "postalCode": "N0B 2N0"
+        },
+        "position": {
+          "longitude": -80.551048,
+          "latitude": 43.541552
+        }
+      }
+    ],
+    "contact_info": "phone: 519-664-3794 ext 372, fax: 519-664-2182, url: wchc.on.ca/community-programs/health-promotion/",
+    "description_of_this": "Supports for people living with prediabetes or diabetes * one-on-one or group consultation on monitoring blood sugar levels, medications, healthy eating, exercise, and other lifestyle choices * registered nurse and dietitian on staff, Codes: Free except for some group activities, Features: Wheelchair Accessible, Languages: English, Referral: Self referral or by referral of a physician or nurse practitioner, Address: 10 Parkside Dr, St Jacobs, ON, N0B 2N0, Location: lat: 43.541552, lon: -80.551048, Contact: phone: 519-664-3794 ext 372, fax: 519-664-2182, url: wchc.on.ca/community-programs/health-promotion/"
+  }
+]

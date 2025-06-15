@@ -1,0 +1,59 @@
+[
+  {
+    "name": "Waterloo Region - Community Services",
+    "active": true,
+    "category": [
+      "Community Support Services",
+      "Long-Term Care Homes"
+    ],
+    "comment": "263-bed long-term care home * residential care with private and semi-private rooms * 24-hour nursing and personal care<ul><li> bedding and furniture</li><li> laundry and housekeeping</li><li> meals</li><li> personal hygiene supplies</li><li> medical supplies and equipment (such as catheters, ostomy bags, or wound care supplies)</li><li> assistance with medication and activities of daily living</li><li> recreation and social programs</li></ul>",
+    "serviceProvisionCode": [
+      "Rates set by the Ontario Ministry of Long-Term Care * subsidies for basic rates may be available for eligible applicants"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>6507a421-7e7b-4aa1-8e69-bce5a91ba523</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Kitchener</p><p>physical-location-postalcode</p><p>N2A 1Y5</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>211474</p><p>true</p><p>Community Support Services</p><p>Long-Term Care Homes</p><p>Location/7e6b3bf0-6599-48ee-a090-f80ebe275335</p><p>Location</p><p>Waterloo Region - Community Services</p><p>263-bed long-term care home * residential care with private and semi-private rooms * 24-hour nursing and personal care&lt;ul&gt;&lt;li&gt; bedding and furniture&lt;/li&gt;&lt;li&gt; laundry and housekeeping&lt;/li&gt;&lt;li&gt; meals&lt;/li&gt;&lt;li&gt; personal hygiene supplies&lt;/li&gt;&lt;li&gt; medical supplies and equipment (such as catheters, ostomy bags, or wound care supplies)&lt;/li&gt;&lt;li&gt; assistance with medication and activities of daily living&lt;/li&gt;&lt;li&gt; recreation and social programs&lt;/li&gt;&lt;/ul&gt;</p><p>Location/42ba4c1f-f09d-4cc3-8e12-9b55f279041b</p><p>Location</p><p>Rates set by the Ontario Ministry of Long-Term Care * subsidies for basic rates may be available for eligible applicants</p><p>Adults who need long-term care * care coordinators assess the needs of applicants</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>Contact Ontario Health atHome Waterloo-Wellington</p></div>",
+    "eligibility": [
+      "Adults who need long-term care * care coordinators assess the needs of applicants"
+    ],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [
+      "Contact Ontario Health atHome Waterloo-Wellington"
+    ],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-893-8482<br>Visitors: 519- 893-8494 ext 6868"
+          },
+          {
+            "phone": "519-575-4608"
+          },
+          {
+            "email": "Sunnyside@regionofwaterloo.ca"
+          },
+          {
+            "url": "www.regionofwaterloo.ca/en/health-and-wellness/sunnyside-home-long-term-care.aspx"
+          }
+        ],
+        "address": {
+          "line": [
+            "247 Franklin St N"
+          ],
+          "city": "Kitchener",
+          "state": "ON",
+          "postalCode": "N2A 1Y5"
+        },
+        "position": {
+          "longitude": -80.4451,
+          "latitude": 43.4405
+        }
+      }
+    ],
+    "contact_info": "phone: 519-893-8482<br>Visitors: 519- 893-8494 ext 6868, phone: 519-575-4608, email: Sunnyside@regionofwaterloo.ca, url: www.regionofwaterloo.ca/en/health-and-wellness/sunnyside-home-long-term-care.aspx",
+    "description_of_this": "263-bed long-term care home * residential care with private and semi-private rooms * 24-hour nursing and personal care<ul><li> bedding and furniture</li><li> laundry and housekeeping</li><li> meals</li><li> personal hygiene supplies</li><li> medical supplies and equipment (such as catheters, ostomy bags, or wound care supplies)</li><li> assistance with medication and activities of daily living</li><li> recreation and social programs</li></ul>, Codes: Rates set by the Ontario Ministry of Long-Term Care * subsidies for basic rates may be available for eligible applicants, Features: Wheelchair Accessible, Languages: English, Referral: Contact Ontario Health atHome Waterloo-Wellington, Address: 247 Franklin St N, Kitchener, ON, N2A 1Y5, Location: lat: 43.4405, lon: -80.4451"
+  }
+]

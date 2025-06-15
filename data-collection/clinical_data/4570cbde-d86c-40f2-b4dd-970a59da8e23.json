@@ -1,0 +1,55 @@
+[
+  {
+    "name": "Vision Loss Rehabilitation Canada - Waterloo and Wellington",
+    "active": true,
+    "category": [
+      "Blindness and Impaired Vision"
+    ],
+    "comment": "Supports for people living with vision loss * research, public education, and vision health services<br><br><b>Services include:</b><ul><li>client navigation</li><li>primary services to support functional needs<br></li><li>specialized services</li><li>concentrated services</li><li>crisis response and rehabilitation<br></li></ul>",
+    "serviceProvisionCode": [
+      "Free"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>4570cbde-d86c-40f2-b4dd-970a59da8e23</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Kitchener</p><p>physical-location-postalcode</p><p>N2A 0K5</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>208459</p><p>true</p><p>Blindness and Impaired Vision</p><p>Location/dc094ead-90c8-4c41-a2c6-c4aeab4cd05e</p><p>Location</p><p>Vision Loss Rehabilitation Canada - Waterloo and Wellington</p><p>Supports for people living with vision loss * research, public education, and vision health services&lt;br&gt;&lt;br&gt;&lt;b&gt;Services include:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;client navigation&lt;/li&gt;&lt;li&gt;primary services to support functional needs&lt;br&gt;&lt;/li&gt;&lt;li&gt;specialized services&lt;/li&gt;&lt;li&gt;concentrated services&lt;/li&gt;&lt;li&gt;crisis response and rehabilitation&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;</p><p>Location/bfa6373f-d9e5-446b-842b-7ed43621e749</p><p>Location</p><p>Free</p><p>People who are visually impaired, blind, or deaf blind</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>Call * no referral required * need to have a request for service completed by an eye care professional * request for service forms available on website</p></div>",
+    "eligibility": [
+      "People who are visually impaired, blind, or deaf blind"
+    ],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [
+      "Call * no referral required * need to have a request for service completed by an eye care professional * request for service forms available on website"
+    ],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "1-844-887-8572"
+          },
+          {
+            "fax": "519-742-4003"
+          },
+          {
+            "url": "visionlossrehab.ca/en"
+          }
+        ],
+        "address": {
+          "line": [
+            "31 Kingsbury Dr, Unit 113"
+          ],
+          "city": "Kitchener",
+          "state": "ON",
+          "postalCode": "N2A 0K5"
+        },
+        "position": {
+          "longitude": -80.4354,
+          "latitude": 43.4286
+        }
+      }
+    ],
+    "contact_info": "phone: 1-844-887-8572, fax: 519-742-4003, url: visionlossrehab.ca/en",
+    "description_of_this": "Supports for people living with vision loss * research, public education, and vision health services<br><br><b>Services include:</b><ul><li>client navigation</li><li>primary services to support functional needs<br></li><li>specialized services</li><li>concentrated services</li><li>crisis response and rehabilitation<br></li></ul>, Codes: Free, Features: Wheelchair Accessible, Languages: English, Referral: Call * no referral required * need to have a request for service completed by an eye care professional * request for service forms available on website, Address: 31 Kingsbury Dr, Unit 113, Kitchener, ON, N2A 0K5, Location: lat: 43.4286, lon: -80.4354"
+  }
+]

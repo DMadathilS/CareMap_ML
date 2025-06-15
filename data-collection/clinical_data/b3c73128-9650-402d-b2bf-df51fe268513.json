@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Community Support Connections - Exercise and Falls Prevention Programs",
+    "active": true,
+    "category": [
+      "Exercise and Falls Prevention Programs"
+    ],
+    "comment": "Gentle exercise programs for multiple skill levels * available at various community locations * in-home exercise programs available * virtual classes available",
+    "serviceProvisionCode": [
+      "Free"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>b3c73128-9650-402d-b2bf-df51fe268513</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Breslau</p><p>physical-location-postalcode</p><p>N0B 1M0</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>163196</p><p>true</p><p>Exercise and Falls Prevention Programs</p><p>Location/f550e3d1-3880-417c-97f1-c01868ed15b4</p><p>Location</p><p>Community Support Connections - Exercise and Falls Prevention Programs</p><p>Gentle exercise programs for multiple skill levels * available at various community locations * in-home exercise programs available * virtual classes available</p><p>Location/70e2eefc-2f2b-4f0a-8f6c-e0ab13d73f88</p><p>Location</p><p>Free</p><p>Older adults * adults 18 years and over with disabilities</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>Call to register * needs assessment for some programs * no referral required</p></div>",
+    "eligibility": [
+      "Older adults * adults 18 years and over with disabilities"
+    ],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [
+      "Call to register * needs assessment for some programs * no referral required"
+    ],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-772-8787"
+          },
+          {
+            "fax": "519-648-3737"
+          },
+          {
+            "email": "info@cscmow.org"
+          },
+          {
+            "url": "communitysupportconnections.org/physical-health/"
+          }
+        ],
+        "address": {
+          "line": [
+            "61 Woolwich St N, Box 29"
+          ],
+          "city": "Breslau",
+          "state": "ON",
+          "postalCode": "N0B 1M0"
+        },
+        "position": {
+          "longitude": -80.4156223,
+          "latitude": 43.4857191
+        }
+      }
+    ],
+    "contact_info": "phone: 519-772-8787, fax: 519-648-3737, email: info@cscmow.org, url: communitysupportconnections.org/physical-health/",
+    "description_of_this": "Gentle exercise programs for multiple skill levels * available at various community locations * in-home exercise programs available * virtual classes available, Codes: Free, Features: Wheelchair Accessible, Languages: English, Referral: Call to register * needs assessment for some programs * no referral required, Address: 61 Woolwich St N, Box 29, Breslau, ON, N0B 1M0, Location: lat: 43.4857191, lon: -80.4156223"
+  }
+]

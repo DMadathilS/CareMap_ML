@@ -1,0 +1,55 @@
+[
+  {
+    "name": "Pharmacy on Main",
+    "active": true,
+    "category": [
+      "Pharmacies"
+    ],
+    "comment": "Compounding pharmacy<ul><li>treatment and prescription of medications for common medical ailments, \nincluding rashes, pink eye, insect bites, acne, and urinary tract \ninfections</li><li>medication placed in blister packs (sealed, push-through packaging used to separate doses) </li><li>pharmacist available for diabetes management consultations</li><li> free seasonal flu vaccines by appointment</li><li>free delivery for prescriptions</li><li>basic home health care supplies</li><li>walk-in telemedicine clinic<br><br></li></ul><b>MedsCheck</b> - Appointments to review complex prescriptions with a pharmacist<br><br><b>Sharps Disposal Program</b> - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips<br><br><b>Medications Return Program</b> - Safe disposal of expired or unused medications, creams, and inhalers",
+    "serviceProvisionCode": [
+      "Dispensing fee plus medication costs * prescribed medications may be covered by OHIP"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>0f82ffbd-e7d3-4a46-8924-b42e0ced1086</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Cambridge</p><p>physical-location-postalcode</p><p>N1R 1V7</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>208816</p><p>true</p><p>Pharmacies</p><p>Location/e54f04ff-2dbd-4224-96d9-a2294d54c981</p><p>Location</p><p>Pharmacy on Main</p><p>Compounding pharmacy&lt;ul&gt;&lt;li&gt;treatment and prescription of medications for common medical ailments, \nincluding rashes, pink eye, insect bites, acne, and urinary tract \ninfections&lt;/li&gt;&lt;li&gt;medication placed in blister packs (sealed, push-through packaging used to separate doses) &lt;/li&gt;&lt;li&gt;pharmacist available for diabetes management consultations&lt;/li&gt;&lt;li&gt; free seasonal flu vaccines by appointment&lt;/li&gt;&lt;li&gt;free delivery for prescriptions&lt;/li&gt;&lt;li&gt;basic home health care supplies&lt;/li&gt;&lt;li&gt;walk-in telemedicine clinic&lt;br&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;b&gt;MedsCheck&lt;/b&gt; - Appointments to review complex prescriptions with a pharmacist&lt;br&gt;&lt;br&gt;&lt;b&gt;Sharps Disposal Program&lt;/b&gt; - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips&lt;br&gt;&lt;br&gt;&lt;b&gt;Medications Return Program&lt;/b&gt; - Safe disposal of expired or unused medications, creams, and inhalers</p><p>Location/6d36d4f8-b1f8-4545-8cf6-20886d407ffe</p><p>Location</p><p>Dispensing fee plus medication costs * prescribed medications may be covered by OHIP</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>ara</p><p>Arabic</p></div>",
+    "eligibility": [],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English",
+      "Arabic"
+    ],
+    "referralMethod": [],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-624-6700"
+          },
+          {
+            "fax": "519-624-7172"
+          },
+          {
+            "email": "onmainpharmacy@gmail.com"
+          },
+          {
+            "url": "www.pharmacyonmain.ca/"
+          }
+        ],
+        "address": {
+          "line": [
+            "76 Main St"
+          ],
+          "city": "Cambridge",
+          "state": "ON",
+          "postalCode": "N1R 1V7"
+        },
+        "position": {
+          "longitude": -80.3132,
+          "latitude": 43.359
+        }
+      }
+    ],
+    "contact_info": "phone: 519-624-6700, fax: 519-624-7172, email: onmainpharmacy@gmail.com, url: www.pharmacyonmain.ca/",
+    "description_of_this": "Compounding pharmacy<ul><li>treatment and prescription of medications for common medical ailments, \nincluding rashes, pink eye, insect bites, acne, and urinary tract \ninfections</li><li>medication placed in blister packs (sealed, push-through packaging used to separate doses) </li><li>pharmacist available for diabetes management consultations</li><li> free seasonal flu vaccines by appointment</li><li>free delivery for prescriptions</li><li>basic home health care supplies</li><li>walk-in telemedicine clinic<br><br></li></ul><b>MedsCheck</b> - Appointments to review complex prescriptions with a pharmacist<br><br><b>Sharps Disposal Program</b> - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips<br><br><b>Medications Return Program</b> - Safe disposal of expired or unused medications, creams, and inhalers, Codes: Dispensing fee plus medication costs * prescribed medications may be covered by OHIP, Features: Wheelchair Accessible, Languages: English, Arabic, Address: 76 Main St, Cambridge, ON, N1R 1V7, Location: lat: 43.359, lon: -80.3132"
+  }
+]

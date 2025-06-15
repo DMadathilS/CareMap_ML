@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Generation Fertility",
+    "active": true,
+    "category": [
+      "Fertility Clinics"
+    ],
+    "comment": "Medical fertility treatments and care * diagnostic testing<br><ul><li>artificial insemination</li><li>intra-uterine insemination</li><li>in-vitro-fertilization</li><li>fertility preservation</li><li>ovarian stimulation</li><li>consultations</li><li>reproductive counselling</li></ul>",
+    "serviceProvisionCode": [
+      "Fee for services * OHIP may cover some of the services * third-party insurance may cover some of the services"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>c359ad32-18f0-405f-be80-fc03d0e5b93a</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Waterloo</p><p>physical-location-postalcode</p><p>N2T 0C2</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>162347</p><p>true</p><p>Fertility Clinics</p><p>Location/fe5d0e5a-3de9-4593-b540-195950680ca8</p><p>Location</p><p>Generation Fertility</p><p>Medical fertility treatments and care * diagnostic testing&lt;br&gt;&lt;ul&gt;&lt;li&gt;artificial insemination&lt;/li&gt;&lt;li&gt;intra-uterine insemination&lt;/li&gt;&lt;li&gt;in-vitro-fertilization&lt;/li&gt;&lt;li&gt;fertility preservation&lt;/li&gt;&lt;li&gt;ovarian stimulation&lt;/li&gt;&lt;li&gt;consultations&lt;/li&gt;&lt;li&gt;reproductive counselling&lt;/li&gt;&lt;/ul&gt;</p><p>Location/e24318e8-0172-408a-9eaa-bf6eb7c3875e</p><p>Location</p><p>Fee for services * OHIP may cover some of the services * third-party insurance may cover some of the services</p><p>People and couples requiring fertility assistance</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>Medical referral required</p></div>",
+    "eligibility": [
+      "People and couples requiring fertility assistance"
+    ],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [
+      "Medical referral required"
+    ],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-570-0090"
+          },
+          {
+            "fax": "519-570-3202"
+          },
+          {
+            "email": "kw.info@generationfertility.ca"
+          },
+          {
+            "url": "www.generationfertility.ca/"
+          }
+        ],
+        "address": {
+          "line": [
+            "435 The Boardwalk, Suite 508"
+          ],
+          "city": "Waterloo",
+          "state": "ON",
+          "postalCode": "N2T 0C2"
+        },
+        "position": {
+          "longitude": -80.511198,
+          "latitude": 43.457727
+        }
+      }
+    ],
+    "contact_info": "phone: 519-570-0090, fax: 519-570-3202, email: kw.info@generationfertility.ca, url: www.generationfertility.ca/",
+    "description_of_this": "Medical fertility treatments and care * diagnostic testing<br><ul><li>artificial insemination</li><li>intra-uterine insemination</li><li>in-vitro-fertilization</li><li>fertility preservation</li><li>ovarian stimulation</li><li>consultations</li><li>reproductive counselling</li></ul>, Codes: Fee for services * OHIP may cover some of the services * third-party insurance may cover some of the services, Features: Wheelchair Accessible, Languages: English, Referral: Medical referral required, Address: 435 The Boardwalk, Suite 508, Waterloo, ON, N2T 0C2, Location: lat: 43.457727, lon: -80.511198, Contact: phone: 519-570-0090, fax: 519-570-3202, email: kw.info@generationfertility.ca, url: www.generationfertility.ca/"
+  }
+]

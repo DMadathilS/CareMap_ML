@@ -1,0 +1,55 @@
+[
+  {
+    "name": "Village of Riverside Glen (The) - Long Term Care",
+    "active": true,
+    "category": [
+      "Long-Term Care Homes"
+    ],
+    "comment": "192-bed long-term care home * residential care for private rooms, semi-private rooms, and basic rooms * 24-hour nursing and personal care * access to a doctor and other health professionals<br><ul><li>bedding and furniture</li><li>laundry and housekeeping</li><li>meals</li><li>personal hygiene supplies</li><li>medical supplies and equipment (such as catheters, ostomy bags, or wound care supplies) </li><li>assistance with medication and activities of daily living</li><li>recreation and social programs<br><br></li></ul>Additional services and facilities:<br><ul><li>dental care</li><li>foot care</li><li>hair dressing</li><li>spiritual care</li><li>physiotherapy</li></ul>",
+    "serviceProvisionCode": [
+      "Rates set by the Ontario Ministry of Long-Term Care * subsidies for basic rates may be available for eligible applicants"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>6ff3a0b9-fbde-4f28-ab23-96e112f7ac74</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Guelph</p><p>physical-location-postalcode</p><p>N1H 8M8</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>102827</p><p>true</p><p>Long-Term Care Homes</p><p>Location/543277e3-94b0-4e13-9d08-8eec1e488eea</p><p>Location</p><p>Village of Riverside Glen (The) - Long Term Care</p><p>192-bed long-term care home * residential care for private rooms, semi-private rooms, and basic rooms * 24-hour nursing and personal care * access to a doctor and other health professionals&lt;br&gt;&lt;ul&gt;&lt;li&gt;bedding and furniture&lt;/li&gt;&lt;li&gt;laundry and housekeeping&lt;/li&gt;&lt;li&gt;meals&lt;/li&gt;&lt;li&gt;personal hygiene supplies&lt;/li&gt;&lt;li&gt;medical supplies and equipment (such as catheters, ostomy bags, or wound care supplies) &lt;/li&gt;&lt;li&gt;assistance with medication and activities of daily living&lt;/li&gt;&lt;li&gt;recreation and social programs&lt;br&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;Additional services and facilities:&lt;br&gt;&lt;ul&gt;&lt;li&gt;dental care&lt;/li&gt;&lt;li&gt;foot care&lt;/li&gt;&lt;li&gt;hair dressing&lt;/li&gt;&lt;li&gt;spiritual care&lt;/li&gt;&lt;li&gt;physiotherapy&lt;/li&gt;&lt;/ul&gt;</p><p>Location/303d910b-7e64-447f-aeeb-31ad77680e0f</p><p>Location</p><p>Rates set by the Ontario Ministry of Long-Term Care * subsidies for basic rates may be available for eligible applicants</p><p>Adults who need long-term care * care coordinators assess the needs of applicants</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>Contact Ontario Health atHome Waterloo-Wellington</p></div>",
+    "eligibility": [
+      "Adults who need long-term care * care coordinators assess the needs of applicants"
+    ],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [
+      "Contact Ontario Health atHome Waterloo-Wellington"
+    ],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-822-5272"
+          },
+          {
+            "fax": "519-822-5520"
+          },
+          {
+            "url": "schlegelvillages.com/riverside-glen-guelph"
+          }
+        ],
+        "address": {
+          "line": [
+            "60 Woodlawn Rd E"
+          ],
+          "city": "Guelph",
+          "state": "ON",
+          "postalCode": "N1H 8M8"
+        },
+        "position": {
+          "longitude": -80.272808,
+          "latitude": 43.568737
+        }
+      }
+    ],
+    "contact_info": "phone: 519-822-5272, fax: 519-822-5520, url: schlegelvillages.com/riverside-glen-guelph",
+    "description_of_this": "192-bed long-term care home * residential care for private rooms, semi-private rooms, and basic rooms * 24-hour nursing and personal care * access to a doctor and other health professionals<br><ul><li>bedding and furniture</li><li>laundry and housekeeping</li><li>meals</li><li>personal hygiene supplies</li><li>medical supplies and equipment (such as catheters, ostomy bags, or wound care supplies) </li><li>assistance with medication and activities of daily living</li><li>recreation and social programs<br><br></li></ul>Additional services and facilities:<br><ul><li>dental care</li><li>foot care</li><li>hair dressing</li><li>spiritual care</li><li>physiotherapy</li></ul>, Codes: Rates set by the Ontario Ministry of Long-Term Care * subsidies for basic rates may be available for eligible applicants, Features: Wheelchair Accessible, Languages: English, Referral: Contact Ontario Health atHome Waterloo-Wellington, Address: 60 Woodlawn Rd E, Guelph, ON, N1H 8M8, Location: lat: 43.568737, lon: -80.272808"
+  }
+]

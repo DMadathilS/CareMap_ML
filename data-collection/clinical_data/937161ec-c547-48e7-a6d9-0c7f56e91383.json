@@ -1,0 +1,54 @@
+[
+  {
+    "name": "Sobeys Pharmacy - Waterloo - Columbia St W",
+    "active": true,
+    "category": [
+      "Pharmacies"
+    ],
+    "comment": "General pharmacy<ul><li> treatment and prescription of medications for common medical \nailments, including rashes, pink eye, insect bites, acne, and urinary \ntract infections<br></li><li> prescription of COVID-19 antiviral treatment (Paxlovid)</li><li>pharmacist available for diabetes management consultations</li><li>free seasonal flu vaccines</li><li>basic home health care supplies</li><li>medication placed in blister packs (sealed, push-through packaging used to separate doses) at no extra cost</li><li>basic compounding<br><br></li></ul><b>Pharmacy Smoking Cessation Program</b> - Help to quit smoking, available for Ontario Drug Benefit recipients <br><br><b>MedsCheck</b> - Appointments to review complex prescriptions with a pharmacist<br><br><b>Sharps Disposal Program</b> - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips <br><br>Located in grocery store",
+    "serviceProvisionCode": [
+      "Dispensing fee plus medication costs * prescribed medications may be covered by OHIP"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>937161ec-c547-48e7-a6d9-0c7f56e91383</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Waterloo</p><p>physical-location-postalcode</p><p>N2T 2W1</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>209203</p><p>true</p><p>Pharmacies</p><p>Location/8377c0e5-1ab4-46c1-a181-3dcabc4f52a3</p><p>Location</p><p>Sobeys Pharmacy - Waterloo - Columbia St W</p><p>General pharmacy&lt;ul&gt;&lt;li&gt; treatment and prescription of medications for common medical \nailments, including rashes, pink eye, insect bites, acne, and urinary \ntract infections&lt;br&gt;&lt;/li&gt;&lt;li&gt; prescription of COVID-19 antiviral treatment (Paxlovid)&lt;/li&gt;&lt;li&gt;pharmacist available for diabetes management consultations&lt;/li&gt;&lt;li&gt;free seasonal flu vaccines&lt;/li&gt;&lt;li&gt;basic home health care supplies&lt;/li&gt;&lt;li&gt;medication placed in blister packs (sealed, push-through packaging used to separate doses) at no extra cost&lt;/li&gt;&lt;li&gt;basic compounding&lt;br&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;b&gt;Pharmacy Smoking Cessation Program&lt;/b&gt; - Help to quit smoking, available for Ontario Drug Benefit recipients &lt;br&gt;&lt;br&gt;&lt;b&gt;MedsCheck&lt;/b&gt; - Appointments to review complex prescriptions with a pharmacist&lt;br&gt;&lt;br&gt;&lt;b&gt;Sharps Disposal Program&lt;/b&gt; - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips &lt;br&gt;&lt;br&gt;Located in grocery store</p><p>Location/78d01cff-e1cf-44e5-997c-688cb4f4f855</p><p>Location</p><p>Dispensing fee plus medication costs * prescribed medications may be covered by OHIP</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p></div>",
+    "eligibility": [],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-880-9145"
+          },
+          {
+            "fax": "519-880-9151"
+          },
+          {
+            "email": "rx7218@sobeys.com"
+          },
+          {
+            "url": "www.360healthpharmacy.ca/store-locator/sobeys-columbia-sobeys-748"
+          }
+        ],
+        "address": {
+          "line": [
+            "450 Columbia St W"
+          ],
+          "city": "Waterloo",
+          "state": "ON",
+          "postalCode": "N2T 2W1"
+        },
+        "position": {
+          "longitude": -80.5684,
+          "latitude": 43.4674
+        }
+      }
+    ],
+    "contact_info": "phone: 519-880-9145, fax: 519-880-9151, email: rx7218@sobeys.com, url: www.360healthpharmacy.ca/store-locator/sobeys-columbia-sobeys-748",
+    "description_of_this": "General pharmacy<ul><li> treatment and prescription of medications for common medical \nailments, including rashes, pink eye, insect bites, acne, and urinary \ntract infections<br></li><li> prescription of COVID-19 antiviral treatment (Paxlovid)</li><li>pharmacist available for diabetes management consultations</li><li>free seasonal flu vaccines</li><li>basic home health care supplies</li><li>medication placed in blister packs (sealed, push-through packaging used to separate doses) at no extra cost</li><li>basic compounding<br><br></li></ul><b>Pharmacy Smoking Cessation Program</b> - Help to quit smoking, available for Ontario Drug Benefit recipients <br><br><b>MedsCheck</b> - Appointments to review complex prescriptions with a pharmacist<br><br><b>Sharps Disposal Program</b> - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips <br><br>Located in grocery store, Codes: Dispensing fee plus medication costs * prescribed medications may be covered by OHIP, Features: Wheelchair Accessible, Languages: English, Address: 450 Columbia St W, Waterloo, ON, N2T 2W1, Location: lat: 43.4674, lon: -80.5684"
+  }
+]

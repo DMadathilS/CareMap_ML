@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Waterloo Region - Community Services",
+    "active": true,
+    "category": [
+      "Adult Day Programs"
+    ],
+    "comment": "Adult day program * social, recreational, and therapeutic activities for people with Alzheimer's disease and other related \ndementia in a group setting for part of the day * helps to support family caregivers who provide day-to-day care<br><ul><li>meals</li><li>Lunch Club Wed</li><li>Overnight Stay Program<br></li></ul>",
+    "serviceProvisionCode": [
+      "$20 per day * subsidy available for eligible participants<br>Overnight program: $43.34 per night * subsidy available for eligible participants"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>0280f2ea-a0ab-4454-a8ff-7a7506771703</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Kitchener</p><p>physical-location-postalcode</p><p>N2A 1Y5</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>208419</p><p>true</p><p>Adult Day Programs</p><p>Location/1905fe17-c3a6-4b2e-be92-ecc6eaf6e03f</p><p>Location</p><p>Waterloo Region - Community Services</p><p>Adult day program * social, recreational, and therapeutic activities for people with Alzheimer's disease and other related \ndementia in a group setting for part of the day * helps to support family caregivers who provide day-to-day care&lt;br&gt;&lt;ul&gt;&lt;li&gt;meals&lt;/li&gt;&lt;li&gt;Lunch Club Wed&lt;/li&gt;&lt;li&gt;Overnight Stay Program&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;</p><p>Location/11c0919e-20a5-4a4d-9b65-0dc605d5ecd0</p><p>Location</p><p>$20 per day * subsidy available for eligible participants&lt;br&gt;Overnight program: $43.34 per night * subsidy available for eligible participants</p><p>People with Alzheimer's Disease or related dementias * care coordinators assess the needs of applicants</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>Contact Ontario Health atHome Waterloo-Wellington</p></div>",
+    "eligibility": [
+      "People with Alzheimer's Disease or related dementias * care coordinators assess the needs of applicants"
+    ],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [
+      "Contact Ontario Health atHome Waterloo-Wellington"
+    ],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-893-8494 ext 6307 or ext 6289"
+          },
+          {
+            "fax": "519-893-1036"
+          },
+          {
+            "url": "www.regionofwaterloo.ca/en/health-and-wellness/dementia-services.aspx"
+          }
+        ],
+        "address": {
+          "line": [
+            "Sunnyside Campus",
+            "247 Franklin St N"
+          ],
+          "city": "Kitchener",
+          "state": "ON",
+          "postalCode": "N2A 1Y5"
+        },
+        "position": {
+          "longitude": -80.5326,
+          "latitude": 43.4643
+        }
+      }
+    ],
+    "contact_info": "phone: 519-893-8494 ext 6307 or ext 6289, fax: 519-893-1036, url: www.regionofwaterloo.ca/en/health-and-wellness/dementia-services.aspx",
+    "description_of_this": "Adult day program * social, recreational, and therapeutic activities for people with Alzheimer's disease and other related \ndementia in a group setting for part of the day * helps to support family caregivers who provide day-to-day care<br><ul><li>meals</li><li>Lunch Club Wed</li><li>Overnight Stay Program<br></li></ul>, Codes: $20 per day * subsidy available for eligible participants<br>Overnight program: $43.34 per night * subsidy available for eligible participants, Features: Wheelchair Accessible, Languages: English, Referral: Contact Ontario Health atHome Waterloo-Wellington, Address: Sunnyside Campus, 247 Franklin St N, Kitchener, ON, N2A 1Y5, Location: lat: 43.4643, lon: -80.5326"
+  }
+]

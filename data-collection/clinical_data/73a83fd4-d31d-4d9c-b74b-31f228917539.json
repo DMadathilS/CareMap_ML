@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Beveridge and Brown Clinic Pharmacy",
+    "active": true,
+    "category": [
+      "Pharmacies"
+    ],
+    "comment": "Compounding pharmacy<ul><li>treatment and prescription of medications for common medical ailments, including rashes, pink eye, insect bites, acne, and urinary tract infections</li><li>prescription of COVID-19 antiviral treatment (Paxlovid)</li><li>medication placed in pill organizers (containers for storing scheduled doses) at no extra cost\n </li><li> medication placed in blister packs (sealed, push-through packaging used to separate doses) at no extra cost</li><li> pharmacist available for diabetes management consultations</li><li>basic home health care supplies</li><li>free delivery for prescriptions <br></li></ul><br><b>MedsCheck</b> - Appointments to review complex prescriptions with a pharmacist<br><br><b>Medications Return Program</b> - Safe disposal of expired or unused medications, creams, and inhalers <br><br><b>Sharps Disposal Program</b> - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips",
+    "serviceProvisionCode": [
+      "Dispensing fee plus medication costs * prescribed medications may be covered by OHIP"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>73a83fd4-d31d-4d9c-b74b-31f228917539</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Cambridge</p><p>physical-location-postalcode</p><p>N1R 3H7</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>208575</p><p>true</p><p>Pharmacies</p><p>Location/0503c6ab-fb3b-43e2-84d1-f1b7657f5e57</p><p>Location</p><p>Beveridge and Brown Clinic Pharmacy</p><p>Compounding pharmacy&lt;ul&gt;&lt;li&gt;treatment and prescription of medications for common medical ailments, including rashes, pink eye, insect bites, acne, and urinary tract infections&lt;/li&gt;&lt;li&gt;prescription of COVID-19 antiviral treatment (Paxlovid)&lt;/li&gt;&lt;li&gt;medication placed in pill organizers (containers for storing scheduled doses) at no extra cost\n &lt;/li&gt;&lt;li&gt; medication placed in blister packs (sealed, push-through packaging used to separate doses) at no extra cost&lt;/li&gt;&lt;li&gt; pharmacist available for diabetes management consultations&lt;/li&gt;&lt;li&gt;basic home health care supplies&lt;/li&gt;&lt;li&gt;free delivery for prescriptions &lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;b&gt;MedsCheck&lt;/b&gt; - Appointments to review complex prescriptions with a pharmacist&lt;br&gt;&lt;br&gt;&lt;b&gt;Medications Return Program&lt;/b&gt; - Safe disposal of expired or unused medications, creams, and inhalers &lt;br&gt;&lt;br&gt;&lt;b&gt;Sharps Disposal Program&lt;/b&gt; - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips</p><p>Location/dabf548f-617c-4983-9ede-34cc6810fc85</p><p>Location</p><p>Dispensing fee plus medication costs * prescribed medications may be covered by OHIP</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>ara</p><p>Arabic</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>por</p><p>Portuguese</p></div>",
+    "eligibility": [],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English",
+      "Arabic",
+      "Portuguese"
+    ],
+    "referralMethod": [],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-623-4116"
+          },
+          {
+            "fax": "519-623-1747"
+          },
+          {
+            "email": "beveridge.pharmacy@gmail.com"
+          },
+          {
+            "url": "beveridgeandbrownpharmacy.com/"
+          }
+        ],
+        "address": {
+          "line": [
+            "167 Hespeler Rd"
+          ],
+          "city": "Cambridge",
+          "state": "ON",
+          "postalCode": "N1R 3H7"
+        },
+        "position": {
+          "longitude": -80.3194,
+          "latitude": 43.3814
+        }
+      }
+    ],
+    "contact_info": "phone: 519-623-4116, fax: 519-623-1747, email: beveridge.pharmacy@gmail.com, url: beveridgeandbrownpharmacy.com/",
+    "description_of_this": "Compounding pharmacy<ul><li>treatment and prescription of medications for common medical ailments, including rashes, pink eye, insect bites, acne, and urinary tract infections</li><li>prescription of COVID-19 antiviral treatment (Paxlovid)</li><li>medication placed in pill organizers (containers for storing scheduled doses) at no extra cost\n </li><li> medication placed in blister packs (sealed, push-through packaging used to separate doses) at no extra cost</li><li> pharmacist available for diabetes management consultations</li><li>basic home health care supplies</li><li>free delivery for prescriptions <br></li></ul><br><b>MedsCheck</b> - Appointments to review complex prescriptions with a pharmacist<br><br><b>Medications Return Program</b> - Safe disposal of expired or unused medications, creams, and inhalers <br><br><b>Sharps Disposal Program</b> - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips, Codes: Dispensing fee plus medication costs * prescribed medications may be covered by OHIP, Features: Wheelchair Accessible, Languages: English, Arabic, Portuguese, Address: 167 Hespeler Rd, Cambridge, ON, N1R 3H7, Location: lat: 43.3814, lon: -80.3194"
+  }
+]

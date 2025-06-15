@@ -1,0 +1,61 @@
+[
+  {
+    "name": "Arkell Walk-in Medical Clinic",
+    "active": true,
+    "category": [
+      "Walk-In Medical Clinics"
+    ],
+    "comment": "Walk-in medical clinic * doctors and nurses assess and treat minor illnesses and injuries",
+    "serviceProvisionCode": [
+      "Most services covered by OHIP"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>e01b2859-e0c3-40d3-9047-09742cf2eb9b</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Guelph</p><p>physical-location-postalcode</p><p>N1L 1E5</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>167541</p><p>true</p><p>Walk-In Medical Clinics</p><p>Location/a4917974-2259-4151-8e87-763481cde0a0</p><p>Location</p><p>Arkell Walk-in Medical Clinic</p><p>Walk-in medical clinic * doctors and nurses assess and treat minor illnesses and injuries</p><p>Location/3a4cfa3a-b391-4d7f-b65a-f70d457cd7af</p><p>Location</p><p>Most services covered by OHIP</p><p>People who need medical care for minor illnesses and injuries</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>Call or visit * no referral required</p></div>",
+    "eligibility": [
+      "People who need medical care for minor illnesses and injuries"
+    ],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [
+      "Call or visit * no referral required"
+    ],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-822-7831"
+          },
+          {
+            "phone": "Call <b>911</b> in emergencies"
+          },
+          {
+            "fax": "226-299-0503"
+          },
+          {
+            "email": "clinic@arkellmedical.ca"
+          },
+          {
+            "url": "www.guelphfht.com/clinics/arkell-medical-centre/"
+          }
+        ],
+        "address": {
+          "line": [
+            "403 Arkell Rd, Unit 4"
+          ],
+          "city": "Guelph",
+          "state": "ON",
+          "postalCode": "N1L 1E5"
+        },
+        "position": {
+          "longitude": -80.185532,
+          "latitude": 43.523611
+        }
+      }
+    ],
+    "contact_info": "phone: 519-822-7831, phone: Call <b>911</b> in emergencies, fax: 226-299-0503, email: clinic@arkellmedical.ca, url: www.guelphfht.com/clinics/arkell-medical-centre/",
+    "description_of_this": "Walk-in medical clinic * doctors and nurses assess and treat minor illnesses and injuries, Codes: Most services covered by OHIP, Features: Wheelchair Accessible, Languages: English, Referral: Call or visit * no referral required, Address: 403 Arkell Rd, Unit 4, Guelph, ON, N1L 1E5, Location: lat: 43.523611, lon: -80.185532, Contact: phone: 519-822-7831, phone: Call <b>911</b> in emergencies, fax: 226-299-0503, email: clinic@arkellmedical.ca, url: www.guelphfht.com/clinics/arkell-medical-centre/"
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "name": "IDA Pharmacy - Waterloo - Erb St",
+    "active": true,
+    "category": [
+      "Pharmacies"
+    ],
+    "comment": "General pharmacy<ul><li>treatment and prescription of medications for common medical ailments, including rashes, pink eye, insect bites, acne, and urinary tract infections</li><li>prescription of COVID-19 antiviral treatment (Paxlovid)</li><li>medication placed in blister packs (sealed, push-through packaging used to separate doses)</li><li>free delivery for prescriptions</li><li>pharmacist available for diabetes management consultations</li><li>blood pressure monitoring</li><li>medication compounding</li><li>naloxone kits and training</li><li>basic home health care supplies</li><li>free seasonal flu vaccines</li></ul><br><b>MedsCheck</b> - Appointments to review complex prescriptions with a pharmacist<br><br><b>Pharmacy Smoking Cessation Program</b> - Help to quit smoking, available for Ontario Drug Benefit recipients",
+    "serviceProvisionCode": [
+      "Dispensing fee plus medication costs * prescribed medications may be covered by OHIP"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>97f6b6f6-d9a5-47d7-8598-8207b0c760f3</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Waterloo</p><p>physical-location-postalcode</p><p>N2L 1W4</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>202393</p><p>true</p><p>Pharmacies</p><p>Location/b9390432-e91b-4c3f-a4cb-5c597f9067fc</p><p>Location</p><p>IDA Pharmacy - Waterloo - Erb St</p><p>General pharmacy&lt;ul&gt;&lt;li&gt;treatment and prescription of medications for common medical ailments, including rashes, pink eye, insect bites, acne, and urinary tract infections&lt;/li&gt;&lt;li&gt;prescription of COVID-19 antiviral treatment (Paxlovid)&lt;/li&gt;&lt;li&gt;medication placed in blister packs (sealed, push-through packaging used to separate doses)&lt;/li&gt;&lt;li&gt;free delivery for prescriptions&lt;/li&gt;&lt;li&gt;pharmacist available for diabetes management consultations&lt;/li&gt;&lt;li&gt;blood pressure monitoring&lt;/li&gt;&lt;li&gt;medication compounding&lt;/li&gt;&lt;li&gt;naloxone kits and training&lt;/li&gt;&lt;li&gt;basic home health care supplies&lt;/li&gt;&lt;li&gt;free seasonal flu vaccines&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;b&gt;MedsCheck&lt;/b&gt; - Appointments to review complex prescriptions with a pharmacist&lt;br&gt;&lt;br&gt;&lt;b&gt;Pharmacy Smoking Cessation Program&lt;/b&gt; - Help to quit smoking, available for Ontario Drug Benefit recipients</p><p>Location/fa456889-1691-4f57-acf2-a23cfe9fcfe1</p><p>Location</p><p>Dispensing fee plus medication costs * prescribed medications may be covered by OHIP</p><p>Not Applicable</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p></div>",
+    "eligibility": [],
+    "characteristic": [
+      "Not Applicable"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-208-1133"
+          },
+          {
+            "fax": "519-208-1266"
+          },
+          {
+            "url": "www.guardian-ida-remedysrx.ca/en/ontario/waterloo/erb-st-ida-pharmacy-7029090"
+          }
+        ],
+        "address": {
+          "line": [
+            "347 Erb St W, Unit 6"
+          ],
+          "city": "Waterloo",
+          "state": "ON",
+          "postalCode": "N2L 1W4"
+        },
+        "position": {
+          "longitude": -80.5534,
+          "latitude": 43.4533
+        }
+      }
+    ],
+    "contact_info": "phone: 519-208-1133, fax: 519-208-1266, url: www.guardian-ida-remedysrx.ca/en/ontario/waterloo/erb-st-ida-pharmacy-7029090",
+    "description_of_this": "General pharmacy<ul><li>treatment and prescription of medications for common medical ailments, including rashes, pink eye, insect bites, acne, and urinary tract infections</li><li>prescription of COVID-19 antiviral treatment (Paxlovid)</li><li>medication placed in blister packs (sealed, push-through packaging used to separate doses)</li><li>free delivery for prescriptions</li><li>pharmacist available for diabetes management consultations</li><li>blood pressure monitoring</li><li>medication compounding</li><li>naloxone kits and training</li><li>basic home health care supplies</li><li>free seasonal flu vaccines</li></ul><br><b>MedsCheck</b> - Appointments to review complex prescriptions with a pharmacist<br><br><b>Pharmacy Smoking Cessation Program</b> - Help to quit smoking, available for Ontario Drug Benefit recipients, Codes: Dispensing fee plus medication costs * prescribed medications may be covered by OHIP, Features: Not Applicable, Languages: English, Address: 347 Erb St W, Unit 6, Waterloo, ON, N2L 1W4, Location: lat: 43.4533, lon: -80.5534"
+  }
+]

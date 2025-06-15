@@ -1,0 +1,61 @@
+[
+  {
+    "name": "Waterloo Region - Public Health and Emergency Services",
+    "active": true,
+    "category": [
+      "Immunization Clinics"
+    ],
+    "comment": "Immunization clinic * vaccination against common infectious diseases\n<br>\n<br>General information and counselling to discuss vaccines * immunization records are reviewed to determine vaccination needs",
+    "serviceProvisionCode": [
+      "Free"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>77e82a0e-9a6b-4a8d-8978-a57db16d4041</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Waterloo</p><p>physical-location-postalcode</p><p>N2J 4V3</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>103004</p><p>true</p><p>Immunization Clinics</p><p>Location/27a1321b-2742-4564-9ea5-0ab9218cbe3d</p><p>Location</p><p>Waterloo Region - Public Health and Emergency Services</p><p>Immunization clinic * vaccination against common infectious diseases\n&lt;br&gt;\n&lt;br&gt;General information and counselling to discuss vaccines * immunization records are reviewed to determine vaccination needs</p><p>Location/9e423a77-e0f7-45dd-bfaf-2f263554c7cf</p><p>Location</p><p>Free</p><p>People with routine immunization needs and those without family physicians</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>Appointment required</p></div>",
+    "eligibility": [
+      "People with routine immunization needs and those without family physicians"
+    ],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [
+      "Appointment required"
+    ],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-575-4400"
+          },
+          {
+            "phone": "519-575-4608"
+          },
+          {
+            "fax": "519-575-4481"
+          },
+          {
+            "email": "publichealth@regionofwaterloo.ca"
+          },
+          {
+            "url": "www.regionofwaterloo.ca/en/health-and-wellness/immunizations-and-vaccines.aspx"
+          }
+        ],
+        "address": {
+          "line": [
+            "99 Regina St S, 2nd Fl"
+          ],
+          "city": "Waterloo",
+          "state": "ON",
+          "postalCode": "N2J 4V3"
+        },
+        "position": {
+          "longitude": -80.5208,
+          "latitude": 43.4629
+        }
+      }
+    ],
+    "contact_info": "phone: 519-575-4400, phone: 519-575-4608, fax: 519-575-4481, email: publichealth@regionofwaterloo.ca, url: www.regionofwaterloo.ca/en/health-and-wellness/immunizations-and-vaccines.aspx",
+    "description_of_this": "Immunization clinic * vaccination against common infectious diseases\n<br>\n<br>General information and counselling to discuss vaccines * immunization records are reviewed to determine vaccination needs, Codes: Free, Features: Wheelchair Accessible, Languages: English, Referral: Appointment required, Address: 99 Regina St S, 2nd Fl, Waterloo, ON, N2J 4V3, Location: lat: 43.4629, lon: -80.5208"
+  }
+]

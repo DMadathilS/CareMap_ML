@@ -1,0 +1,56 @@
+[
+  {
+    "name": "True North Imaging - Waterloo - University Ave E (University Avenue X-Ray & Ultrasound)",
+    "active": true,
+    "category": [
+      "Diagnostic Imaging Clinics",
+      "Ontario Breast Screening Programs"
+    ],
+    "comment": "Diagnostic imaging clinic<br><br><b>Services include:</b><ul><li>ultrasound</li><li>x-ray</li><li>bone mineral density testing</li><li>mammography (breast x-rays used to screen and diagnose medical conditions<br><br></li></ul><b>Ontario Breast Screening Program</b> - Breast screening for\n early detection of breast cancer in women * screening includes \nmammography (x-rays of breast tissue) * screening results are sent to \nboth the woman and her doctor * women who receive normal results are \nautomatically recalled for their next screening appointment * women who \nreceive abnormal results are referred to their doctor for further \ninvestigation, or are referred directly for additional tests",
+    "serviceProvisionCode": [
+      "Most services covered by OHIP"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>783dfe3f-b9c8-494c-80b2-8182d0e363d5</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Waterloo</p><p>physical-location-postalcode</p><p>N2J 2V9</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>208237</p><p>true</p><p>Diagnostic Imaging Clinics</p><p>Ontario Breast Screening Programs</p><p>Location/29f2a48e-26d0-4fed-954a-f0eb96d1cd39</p><p>Location</p><p>True North Imaging - Waterloo - University Ave E (University Avenue X-Ray &amp; Ultrasound)</p><p>Diagnostic imaging clinic&lt;br&gt;&lt;br&gt;&lt;b&gt;Services include:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;ultrasound&lt;/li&gt;&lt;li&gt;x-ray&lt;/li&gt;&lt;li&gt;bone mineral density testing&lt;/li&gt;&lt;li&gt;mammography (breast x-rays used to screen and diagnose medical conditions&lt;br&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;b&gt;Ontario Breast Screening Program&lt;/b&gt; - Breast screening for\n early detection of breast cancer in women * screening includes \nmammography (x-rays of breast tissue) * screening results are sent to \nboth the woman and her doctor * women who receive normal results are \nautomatically recalled for their next screening appointment * women who \nreceive abnormal results are referred to their doctor for further \ninvestigation, or are referred directly for additional tests</p><p>Location/b15c33a4-224e-423c-af32-04388941a42f</p><p>Location</p><p>Most services covered by OHIP</p><p>&lt;b&gt;Ontario Breast Screening Program: &lt;/b&gt;Women 50-74 years, and women 30-69 years identified as having a high-risk</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>Medical referral required&lt;br&gt;&lt;b&gt;Ontario Breast Screening Program: &lt;/b&gt;Call for appointment * no referral required for women between 50 and 74 years * medical referrals also accepted for women between 30 and 69 years</p></div>",
+    "eligibility": [
+      "<b>Ontario Breast Screening Program: </b>Women 50-74 years, and women 30-69 years identified as having a high-risk"
+    ],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [
+      "Medical referral required<br><b>Ontario Breast Screening Program: </b>Call for appointment * no referral required for women between 50 and 74 years * medical referrals also accepted for women between 30 and 69 years"
+    ],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-746-3457"
+          },
+          {
+            "fax": "519-886-8212"
+          },
+          {
+            "url": "truenorthimaging.com/"
+          }
+        ],
+        "address": {
+          "line": [
+            "65 University Ave E"
+          ],
+          "city": "Waterloo",
+          "state": "ON",
+          "postalCode": "N2J 2V9"
+        },
+        "position": {
+          "longitude": -80.5215,
+          "latitude": 43.477
+        }
+      }
+    ],
+    "contact_info": "phone: 519-746-3457, fax: 519-886-8212, url: truenorthimaging.com/",
+    "description_of_this": "Diagnostic imaging clinic<br><br><b>Services include:</b><ul><li>ultrasound</li><li>x-ray</li><li>bone mineral density testing</li><li>mammography (breast x-rays used to screen and diagnose medical conditions<br><br></li></ul><b>Ontario Breast Screening Program</b> - Breast screening for\n early detection of breast cancer in women * screening includes \nmammography (x-rays of breast tissue) * screening results are sent to \nboth the woman and her doctor * women who receive normal results are \nautomatically recalled for their next screening appointment * women who \nreceive abnormal results are referred to their doctor for further \ninvestigation, or are referred directly for additional tests, Codes: Most services covered by OHIP, Features: Wheelchair Accessible, Languages: English, Referral: Medical referral required<br><b>Ontario Breast Screening Program: </b>Call for appointment * no referral required for women between 50 and 74 years * medical referrals also accepted for women between 30 and 69 years, Address: 65 University Ave E, Waterloo, ON, N2J 2V9, Location: lat: 43.477, lon: -80.5215"
+  }
+]

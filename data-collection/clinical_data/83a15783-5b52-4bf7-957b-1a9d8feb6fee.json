@@ -1,0 +1,51 @@
+[
+  {
+    "name": "FreshCo Pharmacy - Cambridge",
+    "active": true,
+    "category": [
+      "Pharmacies"
+    ],
+    "comment": "General pharmacy<ul><li>treatment and prescription of medications for common medical ailments, including rashes, pink eye, insect bites, acne, and urinary tract infections</li><li>prescription of COVID-19 antiviral treatment (Paxlovid)</li><li>medication placed in pill organizers (containers for storing scheduled doses) at no extra cost\n </li><li>medication placed in blister packs (sealed, push-through packaging used to separate doses) at no extra cost</li><li>pharmacist available for diabetes management consultations</li><li>basic home health care supplies<br><br></li></ul><b>MedsCheck</b> - Appointments to review complex prescriptions with a pharmacist <br><br><b>Medications Return Program</b> - Safe disposal of expired or unused medications, creams, and inhalers<br><br><b>Pharmacy Smoking Cessation Program</b> - Help to quit smoking, available for Ontario Drug Benefit recipients",
+    "serviceProvisionCode": [
+      "Dispensing fee plus medication costs * prescribed medications may be covered by OHIP"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>83a15783-5b52-4bf7-957b-1a9d8feb6fee</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Cambridge</p><p>physical-location-postalcode</p><p>N1R 8L4</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>208669</p><p>true</p><p>Pharmacies</p><p>Location/cfe3cc99-294b-46f6-b43c-319a7bfa331a</p><p>Location</p><p>FreshCo Pharmacy - Cambridge</p><p>General pharmacy&lt;ul&gt;&lt;li&gt;treatment and prescription of medications for common medical ailments, including rashes, pink eye, insect bites, acne, and urinary tract infections&lt;/li&gt;&lt;li&gt;prescription of COVID-19 antiviral treatment (Paxlovid)&lt;/li&gt;&lt;li&gt;medication placed in pill organizers (containers for storing scheduled doses) at no extra cost\n &lt;/li&gt;&lt;li&gt;medication placed in blister packs (sealed, push-through packaging used to separate doses) at no extra cost&lt;/li&gt;&lt;li&gt;pharmacist available for diabetes management consultations&lt;/li&gt;&lt;li&gt;basic home health care supplies&lt;br&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;b&gt;MedsCheck&lt;/b&gt; - Appointments to review complex prescriptions with a pharmacist &lt;br&gt;&lt;br&gt;&lt;b&gt;Medications Return Program&lt;/b&gt; - Safe disposal of expired or unused medications, creams, and inhalers&lt;br&gt;&lt;br&gt;&lt;b&gt;Pharmacy Smoking Cessation Program&lt;/b&gt; - Help to quit smoking, available for Ontario Drug Benefit recipients</p><p>Location/fbd82b83-2087-48fe-900e-b317d7c9a974</p><p>Location</p><p>Dispensing fee plus medication costs * prescribed medications may be covered by OHIP</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p></div>",
+    "eligibility": [],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-620-0736"
+          },
+          {
+            "fax": "519-620-3710"
+          },
+          {
+            "url": "freshco.com/stores/freshco-hespeler-dundas/"
+          }
+        ],
+        "address": {
+          "line": [
+            "1 Hespeler Rd"
+          ],
+          "city": "Cambridge",
+          "state": "ON",
+          "postalCode": "N1R 8L4"
+        },
+        "position": {
+          "longitude": -80.318,
+          "latitude": 43.3742
+        }
+      }
+    ],
+    "contact_info": "phone: 519-620-0736, fax: 519-620-3710, url: freshco.com/stores/freshco-hespeler-dundas/",
+    "description_of_this": "General pharmacy<ul><li>treatment and prescription of medications for common medical ailments, including rashes, pink eye, insect bites, acne, and urinary tract infections</li><li>prescription of COVID-19 antiviral treatment (Paxlovid)</li><li>medication placed in pill organizers (containers for storing scheduled doses) at no extra cost\n </li><li>medication placed in blister packs (sealed, push-through packaging used to separate doses) at no extra cost</li><li>pharmacist available for diabetes management consultations</li><li>basic home health care supplies<br><br></li></ul><b>MedsCheck</b> - Appointments to review complex prescriptions with a pharmacist <br><br><b>Medications Return Program</b> - Safe disposal of expired or unused medications, creams, and inhalers<br><br><b>Pharmacy Smoking Cessation Program</b> - Help to quit smoking, available for Ontario Drug Benefit recipients, Codes: Dispensing fee plus medication costs * prescribed medications may be covered by OHIP, Features: Wheelchair Accessible, Languages: English, Address: 1 Hespeler Rd, Cambridge, ON, N1R 8L4, Location: lat: 43.3742, lon: -80.318"
+  }
+]

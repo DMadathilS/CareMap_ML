@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Greengate Medical Centre - Walk-in Clinic",
+    "active": true,
+    "category": [
+      "Cervical Cancer Screening",
+      "Walk-In Medical Clinics"
+    ],
+    "comment": "Walk-in medical clinic * doctors and nurses assess and treat minor illnesses and injuries<br><br><b>Services:</b><ul><li>cervical cancer screening (Pap smears)</li><li>pharmacy</li><li>baby wellness checks</li><li>smoking cessation counselling and management</li></ul>",
+    "serviceProvisionCode": [
+      "Most services covered by OHIP"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>c64a915d-b9cb-42f4-bd1a-3e74c5c7f6e9</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Guelph</p><p>physical-location-postalcode</p><p>N1H 7P7</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>222978</p><p>true</p><p>Cervical Cancer Screening</p><p>Walk-In Medical Clinics</p><p>Location/46518bae-5cd7-43d4-b625-46671ce8dae6</p><p>Location</p><p>Greengate Medical Centre - Walk-in Clinic</p><p>Walk-in medical clinic * doctors and nurses assess and treat minor illnesses and injuries&lt;br&gt;&lt;br&gt;&lt;b&gt;Services:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;cervical cancer screening (Pap smears)&lt;/li&gt;&lt;li&gt;pharmacy&lt;/li&gt;&lt;li&gt;baby wellness checks&lt;/li&gt;&lt;li&gt;smoking cessation counselling and management&lt;/li&gt;&lt;/ul&gt;</p><p>Location/ba9a7fc8-6249-46f7-b4fd-c647e68347cb</p><p>Location</p><p>Most services covered by OHIP</p><p>People who need medical care for minor illnesses and injuries</p><p>Not Applicable</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>Call or visit * no referral required</p></div>",
+    "eligibility": [
+      "People who need medical care for minor illnesses and injuries"
+    ],
+    "characteristic": [
+      "Not Applicable"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [
+      "Call or visit * no referral required"
+    ],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-265-8807"
+          },
+          {
+            "fax": "226-486-0172"
+          },
+          {
+            "url": "greengatemedical.ca/"
+          }
+        ],
+        "address": {
+          "line": [
+            "170 Silvercreek Pkwy N, Unit 2"
+          ],
+          "city": "Guelph",
+          "state": "ON",
+          "postalCode": "N1H 7P7"
+        },
+        "position": {
+          "longitude": -80.2828,
+          "latitude": 43.5405
+        }
+      }
+    ],
+    "contact_info": "phone: 519-265-8807, fax: 226-486-0172, url: greengatemedical.ca/",
+    "description_of_this": "Walk-in medical clinic * doctors and nurses assess and treat minor illnesses and injuries<br><br><b>Services:</b><ul><li>cervical cancer screening (Pap smears)</li><li>pharmacy</li><li>baby wellness checks</li><li>smoking cessation counselling and management</li></ul>, Codes: Most services covered by OHIP, Features: Not Applicable, Languages: English, Referral: Call or visit * no referral required, Address: 170 Silvercreek Pkwy N, Unit 2, Guelph, ON, N1H 7P7, Location: lat: 43.5405, lon: -80.2828, Contact: phone: 519-265-8807, fax: 226-486-0172, url: greengatemedical.ca/"
+  }
+]

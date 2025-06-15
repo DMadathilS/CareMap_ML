@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Main Drug Mart - Kitchener - Fairway Rd S",
+    "active": true,
+    "category": [
+      "Pharmacies"
+    ],
+    "comment": "General pharmacy<ul><li> treatment and prescription of medications for common medical \nailments, including rashes, pink eye, insect bites, acne, and urinary \ntract infections<br></li><li> prescription of COVID-19 antiviral treatment (Paxlovid)</li><li>medication placed in blister packs (sealed, push-through packaging used to separate doses)</li><li> basic home health care supplies</li><li>free seasonal flu vaccines</li></ul><br>\n<b>MedsCheck</b> - Appointments to review complex prescriptions with a pharmacist<br><br><b>Sharps Disposal Program</b> - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips<br><br><b>Medications Return Program</b> - Safe disposal of expired or unused medications, creams, and inhalers",
+    "serviceProvisionCode": [
+      "Dispensing fee plus medication costs * prescribed medications may be covered by OHIP"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>8838624a-7c1e-46ee-a182-1a95e808ecfe</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Kitchener</p><p>physical-location-postalcode</p><p>N2C 2N9</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>208763</p><p>true</p><p>Pharmacies</p><p>Location/9c74b9ea-6d78-4ce0-a88d-e62a901808be</p><p>Location</p><p>Main Drug Mart - Kitchener - Fairway Rd S</p><p>General pharmacy&lt;ul&gt;&lt;li&gt; treatment and prescription of medications for common medical \nailments, including rashes, pink eye, insect bites, acne, and urinary \ntract infections&lt;br&gt;&lt;/li&gt;&lt;li&gt; prescription of COVID-19 antiviral treatment (Paxlovid)&lt;/li&gt;&lt;li&gt;medication placed in blister packs (sealed, push-through packaging used to separate doses)&lt;/li&gt;&lt;li&gt; basic home health care supplies&lt;/li&gt;&lt;li&gt;free seasonal flu vaccines&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;\n&lt;b&gt;MedsCheck&lt;/b&gt; - Appointments to review complex prescriptions with a pharmacist&lt;br&gt;&lt;br&gt;&lt;b&gt;Sharps Disposal Program&lt;/b&gt; - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips&lt;br&gt;&lt;br&gt;&lt;b&gt;Medications Return Program&lt;/b&gt; - Safe disposal of expired or unused medications, creams, and inhalers</p><p>Location/09573531-3f6c-493c-8a53-e6c31995d07c</p><p>Location</p><p>Dispensing fee plus medication costs * prescribed medications may be covered by OHIP</p><p>Not Applicable</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>ara</p><p>Arabic</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>srp</p><p>Serbian</p></div>",
+    "eligibility": [],
+    "characteristic": [
+      "Not Applicable"
+    ],
+    "communication": [
+      "English",
+      "Arabic",
+      "Serbian"
+    ],
+    "referralMethod": [],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-894-5118"
+          },
+          {
+            "fax": "519-894-5655"
+          }
+        ],
+        "address": {
+          "line": [
+            "385 Fairway Rd S"
+          ],
+          "city": "Kitchener",
+          "state": "ON",
+          "postalCode": "N2C 2N9"
+        },
+        "position": {
+          "longitude": -80.4423,
+          "latitude": 43.4207
+        }
+      }
+    ],
+    "contact_info": "phone: 519-894-5118, fax: 519-894-5655",
+    "description_of_this": "General pharmacy<ul><li> treatment and prescription of medications for common medical \nailments, including rashes, pink eye, insect bites, acne, and urinary \ntract infections<br></li><li> prescription of COVID-19 antiviral treatment (Paxlovid)</li><li>medication placed in blister packs (sealed, push-through packaging used to separate doses)</li><li> basic home health care supplies</li><li>free seasonal flu vaccines</li></ul><br>\n<b>MedsCheck</b> - Appointments to review complex prescriptions with a pharmacist<br><br><b>Sharps Disposal Program</b> - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips<br><br><b>Medications Return Program</b> - Safe disposal of expired or unused medications, creams, and inhalers, Codes: Dispensing fee plus medication costs * prescribed medications may be covered by OHIP, Features: Not Applicable, Languages: English, Arabic, Serbian, Address: 385 Fairway Rd S, Kitchener, ON, N2C 2N9, Location: lat: 43.4207, lon: -80.4423"
+  }
+]

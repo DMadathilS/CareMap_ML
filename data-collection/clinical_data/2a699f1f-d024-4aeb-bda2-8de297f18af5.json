@@ -1,0 +1,54 @@
+[
+  {
+    "name": "Ultrascan Medical Diagnostic Imaging - New Hamburg",
+    "active": true,
+    "category": [
+      "Breast Screening Centres",
+      "Diagnostic Imaging Clinics"
+    ],
+    "comment": "Diagnostic imaging clinic<br><br><b>Services include:</b><ul><li>\n\t\tultrasound - musculoskeletal, vascular, general, and neonatal</li><li>\n\t\tbone mineral densitometry  (BMD) testing</li><li>\n\t\tmammography</li><li>\n\t\tontario breast screening program</li><li>\n\t\tx-ray - no appointments required for this service</li></ul><ul></ul>",
+    "serviceProvisionCode": [
+      "Most services covered by OHIP"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>2a699f1f-d024-4aeb-bda2-8de297f18af5</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>New Hamburg</p><p>physical-location-postalcode</p><p>N3A 1S7</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>208253</p><p>true</p><p>Breast Screening Centres</p><p>Diagnostic Imaging Clinics</p><p>Location/a11320dc-c866-4954-a765-9b4984a597ee</p><p>Location</p><p>Ultrascan Medical Diagnostic Imaging - New Hamburg</p><p>Diagnostic imaging clinic&lt;br&gt;&lt;br&gt;&lt;b&gt;Services include:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;\n\t\tultrasound - musculoskeletal, vascular, general, and neonatal&lt;/li&gt;&lt;li&gt;\n\t\tbone mineral densitometry  (BMD) testing&lt;/li&gt;&lt;li&gt;\n\t\tmammography&lt;/li&gt;&lt;li&gt;\n\t\tontario breast screening program&lt;/li&gt;&lt;li&gt;\n\t\tx-ray - no appointments required for this service&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;/ul&gt;</p><p>Location/744fa588-97af-4d21-8f2b-1cccc537c1e8</p><p>Location</p><p>Most services covered by OHIP</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>Medical referral required</p></div>",
+    "eligibility": [],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [
+      "Medical referral required"
+    ],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-390-7226"
+          },
+          {
+            "fax": "519-390-0241"
+          },
+          {
+            "url": "ultrascan.ca/"
+          }
+        ],
+        "address": {
+          "line": [
+            "338 Waterloo St"
+          ],
+          "city": "New Hamburg",
+          "state": "ON",
+          "postalCode": "N3A 1S7"
+        },
+        "position": {
+          "longitude": -80.7126,
+          "latitude": 43.3864
+        }
+      }
+    ],
+    "contact_info": "phone: 519-390-7226, fax: 519-390-0241, url: ultrascan.ca/",
+    "description_of_this": "Diagnostic imaging clinic<br><br><b>Services include:</b><ul><li>\n\t\tultrasound - musculoskeletal, vascular, general, and neonatal</li><li>\n\t\tbone mineral densitometry  (BMD) testing</li><li>\n\t\tmammography</li><li>\n\t\tontario breast screening program</li><li>\n\t\tx-ray - no appointments required for this service</li></ul><ul></ul>, Codes: Most services covered by OHIP, Features: Wheelchair Accessible, Languages: English, Referral: Medical referral required, Address: 338 Waterloo St, New Hamburg, ON, N3A 1S7, Location: lat: 43.3864, lon: -80.7126"
+  }
+]

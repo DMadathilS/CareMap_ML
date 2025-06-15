@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Sobeys Pharmacy - Paris",
+    "active": true,
+    "category": [
+      "Pharmacies"
+    ],
+    "comment": "General pharmacy<br><ul><li>treatment and prescription of medications for common medical ailments, including rashes, pink eye, insect bites, acne, and urinary tract infections</li><li>prescription of COVID-19 antiviral treatment (Paxlovid)<br></li><li>free seasonal flu vaccines</li><li>pharmacist available for diabetes management consultations</li></ul><br><b>Medications Return Program</b> - Safe disposal of expired or unused medications, creams, and inhalers<br><br><b>MedsCheck</b> - Appointments to review complex prescriptions with a pharmacist<br><br><b>Pharmacy Smoking Cessation Program</b> - Help to quit smoking, available for Ontario Drug Benefit recipients<br><b><br>Sharps Disposal Program</b> - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips<br><br>Located in a grocery store",
+    "serviceProvisionCode": [
+      "Dispensing fee plus medication costs * prescribed medications may be covered by OHIP"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>19edd31e-1bcf-4727-9c81-626ef498d66b</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Paris</p><p>physical-location-postalcode</p><p>N3L 2N9</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>182529</p><p>true</p><p>Pharmacies</p><p>Location/db5fea7c-d385-4c48-8ad8-4f9260ac8b35</p><p>Location</p><p>Sobeys Pharmacy - Paris</p><p>General pharmacy&lt;br&gt;&lt;ul&gt;&lt;li&gt;treatment and prescription of medications for common medical ailments, including rashes, pink eye, insect bites, acne, and urinary tract infections&lt;/li&gt;&lt;li&gt;prescription of COVID-19 antiviral treatment (Paxlovid)&lt;br&gt;&lt;/li&gt;&lt;li&gt;free seasonal flu vaccines&lt;/li&gt;&lt;li&gt;pharmacist available for diabetes management consultations&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;b&gt;Medications Return Program&lt;/b&gt; - Safe disposal of expired or unused medications, creams, and inhalers&lt;br&gt;&lt;br&gt;&lt;b&gt;MedsCheck&lt;/b&gt; - Appointments to review complex prescriptions with a pharmacist&lt;br&gt;&lt;br&gt;&lt;b&gt;Pharmacy Smoking Cessation Program&lt;/b&gt; - Help to quit smoking, available for Ontario Drug Benefit recipients&lt;br&gt;&lt;b&gt;&lt;br&gt;Sharps Disposal Program&lt;/b&gt; - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips&lt;br&gt;&lt;br&gt;Located in a grocery store</p><p>Location/362f448e-6e8a-4a64-8591-3a854050a796</p><p>Location</p><p>Dispensing fee plus medication costs * prescribed medications may be covered by OHIP</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>ara</p><p>Arabic</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>yue</p><p>Chinese (Cantonese)</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>cmn</p><p>Chinese (Mandarin)</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>guj</p><p>Gujarati</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>hin</p><p>Hindi</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>kor</p><p>Korean</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>pan</p><p>Punjabi</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>tgl</p><p>Tagalog</p></div>",
+    "eligibility": [],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English",
+      "Arabic",
+      "Chinese (Cantonese)",
+      "Chinese (Mandarin)",
+      "Gujarati",
+      "Hindi",
+      "Korean",
+      "Punjabi",
+      "Tagalog"
+    ],
+    "referralMethod": [],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-442-1044"
+          },
+          {
+            "fax": "519-442-5860"
+          },
+          {
+            "email": "rx7220@sobeys.com"
+          },
+          {
+            "url": "360healthpharmacy.ca/store-locator/sobeys-paris-sobeys-96688"
+          }
+        ],
+        "address": {
+          "line": [
+            "307 Grand River St N"
+          ],
+          "city": "Paris",
+          "state": "ON",
+          "postalCode": "N3L 2N9"
+        },
+        "position": {
+          "longitude": -80.3888,
+          "latitude": 43.2126
+        }
+      }
+    ],
+    "contact_info": "phone: 519-442-1044, fax: 519-442-5860, email: rx7220@sobeys.com, url: 360healthpharmacy.ca/store-locator/sobeys-paris-sobeys-96688",
+    "description_of_this": "General pharmacy<br><ul><li>treatment and prescription of medications for common medical ailments, including rashes, pink eye, insect bites, acne, and urinary tract infections</li><li>prescription of COVID-19 antiviral treatment (Paxlovid)<br></li><li>free seasonal flu vaccines</li><li>pharmacist available for diabetes management consultations</li></ul><br><b>Medications Return Program</b> - Safe disposal of expired or unused medications, creams, and inhalers<br><br><b>MedsCheck</b> - Appointments to review complex prescriptions with a pharmacist<br><br><b>Pharmacy Smoking Cessation Program</b> - Help to quit smoking, available for Ontario Drug Benefit recipients<br><b><br>Sharps Disposal Program</b> - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips<br><br>Located in a grocery store, Codes: Dispensing fee plus medication costs * prescribed medications may be covered by OHIP, Features: Wheelchair Accessible, Languages: English, Arabic, Chinese (Cantonese), Chinese (Mandarin), Gujarati, Hindi, Korean, Punjabi, Tagalog, Address: 307 Grand River St N, Paris, ON, N3L 2N9, Location: lat: 43.2126, lon: -80.3888"
+  }
+]

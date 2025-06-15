@@ -1,0 +1,52 @@
+[
+  {
+    "name": "St Joseph's Health Centre Guelph - Young Onset Dementia Program (YODA)",
+    "active": true,
+    "category": [
+      "Adult Day Programs"
+    ],
+    "comment": "Adult day program * social, recreational, and therapeutic activities for people with Alzheimer's disease and other related dementia in a group setting for part of the day * helps to support family caregivers who provide day-to-day care <br><ul><li>meals</li><li>outings <br></li><li>trivia programs <br></li><li>music and arts-based programs</li><li>fitness programs</li><li>recreational activities<br></li></ul>",
+    "serviceProvisionCode": [
+      "$12 per day"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>20e70156-3264-4e5c-a4eb-d3e15deac69a</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Guelph</p><p>physical-location-postalcode</p><p>N1H 5H8</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>209300</p><p>true</p><p>Adult Day Programs</p><p>Location/09cc6e85-19f9-491e-968b-09255fabe2f3</p><p>Location</p><p>St Joseph's Health Centre Guelph - Young Onset Dementia Program (YODA)</p><p>Adult day program * social, recreational, and therapeutic activities for people with Alzheimer's disease and other related dementia in a group setting for part of the day * helps to support family caregivers who provide day-to-day care &lt;br&gt;&lt;ul&gt;&lt;li&gt;meals&lt;/li&gt;&lt;li&gt;outings &lt;br&gt;&lt;/li&gt;&lt;li&gt;trivia programs &lt;br&gt;&lt;/li&gt;&lt;li&gt;music and arts-based programs&lt;/li&gt;&lt;li&gt;fitness programs&lt;/li&gt;&lt;li&gt;recreational activities&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;</p><p>Location/e9816a71-1d97-4069-8831-b5553f01a419</p><p>Location</p><p>$12 per day</p><p>People with Alzheimer's Disease or related dementias * care coordinators assess the needs of applicants</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>Contact Ontario Health atHome Waterloo-Wellington</p></div>",
+    "eligibility": [
+      "People with Alzheimer's Disease or related dementias * care coordinators assess the needs of applicants"
+    ],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [
+      "Contact Ontario Health atHome Waterloo-Wellington"
+    ],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-824-6000 ext 4415"
+          },
+          {
+            "url": "www.sjhcg.ca/our-programs-of-care/community-support-services/young-onset-program/"
+          }
+        ],
+        "address": {
+          "line": [
+            "100 Westmount Rd"
+          ],
+          "city": "Guelph",
+          "state": "ON",
+          "postalCode": "N1H 5H8"
+        },
+        "position": {
+          "longitude": -80.2719,
+          "latitude": 43.5502
+        }
+      }
+    ],
+    "contact_info": "phone: 519-824-6000 ext 4415, url: www.sjhcg.ca/our-programs-of-care/community-support-services/young-onset-program/",
+    "description_of_this": "Adult day program * social, recreational, and therapeutic activities for people with Alzheimer's disease and other related dementia in a group setting for part of the day * helps to support family caregivers who provide day-to-day care <br><ul><li>meals</li><li>outings <br></li><li>trivia programs <br></li><li>music and arts-based programs</li><li>fitness programs</li><li>recreational activities<br></li></ul>, Codes: $12 per day, Features: Wheelchair Accessible, Languages: English, Referral: Contact Ontario Health atHome Waterloo-Wellington, Address: 100 Westmount Rd, Guelph, ON, N1H 5H8, Location: lat: 43.5502, lon: -80.2719"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Doctor McCuaig, Brad M - Ophthalmologist",
+    "active": true,
+    "category": [
+      "Ophthalmology Clinics"
+    ],
+    "comment": "Community-based eye care clinic * specializes in cataracts * licensed to use special diagnostic tools such as ophthalmic ultrasound",
+    "serviceProvisionCode": [
+      "Most services covered by OHIP"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>53d638f7-f60b-4260-9285-941c2c10c5f7</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Kitchener</p><p>physical-location-postalcode</p><p>N2M 5N6</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>162668</p><p>true</p><p>Ophthalmology Clinics</p><p>Location/b081c94d-00af-438b-ae61-aa0d3888ae73</p><p>Location</p><p>Doctor McCuaig, Brad M - Ophthalmologist</p><p>Community-based eye care clinic * specializes in cataracts * licensed to use special diagnostic tools such as ophthalmic ultrasound</p><p>Location/7c6f0210-c296-44f8-b3e5-432f349da701</p><p>Location</p><p>Most services covered by OHIP</p><p>People with eye issues which require surgical intervention</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>Medical referral required</p></div>",
+    "eligibility": [
+      "People with eye issues which require surgical intervention"
+    ],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [
+      "Medical referral required"
+    ],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-579-5311"
+          },
+          {
+            "fax": "519-579-2339"
+          }
+        ],
+        "address": {
+          "line": [
+            "564 Belmont Ave W, Suite 209"
+          ],
+          "city": "Kitchener",
+          "state": "ON",
+          "postalCode": "N2M 5N6"
+        },
+        "position": {
+          "longitude": -80.515499,
+          "latitude": 43.450561
+        }
+      }
+    ],
+    "contact_info": "phone: 519-579-5311, fax: 519-579-2339",
+    "description_of_this": "Community-based eye care clinic * specializes in cataracts * licensed to use special diagnostic tools such as ophthalmic ultrasound, Codes: Most services covered by OHIP, Features: Wheelchair Accessible, Languages: English, Referral: Medical referral required, Address: 564 Belmont Ave W, Suite 209, Kitchener, ON, N2M 5N6, Location: lat: 43.450561, lon: -80.515499"
+  }
+]

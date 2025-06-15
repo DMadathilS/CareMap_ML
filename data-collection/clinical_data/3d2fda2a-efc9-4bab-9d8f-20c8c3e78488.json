@@ -1,0 +1,54 @@
+[
+  {
+    "name": "Rexall Pharma Plus - Waterloo - University Ave E (University Downs)",
+    "active": true,
+    "category": [
+      "Pharmacies"
+    ],
+    "comment": "General pharmacy<ul><li> treatment and prescription of medications for common medical \nailments, including rashes, pink eye, insect bites, acne, and urinary \ntract infections<br></li><li> prescription of COVID-19 antiviral treatment (Paxlovid)</li><li>compounding sent to central pharmacy</li><li> medication placed in blister packs (sealed, push-through packaging used to separate doses) at no extra cost</li><li> certified diabetes educator (CDE) available for consultations</li><li>mobility aids (walkers, scooters, wheelchairs)\n </li><li> free delivery for prescriptions\n </li><li>free seasonal flu vaccines</li><li> free take-home naloxone kits (emergency response kits for opioid overdose)</li><li>A1C diabetes testing</li><li>blood pressure screening and kiosk</li></ul><br>\n<b>MedsCheck</b> - Appointments to review complex prescriptions with a pharmacist <br><br>\n<b>Medications Return Program</b> - Safe disposal of expired or unused medications, creams, and inhalers <br><br>\n<b>Sharps Disposal Program</b> - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips",
+    "serviceProvisionCode": [
+      "Dispensing fee plus medication costs * prescribed medications may be covered by OHIP"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>3d2fda2a-efc9-4bab-9d8f-20c8c3e78488</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Waterloo</p><p>physical-location-postalcode</p><p>N2K 4C9</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>209114</p><p>true</p><p>Pharmacies</p><p>Location/3e2dda8b-50dc-46bd-ad1f-8b5af2b4b00d</p><p>Location</p><p>Rexall Pharma Plus - Waterloo - University Ave E (University Downs)</p><p>General pharmacy&lt;ul&gt;&lt;li&gt; treatment and prescription of medications for common medical \nailments, including rashes, pink eye, insect bites, acne, and urinary \ntract infections&lt;br&gt;&lt;/li&gt;&lt;li&gt; prescription of COVID-19 antiviral treatment (Paxlovid)&lt;/li&gt;&lt;li&gt;compounding sent to central pharmacy&lt;/li&gt;&lt;li&gt; medication placed in blister packs (sealed, push-through packaging used to separate doses) at no extra cost&lt;/li&gt;&lt;li&gt; certified diabetes educator (CDE) available for consultations&lt;/li&gt;&lt;li&gt;mobility aids (walkers, scooters, wheelchairs)\n &lt;/li&gt;&lt;li&gt; free delivery for prescriptions\n &lt;/li&gt;&lt;li&gt;free seasonal flu vaccines&lt;/li&gt;&lt;li&gt; free take-home naloxone kits (emergency response kits for opioid overdose)&lt;/li&gt;&lt;li&gt;A1C diabetes testing&lt;/li&gt;&lt;li&gt;blood pressure screening and kiosk&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;\n&lt;b&gt;MedsCheck&lt;/b&gt; - Appointments to review complex prescriptions with a pharmacist &lt;br&gt;&lt;br&gt;\n&lt;b&gt;Medications Return Program&lt;/b&gt; - Safe disposal of expired or unused medications, creams, and inhalers &lt;br&gt;&lt;br&gt;\n&lt;b&gt;Sharps Disposal Program&lt;/b&gt; - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips</p><p>Location/31cd2ca6-e5cf-4f1e-a058-e7e1c8b4288b</p><p>Location</p><p>Dispensing fee plus medication costs * prescribed medications may be covered by OHIP</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p></div>",
+    "eligibility": [],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-743-0583"
+          },
+          {
+            "fax": "519-743-9450"
+          },
+          {
+            "email": "2485rx@rexall.ca"
+          },
+          {
+            "url": "www.rexall.ca/storelocator/store/2485"
+          }
+        ],
+        "address": {
+          "line": [
+            "425 University Ave E"
+          ],
+          "city": "Waterloo",
+          "state": "ON",
+          "postalCode": "N2K 4C9"
+        },
+        "position": {
+          "longitude": -80.4918,
+          "latitude": 43.4894
+        }
+      }
+    ],
+    "contact_info": "phone: 519-743-0583, fax: 519-743-9450, email: 2485rx@rexall.ca, url: www.rexall.ca/storelocator/store/2485",
+    "description_of_this": "General pharmacy<ul><li> treatment and prescription of medications for common medical \nailments, including rashes, pink eye, insect bites, acne, and urinary \ntract infections<br></li><li> prescription of COVID-19 antiviral treatment (Paxlovid)</li><li>compounding sent to central pharmacy</li><li> medication placed in blister packs (sealed, push-through packaging used to separate doses) at no extra cost</li><li> certified diabetes educator (CDE) available for consultations</li><li>mobility aids (walkers, scooters, wheelchairs)\n </li><li> free delivery for prescriptions\n </li><li>free seasonal flu vaccines</li><li> free take-home naloxone kits (emergency response kits for opioid overdose)</li><li>A1C diabetes testing</li><li>blood pressure screening and kiosk</li></ul><br>\n<b>MedsCheck</b> - Appointments to review complex prescriptions with a pharmacist <br><br>\n<b>Medications Return Program</b> - Safe disposal of expired or unused medications, creams, and inhalers <br><br>\n<b>Sharps Disposal Program</b> - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips, Codes: Dispensing fee plus medication costs * prescribed medications may be covered by OHIP, Features: Wheelchair Accessible, Languages: English, Address: 425 University Ave E, Waterloo, ON, N2K 4C9, Location: lat: 43.4894, lon: -80.4918"
+  }
+]

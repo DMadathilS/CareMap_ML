@@ -1,0 +1,55 @@
+[
+  {
+    "name": "Apothecare Pharmacy",
+    "active": true,
+    "category": [
+      "Pharmacies"
+    ],
+    "comment": "General pharmacy<ul><li>treatment and prescription of medications for common medical ailments, including rashes, pink eye, insect bites, acne, and urinary tract infections</li><li>prescription of COVID-19 antiviral treatment (Paxlovid)</li><li>medication placed in pill organizers (containers for storing scheduled doses) at no extra cost\n</li><li> medication placed in blister packs (sealed, push-through packaging used to separate doses) at no extra cost</li><li> certified diabetes educator (CDE) available for consultations</li><li>mobility aids can be ordered<br></li><li>free delivery for prescriptions\n </li><li>free seasonal flu vaccines<br></li><li> free take-home naloxone kits (emergency response kits for opioid overdose)</li><li>administer other injections</li><li>full smoking cessation program - partnered with hospital</li></ul><br>\n<b>MedsCheck</b> - Appointments to review complex prescriptions with a pharmacist <br><br><b>Pharmacy Smoking Cessation Program</b> - Help to quit smoking, available for Ontario Drug Benefit recipients <br><br><b>Medications Return Program</b> - Safe disposal of expired or unused medications, creams, and inhalers <br><br>\n<b>Sharps Disposal Program</b> - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips",
+    "serviceProvisionCode": [
+      "Dispensing fee plus medication costs * prescribed medications may be covered by OHIP"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>ca8cd04c-e0c5-46e8-ba4c-23578851e65d</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Kitchener</p><p>physical-location-postalcode</p><p>N2G 1N4</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>208537</p><p>true</p><p>Pharmacies</p><p>Location/6c3474c5-64a2-4724-bf08-c94eacbe02a3</p><p>Location</p><p>Apothecare Pharmacy</p><p>General pharmacy&lt;ul&gt;&lt;li&gt;treatment and prescription of medications for common medical ailments, including rashes, pink eye, insect bites, acne, and urinary tract infections&lt;/li&gt;&lt;li&gt;prescription of COVID-19 antiviral treatment (Paxlovid)&lt;/li&gt;&lt;li&gt;medication placed in pill organizers (containers for storing scheduled doses) at no extra cost\n&lt;/li&gt;&lt;li&gt; medication placed in blister packs (sealed, push-through packaging used to separate doses) at no extra cost&lt;/li&gt;&lt;li&gt; certified diabetes educator (CDE) available for consultations&lt;/li&gt;&lt;li&gt;mobility aids can be ordered&lt;br&gt;&lt;/li&gt;&lt;li&gt;free delivery for prescriptions\n &lt;/li&gt;&lt;li&gt;free seasonal flu vaccines&lt;br&gt;&lt;/li&gt;&lt;li&gt; free take-home naloxone kits (emergency response kits for opioid overdose)&lt;/li&gt;&lt;li&gt;administer other injections&lt;/li&gt;&lt;li&gt;full smoking cessation program - partnered with hospital&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;\n&lt;b&gt;MedsCheck&lt;/b&gt; - Appointments to review complex prescriptions with a pharmacist &lt;br&gt;&lt;br&gt;&lt;b&gt;Pharmacy Smoking Cessation Program&lt;/b&gt; - Help to quit smoking, available for Ontario Drug Benefit recipients &lt;br&gt;&lt;br&gt;&lt;b&gt;Medications Return Program&lt;/b&gt; - Safe disposal of expired or unused medications, creams, and inhalers &lt;br&gt;&lt;br&gt;\n&lt;b&gt;Sharps Disposal Program&lt;/b&gt; - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips</p><p>Location/78c8fe3e-c681-4437-824e-03611eb2ffab</p><p>Location</p><p>Dispensing fee plus medication costs * prescribed medications may be covered by OHIP</p><p>Partially Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>fra</p><p>French</p></div>",
+    "eligibility": [],
+    "characteristic": [
+      "Partially Accessible"
+    ],
+    "communication": [
+      "English",
+      "French"
+    ],
+    "referralMethod": [],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-954-1055"
+          },
+          {
+            "fax": "519-954-7353"
+          },
+          {
+            "email": "pharmacist@apothecarepharmacy.ca"
+          },
+          {
+            "url": "apothecarepharmacy.ca/"
+          }
+        ],
+        "address": {
+          "line": [
+            "439 Park St, Unit 1"
+          ],
+          "city": "Kitchener",
+          "state": "ON",
+          "postalCode": "N2G 1N4"
+        },
+        "position": {
+          "longitude": -80.5124,
+          "latitude": 43.4551
+        }
+      }
+    ],
+    "contact_info": "phone: 519-954-1055, fax: 519-954-7353, email: pharmacist@apothecarepharmacy.ca, url: apothecarepharmacy.ca/",
+    "description_of_this": "General pharmacy<ul><li>treatment and prescription of medications for common medical ailments, including rashes, pink eye, insect bites, acne, and urinary tract infections</li><li>prescription of COVID-19 antiviral treatment (Paxlovid)</li><li>medication placed in pill organizers (containers for storing scheduled doses) at no extra cost\n</li><li> medication placed in blister packs (sealed, push-through packaging used to separate doses) at no extra cost</li><li> certified diabetes educator (CDE) available for consultations</li><li>mobility aids can be ordered<br></li><li>free delivery for prescriptions\n </li><li>free seasonal flu vaccines<br></li><li> free take-home naloxone kits (emergency response kits for opioid overdose)</li><li>administer other injections</li><li>full smoking cessation program - partnered with hospital</li></ul><br>\n<b>MedsCheck</b> - Appointments to review complex prescriptions with a pharmacist <br><br><b>Pharmacy Smoking Cessation Program</b> - Help to quit smoking, available for Ontario Drug Benefit recipients <br><br><b>Medications Return Program</b> - Safe disposal of expired or unused medications, creams, and inhalers <br><br>\n<b>Sharps Disposal Program</b> - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips, Codes: Dispensing fee plus medication costs * prescribed medications may be covered by OHIP, Features: Partially Accessible, Languages: English, French, Address: 439 Park St, Unit 1, Kitchener, ON, N2G 1N4, Location: lat: 43.4551, lon: -80.5124, Contact: phone: 519-954-1055, fax: 519-954-7353, email: pharmacist@apothecarepharmacy.ca, url: apothecarepharmacy.ca/"
+  }
+]

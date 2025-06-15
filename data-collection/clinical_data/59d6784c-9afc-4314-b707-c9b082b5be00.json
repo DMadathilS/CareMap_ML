@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Franklin Pharmacy",
+    "active": true,
+    "category": [
+      "Pharmacies"
+    ],
+    "comment": "General pharmacy<ul><li>treatment and prescription of medications for common medical ailments, \nincluding rashes, pink eye, insect bites, acne, and urinary tract \ninfections</li><li>medication placed in pill organizers (containers for storing scheduled doses) at no extra cost\n </li><li> medication placed in blister packs (sealed, push-through packaging used to separate doses) at no extra cost</li><li> free delivery for prescriptions\n </li><li>free seasonal flu vaccines</li><li> free take-home naloxone kits (emergency response kits for opioid overdose)</li></ul><br><b>MedsCheck</b> - Appointments to review complex prescriptions with a pharmacist <br><br><b>Medications Return Program</b> - Safe disposal of expired or unused medications, creams, and inhalers <br><br>\n<b>Sharps Disposal Program</b> - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips",
+    "serviceProvisionCode": [
+      "Dispensing fee plus medication costs * prescribed medications may be covered by OHIP"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>59d6784c-9afc-4314-b707-c9b082b5be00</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Cambridge</p><p>physical-location-postalcode</p><p>N1R 7J2</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>208661</p><p>true</p><p>Pharmacies</p><p>Location/6a833f81-08c2-477c-96f6-47da467a8ea0</p><p>Location</p><p>Franklin Pharmacy</p><p>General pharmacy&lt;ul&gt;&lt;li&gt;treatment and prescription of medications for common medical ailments, \nincluding rashes, pink eye, insect bites, acne, and urinary tract \ninfections&lt;/li&gt;&lt;li&gt;medication placed in pill organizers (containers for storing scheduled doses) at no extra cost\n &lt;/li&gt;&lt;li&gt; medication placed in blister packs (sealed, push-through packaging used to separate doses) at no extra cost&lt;/li&gt;&lt;li&gt; free delivery for prescriptions\n &lt;/li&gt;&lt;li&gt;free seasonal flu vaccines&lt;/li&gt;&lt;li&gt; free take-home naloxone kits (emergency response kits for opioid overdose)&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;b&gt;MedsCheck&lt;/b&gt; - Appointments to review complex prescriptions with a pharmacist &lt;br&gt;&lt;br&gt;&lt;b&gt;Medications Return Program&lt;/b&gt; - Safe disposal of expired or unused medications, creams, and inhalers &lt;br&gt;&lt;br&gt;\n&lt;b&gt;Sharps Disposal Program&lt;/b&gt; - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips</p><p>Location/d6754e56-04b5-4434-93b3-79d1b8be6662</p><p>Location</p><p>Dispensing fee plus medication costs * prescribed medications may be covered by OHIP</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>cmn</p><p>Chinese (Mandarin)</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>guj</p><p>Gujarati</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>hin</p><p>Hindi</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>fas</p><p>Persian</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>vie</p><p>Vietnamese</p></div>",
+    "eligibility": [],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English",
+      "Chinese (Mandarin)",
+      "Gujarati",
+      "Hindi",
+      "Persian",
+      "Vietnamese"
+    ],
+    "referralMethod": [],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-629-3857"
+          },
+          {
+            "fax": "519-623-9889"
+          },
+          {
+            "url": "www.monarkmedical.com/franklin-pharmacy"
+          }
+        ],
+        "address": {
+          "line": [
+            "1150 Franklin Blvd"
+          ],
+          "city": "Cambridge",
+          "state": "ON",
+          "postalCode": "N1R 7J2"
+        },
+        "position": {
+          "longitude": -80.3054,
+          "latitude": 43.4
+        }
+      }
+    ],
+    "contact_info": "phone: 519-629-3857, fax: 519-623-9889, url: www.monarkmedical.com/franklin-pharmacy",
+    "description_of_this": "General pharmacy<ul><li>treatment and prescription of medications for common medical ailments, \nincluding rashes, pink eye, insect bites, acne, and urinary tract \ninfections</li><li>medication placed in pill organizers (containers for storing scheduled doses) at no extra cost\n </li><li> medication placed in blister packs (sealed, push-through packaging used to separate doses) at no extra cost</li><li> free delivery for prescriptions\n </li><li>free seasonal flu vaccines</li><li> free take-home naloxone kits (emergency response kits for opioid overdose)</li></ul><br><b>MedsCheck</b> - Appointments to review complex prescriptions with a pharmacist <br><br><b>Medications Return Program</b> - Safe disposal of expired or unused medications, creams, and inhalers <br><br>\n<b>Sharps Disposal Program</b> - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips, Codes: Dispensing fee plus medication costs * prescribed medications may be covered by OHIP, Features: Wheelchair Accessible, Languages: English, Chinese (Mandarin), Gujarati, Hindi, Persian, Vietnamese, Address: 1150 Franklin Blvd, Cambridge, ON, N1R 7J2, Location: lat: 43.4, lon: -80.3054"
+  }
+]

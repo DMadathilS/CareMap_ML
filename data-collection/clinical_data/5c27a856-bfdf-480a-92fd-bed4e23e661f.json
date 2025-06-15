@@ -1,0 +1,59 @@
+[
+  {
+    "name": "Cambridge (City of) - Community Development",
+    "active": true,
+    "category": [
+      "Adult Day Programs"
+    ],
+    "comment": "Adult day program * social, recreational, and therapeutic activities for adults and older adults living with mental health or chronic illness, and physical, intellectual or cognitive impairment<ul><li>meals</li><li>transportation</li><li>medication reminders</li><li>personal care assistance</li><li>daily exercise programs</li><li>arts and crafts</li><li>music and entertainment</li><li>games and trivia</li><li>special events</li><li>annual holiday party</li></ul>",
+    "serviceProvisionCode": [
+      "$23.01-$30.13 per day<br>Transportation: $7.50"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>5c27a856-bfdf-480a-92fd-bed4e23e661f</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Cambridge</p><p>physical-location-postalcode</p><p>N3A 3E6</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>209289</p><p>true</p><p>Adult Day Programs</p><p>Location/c777cefc-3646-4c40-93ef-1b2ec66844c9</p><p>Location</p><p>Cambridge (City of) - Community Development</p><p>Adult day program * social, recreational, and therapeutic activities for adults and older adults living with mental health or chronic illness, and physical, intellectual or cognitive impairment&lt;ul&gt;&lt;li&gt;meals&lt;/li&gt;&lt;li&gt;transportation&lt;/li&gt;&lt;li&gt;medication reminders&lt;/li&gt;&lt;li&gt;personal care assistance&lt;/li&gt;&lt;li&gt;daily exercise programs&lt;/li&gt;&lt;li&gt;arts and crafts&lt;/li&gt;&lt;li&gt;music and entertainment&lt;/li&gt;&lt;li&gt;games and trivia&lt;/li&gt;&lt;li&gt;special events&lt;/li&gt;&lt;li&gt;annual holiday party&lt;/li&gt;&lt;/ul&gt;</p><p>Location/88a9f12c-9f8a-4046-9ab5-c5cae0b1874d</p><p>Location</p><p>$23.01-$30.13 per day&lt;br&gt;Transportation: $7.50</p><p>Older adults and adults with disabilities, who need physical, social, or emotional supports * care coordinators assess the needs of applicants</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>Contact Ontario Health atHome Waterloo-Wellington</p></div>",
+    "eligibility": [
+      "Older adults and adults with disabilities, who need physical, social, or emotional supports * care coordinators assess the needs of applicants"
+    ],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [
+      "Contact Ontario Health atHome Waterloo-Wellington"
+    ],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-623-1340 ext 4424"
+          },
+          {
+            "phone": "519-623-6691"
+          },
+          {
+            "email": "csd@cambridge.ca"
+          },
+          {
+            "url": "www.cambridge.ca/en/your-city/Senior-Services.aspx"
+          }
+        ],
+        "address": {
+          "line": [
+            "William E Pautler Centre",
+            "1145 Concession Rd"
+          ],
+          "city": "Cambridge",
+          "state": "ON",
+          "postalCode": "N3A 3E6"
+        },
+        "position": {
+          "longitude": -80.3442,
+          "latitude": 43.397
+        }
+      }
+    ],
+    "contact_info": "phone: 519-623-1340 ext 4424, phone: 519-623-6691, email: csd@cambridge.ca, url: www.cambridge.ca/en/your-city/Senior-Services.aspx",
+    "description_of_this": "Adult day program * social, recreational, and therapeutic activities for adults and older adults living with mental health or chronic illness, and physical, intellectual or cognitive impairment<ul><li>meals</li><li>transportation</li><li>medication reminders</li><li>personal care assistance</li><li>daily exercise programs</li><li>arts and crafts</li><li>music and entertainment</li><li>games and trivia</li><li>special events</li><li>annual holiday party</li></ul>, Codes: $23.01-$30.13 per day<br>Transportation: $7.50, Features: Wheelchair Accessible, Languages: English, Referral: Contact Ontario Health atHome Waterloo-Wellington, Address: William E Pautler Centre, 1145 Concession Rd, Cambridge, ON, N3A 3E6, Location: lat: 43.397, lon: -80.3442"
+  }
+]

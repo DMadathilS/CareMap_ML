@@ -1,0 +1,54 @@
+[
+  {
+    "name": "Refresh Pharmacy",
+    "active": true,
+    "category": [
+      "Pharmacies"
+    ],
+    "comment": "General pharmacy<ul><li>treatment and prescription of medications for thirteen common medical \nailments, including rashes, pink eye, insect bites, and urinary tract infections</li><li>medication placed in pill organizers (containers for storing scheduled doses) at no extra cost</li><li>medication placed in blister packs (sealed, push-through packaging used to separate doses) at no extra cost</li><li>pharmacist available for diabetes management consultations</li><li>basic home health care supplies</li><li>free seasonal flu vaccines<br><br></li></ul><b>Medications Return Program</b> - Safe disposal of expired or unused medications, creams, and inhalers<br><br><b>MedsCheck</b> - Appointments to review complex prescriptions with a pharmacist<br><br><b>Sharps Disposal Program</b> - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips <br><br>Located in Onyx Urgent Care",
+    "serviceProvisionCode": [
+      "Dispensing fee plus medication costs * prescribed medications may be covered by OHIP"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>fd51b640-4e97-4426-b248-4e32a6acfef2</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Kitchener</p><p>physical-location-postalcode</p><p>N2K 1M3</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>219897</p><p>true</p><p>Pharmacies</p><p>Location/91c3e5ba-8446-4390-bc07-82f3e71854c3</p><p>Location</p><p>Refresh Pharmacy</p><p>General pharmacy&lt;ul&gt;&lt;li&gt;treatment and prescription of medications for thirteen common medical \nailments, including rashes, pink eye, insect bites, and urinary tract infections&lt;/li&gt;&lt;li&gt;medication placed in pill organizers (containers for storing scheduled doses) at no extra cost&lt;/li&gt;&lt;li&gt;medication placed in blister packs (sealed, push-through packaging used to separate doses) at no extra cost&lt;/li&gt;&lt;li&gt;pharmacist available for diabetes management consultations&lt;/li&gt;&lt;li&gt;basic home health care supplies&lt;/li&gt;&lt;li&gt;free seasonal flu vaccines&lt;br&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;b&gt;Medications Return Program&lt;/b&gt; - Safe disposal of expired or unused medications, creams, and inhalers&lt;br&gt;&lt;br&gt;&lt;b&gt;MedsCheck&lt;/b&gt; - Appointments to review complex prescriptions with a pharmacist&lt;br&gt;&lt;br&gt;&lt;b&gt;Sharps Disposal Program&lt;/b&gt; - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips &lt;br&gt;&lt;br&gt;Located in Onyx Urgent Care</p><p>Location/367b091e-6318-42a0-a35a-e315d1780657</p><p>Location</p><p>Dispensing fee plus medication costs * prescribed medications may be covered by OHIP</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p></div>",
+    "eligibility": [],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "226-647-7288"
+          },
+          {
+            "fax": "226-647-7388"
+          },
+          {
+            "email": "refreshpharmacyrx@gmail.com"
+          },
+          {
+            "url": "www.refreshpharmacyrxwaterloo.com/"
+          }
+        ],
+        "address": {
+          "line": [
+            "580 Lancaster St W"
+          ],
+          "city": "Kitchener",
+          "state": "ON",
+          "postalCode": "N2K 1M3"
+        },
+        "position": {
+          "longitude": -80.4839,
+          "latitude": 43.48
+        }
+      }
+    ],
+    "contact_info": "phone: 226-647-7288, fax: 226-647-7388, email: refreshpharmacyrx@gmail.com, url: www.refreshpharmacyrxwaterloo.com/",
+    "description_of_this": "General pharmacy<ul><li>treatment and prescription of medications for thirteen common medical \nailments, including rashes, pink eye, insect bites, and urinary tract infections</li><li>medication placed in pill organizers (containers for storing scheduled doses) at no extra cost</li><li>medication placed in blister packs (sealed, push-through packaging used to separate doses) at no extra cost</li><li>pharmacist available for diabetes management consultations</li><li>basic home health care supplies</li><li>free seasonal flu vaccines<br><br></li></ul><b>Medications Return Program</b> - Safe disposal of expired or unused medications, creams, and inhalers<br><br><b>MedsCheck</b> - Appointments to review complex prescriptions with a pharmacist<br><br><b>Sharps Disposal Program</b> - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips <br><br>Located in Onyx Urgent Care, Codes: Dispensing fee plus medication costs * prescribed medications may be covered by OHIP, Features: Wheelchair Accessible, Languages: English, Address: 580 Lancaster St W, Kitchener, ON, N2K 1M3, Location: lat: 43.48, lon: -80.4839, Contact: phone: 226-647-7288, fax: 226-647-7388, email: refreshpharmacyrx@gmail.com, url: www.refreshpharmacyrxwaterloo.com/"
+  }
+]

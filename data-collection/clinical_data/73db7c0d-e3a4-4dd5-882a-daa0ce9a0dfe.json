@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Independent Living Waterloo Region",
+    "active": true,
+    "category": [
+      "Community Support Services"
+    ],
+    "comment": "Supports for adults with disabilities and older adults * helps people remain independent in their own homes for as long as possible * referral to other community services<BR><BR><B>Services and Programs:</B><UL><LI>Attendant Services</LI><LI>Awareness and Education</LI><LI>Supportive Housing</LI></UL>",
+    "serviceProvisionCode": [
+      "Varies per program"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>73db7c0d-e3a4-4dd5-882a-daa0ce9a0dfe</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Kitchener</p><p>physical-location-postalcode</p><p>N2G 2B4</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>211471</p><p>true</p><p>Community Support Services</p><p>Location/5a98fc73-d17a-49b0-9d0f-553629f9c0c1</p><p>Location</p><p>Independent Living Waterloo Region</p><p>Supports for adults with disabilities and older adults * helps people remain independent in their own homes for as long as possible * referral to other community services&lt;BR&gt;&lt;BR&gt;&lt;B&gt;Services and Programs:&lt;/B&gt;&lt;UL&gt;&lt;LI&gt;Attendant Services&lt;/LI&gt;&lt;LI&gt;Awareness and Education&lt;/LI&gt;&lt;LI&gt;Supportive Housing&lt;/LI&gt;&lt;/UL&gt;</p><p>Location/8b7c86db-5549-426d-80a6-26f0c2614c2b</p><p>Location</p><p>Varies per program</p><p>Older adults and people with disabilities, who need physical, social, or emotional supports</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>Call * no referral required</p></div>",
+    "eligibility": [
+      "Older adults and people with disabilities, who need physical, social, or emotional supports"
+    ],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [
+      "Call * no referral required"
+    ],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-571-6788"
+          },
+          {
+            "fax": "519-571-6388"
+          },
+          {
+            "email": "info@ilwr.ca"
+          },
+          {
+            "url": "www.ilwr.ca"
+          }
+        ],
+        "address": {
+          "line": [
+            "127 Victoria St S, Suite 201"
+          ],
+          "city": "Kitchener",
+          "state": "ON",
+          "postalCode": "N2G 2B4"
+        },
+        "position": {
+          "longitude": -80.5008,
+          "latitude": 43.4495
+        }
+      }
+    ],
+    "contact_info": "phone: 519-571-6788, fax: 519-571-6388, email: info@ilwr.ca, url: www.ilwr.ca",
+    "description_of_this": "Supports for adults with disabilities and older adults * helps people remain independent in their own homes for as long as possible * referral to other community services<BR><BR><B>Services and Programs:</B><UL><LI>Attendant Services</LI><LI>Awareness and Education</LI><LI>Supportive Housing</LI></UL>, Codes: Varies per program, Features: Wheelchair Accessible, Languages: English, Referral: Call * no referral required, Address: 127 Victoria St S, Suite 201, Kitchener, ON, N2G 2B4, Location: lat: 43.4495, lon: -80.5008"
+  }
+]

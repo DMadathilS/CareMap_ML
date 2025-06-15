@@ -1,0 +1,52 @@
+[
+  {
+    "name": "St Joseph's Health Centre - Guelph - Westmount Rd - Out n' About Day Program",
+    "active": true,
+    "category": [
+      "Adult Day Programs"
+    ],
+    "comment": "Adult day program * social, recreational, and therapeutic activities for frail older adults with depression, social isolation concerns, and/or early stages of dementia  in a group setting for part of the day * helps to support family caregivers who provide day-to-day care\n<ul><li>meals</li></ul>",
+    "serviceProvisionCode": [
+      "$20 per day"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>68e4d285-f91d-4675-b20b-42cc48073879</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Guelph</p><p>physical-location-postalcode</p><p>N1H 7T9</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>209296</p><p>true</p><p>Adult Day Programs</p><p>Location/3db9e16b-f4db-4665-b8ed-05265f759dc4</p><p>Location</p><p>St Joseph's Health Centre - Guelph - Westmount Rd - Out n' About Day Program</p><p>Adult day program * social, recreational, and therapeutic activities for frail older adults with depression, social isolation concerns, and/or early stages of dementia  in a group setting for part of the day * helps to support family caregivers who provide day-to-day care\n&lt;ul&gt;&lt;li&gt;meals&lt;/li&gt;&lt;/ul&gt;</p><p>Location/90e50d27-6ce9-4f6e-965f-6d5a5599c0e5</p><p>Location</p><p>$20 per day</p><p>Older adults and adults with disabilities, who need physical, social, or emotional supports * care coordinators assess the needs of applicants</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>Contact Ontario Health atHome Waterloo-Wellington</p></div>",
+    "eligibility": [
+      "Older adults and adults with disabilities, who need physical, social, or emotional supports * care coordinators assess the needs of applicants"
+    ],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [
+      "Contact Ontario Health atHome Waterloo-Wellington"
+    ],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-824-6000 ext 4415"
+          },
+          {
+            "url": "www.sjhcg.ca/our-programs-of-care/community-support-services/out-n-about-day-program/"
+          }
+        ],
+        "address": {
+          "line": [
+            "25 Wellington St W"
+          ],
+          "city": "Guelph",
+          "state": "ON",
+          "postalCode": "N1H 7T9"
+        },
+        "position": {
+          "longitude": -80.2457,
+          "latitude": 43.54
+        }
+      }
+    ],
+    "contact_info": "phone: 519-824-6000 ext 4415, url: www.sjhcg.ca/our-programs-of-care/community-support-services/out-n-about-day-program/",
+    "description_of_this": "Adult day program * social, recreational, and therapeutic activities for frail older adults with depression, social isolation concerns, and/or early stages of dementia  in a group setting for part of the day * helps to support family caregivers who provide day-to-day care\n<ul><li>meals</li></ul>, Codes: $20 per day, Features: Wheelchair Accessible, Languages: English, Referral: Contact Ontario Health atHome Waterloo-Wellington, Address: 25 Wellington St W, Guelph, ON, N1H 7T9, Location: lat: 43.54, lon: -80.2457"
+  }
+]

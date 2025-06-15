@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Cambridge (City of) - Community Development",
+    "active": true,
+    "category": [
+      "Seniors' Active Living Centres"
+    ],
+    "comment": "Recreation centre for older adults * cooling centre * fitness centre * warming centre",
+    "serviceProvisionCode": [
+      "Membership fees"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>fc93f9cc-012a-4f06-819b-5e68eb283529</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Cambridge</p><p>physical-location-postalcode</p><p>N1R 1T8</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>209249</p><p>true</p><p>Seniors' Active Living Centres</p><p>Location/23722661-fbad-484f-8b92-8162e90ef8cc</p><p>Location</p><p>Cambridge (City of) - Community Development</p><p>Recreation centre for older adults * cooling centre * fitness centre * warming centre</p><p>Location/2b577b32-3eb2-4f23-b802-3e81e56fb675</p><p>Location</p><p>Membership fees</p><p>Adults 50 years and older</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>Call or drop-in * no referral required</p></div>",
+    "eligibility": [
+      "Adults 50 years and older"
+    ],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [
+      "Call or drop-in * no referral required"
+    ],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-740-4681 ext 4360"
+          },
+          {
+            "phone": "519-623-6691"
+          },
+          {
+            "email": "csd@cambridge.ca"
+          },
+          {
+            "url": "facilities.cambridge.ca/home/detail?CategoryIds=&FacilityTypeIds=40&id=b370fcc4-23fb-4fc3-b38a-723bfcbfbeff"
+          }
+        ],
+        "address": {
+          "line": [
+            "62 Dickson St"
+          ],
+          "city": "Cambridge",
+          "state": "ON",
+          "postalCode": "N1R 1T8"
+        },
+        "position": {
+          "longitude": -80.3115,
+          "latitude": 43.36
+        }
+      }
+    ],
+    "contact_info": "phone: 519-740-4681 ext 4360, phone: 519-623-6691, email: csd@cambridge.ca, url: facilities.cambridge.ca/home/detail?CategoryIds=&FacilityTypeIds=40&id=b370fcc4-23fb-4fc3-b38a-723bfcbfbeff",
+    "description_of_this": "Recreation centre for older adults * cooling centre * fitness centre * warming centre, Codes: Membership fees, Features: Wheelchair Accessible, Languages: English, Referral: Call or drop-in * no referral required, Address: 62 Dickson St, Cambridge, ON, N1R 1T8, Location: lat: 43.36, lon: -80.3115, Contact: phone: 519-740-4681 ext 4360, phone: 519-623-6691, email: csd@cambridge.ca, url: facilities.cambridge.ca/home/detail?CategoryIds=&FacilityTypeIds=40&id=b370fcc4-23fb-4fc3-b38a-723bfcbfbeff"
+  }
+]

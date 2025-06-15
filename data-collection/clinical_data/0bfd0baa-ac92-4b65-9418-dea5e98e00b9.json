@@ -1,0 +1,62 @@
+[
+  {
+    "name": "University of Waterloo - Student Medical Clinic",
+    "active": true,
+    "category": [
+      "Sexual Health Clinics"
+    ],
+    "comment": "Student medical clinic * doctors and nurses assess and treat minor illnesses and injuries<br><br>Services include:<ul><li>gender affirmative care</li><li>verification of illness services</li><li>mental health office</li><li>sexually transmitted infection (STI) testing</li><li>pregnancy and birth control</li><li>on-site lab</li><li>allergy injections</li><li>immunizations</li><li>wart clinic</li><li>family health clinic<br></li></ul>",
+    "serviceProvisionCode": [
+      "Most services covered by OHIP"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>0bfd0baa-ac92-4b65-9418-dea5e98e00b9</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Waterloo</p><p>physical-location-postalcode</p><p>N2L 3G1</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>210124</p><p>true</p><p>Sexual Health Clinics</p><p>Location/b2b2d941-3f64-4cee-9244-760b83419793</p><p>Location</p><p>University of Waterloo - Student Medical Clinic</p><p>Student medical clinic * doctors and nurses assess and treat minor illnesses and injuries&lt;br&gt;&lt;br&gt;Services include:&lt;ul&gt;&lt;li&gt;gender affirmative care&lt;/li&gt;&lt;li&gt;verification of illness services&lt;/li&gt;&lt;li&gt;mental health office&lt;/li&gt;&lt;li&gt;sexually transmitted infection (STI) testing&lt;/li&gt;&lt;li&gt;pregnancy and birth control&lt;/li&gt;&lt;li&gt;on-site lab&lt;/li&gt;&lt;li&gt;allergy injections&lt;/li&gt;&lt;li&gt;immunizations&lt;/li&gt;&lt;li&gt;wart clinic&lt;/li&gt;&lt;li&gt;family health clinic&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;</p><p>Location/212eecd5-0d27-4c90-a0f2-d5df803789e3</p><p>Location</p><p>Most services covered by OHIP</p><p>Students of the University of Waterloo&lt;br&gt;Family Health Clinic is open to students, visiting scholars, visiting researchers, visiting faculty and post-docs and their dependents or sponsored family members</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>Call or visit to book an appointment</p></div>",
+    "eligibility": [
+      "Students of the University of Waterloo<br>Family Health Clinic is open to students, visiting scholars, visiting researchers, visiting faculty and post-docs and their dependents or sponsored family members"
+    ],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [
+      "Call or visit to book an appointment"
+    ],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-888-4096"
+          },
+          {
+            "phone": "519-888-4911 or ext 84911"
+          },
+          {
+            "phone": "Good2Talk: 1-866-925-5454"
+          },
+          {
+            "email": "hsforms@uwaterloo.ca"
+          },
+          {
+            "url": "uwaterloo.ca/campus-wellness/health-services/student-medical-clinic"
+          }
+        ],
+        "address": {
+          "line": [
+            "Health Services Building",
+            "200 University Ave W"
+          ],
+          "city": "Waterloo",
+          "state": "ON",
+          "postalCode": "N2L 3G1"
+        },
+        "position": {
+          "longitude": -80.54617,
+          "latitude": 43.470566
+        }
+      }
+    ],
+    "contact_info": "phone: 519-888-4096, phone: 519-888-4911 or ext 84911, phone: Good2Talk: 1-866-925-5454, email: hsforms@uwaterloo.ca, url: uwaterloo.ca/campus-wellness/health-services/student-medical-clinic",
+    "description_of_this": "Student medical clinic * doctors and nurses assess and treat minor illnesses and injuries<br><br>Services include:<ul><li>gender affirmative care</li><li>verification of illness services</li><li>mental health office</li><li>sexually transmitted infection (STI) testing</li><li>pregnancy and birth control</li><li>on-site lab</li><li>allergy injections</li><li>immunizations</li><li>wart clinic</li><li>family health clinic<br></li></ul>, Codes: Most services covered by OHIP, Features: Wheelchair Accessible, Languages: English, Referral: Call or visit to book an appointment, Address: Health Services Building, 200 University Ave W, Waterloo, ON, N2L 3G1, Location: lat: 43.470566, lon: -80.54617"
+  }
+]

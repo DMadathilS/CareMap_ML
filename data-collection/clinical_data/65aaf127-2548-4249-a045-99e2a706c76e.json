@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Emerald Caremax Walk-in Clinic - Cambridge - Hespeler Rd",
+    "active": true,
+    "category": [
+      "Walk-In Medical Clinics"
+    ],
+    "comment": "Walk-in medical clinic * doctors assess and treat minor illnesses and injuries<br><br><b>Services include:</b><ul><li>methadone and suboxone therapy</li><li>counseling and behavioral therapy</li></ul>",
+    "serviceProvisionCode": [
+      "Most services covered by OHIP"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>65aaf127-2548-4249-a045-99e2a706c76e</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Cambridge</p><p>physical-location-postalcode</p><p>N1R 3H2</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>192327</p><p>true</p><p>Walk-In Medical Clinics</p><p>Location/7b68a57b-1e64-46f9-810c-a3ef8c01526b</p><p>Location</p><p>Emerald Caremax Walk-in Clinic - Cambridge - Hespeler Rd</p><p>Walk-in medical clinic * doctors assess and treat minor illnesses and injuries&lt;br&gt;&lt;br&gt;&lt;b&gt;Services include:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;methadone and suboxone therapy&lt;/li&gt;&lt;li&gt;counseling and behavioral therapy&lt;/li&gt;&lt;/ul&gt;</p><p>Location/5abedfe1-f387-459d-a88b-f951eac8df18</p><p>Location</p><p>Most services covered by OHIP</p><p>People who need medical care for minor illnesses and injuries</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>ara</p><p>Arabic</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>hin</p><p>Hindi</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>pan</p><p>Punjabi</p></div>",
+    "eligibility": [
+      "People who need medical care for minor illnesses and injuries"
+    ],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English",
+      "Arabic",
+      "Hindi",
+      "Punjabi"
+    ],
+    "referralMethod": [],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-267-5030"
+          },
+          {
+            "fax": "1-888-351-8086"
+          },
+          {
+            "email": "emeraldcaremaxclinic@gmail.com"
+          }
+        ],
+        "address": {
+          "line": [
+            "140 Hespeler Rd, Unit F"
+          ],
+          "city": "Cambridge",
+          "state": "ON",
+          "postalCode": "N1R 3H2"
+        },
+        "position": {
+          "longitude": -80.3195,
+          "latitude": 43.3789
+        }
+      }
+    ],
+    "contact_info": "phone: 519-267-5030, fax: 1-888-351-8086, email: emeraldcaremaxclinic@gmail.com",
+    "description_of_this": "Walk-in medical clinic * doctors assess and treat minor illnesses and injuries<br><br><b>Services include:</b><ul><li>methadone and suboxone therapy</li><li>counseling and behavioral therapy</li></ul>, Codes: Most services covered by OHIP, Features: Wheelchair Accessible, Languages: English, Arabic, Hindi, Punjabi, Address: 140 Hespeler Rd, Unit F, Cambridge, ON, N1R 3H2, Location: lat: 43.3789, lon: -80.3195"
+  }
+]

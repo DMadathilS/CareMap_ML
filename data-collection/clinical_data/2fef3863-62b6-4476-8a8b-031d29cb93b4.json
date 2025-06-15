@@ -1,0 +1,64 @@
+[
+  {
+    "name": "Waterloo (City of) - Adult Recreation Centre",
+    "active": true,
+    "category": [
+      "Seniors' Active Living Centres"
+    ],
+    "comment": "Recreation centre for older adults <br><ul><li>social and recreational activities</li></ul>",
+    "serviceProvisionCode": [
+      "Membership fees"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>2fef3863-62b6-4476-8a8b-031d29cb93b4</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Waterloo</p><p>physical-location-postalcode</p><p>N2J 4A8</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>211613</p><p>true</p><p>Seniors' Active Living Centres</p><p>Location/5f8c7497-3928-459c-852d-2e7436f34fcf</p><p>Location</p><p>Waterloo (City of) - Adult Recreation Centre</p><p>Recreation centre for older adults &lt;br&gt;&lt;ul&gt;&lt;li&gt;social and recreational activities&lt;/li&gt;&lt;/ul&gt;</p><p>Location/7b72862b-f2de-465f-9df2-bc71a73cc55b</p><p>Location</p><p>Membership fees</p><p>Adults 55 years and older</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>Call or drop-in * no referral required</p></div>",
+    "eligibility": [
+      "Adults 55 years and older"
+    ],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [
+      "Call or drop-in * no referral required"
+    ],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-579-1020"
+          },
+          {
+            "phone": "1-866-786-3941"
+          },
+          {
+            "phone": "519-579-9557"
+          },
+          {
+            "fax": "519-579-4560"
+          },
+          {
+            "email": "leisureprogramming@waterloo.ca"
+          },
+          {
+            "url": "www.waterloo.ca/en/living/senior-services.aspx"
+          }
+        ],
+        "address": {
+          "line": [
+            "101 Father David Bauer Dr"
+          ],
+          "city": "Waterloo",
+          "state": "ON",
+          "postalCode": "N2J 4A8"
+        },
+        "position": {
+          "longitude": -80.5326,
+          "latitude": 43.4643
+        }
+      }
+    ],
+    "contact_info": "phone: 519-579-1020, phone: 1-866-786-3941, phone: 519-579-9557, fax: 519-579-4560, email: leisureprogramming@waterloo.ca, url: www.waterloo.ca/en/living/senior-services.aspx",
+    "description_of_this": "Recreation centre for older adults <br><ul><li>social and recreational activities</li></ul>, Codes: Membership fees, Features: Wheelchair Accessible, Languages: English, Referral: Call or drop-in * no referral required, Address: 101 Father David Bauer Dr, Waterloo, ON, N2J 4A8, Location: lat: 43.4643, lon: -80.5326"
+  }
+]

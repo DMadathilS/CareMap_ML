@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Grand River Hospital to Waterloo Regional Health Network (WHRN) - Freeport Health Centre",
+    "active": true,
+    "category": [
+      "Abortion Services"
+    ],
+    "comment": "Community-based abortion",
+    "serviceProvisionCode": [
+      "Most services covered by OHIP"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>2574e209-684f-466d-ab0a-fba0498a6819</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Kitchener</p><p>physical-location-postalcode</p><p>N2A 2W6</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>208472</p><p>true</p><p>Abortion Services</p><p>Location/1991dc86-5899-420d-9e6e-d75e23c58c4f</p><p>Location</p><p>Grand River Hospital to Waterloo Regional Health Network (WHRN) - Freeport Health Centre</p><p>Community-based abortion</p><p>Location/7657fe55-8559-4448-96fc-d19fb0ebcc0b</p><p>Location</p><p>Most services covered by OHIP</p><p>People seeking an abortion</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>Call * no referral required * pregnancy must have been confirmed with a pregnancy test prior to making an appointment</p></div>",
+    "eligibility": [
+      "People seeking an abortion"
+    ],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [
+      "Call * no referral required * pregnancy must have been confirmed with a pregnancy test prior to making an appointment"
+    ],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-742-3611"
+          },
+          {
+            "phone": "519-749-4236"
+          },
+          {
+            "email": "info@grhosp.on.ca"
+          },
+          {
+            "url": "www.grhosp.on.ca/care/locations/freeportcampus"
+          }
+        ],
+        "address": {
+          "line": [
+            "3570 King St E"
+          ],
+          "city": "Kitchener",
+          "state": "ON",
+          "postalCode": "N2A 2W6"
+        },
+        "position": {
+          "longitude": -80.4126,
+          "latitude": 43.4252
+        }
+      }
+    ],
+    "contact_info": "phone: 519-742-3611, phone: 519-749-4236, email: info@grhosp.on.ca, url: www.grhosp.on.ca/care/locations/freeportcampus",
+    "description_of_this": "Community-based abortion, Codes: Most services covered by OHIP, Features: Wheelchair Accessible, Languages: English, Referral: Call * no referral required * pregnancy must have been confirmed with a pregnancy test prior to making an appointment, Address: 3570 King St E, Kitchener, ON, N2A 2W6, Location: lat: 43.4252, lon: -80.4126"
+  }
+]

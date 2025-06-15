@@ -1,0 +1,56 @@
+[
+  {
+    "name": "K-W Walk-In Clinic",
+    "active": true,
+    "category": [
+      "Cervical Cancer Screening",
+      "Walk-In Medical Clinics"
+    ],
+    "comment": "Walk-in medical clinic * doctors and nurses assess and treat minor illnesses and injuries",
+    "serviceProvisionCode": [],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>7b68e3c0-a3a9-4b38-9cb4-b6821beb43a8</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Kitchener</p><p>physical-location-postalcode</p><p>N2N 0B1</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>100356</p><p>true</p><p>Cervical Cancer Screening</p><p>Walk-In Medical Clinics</p><p>Location/7432cd23-ef28-40ab-abcc-461573c6963b</p><p>Location</p><p>K-W Walk-In Clinic</p><p>Walk-in medical clinic * doctors and nurses assess and treat minor illnesses and injuries</p><p>Location/686c3743-a248-4fc8-bbae-308cdb7c7e35</p><p>Location</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>Walk-in * same day pre-registration available</p></div>",
+    "eligibility": [],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [
+      "Walk-in * same day pre-registration available"
+    ],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-279-4098"
+          },
+          {
+            "fax": "519-279-4099"
+          },
+          {
+            "email": "waterloowalkin@gmail.com"
+          },
+          {
+            "url": "waterlooclinic.com/locations/k-w-clinic/"
+          }
+        ],
+        "address": {
+          "line": [
+            "Walmart",
+            "100 The Boardwalk"
+          ],
+          "city": "Kitchener",
+          "state": "ON",
+          "postalCode": "N2N 0B1"
+        },
+        "position": {
+          "longitude": -80.5577779,
+          "latitude": 43.432814
+        }
+      }
+    ],
+    "contact_info": "phone: 519-279-4098, fax: 519-279-4099, email: waterloowalkin@gmail.com, url: waterlooclinic.com/locations/k-w-clinic/",
+    "description_of_this": "Walk-in medical clinic * doctors and nurses assess and treat minor illnesses and injuries, Features: Wheelchair Accessible, Languages: English, Referral: Walk-in * same day pre-registration available, Address: Walmart, 100 The Boardwalk, Kitchener, ON, N2N 0B1, Location: lat: 43.432814, lon: -80.5577779"
+  }
+]

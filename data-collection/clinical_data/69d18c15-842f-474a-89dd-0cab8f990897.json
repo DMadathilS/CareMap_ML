@@ -1,0 +1,55 @@
+[
+  {
+    "name": "Traverse Independence - Acquired Brain Injury Services - Transitional Living Program - Kitchener",
+    "active": true,
+    "category": [
+      "Acquired Brain Injury Services"
+    ],
+    "comment": "Community-based support and rehabilitation services for adults living with the effects of an acquired brain injury<br><br>\n<b>Assisted Living Services</b> - Assisted living supports for people up to 24 hours per day",
+    "serviceProvisionCode": [
+      "Free"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>69d18c15-842f-474a-89dd-0cab8f990897</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Kitchener</p><p>physical-location-postalcode</p><p>N2K 2B2</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>208523</p><p>true</p><p>Acquired Brain Injury Services</p><p>Location/d77ba0b5-1708-4c9e-abaf-b9b68c3bd93d</p><p>Location</p><p>Traverse Independence - Acquired Brain Injury Services - Transitional Living Program - Kitchener</p><p>Community-based support and rehabilitation services for adults living with the effects of an acquired brain injury&lt;br&gt;&lt;br&gt;\n&lt;b&gt;Assisted Living Services&lt;/b&gt; - Assisted living supports for people up to 24 hours per day</p><p>Location/6a9d53c7-f1d6-46d7-8932-e4fd70e5e07a</p><p>Location</p><p>Free</p><p>Adults and youth 16 years and older, living with the effects of an acquired brain injury</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>Call * pre-admission assessment required</p></div>",
+    "eligibility": [
+      "Adults and youth 16 years and older, living with the effects of an acquired brain injury"
+    ],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [
+      "Call * pre-admission assessment required"
+    ],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "226-444-3935"
+          },
+          {
+            "fax": "519-741-8731"
+          },
+          {
+            "url": "www.traverseindependence.ca/en/brain-injury-services/Transitional-Living.aspx"
+          }
+        ],
+        "address": {
+          "line": [
+            "78 Stanley Ave"
+          ],
+          "city": "Kitchener",
+          "state": "ON",
+          "postalCode": "N2K 2B2"
+        },
+        "position": {
+          "longitude": -80.4685,
+          "latitude": 43.4795
+        }
+      }
+    ],
+    "contact_info": "phone: 226-444-3935, fax: 519-741-8731, url: www.traverseindependence.ca/en/brain-injury-services/Transitional-Living.aspx",
+    "description_of_this": "Community-based support and rehabilitation services for adults living with the effects of an acquired brain injury<br><br>\n<b>Assisted Living Services</b> - Assisted living supports for people up to 24 hours per day, Codes: Free, Features: Wheelchair Accessible, Languages: English, Referral: Call * pre-admission assessment required, Address: 78 Stanley Ave, Kitchener, ON, N2K 2B2, Location: lat: 43.4795, lon: -80.4685"
+  }
+]

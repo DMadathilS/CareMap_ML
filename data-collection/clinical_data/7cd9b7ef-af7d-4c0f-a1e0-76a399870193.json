@@ -1,0 +1,46 @@
+[
+  {
+    "name": "Dr Sameh Fikry Medicine Professional Corporation - After Hours and On Call Travel Clinic",
+    "active": true,
+    "category": [
+      "Immunization Clinics"
+    ],
+    "comment": "Immunization clinic * vaccination against common infectious diseases\n<br><br>\nGeneral information and counselling to discuss vaccines * immunization records are reviewed to determine vaccination need",
+    "serviceProvisionCode": [
+      "Publicly funded vaccines are free * other vaccines are provided at cost"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>7cd9b7ef-af7d-4c0f-a1e0-76a399870193</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Waterloo</p><p>physical-location-postalcode</p><p>N2J 1C4</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>209406</p><p>true</p><p>Immunization Clinics</p><p>Location/5354b974-d9df-4cea-a675-fcebc55e2161</p><p>Location</p><p>Dr Sameh Fikry Medicine Professional Corporation - After Hours and On Call Travel Clinic</p><p>Immunization clinic * vaccination against common infectious diseases\n&lt;br&gt;&lt;br&gt;\nGeneral information and counselling to discuss vaccines * immunization records are reviewed to determine vaccination need</p><p>Location/9b19b0f9-508f-4bc2-8c99-9ec79a102d54</p><p>Location</p><p>Publicly funded vaccines are free * other vaccines are provided at cost</p><p>Wheelchair Accessible</p></div>",
+    "eligibility": [],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [],
+    "referralMethod": [],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-569-8500"
+          },
+          {
+            "fax": "519-569-8506"
+          }
+        ],
+        "address": {
+          "line": [
+            "149 Union St E"
+          ],
+          "city": "Waterloo",
+          "state": "ON",
+          "postalCode": "N2J 1C4"
+        },
+        "position": {
+          "longitude": -80.5085,
+          "latitude": 43.4635
+        }
+      }
+    ],
+    "contact_info": "phone: 519-569-8500, fax: 519-569-8506",
+    "description_of_this": "Immunization clinic * vaccination against common infectious diseases\n<br><br>\nGeneral information and counselling to discuss vaccines * immunization records are reviewed to determine vaccination need, Codes: Publicly funded vaccines are free * other vaccines are provided at cost, Features: Wheelchair Accessible, Address: 149 Union St E, Waterloo, ON, N2J 1C4, Location: lat: 43.4635, lon: -80.5085"
+  }
+]

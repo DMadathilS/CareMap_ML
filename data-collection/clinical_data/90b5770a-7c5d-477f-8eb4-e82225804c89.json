@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Remedy'sRx Pharmacy - Elmira",
+    "active": true,
+    "category": [
+      "Pharmacies"
+    ],
+    "comment": "General pharmacy<ul><li>prescription of COVID-19 antiviral treatment (Paxlovid)</li><li>medication placed in pill organizers (containers for storing scheduled doses) at no extra cost\n </li><li> medication placed in blister packs (sealed, push-through packaging used to separate doses) at no extra cost</li><li> free delivery for prescriptions (in Elmira)</li><li>free seasonal flu vaccines</li><li>travel vaccines</li><li>compression stockings<br></li></ul><b><br></b><b>MedsCheck</b> - Appointments to review complex prescriptions with a pharmacist <br><br><b>Medications Return Program</b> - Safe disposal of expired or unused medications, creams, and inhalers <br><br>\n<b>Sharps Disposal Program</b> - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips",
+    "serviceProvisionCode": [
+      "Dispensing fee plus medication costs * prescribed medications may be covered by OHIP"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>90b5770a-7c5d-477f-8eb4-e82225804c89</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Elmira</p><p>physical-location-postalcode</p><p>N3B 2M8</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>209033</p><p>true</p><p>Pharmacies</p><p>Location/321112e1-c4c3-448c-bd14-0d222c7a65bd</p><p>Location</p><p>Remedy'sRx Pharmacy - Elmira</p><p>General pharmacy&lt;ul&gt;&lt;li&gt;prescription of COVID-19 antiviral treatment (Paxlovid)&lt;/li&gt;&lt;li&gt;medication placed in pill organizers (containers for storing scheduled doses) at no extra cost\n &lt;/li&gt;&lt;li&gt; medication placed in blister packs (sealed, push-through packaging used to separate doses) at no extra cost&lt;/li&gt;&lt;li&gt; free delivery for prescriptions (in Elmira)&lt;/li&gt;&lt;li&gt;free seasonal flu vaccines&lt;/li&gt;&lt;li&gt;travel vaccines&lt;/li&gt;&lt;li&gt;compression stockings&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;b&gt;MedsCheck&lt;/b&gt; - Appointments to review complex prescriptions with a pharmacist &lt;br&gt;&lt;br&gt;&lt;b&gt;Medications Return Program&lt;/b&gt; - Safe disposal of expired or unused medications, creams, and inhalers &lt;br&gt;&lt;br&gt;\n&lt;b&gt;Sharps Disposal Program&lt;/b&gt; - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips</p><p>Location/8e41ed5b-df5e-45ba-9aa8-0ab8fce8bc6c</p><p>Location</p><p>Dispensing fee plus medication costs * prescribed medications may be covered by OHIP</p><p>Not Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>hin</p><p>Hindi</p></div>",
+    "eligibility": [],
+    "characteristic": [
+      "Not Wheelchair Accessible"
+    ],
+    "communication": [
+      "English",
+      "Hindi"
+    ],
+    "referralMethod": [],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-669-5655"
+          },
+          {
+            "fax": "519-669-5595"
+          },
+          {
+            "url": "www.guardian-ida-remedysrx.ca/en/ontario/elmira/elmira-remedysrx-pharmacy-7023074"
+          }
+        ],
+        "address": {
+          "line": [
+            "75 Arthur St S"
+          ],
+          "city": "Elmira",
+          "state": "ON",
+          "postalCode": "N3B 2M8"
+        },
+        "position": {
+          "longitude": -80.5593,
+          "latitude": 43.5976
+        }
+      }
+    ],
+    "contact_info": "phone: 519-669-5655, fax: 519-669-5595, url: www.guardian-ida-remedysrx.ca/en/ontario/elmira/elmira-remedysrx-pharmacy-7023074",
+    "description_of_this": "General pharmacy<ul><li>prescription of COVID-19 antiviral treatment (Paxlovid)</li><li>medication placed in pill organizers (containers for storing scheduled doses) at no extra cost\n </li><li> medication placed in blister packs (sealed, push-through packaging used to separate doses) at no extra cost</li><li> free delivery for prescriptions (in Elmira)</li><li>free seasonal flu vaccines</li><li>travel vaccines</li><li>compression stockings<br></li></ul><b><br></b><b>MedsCheck</b> - Appointments to review complex prescriptions with a pharmacist <br><br><b>Medications Return Program</b> - Safe disposal of expired or unused medications, creams, and inhalers <br><br>\n<b>Sharps Disposal Program</b> - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips, Codes: Dispensing fee plus medication costs * prescribed medications may be covered by OHIP, Features: Not Wheelchair Accessible, Languages: English, Hindi, Address: 75 Arthur St S, Elmira, ON, N3B 2M8, Location: lat: 43.5976, lon: -80.5593"
+  }
+]

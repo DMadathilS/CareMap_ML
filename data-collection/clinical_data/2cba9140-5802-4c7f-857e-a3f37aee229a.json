@@ -1,0 +1,58 @@
+[
+  {
+    "name": "St Joseph's Health Centre Guelph - Acquired Brain Injury Day Program",
+    "active": true,
+    "category": [
+      "Adult Day Programs"
+    ],
+    "comment": "Adult day program * social, recreational, and therapeutic activities for people with acquired brain injury in a group setting for part of the day * helps to support family caregivers who provide day-to-day care<ul><li>meals<br><br></li></ul>Access to social work support including: <br><ul><li>peer support groups</li><li>caregiver support groups</li><li>individual counseling</li></ul>",
+    "serviceProvisionCode": [
+      "$5 per day * subsidy available for eligible participants"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>2cba9140-5802-4c7f-857e-a3f37aee229a</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Guelph</p><p>physical-location-postalcode</p><p>N1H 7T9</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>208358</p><p>true</p><p>Adult Day Programs</p><p>Location/532949de-9a05-4b1a-ae6e-a615af7a02a1</p><p>Location</p><p>St Joseph's Health Centre Guelph - Acquired Brain Injury Day Program</p><p>Adult day program * social, recreational, and therapeutic activities for people with acquired brain injury in a group setting for part of the day * helps to support family caregivers who provide day-to-day care&lt;ul&gt;&lt;li&gt;meals&lt;br&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;Access to social work support including: &lt;br&gt;&lt;ul&gt;&lt;li&gt;peer support groups&lt;/li&gt;&lt;li&gt;caregiver support groups&lt;/li&gt;&lt;li&gt;individual counseling&lt;/li&gt;&lt;/ul&gt;</p><p>Location/0892f3e0-d5a4-48a3-9811-717b0d7824d9</p><p>Location</p><p>$5 per day * subsidy available for eligible participants</p><p>Older adults and adults with disabilities, who need physical, social, or emotional supports * care coordinators assess the needs of applicants</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>Contact Ontario Health atHome Waterloo-Wellington, self referrals and referrals from other health care professionals accepted * visit web-site for referral form</p></div>",
+    "eligibility": [
+      "Older adults and adults with disabilities, who need physical, social, or emotional supports * care coordinators assess the needs of applicants"
+    ],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [
+      "Contact Ontario Health atHome Waterloo-Wellington, self referrals and referrals from other health care professionals accepted * visit web-site for referral form"
+    ],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-824-6000 ext 5184"
+          },
+          {
+            "fax": "519-767-5194"
+          },
+          {
+            "email": "abiprogram@sjhcg.ca"
+          },
+          {
+            "url": "www.sjhcg.ca/our-programs-of-care/community-support-services/acquired-brain-injury-program/"
+          }
+        ],
+        "address": {
+          "line": [
+            "25 Wellington St W"
+          ],
+          "city": "Guelph",
+          "state": "ON",
+          "postalCode": "N1H 7T9"
+        },
+        "position": {
+          "longitude": -80.2457,
+          "latitude": 43.54
+        }
+      }
+    ],
+    "contact_info": "phone: 519-824-6000 ext 5184, fax: 519-767-5194, email: abiprogram@sjhcg.ca, url: www.sjhcg.ca/our-programs-of-care/community-support-services/acquired-brain-injury-program/",
+    "description_of_this": "Adult day program * social, recreational, and therapeutic activities for people with acquired brain injury in a group setting for part of the day * helps to support family caregivers who provide day-to-day care<ul><li>meals<br><br></li></ul>Access to social work support including: <br><ul><li>peer support groups</li><li>caregiver support groups</li><li>individual counseling</li></ul>, Codes: $5 per day * subsidy available for eligible participants, Features: Wheelchair Accessible, Languages: English, Referral: Contact Ontario Health atHome Waterloo-Wellington, self referrals and referrals from other health care professionals accepted * visit web-site for referral form, Address: 25 Wellington St W, Guelph, ON, N1H 7T9, Location: lat: 43.54, lon: -80.2457"
+  }
+]

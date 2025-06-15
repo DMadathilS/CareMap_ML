@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Alzheimer Society Waterloo Wellington - Guelph",
+    "active": true,
+    "category": [
+      "Alzheimer's Disease and Related Dementias"
+    ],
+    "comment": "Supports for people with Alzheimer's disease and other dementias, and their caregivers\n<br>\n<br>Seminars, workshops and training sessions * one-on-one care plan \nconsultations with health professionals * advanced care planning for \nfuture health care needs <br><br><b>First Link</b> - Networking for people affected by \nAlzheimer's disease or a related dementia, to a community of learning, \nservices and support * one-on-one counselling * caregiver support groups\n * referral to community resources by phone, drop in, or home visit * \nFirst Link Learning Series offered regularly in various locations <br><br><b>Education Programs and Resources</b> - Education, awareness programs, and resources for the general public and health care providers on Alzheimer's disease <br><br><b>Minds in Motion</b> - Community-based social program that includes physical and mental stimulation for people with early to mid-stage dementia and their care partners<br><br><b>Support Groups and Programs</b> - Support groups and programs for people with dementia, and their friends and family",
+    "serviceProvisionCode": [
+      "Varies per program"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>a9d0cc23-34f9-4967-adec-d6ad3acfa8a1</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Guelph</p><p>physical-location-postalcode</p><p>N1H 7T9</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>209308</p><p>true</p><p>Alzheimer's Disease and Related Dementias</p><p>Location/0e7fb551-8822-453b-8301-c27f07ce12c4</p><p>Location</p><p>Alzheimer Society Waterloo Wellington - Guelph</p><p>Supports for people with Alzheimer's disease and other dementias, and their caregivers\n&lt;br&gt;\n&lt;br&gt;Seminars, workshops and training sessions * one-on-one care plan \nconsultations with health professionals * advanced care planning for \nfuture health care needs &lt;br&gt;&lt;br&gt;&lt;b&gt;First Link&lt;/b&gt; - Networking for people affected by \nAlzheimer's disease or a related dementia, to a community of learning, \nservices and support * one-on-one counselling * caregiver support groups\n * referral to community resources by phone, drop in, or home visit * \nFirst Link Learning Series offered regularly in various locations &lt;br&gt;&lt;br&gt;&lt;b&gt;Education Programs and Resources&lt;/b&gt; - Education, awareness programs, and resources for the general public and health care providers on Alzheimer's disease &lt;br&gt;&lt;br&gt;&lt;b&gt;Minds in Motion&lt;/b&gt; - Community-based social program that includes physical and mental stimulation for people with early to mid-stage dementia and their care partners&lt;br&gt;&lt;br&gt;&lt;b&gt;Support Groups and Programs&lt;/b&gt; - Support groups and programs for people with dementia, and their friends and family</p><p>Location/6f9e4aa2-8e55-4919-b291-4d48be77b5a4</p><p>Location</p><p>Varies per program</p><p>People with Alzheimer's disease and other dementias, and their caregivers</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>Call * no referral required</p></div>",
+    "eligibility": [
+      "People with Alzheimer's disease and other dementias, and their caregivers"
+    ],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [
+      "Call * no referral required"
+    ],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-836-7672<br>Social Worker: 226-314-0949 ext 2090"
+          },
+          {
+            "fax": "519-742-1862"
+          },
+          {
+            "email": "asww@alzheimerww.ca"
+          },
+          {
+            "url": "www.alzheimerww.ca"
+          }
+        ],
+        "address": {
+          "line": [
+            "25 Wellington St W, Unit 202"
+          ],
+          "city": "Guelph",
+          "state": "ON",
+          "postalCode": "N1H 7T9"
+        },
+        "position": {
+          "longitude": -80.2379,
+          "latitude": 43.5484
+        }
+      }
+    ],
+    "contact_info": "phone: 519-836-7672<br>Social Worker: 226-314-0949 ext 2090, fax: 519-742-1862, email: asww@alzheimerww.ca, url: www.alzheimerww.ca",
+    "description_of_this": "Supports for people with Alzheimer's disease and other dementias, and their caregivers\n<br>\n<br>Seminars, workshops and training sessions * one-on-one care plan \nconsultations with health professionals * advanced care planning for \nfuture health care needs <br><br><b>First Link</b> - Networking for people affected by \nAlzheimer's disease or a related dementia, to a community of learning, \nservices and support * one-on-one counselling * caregiver support groups\n * referral to community resources by phone, drop in, or home visit * \nFirst Link Learning Series offered regularly in various locations <br><br><b>Education Programs and Resources</b> - Education, awareness programs, and resources for the general public and health care providers on Alzheimer's disease <br><br><b>Minds in Motion</b> - Community-based social program that includes physical and mental stimulation for people with early to mid-stage dementia and their care partners<br><br><b>Support Groups and Programs</b> - Support groups and programs for people with dementia, and their friends and family, Codes: Varies per program, Features: Wheelchair Accessible, Languages: English, Referral: Call * no referral required, Address: 25 Wellington St W, Unit 202, Guelph, ON, N1H 7T9, Location: lat: 43.5484, lon: -80.2379"
+  }
+]

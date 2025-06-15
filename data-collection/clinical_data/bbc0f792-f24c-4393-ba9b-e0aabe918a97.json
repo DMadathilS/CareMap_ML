@@ -1,0 +1,51 @@
+[
+  {
+    "name": "IDA Pharmacy - Kitchener - King St W (Pharmacy on King)",
+    "active": true,
+    "category": [
+      "Pharmacies"
+    ],
+    "comment": "General pharmacy<ul><li>treatment and prescription of medications for common medical ailments, including rashes, pink eye, insect bites, acne, and urinary tract infections</li><li>prescription of COVID-19 antiviral treatment (Paxlovid)</li><li>basic home health care supplies</li><li>free seasonal flu vaccines by appointment</li><li>pharmacist available for diabetes management consultations</li><li>medication placed in pill organizers (containers for storing scheduled doses) <br><br></li></ul><b>Pharmacy Smoking Cessation Program</b> - Help to quit smoking, available for Ontario Drug Benefit recipients<b><br><br></b><b>MedsCheck</b> - Appointments to review complex prescriptions with a pharmacist<br><br><b>Sharps Disposal Program</b> - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips",
+    "serviceProvisionCode": [
+      "Dispensing fee plus medication costs * prescribed medications may be covered by OHIP"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>bbc0f792-f24c-4393-ba9b-e0aabe918a97</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Kitchener</p><p>physical-location-postalcode</p><p>N2G 1E2</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>208746</p><p>true</p><p>Pharmacies</p><p>Location/1aaf642a-977e-4291-9a79-248660421d72</p><p>Location</p><p>IDA Pharmacy - Kitchener - King St W (Pharmacy on King)</p><p>General pharmacy&lt;ul&gt;&lt;li&gt;treatment and prescription of medications for common medical ailments, including rashes, pink eye, insect bites, acne, and urinary tract infections&lt;/li&gt;&lt;li&gt;prescription of COVID-19 antiviral treatment (Paxlovid)&lt;/li&gt;&lt;li&gt;basic home health care supplies&lt;/li&gt;&lt;li&gt;free seasonal flu vaccines by appointment&lt;/li&gt;&lt;li&gt;pharmacist available for diabetes management consultations&lt;/li&gt;&lt;li&gt;medication placed in pill organizers (containers for storing scheduled doses) &lt;br&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;b&gt;Pharmacy Smoking Cessation Program&lt;/b&gt; - Help to quit smoking, available for Ontario Drug Benefit recipients&lt;b&gt;&lt;br&gt;&lt;br&gt;&lt;/b&gt;&lt;b&gt;MedsCheck&lt;/b&gt; - Appointments to review complex prescriptions with a pharmacist&lt;br&gt;&lt;br&gt;&lt;b&gt;Sharps Disposal Program&lt;/b&gt; - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips</p><p>Location/fc664c9b-6ad8-4512-8f09-17f032c782b4</p><p>Location</p><p>Dispensing fee plus medication costs * prescribed medications may be covered by OHIP</p><p>Partially Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p></div>",
+    "eligibility": [],
+    "characteristic": [
+      "Partially Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-578-9991"
+          },
+          {
+            "fax": "519-578-4027"
+          },
+          {
+            "url": "www.guardian-ida-remedysrx.ca/en/ontario/kitchener/pharmacy-on-king-7053610"
+          }
+        ],
+        "address": {
+          "line": [
+            "702 King St W"
+          ],
+          "city": "Kitchener",
+          "state": "ON",
+          "postalCode": "N2G 1E2"
+        },
+        "position": {
+          "longitude": -80.5053,
+          "latitude": 43.4554
+        }
+      }
+    ],
+    "contact_info": "phone: 519-578-9991, fax: 519-578-4027, url: www.guardian-ida-remedysrx.ca/en/ontario/kitchener/pharmacy-on-king-7053610",
+    "description_of_this": "General pharmacy<ul><li>treatment and prescription of medications for common medical ailments, including rashes, pink eye, insect bites, acne, and urinary tract infections</li><li>prescription of COVID-19 antiviral treatment (Paxlovid)</li><li>basic home health care supplies</li><li>free seasonal flu vaccines by appointment</li><li>pharmacist available for diabetes management consultations</li><li>medication placed in pill organizers (containers for storing scheduled doses) <br><br></li></ul><b>Pharmacy Smoking Cessation Program</b> - Help to quit smoking, available for Ontario Drug Benefit recipients<b><br><br></b><b>MedsCheck</b> - Appointments to review complex prescriptions with a pharmacist<br><br><b>Sharps Disposal Program</b> - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips, Codes: Dispensing fee plus medication costs * prescribed medications may be covered by OHIP, Features: Partially Accessible, Languages: English, Address: 702 King St W, Kitchener, ON, N2G 1E2, Location: lat: 43.4554, lon: -80.5053, Contact: phone: 519-578-9991, fax: 519-578-4027, url: www.guardian-ida-remedysrx.ca/en/ontario/kitchener/pharmacy-on-king-7053610"
+  }
+]

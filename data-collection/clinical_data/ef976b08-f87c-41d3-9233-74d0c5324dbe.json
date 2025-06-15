@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Doon Village Pharmacy",
+    "active": true,
+    "category": [
+      "Pharmacies"
+    ],
+    "comment": "Compounding pharmacy<ul><li> treatment and prescription of medications for common medical \nailments, including rashes, pink eye, insect bites, acne, and urinary \ntract infections<br></li><li> prescription of COVID-19 antiviral treatment (Paxlovid)</li><li>medication placed in pill organizers (containers for storing scheduled doses) at no extra cost\n </li><li>medication placed in blister packs (sealed, push-through packaging used to separate doses)  at no extra cost\n </li><li>free seasonal flu vaccines</li><li>free take-home naloxone kits (emergency response kits for opioid overdose)</li></ul><br><b>MedsCheck</b> - Appointments to review complex prescriptions with a pharmacist <br><br><b>Medications Return Program</b> - Safe disposal of expired or unused medications, creams, and inhalers <br><br>\n<b>Sharps Disposal Program</b> - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips",
+    "serviceProvisionCode": [
+      "Dispensing fee plus medication costs * prescribed medications may be covered by OHIP"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>ef976b08-f87c-41d3-9233-74d0c5324dbe</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Kitchener</p><p>physical-location-postalcode</p><p>N2P 1T6</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>208633</p><p>true</p><p>Pharmacies</p><p>Location/779ae03b-7251-4a12-a949-024ef6dcff30</p><p>Location</p><p>Doon Village Pharmacy</p><p>Compounding pharmacy&lt;ul&gt;&lt;li&gt; treatment and prescription of medications for common medical \nailments, including rashes, pink eye, insect bites, acne, and urinary \ntract infections&lt;br&gt;&lt;/li&gt;&lt;li&gt; prescription of COVID-19 antiviral treatment (Paxlovid)&lt;/li&gt;&lt;li&gt;medication placed in pill organizers (containers for storing scheduled doses) at no extra cost\n &lt;/li&gt;&lt;li&gt;medication placed in blister packs (sealed, push-through packaging used to separate doses)  at no extra cost\n &lt;/li&gt;&lt;li&gt;free seasonal flu vaccines&lt;/li&gt;&lt;li&gt;free take-home naloxone kits (emergency response kits for opioid overdose)&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;b&gt;MedsCheck&lt;/b&gt; - Appointments to review complex prescriptions with a pharmacist &lt;br&gt;&lt;br&gt;&lt;b&gt;Medications Return Program&lt;/b&gt; - Safe disposal of expired or unused medications, creams, and inhalers &lt;br&gt;&lt;br&gt;\n&lt;b&gt;Sharps Disposal Program&lt;/b&gt; - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips</p><p>Location/6b077e97-891f-4723-a976-e0a827eeb595</p><p>Location</p><p>Dispensing fee plus medication costs * prescribed medications may be covered by OHIP</p><p>Not Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>pan</p><p>Punjabi</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>srp</p><p>Serbian</p></div>",
+    "eligibility": [],
+    "characteristic": [
+      "Not Wheelchair Accessible"
+    ],
+    "communication": [
+      "English",
+      "Punjabi",
+      "Serbian"
+    ],
+    "referralMethod": [],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-895-8989"
+          },
+          {
+            "fax": "519-893-6351"
+          },
+          {
+            "email": "rx@doonvillagepharmacy.ca"
+          },
+          {
+            "url": "doonrx.com/"
+          }
+        ],
+        "address": {
+          "line": [
+            "601 Doon Village Rd"
+          ],
+          "city": "Kitchener",
+          "state": "ON",
+          "postalCode": "N2P 1T6"
+        },
+        "position": {
+          "longitude": -80.4474,
+          "latitude": 43.3982
+        }
+      }
+    ],
+    "contact_info": "phone: 519-895-8989, fax: 519-893-6351, email: rx@doonvillagepharmacy.ca, url: doonrx.com/",
+    "description_of_this": "Compounding pharmacy<ul><li> treatment and prescription of medications for common medical \nailments, including rashes, pink eye, insect bites, acne, and urinary \ntract infections<br></li><li> prescription of COVID-19 antiviral treatment (Paxlovid)</li><li>medication placed in pill organizers (containers for storing scheduled doses) at no extra cost\n </li><li>medication placed in blister packs (sealed, push-through packaging used to separate doses)  at no extra cost\n </li><li>free seasonal flu vaccines</li><li>free take-home naloxone kits (emergency response kits for opioid overdose)</li></ul><br><b>MedsCheck</b> - Appointments to review complex prescriptions with a pharmacist <br><br><b>Medications Return Program</b> - Safe disposal of expired or unused medications, creams, and inhalers <br><br>\n<b>Sharps Disposal Program</b> - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips, Codes: Dispensing fee plus medication costs * prescribed medications may be covered by OHIP, Features: Not Wheelchair Accessible, Languages: English, Punjabi, Serbian, Address: 601 Doon Village Rd, Kitchener, ON, N2P 1T6, Location: lat: 43.3982, lon: -80.4474, Contact: phone: 519-895-8989, fax: 519-893-6351, email: rx@doonvillagepharmacy.ca, url: doonrx.com/"
+  }
+]

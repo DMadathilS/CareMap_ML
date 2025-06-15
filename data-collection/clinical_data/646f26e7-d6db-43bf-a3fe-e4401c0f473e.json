@@ -1,0 +1,59 @@
+[
+  {
+    "name": "Cardio Pulmonary Services",
+    "active": true,
+    "category": [
+      "Pulmonary Function Labs"
+    ],
+    "comment": "Community-based respiratory clinic * lung diagnostic and treatment services by a respirologist and respiratory therapists<br><br>Organization also offers cardiac testing",
+    "serviceProvisionCode": [
+      "Most services covered by OHIP"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>646f26e7-d6db-43bf-a3fe-e4401c0f473e</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Waterloo</p><p>physical-location-postalcode</p><p>N2T 0C2</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>208434</p><p>true</p><p>Pulmonary Function Labs</p><p>Location/87c4c8f4-fb89-48d1-b2f3-0f81431ae097</p><p>Location</p><p>Cardio Pulmonary Services</p><p>Community-based respiratory clinic * lung diagnostic and treatment services by a respirologist and respiratory therapists&lt;br&gt;&lt;br&gt;Organization also offers cardiac testing</p><p>Location/098cb61e-3fcf-48f9-a0b1-404e23db31f1</p><p>Location</p><p>Most services covered by OHIP</p><p>People with lung disease or needing cardiac testing</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>Medical referral required</p></div>",
+    "eligibility": [
+      "People with lung disease or needing cardiac testing"
+    ],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [
+      "Medical referral required"
+    ],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-741-5252"
+          },
+          {
+            "fax": "519-741-5772"
+          },
+          {
+            "email": "cps.admin@kwcps.com"
+          },
+          {
+            "url": "www.kwcps.com/"
+          }
+        ],
+        "address": {
+          "line": [
+            "Medical Centre 2",
+            "435 The Boardwalk, Suite 303"
+          ],
+          "city": "Waterloo",
+          "state": "ON",
+          "postalCode": "N2T 0C2"
+        },
+        "position": {
+          "longitude": -80.5663,
+          "latitude": 43.4401
+        }
+      }
+    ],
+    "contact_info": "phone: 519-741-5252, fax: 519-741-5772, email: cps.admin@kwcps.com, url: www.kwcps.com/",
+    "description_of_this": "Community-based respiratory clinic * lung diagnostic and treatment services by a respirologist and respiratory therapists<br><br>Organization also offers cardiac testing, Codes: Most services covered by OHIP, Features: Wheelchair Accessible, Languages: English, Referral: Medical referral required, Address: Medical Centre 2, 435 The Boardwalk, Suite 303, Waterloo, ON, N2T 0C2, Location: lat: 43.4401, lon: -80.5663"
+  }
+]

@@ -1,0 +1,59 @@
+[
+  {
+    "name": "Waterloo Walk-In Clinic",
+    "active": true,
+    "category": [
+      "Walk-In Medical Clinics"
+    ],
+    "comment": "Walk-in medical clinic for urgent non life threatening medical conditions * no x-ray facilities",
+    "serviceProvisionCode": [
+      "Most services covered by OHIP"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>77831bc0-0c51-41ad-b416-2f7da08898bb</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Waterloo</p><p>physical-location-postalcode</p><p>N2L 3E9</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>103061</p><p>true</p><p>Walk-In Medical Clinics</p><p>Location/4540576e-4d19-4343-bb23-cbdae82b13ac</p><p>Location</p><p>Waterloo Walk-In Clinic</p><p>Walk-in medical clinic for urgent non life threatening medical conditions * no x-ray facilities</p><p>Location/74e1dd33-8b45-4887-a0c0-7556a221da86</p><p>Location</p><p>Most services covered by OHIP</p><p>People who need medical care for minor illnesses and injuries</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>Call or visit * no referral required</p></div>",
+    "eligibility": [
+      "People who need medical care for minor illnesses and injuries"
+    ],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [
+      "Call or visit * no referral required"
+    ],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-725-1514"
+          },
+          {
+            "fax": "519-725-5137"
+          },
+          {
+            "email": "waterloowalkin@gmail.com"
+          },
+          {
+            "url": "waterlooclinic.com"
+          }
+        ],
+        "address": {
+          "line": [
+            "University Shops Plaza",
+            "170 University Ave W, Unit 13"
+          ],
+          "city": "Waterloo",
+          "state": "ON",
+          "postalCode": "N2L 3E9"
+        },
+        "position": {
+          "longitude": -80.5387,
+          "latitude": 43.4717
+        }
+      }
+    ],
+    "contact_info": "phone: 519-725-1514, fax: 519-725-5137, email: waterloowalkin@gmail.com, url: waterlooclinic.com",
+    "description_of_this": "Walk-in medical clinic for urgent non life threatening medical conditions * no x-ray facilities, Codes: Most services covered by OHIP, Features: Wheelchair Accessible, Languages: English, Referral: Call or visit * no referral required, Address: University Shops Plaza, 170 University Ave W, Unit 13, Waterloo, ON, N2L 3E9, Location: lat: 43.4717, lon: -80.5387"
+  }
+]

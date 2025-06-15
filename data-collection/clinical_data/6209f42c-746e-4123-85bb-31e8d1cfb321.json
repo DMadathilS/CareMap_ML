@@ -1,0 +1,58 @@
+[
+  {
+    "name": "AgeCare West Williams",
+    "active": true,
+    "category": [
+      "Long-Term Care Homes"
+    ],
+    "comment": "160-bed long-term care home * residential care for private rooms, semi-private rooms, and basic rooms\n* 24-hour nursing and personal care * access to a doctor and other health professionals<br><ul><li>bedding and furniture</li><li>laundry and housekeeping</li><li>meals</li><li>personal hygiene supplies</li><li>medical supplies and equipment (such as catheters, ostomy bags, or wound care supplies) </li><li>assistance with medication and activities of daily living</li><li>recreation and social programs</li><li>spiritual care</li></ul>",
+    "serviceProvisionCode": [
+      "Rates set by the Ontario Ministry of Long-Term Care * subsidies for basic rates may be available for eligible applicants"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>6209f42c-746e-4123-85bb-31e8d1cfb321</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Kitchener</p><p>physical-location-postalcode</p><p>N2E 3Y4</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>103204</p><p>true</p><p>Long-Term Care Homes</p><p>Location/485a0023-2884-44fa-9e8b-8caf48275986</p><p>Location</p><p>AgeCare West Williams</p><p>160-bed long-term care home * residential care for private rooms, semi-private rooms, and basic rooms\n* 24-hour nursing and personal care * access to a doctor and other health professionals&lt;br&gt;&lt;ul&gt;&lt;li&gt;bedding and furniture&lt;/li&gt;&lt;li&gt;laundry and housekeeping&lt;/li&gt;&lt;li&gt;meals&lt;/li&gt;&lt;li&gt;personal hygiene supplies&lt;/li&gt;&lt;li&gt;medical supplies and equipment (such as catheters, ostomy bags, or wound care supplies) &lt;/li&gt;&lt;li&gt;assistance with medication and activities of daily living&lt;/li&gt;&lt;li&gt;recreation and social programs&lt;/li&gt;&lt;li&gt;spiritual care&lt;/li&gt;&lt;/ul&gt;</p><p>Location/3db49fa6-2493-46dc-80fa-3953eace57b9</p><p>Location</p><p>Rates set by the Ontario Ministry of Long-Term Care * subsidies for basic rates may be available for eligible applicants</p><p>Adults who need long-term care * care coordinators assess the needs of applicants</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>Contact Ontario Health atHome Waterloo-Wellington</p></div>",
+    "eligibility": [
+      "Adults who need long-term care * care coordinators assess the needs of applicants"
+    ],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [
+      "Contact Ontario Health atHome Waterloo-Wellington"
+    ],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-570-2115"
+          },
+          {
+            "fax": "519-579-9770"
+          },
+          {
+            "email": "westwilliams@agecare.ca"
+          },
+          {
+            "url": "www.agecare.ca/community/agecare-west-williams/care/service/"
+          }
+        ],
+        "address": {
+          "line": [
+            "200 David Bergey Dr"
+          ],
+          "city": "Kitchener",
+          "state": "ON",
+          "postalCode": "N2E 3Y4"
+        },
+        "position": {
+          "longitude": -80.5178,
+          "latitude": 43.4062
+        }
+      }
+    ],
+    "contact_info": "phone: 519-570-2115, fax: 519-579-9770, email: westwilliams@agecare.ca, url: www.agecare.ca/community/agecare-west-williams/care/service/",
+    "description_of_this": "160-bed long-term care home * residential care for private rooms, semi-private rooms, and basic rooms\n* 24-hour nursing and personal care * access to a doctor and other health professionals<br><ul><li>bedding and furniture</li><li>laundry and housekeeping</li><li>meals</li><li>personal hygiene supplies</li><li>medical supplies and equipment (such as catheters, ostomy bags, or wound care supplies) </li><li>assistance with medication and activities of daily living</li><li>recreation and social programs</li><li>spiritual care</li></ul>, Codes: Rates set by the Ontario Ministry of Long-Term Care * subsidies for basic rates may be available for eligible applicants, Features: Wheelchair Accessible, Languages: English, Referral: Contact Ontario Health atHome Waterloo-Wellington, Address: 200 David Bergey Dr, Kitchener, ON, N2E 3Y4, Location: lat: 43.4062, lon: -80.5178"
+  }
+]

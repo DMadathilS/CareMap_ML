@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Waterloo (City of) - Community Services",
+    "active": true,
+    "category": [
+      "Telephone Reassurance and Security Checks"
+    ],
+    "comment": "Regular phone calls to check on the health and safety of older adults who live alone * checks are done by trained and screened volunteers",
+    "serviceProvisionCode": [
+      "Free"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>03b865d4-6cfa-4ea7-80bc-2375757daac1</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Waterloo</p><p>physical-location-postalcode</p><p>N2J 4A8</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>215011</p><p>true</p><p>Telephone Reassurance and Security Checks</p><p>Location/cec40d31-c9fc-4899-992d-3930c35f538b</p><p>Location</p><p>Waterloo (City of) - Community Services</p><p>Regular phone calls to check on the health and safety of older adults who live alone * checks are done by trained and screened volunteers</p><p>Location/c814cb08-49df-4e9d-b7c4-2e78f7942cb6</p><p>Location</p><p>Free</p><p>Older adults</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>Call * no referral required</p></div>",
+    "eligibility": [
+      "Older adults"
+    ],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [
+      "Call * no referral required"
+    ],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-579-6930"
+          },
+          {
+            "phone": "1-866-786-3941"
+          },
+          {
+            "url": "www.waterloo.ca/en/living/senior-services.aspx#Telephone-reassurance"
+          }
+        ],
+        "address": {
+          "line": [
+            "Waterloo City Centre",
+            "100 Regina St S, PO Box 337, Stn Waterloo"
+          ],
+          "city": "Waterloo",
+          "state": "ON",
+          "postalCode": "N2J 4A8"
+        },
+        "position": {
+          "longitude": -80.5203,
+          "latitude": 43.4634
+        }
+      }
+    ],
+    "contact_info": "phone: 519-579-6930, phone: 1-866-786-3941, url: www.waterloo.ca/en/living/senior-services.aspx#Telephone-reassurance",
+    "description_of_this": "Regular phone calls to check on the health and safety of older adults who live alone * checks are done by trained and screened volunteers, Codes: Free, Features: Wheelchair Accessible, Languages: English, Referral: Call * no referral required, Address: Waterloo City Centre, 100 Regina St S, PO Box 337, Stn Waterloo, Waterloo, ON, N2J 4A8, Location: lat: 43.4634, lon: -80.5203"
+  }
+]

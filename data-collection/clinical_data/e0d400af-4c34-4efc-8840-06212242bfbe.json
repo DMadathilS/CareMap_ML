@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Waterloo Region - Public Health and Emergency Services",
+    "active": true,
+    "category": [
+      "Sexual Health Clinics",
+      "Sexual Health Clinics - Anonymous Testing"
+    ],
+    "comment": "Sexual health clinic * health professionals test for and treat sexually transmitted infections * family planning services <br><ul><li>birth control</li><li>pap smears for youth and adults up to 24 years</li><li>post-therapeutic abortion follow up</li><li>sexually transmitted infection (STI) testing</li><li>treatment for genital warts (HPV)</li><li>assessment, treatment, education, and referrals for sexual health issues</li></ul>",
+    "serviceProvisionCode": [
+      "Free"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>e0d400af-4c34-4efc-8840-06212242bfbe</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Waterloo</p><p>physical-location-postalcode</p><p>N2J 4V3</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>103014</p><p>true</p><p>Sexual Health Clinics</p><p>Sexual Health Clinics - Anonymous Testing</p><p>Location/ae98488d-ebcd-4eb3-9a58-45564ba9dee4</p><p>Location</p><p>Waterloo Region - Public Health and Emergency Services</p><p>Sexual health clinic * health professionals test for and treat sexually transmitted infections * family planning services &lt;br&gt;&lt;ul&gt;&lt;li&gt;birth control&lt;/li&gt;&lt;li&gt;pap smears for youth and adults up to 24 years&lt;/li&gt;&lt;li&gt;post-therapeutic abortion follow up&lt;/li&gt;&lt;li&gt;sexually transmitted infection (STI) testing&lt;/li&gt;&lt;li&gt;treatment for genital warts (HPV)&lt;/li&gt;&lt;li&gt;assessment, treatment, education, and referrals for sexual health issues&lt;/li&gt;&lt;/ul&gt;</p><p>Location/0abe25bc-e390-4e5e-b51a-25826bd6f4c9</p><p>Location</p><p>Free</p><p>People who need sexual health services</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>Call or drop-in * no referral required</p></div>",
+    "eligibility": [
+      "People who need sexual health services"
+    ],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [
+      "Call or drop-in * no referral required"
+    ],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-883-2267"
+          },
+          {
+            "phone": "519-883-2427"
+          },
+          {
+            "fax": "519-621-5967"
+          },
+          {
+            "email": "publichealth@regionofwaterloo.ca"
+          },
+          {
+            "url": "www.regionofwaterloo.ca/en/health-and-wellness/sexual-health.aspx"
+          }
+        ],
+        "address": {
+          "line": [
+            "99 Regina St S"
+          ],
+          "city": "Waterloo",
+          "state": "ON",
+          "postalCode": "N2J 4V3"
+        },
+        "position": {
+          "longitude": -80.5208,
+          "latitude": 43.4629
+        }
+      }
+    ],
+    "contact_info": "phone: 519-883-2267, phone: 519-883-2427, fax: 519-621-5967, email: publichealth@regionofwaterloo.ca, url: www.regionofwaterloo.ca/en/health-and-wellness/sexual-health.aspx",
+    "description_of_this": "Sexual health clinic * health professionals test for and treat sexually transmitted infections * family planning services <br><ul><li>birth control</li><li>pap smears for youth and adults up to 24 years</li><li>post-therapeutic abortion follow up</li><li>sexually transmitted infection (STI) testing</li><li>treatment for genital warts (HPV)</li><li>assessment, treatment, education, and referrals for sexual health issues</li></ul>, Codes: Free, Features: Wheelchair Accessible, Languages: English, Referral: Call or drop-in * no referral required, Address: 99 Regina St S, Waterloo, ON, N2J 4V3, Location: lat: 43.4629, lon: -80.5208, Contact: phone: 519-883-2267, phone: 519-883-2427, fax: 519-621-5967, email: publichealth@regionofwaterloo.ca, url: www.regionofwaterloo.ca/en/health-and-wellness/sexual-health.aspx"
+  }
+]

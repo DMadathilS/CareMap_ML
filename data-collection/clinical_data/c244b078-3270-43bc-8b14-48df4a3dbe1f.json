@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Guelph Medical Imaging - Guelph - Cardigan St",
+    "active": true,
+    "category": [
+      "Diagnostic Imaging Clinics",
+      "Ontario Breast Screening Programs"
+    ],
+    "comment": "Diagnostic imaging clinic<br><br><b>Services include:</b><ul><li>ultrasound</li><li>vascular x-ray</li><li>bone mineral density testing</li><li>mammography (breast x-rays used to screen and diagnose medical conditions)\n<br><br></li></ul><b>Ontario Breast Screening Program</b> - Breast screening for\n early detection of breast cancer in women * screening includes \nmammography (x-rays of breast tissue) * screening results are sent to \nboth the woman and her doctor * women who receive normal results are \nautomatically recalled for their next screening appointment * women who \nreceive abnormal results are referred to their doctor for further \ninvestigation, or are referred directly for additional tests",
+    "serviceProvisionCode": [
+      "Most services covered by OHIP"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>c244b078-3270-43bc-8b14-48df4a3dbe1f</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Guelph</p><p>physical-location-postalcode</p><p>N1H 3Z6</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>208132</p><p>true</p><p>Diagnostic Imaging Clinics</p><p>Ontario Breast Screening Programs</p><p>Location/1bb7e316-72bc-4951-bfb0-99ebe70e1722</p><p>Location</p><p>Guelph Medical Imaging - Guelph - Cardigan St</p><p>Diagnostic imaging clinic&lt;br&gt;&lt;br&gt;&lt;b&gt;Services include:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;ultrasound&lt;/li&gt;&lt;li&gt;vascular x-ray&lt;/li&gt;&lt;li&gt;bone mineral density testing&lt;/li&gt;&lt;li&gt;mammography (breast x-rays used to screen and diagnose medical conditions)\n&lt;br&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;b&gt;Ontario Breast Screening Program&lt;/b&gt; - Breast screening for\n early detection of breast cancer in women * screening includes \nmammography (x-rays of breast tissue) * screening results are sent to \nboth the woman and her doctor * women who receive normal results are \nautomatically recalled for their next screening appointment * women who \nreceive abnormal results are referred to their doctor for further \ninvestigation, or are referred directly for additional tests</p><p>Location/f09d929b-2f95-4b26-9ecb-1effe8fbf5da</p><p>Location</p><p>Most services covered by OHIP</p><p>&lt;b&gt;Ontario Breast Screening Program: &lt;/b&gt;Women 50-74 years, and women 30-69 years identified as having a high-risk</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>Medical referral required&lt;br&gt;&lt;b&gt;Ontario Breast Screening Program: &lt;/b&gt;Call for appointment * no referral required for women between 50 and 74 years * medical referrals also accepted for women between 30 and 69 years</p></div>",
+    "eligibility": [
+      "<b>Ontario Breast Screening Program: </b>Women 50-74 years, and women 30-69 years identified as having a high-risk"
+    ],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [
+      "Medical referral required<br><b>Ontario Breast Screening Program: </b>Call for appointment * no referral required for women between 50 and 74 years * medical referrals also accepted for women between 30 and 69 years"
+    ],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "226-314-0778<br>Ontario Breast Screening Program: 226-314-0778 ext 111"
+          },
+          {
+            "fax": "519-763-8242"
+          },
+          {
+            "url": "guelphmedicalimaging.com/index.php"
+          }
+        ],
+        "address": {
+          "line": [
+            "54 Cardigan St"
+          ],
+          "city": "Guelph",
+          "state": "ON",
+          "postalCode": "N1H 3Z6"
+        },
+        "position": {
+          "longitude": -80.254,
+          "latitude": 43.5498
+        }
+      }
+    ],
+    "contact_info": "phone: 226-314-0778<br>Ontario Breast Screening Program: 226-314-0778 ext 111, fax: 519-763-8242, url: guelphmedicalimaging.com/index.php",
+    "description_of_this": "Diagnostic imaging clinic<br><br><b>Services include:</b><ul><li>ultrasound</li><li>vascular x-ray</li><li>bone mineral density testing</li><li>mammography (breast x-rays used to screen and diagnose medical conditions)\n<br><br></li></ul><b>Ontario Breast Screening Program</b> - Breast screening for\n early detection of breast cancer in women * screening includes \nmammography (x-rays of breast tissue) * screening results are sent to \nboth the woman and her doctor * women who receive normal results are \nautomatically recalled for their next screening appointment * women who \nreceive abnormal results are referred to their doctor for further \ninvestigation, or are referred directly for additional tests, Codes: Most services covered by OHIP, Features: Wheelchair Accessible, Languages: English, Referral: Medical referral required<br><b>Ontario Breast Screening Program: </b>Call for appointment * no referral required for women between 50 and 74 years * medical referrals also accepted for women between 30 and 69 years, Address: 54 Cardigan St, Guelph, ON, N1H 3Z6, Location: lat: 43.5498, lon: -80.254, Contact: phone: 226-314-0778<br>Ontario Breast Screening Program: 226-314-0778 ext 111, fax: 519-763-8242, url: guelphmedicalimaging.com/index.php"
+  }
+]

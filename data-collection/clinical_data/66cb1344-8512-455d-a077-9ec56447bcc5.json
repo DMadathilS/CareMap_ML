@@ -1,0 +1,57 @@
+[
+  {
+    "name": "Benton Medical Clinic - Walk-in Clinic",
+    "active": true,
+    "category": [
+      "Walk-In Medical Clinics"
+    ],
+    "comment": "Walk-in medical clinic * doctors and nurses assess and treat minor illnesses and injuries",
+    "serviceProvisionCode": [
+      "Most services covered by OHIP"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>66cb1344-8512-455d-a077-9ec56447bcc5</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Kitchener</p><p>physical-location-postalcode</p><p>N2G 3H1</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>183708</p><p>true</p><p>Walk-In Medical Clinics</p><p>Location/fd279edd-6b01-47d0-aa0e-93633a9e5e45</p><p>Location</p><p>Benton Medical Clinic - Walk-in Clinic</p><p>Walk-in medical clinic * doctors and nurses assess and treat minor illnesses and injuries</p><p>Location/ce6f1691-5fd0-47da-a670-50c1f8f15cc7</p><p>Location</p><p>Most services covered by OHIP</p><p>People who need medical care for minor illnesses and injuries</p><p>Not Applicable</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>ara</p><p>Arabic</p><p>Call or visit * no referral required</p></div>",
+    "eligibility": [
+      "People who need medical care for minor illnesses and injuries"
+    ],
+    "characteristic": [
+      "Not Applicable"
+    ],
+    "communication": [
+      "English",
+      "Arabic"
+    ],
+    "referralMethod": [
+      "Call or visit * no referral required"
+    ],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "226-240-3014"
+          },
+          {
+            "email": "info@bentonmedicalclinic.com"
+          },
+          {
+            "url": "bentonmedicalclinic.com/"
+          }
+        ],
+        "address": {
+          "line": [
+            "Benton Medical Centre",
+            "51 Benton St"
+          ],
+          "city": "Kitchener",
+          "state": "ON",
+          "postalCode": "N2G 3H1"
+        },
+        "position": {
+          "longitude": -80.4886,
+          "latitude": 43.4477
+        }
+      }
+    ],
+    "contact_info": "phone: 226-240-3014, email: info@bentonmedicalclinic.com, url: bentonmedicalclinic.com/",
+    "description_of_this": "Walk-in medical clinic * doctors and nurses assess and treat minor illnesses and injuries, Codes: Most services covered by OHIP, Features: Not Applicable, Languages: English, Arabic, Referral: Call or visit * no referral required, Address: Benton Medical Centre, 51 Benton St, Kitchener, ON, N2G 3H1, Location: lat: 43.4477, lon: -80.4886"
+  }
+]

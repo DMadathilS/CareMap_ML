@@ -1,0 +1,54 @@
+[
+  {
+    "name": "Real Canadian Superstore DRUGStore Pharmacy - Kitchener - Highland Rd W",
+    "active": true,
+    "category": [
+      "Pharmacies"
+    ],
+    "comment": "General pharmacy<ul><li> treatment and prescription of medications for common medical \nailments, including rashes, pink eye, insect bites, acne, and urinary \ntract infections<br></li><li> prescription of COVID-19 antiviral treatment (Paxlovid)</li><li>medication placed in pill organizers (containers for storing scheduled doses) at no extra cost\n </li><li> medication placed in blister packs (sealed, push-through packaging used to separate doses) at no extra cost</li><li> mobility aids (canes)</li><li> free delivery for prescriptions\n </li><li>free seasonal flu vaccines</li><li> free take-home naloxone kits (emergency response kits for opioid overdose)</li><li>free seasonal flu vaccines</li><li>A1C testing</li></ul><br>Located in grocery store<br><br><b>MedsCheck</b> - Appointments to review complex prescriptions with a pharmacist <br><br>\n<b>Medications Return Program</b> - Safe disposal of expired or unused medications, creams, and inhalers <br><br>\n<b>Sharps Disposal Program</b> - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips",
+    "serviceProvisionCode": [
+      "Dispensing fee plus medication costs * prescribed medications may be covered by OHIP"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>27c448d9-60f8-4e35-8852-d3f4569d31f2</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Kitchener</p><p>physical-location-postalcode</p><p>N2N 2Y2</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>209022</p><p>true</p><p>Pharmacies</p><p>Location/70dce52a-942e-48c3-a60a-f0bc4df9aafe</p><p>Location</p><p>Real Canadian Superstore DRUGStore Pharmacy - Kitchener - Highland Rd W</p><p>General pharmacy&lt;ul&gt;&lt;li&gt; treatment and prescription of medications for common medical \nailments, including rashes, pink eye, insect bites, acne, and urinary \ntract infections&lt;br&gt;&lt;/li&gt;&lt;li&gt; prescription of COVID-19 antiviral treatment (Paxlovid)&lt;/li&gt;&lt;li&gt;medication placed in pill organizers (containers for storing scheduled doses) at no extra cost\n &lt;/li&gt;&lt;li&gt; medication placed in blister packs (sealed, push-through packaging used to separate doses) at no extra cost&lt;/li&gt;&lt;li&gt; mobility aids (canes)&lt;/li&gt;&lt;li&gt; free delivery for prescriptions\n &lt;/li&gt;&lt;li&gt;free seasonal flu vaccines&lt;/li&gt;&lt;li&gt; free take-home naloxone kits (emergency response kits for opioid overdose)&lt;/li&gt;&lt;li&gt;free seasonal flu vaccines&lt;/li&gt;&lt;li&gt;A1C testing&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;Located in grocery store&lt;br&gt;&lt;br&gt;&lt;b&gt;MedsCheck&lt;/b&gt; - Appointments to review complex prescriptions with a pharmacist &lt;br&gt;&lt;br&gt;\n&lt;b&gt;Medications Return Program&lt;/b&gt; - Safe disposal of expired or unused medications, creams, and inhalers &lt;br&gt;&lt;br&gt;\n&lt;b&gt;Sharps Disposal Program&lt;/b&gt; - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips</p><p>Location/5fff659a-2882-425d-943a-9660eec24c65</p><p>Location</p><p>Dispensing fee plus medication costs * prescribed medications may be covered by OHIP</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>pol</p><p>Polish</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>ron</p><p>Romanian</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>srp</p><p>Serbian</p></div>",
+    "eligibility": [],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English",
+      "Polish",
+      "Romanian",
+      "Serbian"
+    ],
+    "referralMethod": [],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-745-7331"
+          },
+          {
+            "fax": "519-745-1931"
+          },
+          {
+            "url": "www.realcanadiansuperstore.ca/store-locator/details/2822"
+          }
+        ],
+        "address": {
+          "line": [
+            "875 Highland Rd W"
+          ],
+          "city": "Kitchener",
+          "state": "ON",
+          "postalCode": "N2N 2Y2"
+        },
+        "position": {
+          "longitude": -80.5251,
+          "latitude": 43.4297
+        }
+      }
+    ],
+    "contact_info": "phone: 519-745-7331, fax: 519-745-1931, url: www.realcanadiansuperstore.ca/store-locator/details/2822",
+    "description_of_this": "General pharmacy<ul><li> treatment and prescription of medications for common medical \nailments, including rashes, pink eye, insect bites, acne, and urinary \ntract infections<br></li><li> prescription of COVID-19 antiviral treatment (Paxlovid)</li><li>medication placed in pill organizers (containers for storing scheduled doses) at no extra cost\n </li><li> medication placed in blister packs (sealed, push-through packaging used to separate doses) at no extra cost</li><li> mobility aids (canes)</li><li> free delivery for prescriptions\n </li><li>free seasonal flu vaccines</li><li> free take-home naloxone kits (emergency response kits for opioid overdose)</li><li>free seasonal flu vaccines</li><li>A1C testing</li></ul><br>Located in grocery store<br><br><b>MedsCheck</b> - Appointments to review complex prescriptions with a pharmacist <br><br>\n<b>Medications Return Program</b> - Safe disposal of expired or unused medications, creams, and inhalers <br><br>\n<b>Sharps Disposal Program</b> - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips, Codes: Dispensing fee plus medication costs * prescribed medications may be covered by OHIP, Features: Wheelchair Accessible, Languages: English, Polish, Romanian, Serbian, Address: 875 Highland Rd W, Kitchener, ON, N2N 2Y2, Location: lat: 43.4297, lon: -80.5251"
+  }
+]

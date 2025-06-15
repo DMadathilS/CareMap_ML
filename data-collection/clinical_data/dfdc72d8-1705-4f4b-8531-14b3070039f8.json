@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Stone Road Physiotherapy",
+    "active": true,
+    "category": [
+      "Physiotherapy Clinics - Publicly Funded"
+    ],
+    "comment": "Community physiotherapy clinic * health professionals assess and treat \nconditions that affect the muscles, nerves, and bones that may be caused\n by work or sports or motor vehicle collision injuries, chronic \nconditions, or to recover after an operation \n (hip and knee surgery)<br><br><ul><li>acupuncture</li></ul><br>OHIP-insured physiotherapy clinic",
+    "serviceProvisionCode": [
+      "Set fee * physiotherapy services may be covered by OHIP or third-party insurance, if eligible"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>dfdc72d8-1705-4f4b-8531-14b3070039f8</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Guelph</p><p>physical-location-postalcode</p><p>N1G 2X6</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>208302</p><p>true</p><p>Physiotherapy Clinics - Publicly Funded</p><p>Location/98623adf-af21-4f99-8087-f858eb098dae</p><p>Location</p><p>Stone Road Physiotherapy</p><p>Community physiotherapy clinic * health professionals assess and treat \nconditions that affect the muscles, nerves, and bones that may be caused\n by work or sports or motor vehicle collision injuries, chronic \nconditions, or to recover after an operation \n (hip and knee surgery)&lt;br&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;acupuncture&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;OHIP-insured physiotherapy clinic</p><p>Location/572632ec-fedf-4576-9454-ed0586df54cc</p><p>Location</p><p>Set fee * physiotherapy services may be covered by OHIP or third-party insurance, if eligible</p><p>People who require physiotherapy services * OHIP coverage for those 19 years and under, 65 years and older, ODSP or Ontario Works recipients, and people hospitalized for at least one night due to an injury</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>No referral required for private pay services * medical referral required for OHIP coverage * medical referral may be required for third-party insurance</p></div>",
+    "eligibility": [
+      "People who require physiotherapy services * OHIP coverage for those 19 years and under, 65 years and older, ODSP or Ontario Works recipients, and people hospitalized for at least one night due to an injury"
+    ],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [
+      "No referral required for private pay services * medical referral required for OHIP coverage * medical referral may be required for third-party insurance"
+    ],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-822-2435"
+          },
+          {
+            "fax": "519-341-0807"
+          },
+          {
+            "email": "info@omh-inc.com"
+          },
+          {
+            "url": "omh-inc.com/"
+          }
+        ],
+        "address": {
+          "line": [
+            "435 Stone Rd W, Suite 212"
+          ],
+          "city": "Guelph",
+          "state": "ON",
+          "postalCode": "N1G 2X6"
+        },
+        "position": {
+          "longitude": -80.2388,
+          "latitude": 43.5183
+        }
+      }
+    ],
+    "contact_info": "phone: 519-822-2435, fax: 519-341-0807, email: info@omh-inc.com, url: omh-inc.com/",
+    "description_of_this": "Community physiotherapy clinic * health professionals assess and treat \nconditions that affect the muscles, nerves, and bones that may be caused\n by work or sports or motor vehicle collision injuries, chronic \nconditions, or to recover after an operation \n (hip and knee surgery)<br><br><ul><li>acupuncture</li></ul><br>OHIP-insured physiotherapy clinic, Codes: Set fee * physiotherapy services may be covered by OHIP or third-party insurance, if eligible, Features: Wheelchair Accessible, Languages: English, Referral: No referral required for private pay services * medical referral required for OHIP coverage * medical referral may be required for third-party insurance, Address: 435 Stone Rd W, Suite 212, Guelph, ON, N1G 2X6, Location: lat: 43.5183, lon: -80.2388, Contact: phone: 519-822-2435, fax: 519-341-0807, email: info@omh-inc.com, url: omh-inc.com/"
+  }
+]

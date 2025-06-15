@@ -1,0 +1,55 @@
+[
+  {
+    "name": "New Vision Family Health Team - Greenbrook Clinic",
+    "active": true,
+    "category": [
+      "Family Health Teams"
+    ],
+    "comment": "Medical care team focused on family and community health * coordinates patient care in order to assess and treat injuries or illness * clinics: diabetes education, heart function, hypertension, lung health, mental health, nutrition, pharmacist managed anti-coagulation (PMAC), older adult wellness, memory clinic",
+    "serviceProvisionCode": [
+      "Most services covered by OHIP"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>9b0e726a-c09b-41a5-8e1d-326438f848dc</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Kitchener</p><p>physical-location-postalcode</p><p>N2M 4K1</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>154446</p><p>true</p><p>Family Health Teams</p><p>Location/9643742d-5ba2-43fd-a0d3-bb657da1bc43</p><p>Location</p><p>New Vision Family Health Team - Greenbrook Clinic</p><p>Medical care team focused on family and community health * coordinates patient care in order to assess and treat injuries or illness * clinics: diabetes education, heart function, hypertension, lung health, mental health, nutrition, pharmacist managed anti-coagulation (PMAC), older adult wellness, memory clinic</p><p>Location/b76444ea-2d63-4167-85b9-d6865dc78ee4</p><p>Location</p><p>Most services covered by OHIP</p><p>Registered patients</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>Call for appointment * no referral required</p></div>",
+    "eligibility": [
+      "Registered patients"
+    ],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [
+      "Call for appointment * no referral required"
+    ],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-578-3510"
+          },
+          {
+            "fax": "519-578-6040"
+          },
+          {
+            "url": "www.newvisionhealth.ca"
+          }
+        ],
+        "address": {
+          "line": [
+            "421 Greenbrook Dr, Unit 23B"
+          ],
+          "city": "Kitchener",
+          "state": "ON",
+          "postalCode": "N2M 4K1"
+        },
+        "position": {
+          "longitude": -80.511498,
+          "latitude": 43.425668
+        }
+      }
+    ],
+    "contact_info": "phone: 519-578-3510, fax: 519-578-6040, url: www.newvisionhealth.ca",
+    "description_of_this": "Medical care team focused on family and community health * coordinates patient care in order to assess and treat injuries or illness * clinics: diabetes education, heart function, hypertension, lung health, mental health, nutrition, pharmacist managed anti-coagulation (PMAC), older adult wellness, memory clinic, Codes: Most services covered by OHIP, Features: Wheelchair Accessible, Languages: English, Referral: Call for appointment * no referral required, Address: 421 Greenbrook Dr, Unit 23B, Kitchener, ON, N2M 4K1, Location: lat: 43.425668, lon: -80.511498"
+  }
+]

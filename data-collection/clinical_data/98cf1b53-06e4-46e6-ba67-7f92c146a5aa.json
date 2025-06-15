@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Grand River Hospital to Waterloo Regional Health Network (WHRN)",
+    "active": true,
+    "category": [
+      "Hospitals"
+    ],
+    "comment": "General hospital with approximately 680 hospital beds and two main campuses<br><br><b>Services include: </b><br><ul><li>acute care</li><li>cancer care</li><li>complex care</li><li>children's and childbirth care</li><li>mental health services</li><li>rehabilitation</li><li>emergency care</li><li>surgery</li><li>outpatient services<br></li><li>satellite community clinics</li></ul><br>Formerly known as Grand River Hospital, now a network of all three Kitchener-Waterloo hospitals<BR><BR><B>Services and Programs:</B><UL><LI>Freeport Health Centre</LI><LI>Renal Clinic - Guelph Site</LI><LI>Renal Clinic - Palmerston Site</LI><LI>WHRN at Queen\u2019s Boulevard</LI></UL>",
+    "serviceProvisionCode": [
+      "Most services covered by OHIP"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>98cf1b53-06e4-46e6-ba67-7f92c146a5aa</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Kitchener</p><p>physical-location-postalcode</p><p>N2G 1G3</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>167696</p><p>true</p><p>Hospitals</p><p>Location/e539c202-31bd-4763-9340-2163190548c0</p><p>Location</p><p>Grand River Hospital to Waterloo Regional Health Network (WHRN)</p><p>General hospital with approximately 680 hospital beds and two main campuses&lt;br&gt;&lt;br&gt;&lt;b&gt;Services include: &lt;/b&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;acute care&lt;/li&gt;&lt;li&gt;cancer care&lt;/li&gt;&lt;li&gt;complex care&lt;/li&gt;&lt;li&gt;children's and childbirth care&lt;/li&gt;&lt;li&gt;mental health services&lt;/li&gt;&lt;li&gt;rehabilitation&lt;/li&gt;&lt;li&gt;emergency care&lt;/li&gt;&lt;li&gt;surgery&lt;/li&gt;&lt;li&gt;outpatient services&lt;br&gt;&lt;/li&gt;&lt;li&gt;satellite community clinics&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;Formerly known as Grand River Hospital, now a network of all three Kitchener-Waterloo hospitals&lt;BR&gt;&lt;BR&gt;&lt;B&gt;Services and Programs:&lt;/B&gt;&lt;UL&gt;&lt;LI&gt;Freeport Health Centre&lt;/LI&gt;&lt;LI&gt;Renal Clinic - Guelph Site&lt;/LI&gt;&lt;LI&gt;Renal Clinic - Palmerston Site&lt;/LI&gt;&lt;LI&gt;WHRN at Queen\u2019s Boulevard&lt;/LI&gt;&lt;/UL&gt;</p><p>Location/bc172fb1-6993-474a-b81e-7d4ccf9e6899</p><p>Location</p><p>Most services covered by OHIP</p><p>Varies depending on the program or service</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p><p>Walk-in for emergency department * medical referral and appointment required for most other services</p></div>",
+    "eligibility": [
+      "Varies depending on the program or service"
+    ],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [
+      "Walk-in for emergency department * medical referral and appointment required for most other services"
+    ],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "Switchboard: 519-742-3611<br>Automated Switchboard: 519-749-4300"
+          },
+          {
+            "phone": "519-749-4236"
+          },
+          {
+            "email": "info@grhosp.on.ca"
+          },
+          {
+            "url": "www.grhosp.on.ca"
+          }
+        ],
+        "address": {
+          "line": [
+            "835 King St W"
+          ],
+          "city": "Kitchener",
+          "state": "ON",
+          "postalCode": "N2G 1G3"
+        },
+        "position": {
+          "longitude": -80.5122248,
+          "latitude": 43.4564654
+        }
+      }
+    ],
+    "contact_info": "phone: Switchboard: 519-742-3611<br>Automated Switchboard: 519-749-4300, phone: 519-749-4236, email: info@grhosp.on.ca, url: www.grhosp.on.ca",
+    "description_of_this": "General hospital with approximately 680 hospital beds and two main campuses<br><br><b>Services include: </b><br><ul><li>acute care</li><li>cancer care</li><li>complex care</li><li>children's and childbirth care</li><li>mental health services</li><li>rehabilitation</li><li>emergency care</li><li>surgery</li><li>outpatient services<br></li><li>satellite community clinics</li></ul><br>Formerly known as Grand River Hospital, now a network of all three Kitchener-Waterloo hospitals<BR><BR><B>Services and Programs:</B><UL><LI>Freeport Health Centre</LI><LI>Renal Clinic - Guelph Site</LI><LI>Renal Clinic - Palmerston Site</LI><LI>WHRN at Queen\u2019s Boulevard</LI></UL>, Codes: Most services covered by OHIP, Features: Wheelchair Accessible, Languages: English, Referral: Walk-in for emergency department * medical referral and appointment required for most other services, Address: 835 King St W, Kitchener, ON, N2G 1G3, Location: lat: 43.4564654, lon: -80.5122248"
+  }
+]

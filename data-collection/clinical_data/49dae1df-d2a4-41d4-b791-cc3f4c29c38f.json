@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Remedy'sRx Pharmacy - Kitchener - Stirling Ave S (J&K Pharmacy)",
+    "active": true,
+    "category": [
+      "Pharmacies"
+    ],
+    "comment": "General pharmacy <br><ul><li> treatment and prescription of medications for thirteen common medical \nailments, including rashes, pink eye, insect bites, and urinary tract \ninfections\n </li><li> prescription of COVID-19 antiviral treatment (Paxlovid)</li><li>basic home health care supplies<br><br></li></ul><b>MedsCheck</b> - Appointments to review complex prescriptions with a pharmacist <br><br><b>Sharps Disposal Program</b> - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips",
+    "serviceProvisionCode": [
+      "Dispensing fee plus medication costs * prescribed medications may be covered by OHIP"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>49dae1df-d2a4-41d4-b791-cc3f4c29c38f</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Kitchener</p><p>physical-location-postalcode</p><p>N2G 4L1</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>219732</p><p>true</p><p>Pharmacies</p><p>Location/5d28808e-0668-487e-843d-447ea220552e</p><p>Location</p><p>Remedy'sRx Pharmacy - Kitchener - Stirling Ave S (J&amp;K Pharmacy)</p><p>General pharmacy &lt;br&gt;&lt;ul&gt;&lt;li&gt; treatment and prescription of medications for thirteen common medical \nailments, including rashes, pink eye, insect bites, and urinary tract \ninfections\n &lt;/li&gt;&lt;li&gt; prescription of COVID-19 antiviral treatment (Paxlovid)&lt;/li&gt;&lt;li&gt;basic home health care supplies&lt;br&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;b&gt;MedsCheck&lt;/b&gt; - Appointments to review complex prescriptions with a pharmacist &lt;br&gt;&lt;br&gt;&lt;b&gt;Sharps Disposal Program&lt;/b&gt; - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips</p><p>Location/71a178a1-3087-4373-b52a-bd57e5571358</p><p>Location</p><p>Dispensing fee plus medication costs * prescribed medications may be covered by OHIP</p><p>Not Applicable</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p></div>",
+    "eligibility": [],
+    "characteristic": [
+      "Not Applicable"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-570-0942"
+          },
+          {
+            "fax": "519-570-2942"
+          },
+          {
+            "url": "www.guardian-ida-remedysrx.ca/en/ontario/kitchener/j-a-k-pharmacy-7057100"
+          }
+        ],
+        "address": {
+          "line": [
+            "248 Stirling Ave S, Unit 15"
+          ],
+          "city": "Kitchener",
+          "state": "ON",
+          "postalCode": "N2G 4L1"
+        },
+        "position": {
+          "longitude": -80.4859,
+          "latitude": 43.4408
+        }
+      }
+    ],
+    "contact_info": "phone: 519-570-0942, fax: 519-570-2942, url: www.guardian-ida-remedysrx.ca/en/ontario/kitchener/j-a-k-pharmacy-7057100",
+    "description_of_this": "General pharmacy <br><ul><li> treatment and prescription of medications for thirteen common medical \nailments, including rashes, pink eye, insect bites, and urinary tract \ninfections\n </li><li> prescription of COVID-19 antiviral treatment (Paxlovid)</li><li>basic home health care supplies<br><br></li></ul><b>MedsCheck</b> - Appointments to review complex prescriptions with a pharmacist <br><br><b>Sharps Disposal Program</b> - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips, Codes: Dispensing fee plus medication costs * prescribed medications may be covered by OHIP, Features: Not Applicable, Languages: English, Address: 248 Stirling Ave S, Unit 15, Kitchener, ON, N2G 4L1, Location: lat: 43.4408, lon: -80.4859"
+  }
+]

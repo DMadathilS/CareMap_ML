@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Walmart Pharmacy - Cambridge Supercentre",
+    "active": true,
+    "category": [
+      "Pharmacies"
+    ],
+    "comment": "General pharmacy<ul><li> treatment and prescription of medications for common medical \nailments, including rashes, pink eye, insect bites, acne, and urinary \ntract infections<br></li><li> prescription of COVID-19 antiviral treatment (Paxlovid)</li><li>free seasonal flu vaccines</li><li>medication placed in blister packs (sealed, push-through packaging used to separate doses) at no extra cost</li><li>certified diabetes educator (CDE) available for consultations</li><li>basic home health care supplies</li></ul><br><b>MedsCheck</b> - Appointments to review complex prescriptions with a pharmacist<br><br><b>Sharps Disposal Program</b> - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips<br><br><b>Pharmacy Smoking Cessation Program</b> - Help to quit smoking, available for Ontario Drug Benefit recipients<br><br>Located in department store",
+    "serviceProvisionCode": [
+      "Dispensing fee plus medication costs * prescribed medications may be covered by OHIP"
+    ],
+    "text": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>HealthcareService</p><p>f78180d6-ca31-4fce-b82b-0b0de8108a40</p><p>eng</p><p>https://hsd.health811.ontario.ca/fhir-server/SearchParameter/healthcare-service-location</p><p>physical-location-city</p><p>Cambridge</p><p>physical-location-postalcode</p><p>N1R 8K5</p><p>http://thinkresearch.com/fhir/ValueSet/hsd-source-system</p><p>209025</p><p>true</p><p>Pharmacies</p><p>Location/85e6e8c9-6091-45a0-accb-1747c8c8bd06</p><p>Location</p><p>Walmart Pharmacy - Cambridge Supercentre</p><p>General pharmacy&lt;ul&gt;&lt;li&gt; treatment and prescription of medications for common medical \nailments, including rashes, pink eye, insect bites, acne, and urinary \ntract infections&lt;br&gt;&lt;/li&gt;&lt;li&gt; prescription of COVID-19 antiviral treatment (Paxlovid)&lt;/li&gt;&lt;li&gt;free seasonal flu vaccines&lt;/li&gt;&lt;li&gt;medication placed in blister packs (sealed, push-through packaging used to separate doses) at no extra cost&lt;/li&gt;&lt;li&gt;certified diabetes educator (CDE) available for consultations&lt;/li&gt;&lt;li&gt;basic home health care supplies&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;b&gt;MedsCheck&lt;/b&gt; - Appointments to review complex prescriptions with a pharmacist&lt;br&gt;&lt;br&gt;&lt;b&gt;Sharps Disposal Program&lt;/b&gt; - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips&lt;br&gt;&lt;br&gt;&lt;b&gt;Pharmacy Smoking Cessation Program&lt;/b&gt; - Help to quit smoking, available for Ontario Drug Benefit recipients&lt;br&gt;&lt;br&gt;Located in department store</p><p>Location/791d6a9d-815b-4490-92b5-9c58e5e2d460</p><p>Location</p><p>Dispensing fee plus medication costs * prescribed medications may be covered by OHIP</p><p>Wheelchair Accessible</p><p>http://terminology.hl7.org/CodeSystem/iso639-3</p><p>eng</p><p>English</p></div>",
+    "eligibility": [],
+    "characteristic": [
+      "Wheelchair Accessible"
+    ],
+    "communication": [
+      "English"
+    ],
+    "referralMethod": [],
+    "locations": [
+      {
+        "telecom": [
+          {
+            "phone": "519-624-7461"
+          },
+          {
+            "fax": "519-624-7458"
+          },
+          {
+            "url": "www.walmart.ca/en/stores-near-me/cambridge-supercentre-3152"
+          }
+        ],
+        "address": {
+          "line": [
+            "22 Pinebush Rd"
+          ],
+          "city": "Cambridge",
+          "state": "ON",
+          "postalCode": "N1R 8K5"
+        },
+        "position": {
+          "longitude": -80.3273,
+          "latitude": 43.4101
+        }
+      }
+    ],
+    "contact_info": "phone: 519-624-7461, fax: 519-624-7458, url: www.walmart.ca/en/stores-near-me/cambridge-supercentre-3152",
+    "description_of_this": "General pharmacy<ul><li> treatment and prescription of medications for common medical \nailments, including rashes, pink eye, insect bites, acne, and urinary \ntract infections<br></li><li> prescription of COVID-19 antiviral treatment (Paxlovid)</li><li>free seasonal flu vaccines</li><li>medication placed in blister packs (sealed, push-through packaging used to separate doses) at no extra cost</li><li>certified diabetes educator (CDE) available for consultations</li><li>basic home health care supplies</li></ul><br><b>MedsCheck</b> - Appointments to review complex prescriptions with a pharmacist<br><br><b>Sharps Disposal Program</b> - Safe disposal of syringes, pen needles, lancets, insulin pump infusion supplies, and test strips<br><br><b>Pharmacy Smoking Cessation Program</b> - Help to quit smoking, available for Ontario Drug Benefit recipients<br><br>Located in department store, Codes: Dispensing fee plus medication costs * prescribed medications may be covered by OHIP, Features: Wheelchair Accessible, Languages: English, Address: 22 Pinebush Rd, Cambridge, ON, N1R 8K5, Location: lat: 43.4101, lon: -80.3273, Contact: phone: 519-624-7461, fax: 519-624-7458, url: www.walmart.ca/en/stores-near-me/cambridge-supercentre-3152"
+  }
+]
