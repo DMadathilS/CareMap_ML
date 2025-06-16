@@ -1,7 +1,7 @@
 import json
 from chatbot.models import AssistantOutput
 from chatbot.config import EMBEDDER, REALTIME_PATH, tool_llm
-from chatbot.prompts import router_prompt, suggest_prompt, summary_prompt
+from chatbot.prompts import router_prompt, suggest_prompt, summary_prompt,greeting_prompt
 from langchain.chains import LLMChain
 from chatbot.tools.clinics import fetch_hospital_clinic
 from chatbot.tools.providers import fetch_providers
@@ -12,6 +12,7 @@ import os
 router_chain = LLMChain(llm=tool_llm, prompt=router_prompt)
 suggest_chain = LLMChain(llm=tool_llm, prompt=suggest_prompt)
 summary_chain = LLMChain(llm=tool_llm, prompt=summary_prompt)
+greeting_chain = LLMChain(llm=tool_llm, prompt=greeting_prompt)
 
 tools = {
     "clinics": {
@@ -29,6 +30,10 @@ tools = {
     "real_time_wait": {
         "description": "Live emergency and urgent-care wait times.",
         "func": lambda _: json.load(open(REALTIME_PATH)) if os.path.exists(REALTIME_PATH) else []
+    },
+    "greeting": {
+        "description": "General greetings like 'hello', 'hi', 'good afternoon', etc.",
+        "func": lambda _: []
     }
 }
 
@@ -37,7 +42,7 @@ class QueryBasedRouter:
         self.router = router_chain
         self.suggester = suggest_chain
         self.summarizer = summary_chain
-
+        self.greeter = greeting_chain
     def route(self, query: str) -> str:
         descs = {k: tools[k]["description"] for k in tools}
         params = {
@@ -48,6 +53,7 @@ class QueryBasedRouter:
             "rt_desc": descs["real_time_wait"]
         }
         raw = self.router.predict(**params).strip().lower()
+        print(raw)
         return raw if raw in tools else "irrelevant"
 
     def retrieve(self, domain: str, query: str):
@@ -58,10 +64,18 @@ class QueryBasedRouter:
 
     def run(self, query: str) -> dict:
         domain = self.route(query)
-
+        if domain == "greeting":
+                    greeting = self.greeter.predict(query=query).strip()
+                    return AssistantOutput(
+                        domain="greeting",
+                        data=[],
+                        answer=greeting
+                    ).model_dump()
+        
         if domain == "irrelevant":
             return AssistantOutput(domain=None, data=[], answer="Your query appears unrelated to healthcare.").model_dump()
 
+        
 
         data = self.retrieve(domain, query)
 
