@@ -99,7 +99,7 @@ def update_database():
         grh = fetch_emergency_data_grhosp()
         insert_snapshot(
             conn,
-            "grhosp",
+            "Cambridge Memorial Hospital (cmh)",
             grh["wait_time_minutes"],
             grh["patients_waiting"],
             # ensure timezone-aware
@@ -110,7 +110,7 @@ def update_database():
         smgh = fetch_smgh_wait_times()
         insert_snapshot(
             conn,
-            "smgh",
+            "St. Mary''s General Hospital (smgh)",
             smgh["estimated_wait_time_minutes"],
             smgh["patients_waiting"],
             smgh.get("last_update").astimezone(LOCAL_TZ) if smgh.get("last_update") else None
@@ -129,7 +129,7 @@ def update_database():
         website_ts = datetime.combine(date.today(), t, tzinfo=LOCAL_TZ)
         insert_snapshot(
             conn,
-            "wrhn",
+            "Grand River Hospital (wrhn)",
             # parse estimated_time HH:MM:SS → total minutes
             wrhn["estimated_time"],
             wrhn["patients_waiting"],
@@ -149,7 +149,7 @@ def get_latest_snapshots():
     latest = {}
     try:
         with conn.cursor() as cur:
-            for source in ("grhosp", "smgh", "wrhn"):
+            for source in ("Cambridge Memorial Hospital (cmh)", "St. Mary''s General Hospital (smgh)", "Grand River Hospital (wrhn)"):
                 cur.execute(
                     """
                     SELECT timestamp, wait_minutes, patients_waiting, website_last_update
