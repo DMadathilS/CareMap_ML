@@ -97,6 +97,7 @@ def update_database():
     try:
         # 1) GRH data
         grh = fetch_emergency_data_grhosp()
+        print("grh",grh)
         insert_snapshot(
             conn,
             "Cambridge Memorial Hospital (cmh)",
@@ -108,6 +109,8 @@ def update_database():
 
         # 2) SMGH data
         smgh = fetch_smgh_wait_times()
+        print("smgh",smgh)
+
         insert_snapshot(
             conn,
             "St. Mary's General Hospital (smgh)",
@@ -124,6 +127,8 @@ def update_database():
         )
         DRIVER_PATH = r"P:\ML-Project\HospitalCare\chromedriver-win32\chromedriver.exe"
         wrhn = fetch_powerbi_wait_times(REPORT_URL, DRIVER_PATH)
+        print("wrhn",wrhn)
+
         # parse WRHN last_updated_time (HH:MM:SS) into datetime
         t = datetime.strptime(wrhn["last_updated_time"], "%H:%M:%S").time()
         website_ts = datetime.combine(date.today(), t, tzinfo=LOCAL_TZ)
@@ -173,14 +178,29 @@ def get_latest_snapshots():
         conn.close()
     return latest
 
+def format_wait_minutes(minutes: int) -> str:
+    hours = minutes // 60
+    mins = minutes % 60
+    if hours > 0:
+        return f"{hours}h {mins}m" if mins > 0 else f"{hours}h"
+    return f"{mins}m"
 
 def write_latest_files(latest: dict):
     """
     Write the latest snapshots to JSON and CSV for easy LLM access.
     """
     # JSON
+    formatted_latest = {
+        src: {
+            **data,
+            "wait_minutes": format_wait_minutes(data["wait_minutes"])  # ← format here
+        }
+        for src, data in latest.items()
+    }
+
+    # Write formatted JSON
     with open(LATEST_JSON, "w", encoding="utf-8") as jf:
-        json.dump(latest, jf, indent=2)
+        json.dump(formatted_latest, jf, indent=2)
 
     # CSV: source,timestamp,wait_minutes,patients_waiting,website_last_update
     with open(LATEST_CSV, "w", newline='', encoding="utf-8") as cf:
@@ -190,12 +210,13 @@ def write_latest_files(latest: dict):
         ])
         for src, data in latest.items():
             writer.writerow([
-                src,
-                data["timestamp"],
-                data["wait_minutes"],
-                data["patients_waiting"],
-                data.get("website_last_update")
-            ])
+            src,
+            data["timestamp"],
+            format_wait_minutes(data["wait_minutes"]),
+            data["patients_waiting"],
+            data.get("website_last_update")
+        ])
+
 
 
 def job():
