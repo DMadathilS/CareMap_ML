@@ -110,7 +110,7 @@ def update_database():
         smgh = fetch_smgh_wait_times()
         insert_snapshot(
             conn,
-            "St. Mary''s General Hospital (smgh)",
+            "St. Mary's General Hospital (smgh)",
             smgh["estimated_wait_time_minutes"],
             smgh["patients_waiting"],
             smgh.get("last_update").astimezone(LOCAL_TZ) if smgh.get("last_update") else None
@@ -149,7 +149,7 @@ def get_latest_snapshots():
     latest = {}
     try:
         with conn.cursor() as cur:
-            for source in ("Cambridge Memorial Hospital (cmh)", "St. Mary''s General Hospital (smgh)", "Grand River Hospital (wrhn)"):
+            for source in ("Cambridge Memorial Hospital (cmh)", "St. Mary's General Hospital (smgh)", "Grand River Hospital (wrhn)"):
                 cur.execute(
                     """
                     SELECT timestamp, wait_minutes, patients_waiting, website_last_update
@@ -206,6 +206,8 @@ def job():
     try:
         update_database()
         latest = get_latest_snapshots()
+        print("✅ Latest snapshot sources retrieved:", list(latest.keys()))
+
         write_latest_files(latest)
         print(f"[{datetime.now().isoformat()}] Update complete.\n")
     except Exception as e:
