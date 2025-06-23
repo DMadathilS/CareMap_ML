@@ -25,7 +25,7 @@ EMBEDDER = SentenceTransformer(EMBED_MODEL)
 
 # LLM
 LLM_MODEL = "llama3-8b-8192"
-tool_llm = ChatGroq(model=LLM_MODEL, temperature=0.0, max_tokens=200, api_key=os.environ["GROQ_API_KEY"])
+tool_llm = ChatGroq(model=LLM_MODEL, temperature=0.0, max_tokens=200, api_key="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")
 
 # Constants
 PAGE_SIZE = 5

@@ -5,6 +5,7 @@ from api.config import settings
 from api.routes.users import router as users_router
 from api.routes.llm_bot import router as llm_router
 from api.routes.chats import router as chat_router
+from api.routes.stats import router as stats_router
 
 app = FastAPI()
 
@@ -27,6 +28,7 @@ app.add_middleware(
 app.include_router(users_router, prefix=settings.BASE_PATH)
 app.include_router(llm_router, prefix=settings.BASE_PATH)
 app.include_router(chat_router, prefix=settings.BASE_PATH)
+app.include_router(stats_router, prefix=settings.BASE_PATH)
 
 if __name__ == "__main__":
     uvicorn.run(
