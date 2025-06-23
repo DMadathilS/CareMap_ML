@@ -23,18 +23,61 @@ router_prompt = PromptTemplate(
 
 suggest_prompt = PromptTemplate(
     input_variables=["query", "item_json"],
-    template="Should the following item be suggested for: {query}?\n{item_json}\nRespond with true or false."
+    template=(
+        "You are deciding whether the following healthcare facility should be suggested based on the request and its proximity.\n\n"
+        "User Request:\n{query}\n\n"
+        "Facility Information (JSON):\n{item_json}\n\n"
+        "Instructions:\n"
+        "- If the facility clearly matches the request (e.g., a walk-in clinic when asked for one), it may be suggested.\n"
+        "- If 'distance_km' is provided and under 20, that strengthens the recommendation.\n"
+        "- If 'distance_km' is missing or null, do NOT mention distance — instead, highlight other useful aspects such as languages spoken, specialty, or type of care.\n"
+        "- If the facility is not a good match (wrong type, too far, or no relevant features), mark 'suggested' as false and leave 'notes' blank.\n\n"
+        "**IMPORTANT**: Your response MUST be valid JSON only. No extra text.\n"
+        "Respond only in this format:\n"
+        "{{\n"
+        "  \"suggested\": true or false,\n"
+        "  \"notes\": \"Short explanation if suggested, otherwise leave empty.\"\n"
+        "}}"
+    )
 )
+
+# summary_prompt = PromptTemplate(
+#     input_variables=["query", "results_json"],
+#     template=(
+#         "You are a helpful healthcare assistant.\n"
+#         "User question: {query}\n\n"
+#         "Here are JSON search results for nearby clinics or providers:\n"
+#         "{results_json}\n\n"
+#         "Instructions:\n"
+#         "- Provide a concise, 1–2 sentence answer.\n"
+#         "- Mention facility names, their relevance, and how far they are from the user (use the 'distance_text' field).\n"
+#         "- Focus on top suggestions (usually 1–3 items).\n"
+#         "- Use natural, user-friendly wording.\n"
+#         "- Do NOT output any raw JSON or keys like 'distance_text'.\n\n"
+#         "Answer:"
+#     )
+# )
+
 summary_prompt = PromptTemplate(
     input_variables=["query", "results_json"],
     template=(
         "You are a helpful healthcare assistant.\n"
-        "User question: {query}\n"
-        "Here are JSON search results: {results_json}\n"
-        "Provide a clean, 1-2 sentence natural-language answer.\n"
-        "Do NOT wrap it in JSON or add field names."
+        "Your task is to summarize results that match the user's request.\n\n"
+        "User query: {query}\n\n"
+        "Here are search results in JSON format (including names, descriptions, distances, languages, and relevance):\n"
+        "{results_json}\n\n"
+        "Instructions:\n"
+        "- Provide a concise 1–2 sentence response.\n"
+        "- Mention clinic or hospital names that clearly match the query (e.g. walk-in, pediatric, emergency).\n"
+        "- If a location is under 20 km, include the distance to emphasize proximity.\n"
+        "- If the user asked about hospitals or emergencies, prioritize hospitals.\n"
+        "- Do NOT mention distance if it’s missing or irrelevant.\n"
+        "- Do NOT output any field names like 'distance_text' or 'llm_notes'.\n"
+        "- Respond in a friendly, helpful tone without repeating the original query.\n\n"
+        "Answer:"
     )
 )
+
 
 greeting_prompt = PromptTemplate(
     input_variables=["query"],

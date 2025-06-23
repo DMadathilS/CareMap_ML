@@ -24,8 +24,9 @@ def fetch_providers(query_emb, limit=PAGE_SIZE):
             "opening_hours": oh,
             "suggested": False,
             "llm_notes": "",
-            "distance": score,
-            "relevance_score": round(1 - score, 3),
+            "distance": float(score),
+            "relevance_score": round(1 - float(score), 3),
+
         }
         for id, name, addr, phone, lat, lon, oh, site, desc, score in rows
     ]
