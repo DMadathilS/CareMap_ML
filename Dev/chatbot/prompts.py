@@ -21,6 +21,10 @@ router_prompt = PromptTemplate(
     )
 )
 
+# suggest_prompt = PromptTemplate(
+#     input_variables=["query", "item_json"],
+#     template="Should the following item be suggested for: {query}?\n{item_json}\nRespond with true or false."
+# )
 suggest_prompt = PromptTemplate(
     input_variables=["query", "item_json"],
     template=(
@@ -89,3 +93,18 @@ greeting_prompt = PromptTemplate(
     )
 )
 
+realtime_summary_prompt = PromptTemplate(
+    input_variables=["query", "results_json"],
+    template=(
+        "You are a healthcare assistant helping users understand real-time emergency wait times at local hospitals.\n"
+        "User query: {query}\n"
+        "Here is the latest wait time data in JSON format, showing hospital names, their current wait in minutes, number of patients waiting, and timestamps:\n"
+        "{results_json}\n\n"
+        "Using this information, answer the user's question in 1–2 helpful sentences.\n"
+        "- Prioritize relevance to the user’s query.\n"
+        "- Mention hospital names, wait durations, and patient counts where useful.\n"
+        "- Highlight the shortest or longest waits if the query is general.\n"
+        "- Do NOT include JSON or field names in your response.\n"
+        "- Keep it natural, clear, and conversational."
+    )
+)
