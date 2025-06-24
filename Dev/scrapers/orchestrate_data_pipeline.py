@@ -19,6 +19,8 @@ import psycopg2
 from dotenv import load_dotenv
 from datetime import datetime, date, time as dtime
 from zoneinfo import ZoneInfo
+from Fetch_Lab_wait_time import log_lab_availability as log_lab_availability_run
+
 # Load environment variables from .env
 load_dotenv()
 
@@ -226,6 +228,7 @@ def job():
     print(f"[{datetime.now().isoformat()}] Starting data fetch and store...")
     try:
         update_database()
+        log_lab_availability_run()
         latest = get_latest_snapshots()
         print("✅ Latest snapshot sources retrieved:", list(latest.keys()))
 
