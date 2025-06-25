@@ -14,6 +14,9 @@ class HealthcareItem(BaseModel):
     desc: Optional[str] = None
     llm_notes: Optional[str] = None
     relevance_score: Optional[float] = None
+    wait_time_minutes: Optional[int] = None
+    next_available_appointment: Optional[str] = None
+    hours_of_operation: Optional[List[dict]] = []
 
 class AssistantOutput(BaseModel):
     domain: Optional[str]

@@ -93,20 +93,34 @@ class QueryBasedRouter:
         if domain == "real_time_wait":
             return tools[domain]["func"](query)
 
+        # Get embedding from query
         emb = EMBEDDER.encode(query).tolist()
-        results = tools[domain]["func"](emb)
 
+        # Fetch from correct domain function
+        fetch_fn = tools.get(domain, {}).get("func")
+        if not fetch_fn:
+            return []
+
+        results = fetch_fn(emb)
+
+        # Optional: Add distance calculations if coordinates are available
         if user_lat is not None and user_lon is not None:
             for r in results:
-                dist = haversine_distance(user_lat, user_lon, r.get("latitude"), r.get("longitude"))
-                r["distance_km"] = dist
-                r["distance_text"] = f"{dist} km" if dist is not None else None
+                lat = r.get("latitude")
+                lon = r.get("longitude")
+                if lat is not None and lon is not None:
+                    dist = haversine_distance(user_lat, user_lon, lat, lon)
+                    r["distance_km"] = round(dist, 2)
+                    r["distance_text"] = f"{round(dist, 2)} km"
+                else:
+                    r["distance_km"] = None
+                    r["distance_text"] = None
 
-            results.sort(key=lambda x: x.get("distance_km", float('inf')))
-
+            # Sort by distance if available
+            results.sort(key=lambda x: x.get("distance_km") or float('inf'))
 
         return results
-    
+
        
     # def run(self, query: str,user_lat=None, user_lon=None) -> dict:
     #     domain = self.route(query)
@@ -205,103 +219,120 @@ class QueryBasedRouter:
 
         if domain == "irrelevant":
             return AssistantOutput(domain=None, data=[], answer="Your query appears unrelated to healthcare.").model_dump()
-        data = self.retrieve(domain, query, user_lat=user_lat, user_lon=user_lon)
-        print(data)
+
+        # ── Handle real_time_wait separately ──────────────────────────────
         if domain == "real_time_wait":
             try:
-                if isinstance(data, dict):
-                    flat_data = [{"source": k, **v} for k, v in data.items()]
-                else:
-                    flat_data = []
+                data = tools[domain]["func"](query)
+                flat_data = [{"source": k, **v} for k, v in data.items()] if isinstance(data, dict) else []
 
                 summary_json = self.RT_data_summarizer.predict(
                     query=query,
                     results_json=json.dumps(flat_data)
                 )
 
-                # Try to parse JSON, fall back to raw string if it's not JSON
                 try:
-                    parsed = json.loads(summary_json)
-                    summary = parsed.get("answer", summary_json.strip())
+                    summary = json.loads(summary_json).get("answer", summary_json.strip())
                 except json.JSONDecodeError:
                     summary = summary_json.strip()
 
+                return AssistantOutput(domain=domain, data=[], answer=summary).model_dump()
+
             except Exception as e:
-                summary = f"Unable to summarize real-time data: {e}"
-                flat_data = []
+                import traceback
                 traceback.print_exc()
-            return AssistantOutput(
-                domain=domain,
-                data=[],
-                answer=summary
-            ).model_dump()
+                return {
+                    "domain": domain,
+                    "data": [],
+                    "answer": f"Unable to summarize real-time data: {e}"
+                }
+
+        # ── Retrieve vector-based results ─────────────────────────────────
+        try:
+            data = self.retrieve(domain, query, user_lat=user_lat, user_lon=user_lon)
+            print(data)
+        except Exception as e:
+            import traceback
+            traceback.print_exc()
+            return {"error": f"Failed to retrieve data: {str(e)}"}
 
         enriched = []
+
         for item in data:
             try:
                 item_for_llm = {
                     k: v for k, v in item.items()
-                    if k not in ("opening_hours", "llm_notes")
+                    if k not in ("llm_notes", "opening_hours", "hours_of_operation")
                 }
-                for k, v in item_for_llm.items():
-                    print(f"{k}: {v} (type: {type(v)})")
-
                 item_for_llm["distance_km"] = item.get("distance_km")
-                print("Calling LLM for suggestion on:", item["name"])
                 item_json = json.dumps(clean_decimals(item_for_llm))
 
-
-                suggest_response = self.suggester.predict(
-                    query=query,
-                    item_json=item_json
-                )
-
-                print("LLM raw:", suggest_response)  # for debug
-
+                suggest_response = self.suggester.predict(query=query, item_json=item_json)
                 parsed = extract_json_from_text(suggest_response)
                 item["suggested"] = parsed.get("suggested", False)
                 item["llm_notes"] = parsed.get("notes", "")
-
             except Exception as e:
-                
+                import traceback
                 traceback.print_exc()
                 item["suggested"] = False
                 item["llm_notes"] = f"LLM suggestion failed: {str(e)}"
 
-            item["relevance_score"] = round(1 - item.get("distance", 1), 3) if "distance" in item and item.get("distance") is not None else 0.0
-            item["distance_km"] = item.get("distance_km")
-            item["distance_text"] = item.get("distance_text")
+            item["relevance_score"] = round(1 - item.get("distance", 1), 3)
             enriched.append(item)
-            print(enriched)
-        
-        # Sort top 3 suggestions by relevance_score
+
+        # ── Top 3 suggestions ──────────────────────────────────────────────
         top_suggestions = sorted(
             [i for i in enriched if i["suggested"]],
-            key=lambda x: combined_score(x, alpha=0.7),  # adjust alpha if needed
+            key=lambda x: combined_score(x, alpha=0.7),
             reverse=True
         )[:3]
 
+        # ── Build summary input by domain ─────────────────────────────────
+        if domain == "labs":
+            summary_input = [
+                {
+                    "name": i["name"],
+                    "address": i["address"],
+                    "distance_text": i.get("distance_text", ""),
+                    "relevance_score": i.get("relevance_score", 0),
+                    "contact_info": i.get("contact_info", ""),
+                    "wait_time_minutes": i.get("wait_time_minutes"),
+                    "next_available_appointment": i.get("next_available_appointment"),
+                    "desc": i.get("desc", "")
+                }
+                for i in top_suggestions
+            ]
 
-        # Prepare input for summarizer
-        summary_input = [
-            {
-                "name": i["name"],
-                "address": i["address"],
-                "distance_text": i.get("distance_text", ""),
-                "relevance_score": i.get("relevance_score", 0),
-                "contact_info": i.get("contact_info", ""),
-                "languages": i.get("languages", [])
+        elif domain == "providers":
+            summary_input = [
+                {
+                    "name": i["name"],
+                    "address": i["address"],
+                    "distance_text": i.get("distance_text", ""),
+                    "relevance_score": i.get("relevance_score", 0),
+                    "contact_info": i.get("contact_info", ""),
+                    "desc": i.get("desc", "")
+                }
+                for i in top_suggestions
+            ]
 
-            }
-            for i in top_suggestions
-        ]
-        print("summary_input--->",summary_input)
-        # Predict final answer summary
-        summary_json = self.summarizer.predict(query=query, results_json=json.dumps(summary_input))
+        else:  # clinics
+            summary_input = [
+                {
+                    "name": i["name"],
+                    "address": i["address"],
+                    "distance_text": i.get("distance_text", ""),
+                    "relevance_score": i.get("relevance_score", 0),
+                    "contact_info": i.get("contact_info", "")
+                }
+                for i in top_suggestions
+            ]
+
+        # ── Predict Summary ────────────────────────────────────────────────
         try:
+            summary_json = self.summarizer.predict(query=query, results_json=json.dumps(summary_input))
             summary = json.loads(summary_json).get("answer", summary_json.strip())
         except json.JSONDecodeError:
             summary = summary_json.strip()
 
         return AssistantOutput(domain=domain, data=enriched, answer=summary).model_dump()
-
