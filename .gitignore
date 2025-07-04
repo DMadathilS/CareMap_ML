@@ -49,3 +49,4 @@ __snapshots__/
 *.zip
 *.tar.gz
 *.tgz
+.env

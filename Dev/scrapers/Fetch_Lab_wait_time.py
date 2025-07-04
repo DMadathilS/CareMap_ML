@@ -6,8 +6,8 @@ def log_lab_availability():
     # --- CONFIG ---
     DB_PARAMS = {
         "dbname": "HealthCareTest",
-        "user": "Deep",
-        "password": "Deep@0506",
+        "user": os.environ["DB_USER"],
+        "password": os.environ["PG_PASSWORD"],
         "host": "localhost",
         "port": 5432,
     }

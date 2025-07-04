@@ -328,6 +328,24 @@ class QueryBasedRouter:
                 for i in top_suggestions
             ]
 
+# summary_input = [
+#                  {
+#                     "name": i.get("service_name") or i.get("name", ""),
+#                     "category": ", ".join(i.get("category", [])) if isinstance(i.get("category"), list) else i.get("category", ""),
+#                     "address": i.get("address", ""),
+#                     "city": i.get("city", ""),
+#                     "postal_code": i.get("postal_code", ""),
+#                     "distance_text": i.get("distance_text", ""),
+#                     "relevance_score": i.get("relevance_score", 0),
+#                     "contact_info": i.get("contact_info", ""),
+#                     "phone": i.get("phone", ""),
+#                     "languages": i.get("languages", ""),
+#                     "referral_method": i.get("referral_method", ""),
+#                     "accessibility": i.get("accessibility", ""),
+#                     "description": i.get("description", "")
+#                 }   
+#                 for i in top_suggestions
+#             ]
         # ── Predict Summary ────────────────────────────────────────────────
         try:
             summary_json = self.summarizer.predict(query=query, results_json=json.dumps(summary_input))

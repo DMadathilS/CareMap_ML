@@ -6,7 +6,7 @@ from datetime import timedelta
 
 DB_PARAMS = {
     "dbname":   "HealthCareTest",
-    "user":     "Deep",
+    "user":     os.environ["DB_USER"],
     "password": os.environ["PG_PASSWORD"],
     "host":     "localhost",
     "port":     5432,
