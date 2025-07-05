@@ -12,61 +12,134 @@ DB_PARAMS = {
     "port":     5432,
 }
 
+# def get_hospital_stats():
+#     conn = psycopg2.connect(**DB_PARAMS)
+#     cur = conn.cursor()
+
+#     query = """
+#     SELECT source, timestamp, wait_minutes, patients_waiting
+#     FROM public.wait_times
+#     ORDER BY source, timestamp
+#     """
+#     cur.execute(query)
+#     rows = cur.fetchall()
+
+#     data_by_source = defaultdict(list)
+#     all_waits = []
+#     all_patients = []
+
+#     for source, ts, wait, patients in rows:
+#         data_by_source[source].append((ts, wait, patients))
+#         all_waits.append(wait)
+#         all_patients.append(patients)
+
+#     stats = {}
+#     for source, records in data_by_source.items():
+#         waits = [r[1] for r in records]
+#         patients = [r[2] for r in records]
+
+#         current_wait = waits[-1]
+#         current_patients=patients[-1]
+#         average_wait = round(mean(waits), 2)
+#         average_patient_time = round(mean(patients), 2)
+
+#         # Get trend based on last 30 mins
+#         recent_entries = get_recent_entries(records, minutes=30)
+#         recent_waits = [r[1] for r in recent_entries]
+#         trend = get_trend(recent_waits)
+
+#         stats[source] = {
+#             "currentWait": current_wait,
+#             "averageWait": average_wait,
+#             "trend": trend,
+#             "averagePatientTime": average_patient_time,
+#             "current_patients":current_patients
+#         }
+
+#     overall_avg_wait = round(mean(all_waits), 2) if all_waits else None
+#     overall_avg_patients = round(mean(all_patients), 2) if all_patients else None
+
+#     cur.close()
+#     conn.close()
+
+#     return {
+#         "hospitals": stats,
+#         "overallAverageWait": overall_avg_wait,
+#         "overallAveragePatients": overall_avg_patients
+#     }
+
+
 def get_hospital_stats():
     conn = psycopg2.connect(**DB_PARAMS)
     cur = conn.cursor()
 
     query = """
-    SELECT source, timestamp, wait_minutes, patients_waiting
-    FROM public.wait_times
-    ORDER BY source, timestamp
+    WITH latest_data AS (
+      SELECT DISTINCT ON (source)
+        source,
+        wait_minutes AS current_wait,
+        patients_waiting AS current_patients,
+        timestamp AS current_time
+      FROM public.wait_times
+      ORDER BY source, timestamp DESC
+    ),
+    recent_data AS (
+      SELECT 
+        source,
+        MIN(wait_minutes) FILTER (WHERE timestamp >= NOW() - INTERVAL '30 minutes') AS min_recent,
+        MAX(wait_minutes) FILTER (WHERE timestamp >= NOW() - INTERVAL '30 minutes') AS max_recent
+      FROM public.wait_times
+      GROUP BY source
+    ),
+    averages AS (
+      SELECT 
+        source,
+        ROUND(AVG(wait_minutes)::numeric, 2) AS average_wait,
+        ROUND(AVG(patients_waiting)::numeric, 2) AS average_patient_time
+      FROM public.wait_times
+      GROUP BY source
+    ),
+    hospital_json AS (
+      SELECT 
+        l.source,
+        jsonb_build_object(
+          'currentWait', l.current_wait,
+          'averageWait', a.average_wait,
+          'trend', 
+            CASE 
+              WHEN r.max_recent > r.min_recent THEN 'up'
+              WHEN r.max_recent < r.min_recent THEN 'down'
+              ELSE 'stable'
+            END,
+          'averagePatientTime', a.average_patient_time,
+          'current_patients', l.current_patients
+        ) AS value
+      FROM latest_data l
+      JOIN averages a ON l.source = a.source
+      LEFT JOIN recent_data r ON l.source = r.source
+    ),
+    overall_avg AS (
+      SELECT 
+        ROUND(AVG(wait_minutes)::numeric, 2) AS overall_average_wait,
+        ROUND(AVG(patients_waiting)::numeric, 2) AS overall_average_patients
+      FROM public.wait_times
+    )
+    SELECT jsonb_build_object(
+      'hospitals', jsonb_object_agg(h.source, h.value),
+      'overallAverageWait', (SELECT overall_average_wait FROM overall_avg),
+      'overallAveragePatients', (SELECT overall_average_patients FROM overall_avg)
+    ) AS result
+    FROM hospital_json h;
     """
+
     cur.execute(query)
-    rows = cur.fetchall()
-
-    data_by_source = defaultdict(list)
-    all_waits = []
-    all_patients = []
-
-    for source, ts, wait, patients in rows:
-        data_by_source[source].append((ts, wait, patients))
-        all_waits.append(wait)
-        all_patients.append(patients)
-
-    stats = {}
-    for source, records in data_by_source.items():
-        waits = [r[1] for r in records]
-        patients = [r[2] for r in records]
-
-        current_wait = waits[-1]
-        current_patients=patients[-1]
-        average_wait = round(mean(waits), 2)
-        average_patient_time = round(mean(patients), 2)
-
-        # Get trend based on last 30 mins
-        recent_entries = get_recent_entries(records, minutes=30)
-        recent_waits = [r[1] for r in recent_entries]
-        trend = get_trend(recent_waits)
-
-        stats[source] = {
-            "currentWait": current_wait,
-            "averageWait": average_wait,
-            "trend": trend,
-            "averagePatientTime": average_patient_time,
-            "current_patients":current_patients
-        }
-
-    overall_avg_wait = round(mean(all_waits), 2) if all_waits else None
-    overall_avg_patients = round(mean(all_patients), 2) if all_patients else None
+    row = cur.fetchone()
 
     cur.close()
     conn.close()
 
-    return {
-        "hospitals": stats,
-        "overallAverageWait": overall_avg_wait,
-        "overallAveragePatients": overall_avg_patients
-    }
+    # Return as native Python dict
+    return row[0] if row and row[0] else {}
 
 def get_recent_entries(records, minutes=30):
     from datetime import datetime

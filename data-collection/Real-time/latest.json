@@ -1,20 +1,20 @@
 {
   "Cambridge Memorial Hospital (cmh)": {
-    "timestamp": "2025-07-04T19:31:47.155833-04:00",
-    "wait_minutes": "6h 40m",
-    "patients_waiting": 45,
-    "website_last_update": "2025-07-04T19:26:31-04:00"
+    "timestamp": "2025-07-04T22:36:53.320885-04:00",
+    "wait_minutes": "4h 57m",
+    "patients_waiting": 49,
+    "website_last_update": "2025-07-04T22:36:31-04:00"
   },
   "St. Mary's General Hospital (smgh)": {
-    "timestamp": "2025-07-04T19:31:47.612962-04:00",
-    "wait_minutes": "4h 28m",
-    "patients_waiting": 27,
-    "website_last_update": "2025-07-04T19:29:44.608176-04:00"
+    "timestamp": "2025-07-04T22:36:53.884657-04:00",
+    "wait_minutes": "6h 48m",
+    "patients_waiting": 26,
+    "website_last_update": "2025-07-04T22:34:43.277846-04:00"
   },
   "Grand River Hospital (wrhn)": {
-    "timestamp": "2025-07-04T19:31:59.208891-04:00",
-    "wait_minutes": "4h 34m",
-    "patients_waiting": 27,
-    "website_last_update": "2025-07-04T19:28:00-04:00"
+    "timestamp": "2025-07-04T22:37:04.295251-04:00",
+    "wait_minutes": "5h 25m",
+    "patients_waiting": 21,
+    "website_last_update": "2025-07-04T22:33:00-04:00"
   }
 }

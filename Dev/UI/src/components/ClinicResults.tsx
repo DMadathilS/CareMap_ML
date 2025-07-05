@@ -6,12 +6,12 @@ import { MapView } from './MapView';
 
 interface ClinicResultsProps {
   clinics: Clinic[];
-  userLocation?: { lat: number; lng: number };
+  userLocation?: any;
 }
 
 export const ClinicResults: React.FC<ClinicResultsProps> = ({ 
   clinics, 
-  userLocation = { lat: 43.4706, lng: -80.5462 } 
+  userLocation, 
 }) => {
   const scrollContainerRef = useRef<HTMLDivElement>(null);
   const [viewMode, setViewMode] = useState<'list' | 'map'>('list');
@@ -26,7 +26,7 @@ export const ClinicResults: React.FC<ClinicResultsProps> = ({
       });
     }
   };
-
+    console.log(clinics)
   const handleClinicSelect = (clinic: Clinic) => {
     setSelectedClinic(clinic);
     if (viewMode === 'list') {
@@ -86,7 +86,7 @@ export const ClinicResults: React.FC<ClinicResultsProps> = ({
         </div>
         
         <p className="text-sm text-gray-600">
-          Found {clinics.length} clinics near your location ({userLocation.lat.toFixed(4)}, {userLocation.lng.toFixed(4)})
+          Found {clinics.length} clinics near your location ({userLocation.city})
         </p>
       </div>
 

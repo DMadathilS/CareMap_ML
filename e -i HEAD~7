@@ -1,0 +1,35 @@
+[33m50f445e[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32msprint_1_1[m[33m)[m Merge branch 'sprint_1_1' of https://github.com/DMadathilS/CareMap_ML into sprint_1_1
+[33m41d576a[m[33m ([m[1;31morigin/sprint_1_1[m[33m)[m Delete Dev/chatbot/config.py
+[33md379805[m Update ChatGroq API key retrieval to use environment variable
+[33m06a7ea6[m Merge branch 'sprint_1_1' of https://github.com/DMadathilS/CareMap_ML into sprint_1_1
+[33mff40f2c[m Delete .env
+[33mef8ba8d[m Merge branch 'sprint_1_1' of https://github.com/DMadathilS/CareMap_ML into sprint_1_1
+[33m10aa929[m FIx config files
+[33m39483d4[m UI Code File Update.
+[33m97170e3[m make changes in LLM finetune router for better perfomance
+[33m10cb96f[m Add lab wait time and next available appointment logging to lab_availability_log every 5 minutes
+[33me5cdb6c[m chore: add .gitignore to exclude environment files, node_modules, pycache, and editor settings
+[33m3173cfe[m 	modified:   Dev/scrapers/orchestrate_data_pipeline.py
+[33m77ad657[m fix: resolved merge conflicts after branch rename, restored stats files
+[33m4d38612[m fixed merge problem
+[33mb410e2e[m fixed changes
+[33m62ac1af[m[33m ([m[1;31morigin/sprint_2[m[33m)[m Fix chatbot flow and integrate real-time data pipeline; add LLM-based greetings handling
+[33m1f58328[m fixed api json output
+[33m9d28f68[m docs: add setup instructions for RAG app with PostgreSQL pgvector, dependencies, and FastAPI run flow
+[33m2e620d7[m feat: Build RAG pipeline connecting 4 data sources with LangChain and LLM, returning structured JSON output
+[33mff29fbe[m feat: add script to fetch provider data from Securian Canada API and save as JSON
+[33ma496576[m fixed image
+[33ma463cde[m added system diagram in README file
+[33m4990d3f[m Create optimized orchestrator script for real-time data ingestion into PostgreSQL and export latest snapshots to JSON/CSV for LLM knowledge
+[33m8698649[m Set up API folder structure and add user/chat endpoints
+[33m7b62e04[m[33m ([m[1;32mmain[m[33m)[m main_commit
+[33m5bb4425[m sync
+[33m78bfa63[m commit_all
+[33m262a2a7[m Commit_dataset
+[33md1968fb[m Update README.md
+[33mf1eb293[m Update README.md
+[33m9b99859[m Update README.md
+[33m03eef8f[m Add files via upload
+[33m67f0d44[m commit 1
+[33m9e63060[m initial project setup
+[33m394858d[m[33m ([m[1;31morigin/Sprint_1[m[33m)[m Initial commit

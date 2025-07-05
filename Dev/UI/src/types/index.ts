@@ -8,14 +8,13 @@ export interface HospitalStats {
 export interface Clinic {
   location_ID: number;
   name: string;
+  address: string;
   location: {
     latitude: number;
     longitude: number;
   };
-  address: string;
   contact_information: {
     phone: string[];
-    phone_toll_free?: string[];  // ✅ Fix: expect string[]
     email?: string[];
     url?: string;
     fax?: string[];
@@ -24,9 +23,18 @@ export interface Clinic {
   languages: string[];
   suggested: boolean;
   bot: string;
-  distance?: number;
-  relevance_score?: number;
+  distance: number;
+  relevance_score: number;
+  wait_time_minutes?: number;
+  next_available_appointment?: string;
+  hours_of_operation?: {
+    day_of_week: number;
+    open_time: string | null;
+    close_time: string | null;
+    closed: boolean;
+  }[];
 }
+
 
 export interface ChatMessage {
   id: string;
