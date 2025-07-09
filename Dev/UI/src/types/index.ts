@@ -48,3 +48,21 @@ export interface CategoryStat {
   category: string;
   count: number;
 }
+export interface HealthcareCategory {
+  category: string;
+  count: number;
+}
+export interface ApiResponse {
+  domain: string;
+  data: Clinic[];
+  answer: string;
+}
+export interface CategoryData {
+  category: string;
+  count: number;
+  icon: React.ComponentType;
+  color: string;
+  bgColor: string;
+  borderColor: string;
+  iconColor: string;
+}

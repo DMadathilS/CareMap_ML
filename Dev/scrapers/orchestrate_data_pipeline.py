@@ -236,7 +236,8 @@ def job():
         print(f"[{datetime.now().isoformat()}] Update complete.\n")
     except Exception as e:
         print(f"Error during update: {e}")
-
+        import traceback
+        traceback.print_exc()
 
 def main():
     # Ensure table exists before scheduling

@@ -1,0 +1,35 @@
+version: "3.9"
+services:
+  db:
+    image: ankane/pgvector
+    container_name: caremap-db
+    environment:
+      POSTGRES_USER: Deep
+      POSTGRES_PASSWORD: Deep@0506
+      POSTGRES_DB: HealthCareTest
+    ports:
+      - "5432:5432"
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+      - ./db/HealthCareTest_25_6.backup:/docker-entrypoint-initdb.d/HealthCareTest_25_6.backup
+
+  backend:
+    build: ./backend
+    container_name: caremap-backend
+    ports:
+      - "8000:8000"
+    depends_on:
+      - db
+    env_file:
+      - .env
+    command: bash -c "python orchestrate_data_pipeline.py && uvicorn api.main:app --host 0.0.0.0 --port 8000 --reload"
+
+  frontend:
+    build: ./UI
+    container_name: caremap-frontend
+    ports:
+      - "3000:3000"
+    command: ["npm", "run", "dev"]
+
+volumes:
+  pgdata:

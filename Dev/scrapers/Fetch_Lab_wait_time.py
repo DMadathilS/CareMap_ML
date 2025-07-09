@@ -66,9 +66,10 @@ def log_lab_availability():
         appt_dt = None
         if appt_str:
             try:
-                appt_dt = datetime.strptime(appt_str, "%m/%d/%Y %I:%M:%S %p")
+                appt_dt = datetime.strptime(appt_str, "%Y-%m-%d %I:%M:%S %p")
+
                 print(appt_dt)
-            except Exception:
+            except Exception as e:
                 print(f"❌ Failed to parse appointment time '{appt_str}': {e}")
         appt_dt            
         cur.execute("""

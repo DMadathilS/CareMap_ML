@@ -43,6 +43,7 @@ import {
 } from "react-icons/fa";
 import { FaEarListen } from "react-icons/fa6";
 import AnimatedBeamDiagram from "./components/AnimatedBeamDiagram";
+import { CategoryGrid } from "./components/CategoryGrid";
 function App() {
   const [isChatbotOpen, setIsChatbotOpen] = useState(false);
   // const stats = useRealTimeStats(hospitalStats);
@@ -58,7 +59,7 @@ function App() {
   const [clinicData, setClinicData] = useState<Clinic[]>([]);
   const [showClinicResults, setShowClinicResults] = useState(true);
   const [userLocation, setUserLocation] = useState<{ lat: number; lng: number } | null>(null);
-
+  const [selectedCategory, setSelectedCategory] = useState<string | null>(null);
   const [stats, setStats] = useState({
     emergencyWaitTime: 0,
     patientCount: 0,
@@ -67,7 +68,9 @@ function App() {
     overallAveragePatients: 0,
   });
   const [categoryStats, setCategoryStats] = useState<CategoryStat[]>([]);
-
+  // const handleCategoryClick = (category: string) => {
+  //   setSelectedCategory(category);
+  // };
   useEffect(() => {
     fetch("http://localhost:8000/CareMap/api/provider-category-stats")
       .then((res) => res.json())
@@ -312,7 +315,12 @@ function App() {
           </div>
         </div>
       </main>
-
+   {/* <div className="mb-12">
+          <CategoryGrid 
+            categories={categoryStats}
+            // onCategoryClick={handleCategoryClick}
+          />
+        </div> */}
       {/* Main Chatbot (for clinic finding) */}
       <Chatbot
         isOpen={isChatbotOpen}
