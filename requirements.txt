@@ -17,3 +17,6 @@ sentence-transformers
 langchain
 python-dotenv
 pydantic
+schedule
+selenium
+webdriver-manager

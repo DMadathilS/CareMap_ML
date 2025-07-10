@@ -1,8 +1,12 @@
-FROM node:20
+# Dev/UI/Dockerfile
+FROM node:18
 
 WORKDIR /app
-COPY . .
+
+COPY package*.json ./
+
 RUN npm install
 
-EXPOSE 3000
-CMD ["npm", "run", "dev"]
+COPY . .
+
+CMD ["npm", "run", "dev", "--", "--host"]

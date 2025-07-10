@@ -1,35 +1,46 @@
 version: "3.9"
+
 services:
   db:
     image: ankane/pgvector
     container_name: caremap-db
     environment:
-      POSTGRES_USER: Deep
-      POSTGRES_PASSWORD: Deep@0506
-      POSTGRES_DB: HealthCareTest
+      - DB_NAME=HealthCareTest
+      - DB_USER=Deep
+      - PG_PASSWORD=Deep@0506
+      - DB_HOST=db
+      - DB_PORT=5432
+
     ports:
       - "5432:5432"
     volumes:
       - pgdata:/var/lib/postgresql/data
       - ./db/HealthCareTest_25_6.backup:/docker-entrypoint-initdb.d/HealthCareTest_25_6.backup
 
-  backend:
-    build: ./backend
-    container_name: caremap-backend
+  api:
+    build:
+      context: .
+      dockerfile: Dev/Dockerfile     # Correct path to your Dockerfile inside Dev
+    container_name: caremap-api
     ports:
       - "8000:8000"
     depends_on:
       - db
     env_file:
       - .env
-    command: bash -c "python orchestrate_data_pipeline.py && uvicorn api.main:app --host 0.0.0.0 --port 8000 --reload"
+    command: bash -c "python scrapers/orchestrate_data_pipeline.py && uvicorn main:app --host 0.0.0.0 --port 8000 --reload"
 
   frontend:
-    build: ./UI
+    build:
+      context: ./dev/UI
+      dockerfile: Dockerfile
     container_name: caremap-frontend
     ports:
-      - "3000:3000"
-    command: ["npm", "run", "dev"]
+      - "3005:5173"
+    volumes:
+      - ./dev/UI:/app          # mount source code, not node_modules
+      - /app/node_modules      # allow container-specific modules
+    command: ["npm", "run", "dev", "--", "--host"]
 
 volumes:
   pgdata:

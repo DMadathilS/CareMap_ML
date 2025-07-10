@@ -5,12 +5,13 @@ from datetime import datetime
 def log_lab_availability():
     # --- CONFIG ---
     DB_PARAMS = {
-        "dbname": "HealthCareTest",
-        "user": os.environ["DB_USER"],
+        "dbname":   os.environ["DB_NAME"],
+        "user":     os.environ["DB_USER"],
         "password": os.environ["PG_PASSWORD"],
-        "host": "localhost",
-        "port": 5432,
+        "host":     os.environ["DB_HOST"],  # Use env var here!
+        "port":     int(os.environ.get("DB_PORT", 5432)),  # default to 5432 if not set
     }
+
     API_URL = "https://on-api.mycarecompass.lifelabs.com/api/LocationFinder/GetLocations/"
     ALLOWED_CITIES = {"Kitchener", "Waterloo", "Cambridge"}
     PAYLOAD = {

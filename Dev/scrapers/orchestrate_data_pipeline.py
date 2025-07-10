@@ -127,8 +127,7 @@ def update_database():
             "r=eyJrIjoiMDY3NjFiOTItZGQyYy00ZDU5LWFmMzQtYzkyNWU5ZGZjN2ZhIiwi"
             "dCI6IjdmNDUxZmM0LTYwMDEtNDVlNS05YmYxLThhNWYzOTExOTVmOSJ9"
         )
-        DRIVER_PATH = r"P:\ML-Project\HospitalCare\chromedriver-win32\chromedriver.exe"
-        wrhn = fetch_powerbi_wait_times(REPORT_URL, DRIVER_PATH)
+        wrhn = fetch_powerbi_wait_times(REPORT_URL)
         print("wrhn",wrhn)
 
         # parse WRHN last_updated_time (HH:MM:SS) into datetime

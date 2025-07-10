@@ -11,9 +11,10 @@ from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
+from webdriver_manager.chrome import ChromeDriverManager  # ✅ Added
 
 
-def fetch_powerbi_wait_times(report_url: str, driver_path: str, timeout: int = 20) -> dict:
+def fetch_powerbi_wait_times(report_url: str,timeout: int = 20) -> dict:
     """
     Load a Power BI report page, scrape the emergency wait card, and return structured data.
 
@@ -35,9 +36,12 @@ def fetch_powerbi_wait_times(report_url: str, driver_path: str, timeout: int = 2
     opts = Options()
     opts.add_argument("--headless")
     opts.add_argument("--disable-gpu")
-    service = Service(driver_path)
-    driver = webdriver.Chrome(service=service, options=opts)
+    opts.add_argument("--no-sandbox")
+    opts.add_argument("--disable-dev-shm-usage")
+    opts.add_argument("--remote-debugging-port=9222")
 
+    service = Service("/usr/bin/chromedriver")  # already installed
+    driver = webdriver.Chrome(service=service, options=opts)
     try:
         driver.get(report_url)
         # Wait for the visual card to load

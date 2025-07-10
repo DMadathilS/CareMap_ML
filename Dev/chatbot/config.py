@@ -9,12 +9,13 @@ load_dotenv()
 
 # DB
 DB_PARAMS = {
-    "dbname":   "HealthCareTest",
+    "dbname":   os.environ["DB_NAME"],
     "user":     os.environ["DB_USER"],
     "password": os.environ["PG_PASSWORD"],
-    "host":     "localhost",
-    "port":     5432,
+    "host":     os.environ["DB_HOST"],  # Use env var here!
+    "port":     int(os.environ.get("DB_PORT", 5432)),  # default to 5432 if not set
 }
+
 conn = psycopg2.connect(**DB_PARAMS)
 register_vector(conn)
 cur = conn.cursor()
