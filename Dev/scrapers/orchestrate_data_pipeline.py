@@ -44,13 +44,23 @@ os.makedirs(DATA_DIR, exist_ok=True)
 # Timezone for storing website timestamps
 LOCAL_TZ = ZoneInfo("America/Toronto")
 
+def wait_for_postgres(dsn, retries=10, delay=3):
+    for i in range(retries):
+        try:
+            return psycopg2.connect(dsn)
+        except psycopg2.OperationalError:
+            print(f"[Retry {i+1}] DB not ready, waiting {delay}s...")
+            time.sleep(delay)
+    raise Exception("❌ Could not connect to PostgreSQL after retries.")
+
 
 def ensure_table_exists():
     """
     Create the wait_times table if it does not already exist,
     including the website_last_update column.
     """
-    conn = psycopg2.connect(DATABASE_URL)
+    conn = wait_for_postgres(DATABASE_URL)
+
     try:
         with conn.cursor() as cur:
             cur.execute(
@@ -95,7 +105,7 @@ def update_database():
     """
     Fetch data from each source and insert into PostgreSQL.
     """
-    conn = psycopg2.connect(DATABASE_URL)
+    conn = wait_for_postgres(DATABASE_URL)
     try:
         # 1) GRH data
         grh = fetch_emergency_data_grhosp()
@@ -151,7 +161,7 @@ def get_latest_snapshots():
     Retrieve the latest snapshot for each source from PostgreSQL.
     Returns a dict keyed by source.
     """
-    conn = psycopg2.connect(DATABASE_URL)
+    conn = wait_for_postgres(DATABASE_URL)
     latest = {}
     try:
         with conn.cursor() as cur:

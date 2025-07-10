@@ -20,3 +20,5 @@ pydantic
 schedule
 selenium
 webdriver-manager
+pydantic-settings
+langchain-groq
