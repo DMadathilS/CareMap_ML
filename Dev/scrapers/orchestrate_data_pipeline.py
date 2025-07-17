@@ -20,7 +20,13 @@ from dotenv import load_dotenv
 from datetime import datetime, date, time as dtime
 from zoneinfo import ZoneInfo
 from Fetch_Lab_wait_time import log_lab_availability as log_lab_availability_run
+import sys
+import os
 
+# Add Dev folder to sys.path to access sibling folders
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
+
+from project_logger.scraper_logger import scraper_logger
 # Load environment variables from .env
 load_dotenv()
 
@@ -50,10 +56,12 @@ def wait_for_postgres(dsn, retries=10, delay=3):
             return psycopg2.connect(dsn)
         except psycopg2.OperationalError:
             print(f"[Retry {i+1}] DB not ready, waiting {delay}s...")
+            import traceback
+            traceback.print_exc()
             time.sleep(delay)
+
     raise Exception("❌ Could not connect to PostgreSQL after retries.")
-
-
+    
 def ensure_table_exists():
     """
     Create the wait_times table if it does not already exist,
@@ -101,56 +109,141 @@ def insert_snapshot(conn, source: str, wait_mins: int, patients: int, website_la
     conn.commit()
 
 
+
 def update_database():
     """
     Fetch data from each source and insert into PostgreSQL.
+    Logs both fetch and DB insert operations separately for each source.
     """
     conn = wait_for_postgres(DATABASE_URL)
     try:
-        # 1) GRH data
-        grh = fetch_emergency_data_grhosp()
-        print("grh",grh)
-        insert_snapshot(
-            conn,
-            "Cambridge Memorial Hospital (cmh)",
-            grh["wait_time_minutes"],
-            grh["patients_waiting"],
-            # ensure timezone-aware
-            grh.get("last_updated").astimezone(LOCAL_TZ) if grh.get("last_updated") else None
-        )
+        # === GRH ===
+        try:
+            grh = fetch_emergency_data_grhosp()
+            scraper_logger.info(
+                "Fetched GRHOSP data",
+                extra={
+                    "status": "success",
+                    "source": "grh",
+                    "category": "scraper",
+                    "entity": "Cambridge Memorial Hospital (cmh)"
+                }
+            )
 
-        # 2) SMGH data
-        smgh = fetch_smgh_wait_times()
-        print("smgh",smgh)
+            insert_snapshot(
+                conn,
+                "Cambridge Memorial Hospital (cmh)",
+                grh["wait_time_minutes"],
+                grh["patients_waiting"],
+                grh.get("last_updated").astimezone(LOCAL_TZ) if grh.get("last_updated") else None
+            )
+            scraper_logger.info(
+                "Inserted GRHOSP data into database",
+                extra={
+                    "status": "success",
+                    "source": "grh",
+                    "category": "db_insert",
+                    "entity": "Cambridge Memorial Hospital (cmh)"
+                }
+            )
+        except Exception as e:
+            scraper_logger.error(
+                f"GRHOSP fetch or insert failed: {e}",
+                extra={
+                    "status": "error",
+                    "source": "grh",
+                    "category": "scraper",
+                    "entity": "Cambridge Memorial Hospital (cmh)"
+                }
+            )
 
-        insert_snapshot(
-            conn,
-            "St. Mary's General Hospital (smgh)",
-            smgh["estimated_wait_time_minutes"],
-            smgh["patients_waiting"],
-            smgh.get("last_update").astimezone(LOCAL_TZ) if smgh.get("last_update") else None
-        )
+        # === SMGH ===
+        try:
+            smgh = fetch_smgh_wait_times()
+            scraper_logger.info(
+                "Fetched SMGH data",
+                extra={
+                    "status": "success",
+                    "source": "smgh",
+                    "category": "scraper",
+                    "entity": "St. Mary's General Hospital (smgh)"
+                }
+            )
 
-        # 3) WRHN data via PowerBI fetcher
-        REPORT_URL = (
-            "https://app.powerbi.com/view?"
-            "r=eyJrIjoiMDY3NjFiOTItZGQyYy00ZDU5LWFmMzQtYzkyNWU5ZGZjN2ZhIiwi"
-            "dCI6IjdmNDUxZmM0LTYwMDEtNDVlNS05YmYxLThhNWYzOTExOTVmOSJ9"
-        )
-        wrhn = fetch_powerbi_wait_times(REPORT_URL)
-        print("wrhn",wrhn)
+            insert_snapshot(
+                conn,
+                "St. Mary's General Hospital (smgh)",
+                smgh["estimated_wait_time_minutes"],
+                smgh["patients_waiting"],
+                smgh.get("last_update").astimezone(LOCAL_TZ) if smgh.get("last_update") else None
+            )
+            scraper_logger.info(
+                "Inserted SMGH data into database",
+                extra={
+                    "status": "success",
+                    "source": "smgh",
+                    "category": "db_insert",
+                    "entity": "St. Mary's General Hospital (smgh)"
+                }
+            )
+        except Exception as e:
+            scraper_logger.error(
+                f"SMGH fetch or insert failed: {e}",
+                extra={
+                    "status": "error",
+                    "source": "smgh",
+                    "category": "scraper",
+                    "entity": "St. Mary's General Hospital (smgh)"
+                }
+            )
 
-        # parse WRHN last_updated_time (HH:MM:SS) into datetime
-        t = datetime.strptime(wrhn["last_updated_time"], "%H:%M:%S").time()
-        website_ts = datetime.combine(date.today(), t, tzinfo=LOCAL_TZ)
-        insert_snapshot(
-            conn,
-            "Grand River Hospital (wrhn)",
-            # parse estimated_time HH:MM:SS → total minutes
-            wrhn["estimated_time"],
-            wrhn["patients_waiting"],
-            website_ts
-        )
+        # === WRHN ===
+        try:
+            REPORT_URL = (
+                "https://app.powerbi.com/view?"
+                "r=eyJrIjoiMDY3NjFiOTItZGQyYy00ZDU5LWFmMzQtYzkyNWU5ZGZjN2ZhIiwi"
+                "dCI6IjdmNDUxZmM0LTYwMDEtNDVlNS05YmYxLThhNWYzOTExOTVmOSJ9"
+            )
+            wrhn = fetch_powerbi_wait_times(REPORT_URL)
+            scraper_logger.info(
+                "Fetched WRHN data from PowerBI",
+                extra={
+                    "status": "success",
+                    "source": "wrhn",
+                    "category": "scraper",
+                    "entity": "Grand River Hospital (wrhn)"
+                }
+            )
+
+            t = datetime.strptime(wrhn["last_updated_time"], "%H:%M:%S").time()
+            website_ts = datetime.combine(date.today(), t, tzinfo=LOCAL_TZ)
+
+            insert_snapshot(
+                conn,
+                "Grand River Hospital (wrhn)",
+                wrhn["estimated_time"],
+                wrhn["patients_waiting"],
+                website_ts
+            )
+            scraper_logger.info(
+                "Inserted WRHN data into database",
+                extra={
+                    "status": "success",
+                    "source": "wrhn",
+                    "category": "db_insert",
+                    "entity": "Grand River Hospital (wrhn)"
+                }
+            )
+        except Exception as e:
+            scraper_logger.error(
+                f"WRHN fetch or insert failed: {e}",
+                extra={
+                    "status": "error",
+                    "source": "wrhn",
+                    "category": "scraper",
+                    "entity": "Grand River Hospital (wrhn)"
+                }
+            )
 
     finally:
         conn.close()

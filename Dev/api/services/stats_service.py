@@ -12,14 +12,19 @@ from datetime import timedelta
 #     "port":     5432,
 # }
 
-DB_PARAMS = {
-    "dbname":   os.environ["DB_NAME"],
-    "user":     os.environ["DB_USER"],
-    "password": os.environ["PG_PASSWORD"],
-    "host":     os.environ["DB_HOST"],  # Use env var here!
-    "port":     int(os.environ.get("DB_PORT", 5432)),  # default to 5432 if not set
-}
+production = os.getenv("PRODUCTION", "false").lower() == "true"
 
+# Choose DB host based on environment
+db_host = os.getenv("DB_HOST_DOCKER") if production else os.getenv("DB_HOST")
+
+# Set DB connection parameters
+DB_PARAMS = {
+    "dbname": os.getenv("DB_NAME"),
+    "user": os.getenv("DB_USER"),
+    "password": os.getenv("PG_PASSWORD"),
+    "host": db_host,
+    "port": os.getenv("DB_PORT")
+}
 # def get_hospital_stats():
 #     conn = psycopg2.connect(**DB_PARAMS)
 #     cur = conn.cursor()
