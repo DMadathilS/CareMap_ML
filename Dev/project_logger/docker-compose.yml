@@ -1,0 +1,50 @@
+
+services:
+
+  init-helper:
+    image: alpine
+    entrypoint: ""
+    command: >
+      sh -c "mkdir -p /vol/chunks /vol/index /vol/boltdb-cache /vol/compactor &&
+            chown -R 10001:10001 /vol"
+
+    volumes:
+      - ./loki-data/chunks:/vol/chunks
+      - ./loki-data/index:/vol/index
+      - ./loki-data/boltdb-cache:/vol/boltdb-cache
+      - ./loki-data/compactor:/vol/compactor
+
+  loki:
+    image: grafana/loki:2.9.3
+    command: -config.file=/etc/loki/local-config.yaml
+    ports:
+      - "3100:3100"
+    depends_on:
+      - init-helper         # ✅ Ensure init-helper runs first
+    volumes:
+      - ./loki-config.yaml:/etc/loki/local-config.yaml
+      - ./loki-data:/loki  # ✅ Required for compactor
+      - ./loki-wal:/wal    # ✅ ADD THIS for the WAL directory
+      - ./loki-data/compactor:/loki/compactor  # ✅ ADD THIS LINE
+
+
+  promtail:
+    image: grafana/promtail:2.9.3
+    command: -config.file=/etc/promtail/promtail-config.yaml
+    volumes:
+      - ./promtail-config.yaml:/etc/promtail/promtail-config.yaml
+      - ../../data-collection/log:/var/log/caremap  # ✅ relative to compose file location
+    depends_on:
+      - loki
+
+  grafana:
+    image: grafana/grafana-oss:10.2.3
+    ports:
+      - "3001:3000"
+    volumes:
+      - grafana-storage:/var/lib/grafana
+    depends_on:
+      - loki
+
+volumes:
+  grafana-storage:
