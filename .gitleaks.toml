@@ -1,0 +1,23 @@
+[[rules]]
+id = "postgres-user"
+description = "PostgreSQL Username in env/config"
+regex = '''(?i)(postgres_user|pg_user|db_user|username)\s*[:=]\s*["']?([\w-]+)["']?'''
+tags = ["postgres", "db", "username"]
+
+[[rules]]
+id = "postgres-password"
+description = "PostgreSQL Password in env/config"
+regex = '''(?i)(postgres_password|pg_pass|db_pass|password)\s*[:=]\s*["']?([\w!@#$%^&*-_+=]+)["']?'''
+tags = ["postgres", "db", "password"]
+
+[[rules]]
+id = "postgres-host"
+description = "PostgreSQL Host in env/config"
+regex = '''(?i)(postgres_host|pg_host|db_host|host)\s*[:=]\s*["']?([\w\.-]+)["']?'''
+tags = ["postgres", "db", "host"]
+
+[[rules]]
+id = "groq-api-key"
+description = "Groq API Key (starts with 'gsk_')"
+regex = '''gsk_[0-9a-zA-Z]{20,}'''
+tags = ["groq", "apikey", "ai"]

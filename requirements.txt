@@ -22,3 +22,6 @@ selenium
 webdriver-manager
 pydantic-settings
 langchain-groq
+matplotlib
+numpy
+requests

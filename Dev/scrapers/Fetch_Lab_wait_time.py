@@ -2,14 +2,14 @@ import os
 import requests
 import psycopg2
 from datetime import datetime
-def log_lab_availability():
-    # --- CONFIG ---
-    production = os.getenv("PRODUCTION", "false").lower() == "true"
+import sys
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 
-    # Choose DB host based on environment
+from project_logger.scraper_logger import scraper_logger
+def log_lab_availability():
+    production = os.getenv("PRODUCTION", "false").lower() == "true"
     db_host = os.getenv("DB_HOST_DOCKER") if production else os.getenv("DB_HOST")
 
-    # Set DB connection parameters
     DB_PARAMS = {
         "dbname": os.getenv("DB_NAME"),
         "user": os.getenv("DB_USER"),
@@ -59,7 +59,6 @@ def log_lab_availability():
     response = requests.post(API_URL, json=PAYLOAD)
     labs = response.json().get("entity", [])
 
-    # --- Insert into lab_availability_log ---
     inserted = 0
     for lab in labs:
         location_id = lab.get("locationId")
@@ -69,27 +68,49 @@ def log_lab_availability():
 
         wait_time = lab.get("waitTime")
         appt_str = lab.get("nextAvailableAppointment")
-        print(appt_str)
         appt_dt = None
         if appt_str:
             try:
                 appt_dt = datetime.strptime(appt_str, "%Y-%m-%d %I:%M:%S %p")
-
-                print(appt_dt)
             except Exception as e:
-                print(f"❌ Failed to parse appointment time '{appt_str}': {e}")
-        appt_dt            
+                print(f"Failed to parse appointment time '{appt_str}': {e}")
+                # scraper_logger.warning(
+                #     f"Failed to parse appointment time '{appt_str}': {e}",
+                #     extra={
+                #         "status": "error",
+                #         "source": "lifelabs",
+                #         "category": "datetime_parse",
+                #         "entity": lab.get("locationName", "unknown")
+                #     }
+                # )
+
         cur.execute("""
             INSERT INTO lab_availability_log (location_id, wait_time_minutes, next_available_appointment)
             VALUES (%s, %s, %s);
         """, (location_id, wait_time, appt_dt))
 
+        scraper_logger.info(
+            "Inserted lab availability data into database",
+            extra={
+                "status": "success",
+                "source": "lifelabs",
+                "category": "db_insert",
+                "entity": lab.get("locationName", "unknown")
+            }
+        )
+
         inserted += 1
 
-    # --- Finish ---
     conn.commit()
     cur.close()
     conn.close()
-    print(f"✅ Inserted {inserted} records into lab_availability_log.")
 
-
+    scraper_logger.info(
+        f"Inserted {inserted} total lab records.",
+        extra={
+            "status": "success",
+            "source": "lifelabs",
+            "category": "db_insert",
+            "entity": "lab_availability_log"
+        }
+    )

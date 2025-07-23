@@ -1,4 +1,4 @@
 source,timestamp,wait_minutes,patients_waiting,website_last_update
-Cambridge Memorial Hospital (cmh),2025-07-19T17:55:48.793097-04:00,1h 56m,17,2025-07-19T17:46:30-04:00
-St. Mary's General Hospital (smgh),2025-07-19T17:55:49.198959-04:00,2h 45m,18,2025-07-19T17:50:29.088517-04:00
-Grand River Hospital (wrhn),2025-07-19T17:56:00.331677-04:00,1h 57m,6,2025-07-19T16:59:00-04:00
+Cambridge Memorial Hospital (cmh),2025-07-23T14:07:43.700441-04:00,2h 29m,23,2025-07-23T14:06:30-04:00
+St. Mary's General Hospital (smgh),2025-07-23T14:07:44.162649-04:00,3h 14m,21,2025-07-23T14:05:54.033924-04:00
+Grand River Hospital (wrhn),2025-07-23T14:07:58.681367-04:00,2h 40m,9,2025-07-23T13:28:00-04:00
