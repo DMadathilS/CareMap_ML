@@ -12,7 +12,7 @@ def create_user(location: str, ip_address: str) -> dict:
     Returns:
         Dict with user_id, location, ip_address
     """
-    from api.utils.uuid import generate_uuid
+    from Dev.api.utils.uuid import generate_uuid
     user_id = generate_uuid()
     user_store[user_id] = {
         "location": location,

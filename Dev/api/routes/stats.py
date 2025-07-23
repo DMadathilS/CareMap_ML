@@ -1,6 +1,6 @@
 from fastapi import APIRouter
 from fastapi.responses import JSONResponse
-from api.services.stats_service import get_hospital_stats,get_category_stats
+from Dev.api.services.stats_service import get_hospital_stats,get_category_stats
 
 router = APIRouter()
 

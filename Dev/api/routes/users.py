@@ -1,6 +1,6 @@
 from fastapi import APIRouter, HTTPException
 from pydantic import BaseModel
-from api.services.user_service import create_user as create_user_svc, get_user as get_user_svc
+from Dev.api.services.user_service import create_user as create_user_svc, get_user as get_user_svc
 
 router = APIRouter()
 

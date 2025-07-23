@@ -1,11 +1,12 @@
 import uvicorn
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware  # ✅ Import CORS middleware
-from api.config import settings
-from api.routes.users import router as users_router
-from api.routes.llm_bot import router as llm_router
-from api.routes.chats import router as chat_router
-from api.routes.stats import router as stats_router
+from Dev.api.config import settings
+from Dev.api.routes.users import router as users_router
+from Dev.api.routes.llm_bot import router as llm_router
+from Dev.api.routes.chats import router as chat_router
+from Dev.api.routes.stats import router as stats_router
+
 
 app = FastAPI()
 
