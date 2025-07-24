@@ -1,23 +1,11 @@
 #!/bin/bash
 set -e
 
-echo "👤 Ensuring required roles exist..."
+echo "Creating database 'Deep' if it doesn't exist..."
+psql -U "$POSTGRES_USER" -d postgres -c "SELECT 1 FROM pg_database WHERE datname = 'Deep'" | grep -q 1 || \
+psql -U "$POSTGRES_USER" -d postgres -c "CREATE DATABASE \"Deep\";"
 
-# Create user "Deep" with password
-psql -U "$POSTGRES_USER" -d "$POSTGRES_DB" -c "DO \$\$ BEGIN
-  IF NOT EXISTS (SELECT FROM pg_roles WHERE rolname = 'Deep') THEN
-    CREATE USER \"Deep\" WITH PASSWORD 'Deep@0506';
-  END IF;
-END \$\$;"
+echo "Restoring HealthCareTest.sql into 'Deep'..."
+psql -U "$POSTGRES_USER" -d Deep -f /docker-entrypoint-initdb.d/HealthCareTest.sql
 
-# Create role "postgres" if needed (for SQL ownership compatibility)
-psql -U "$POSTGRES_USER" -d "$POSTGRES_DB" -c "DO \$\$ BEGIN
-  IF NOT EXISTS (SELECT FROM pg_roles WHERE rolname = 'postgres') THEN
-    CREATE ROLE postgres;
-  END IF;
-END \$\$;"
-
-echo "📦 Restoring HealthCareTest.sql..."
-psql -U "$POSTGRES_USER" -d "$POSTGRES_DB" -f /docker-entrypoint-initdb.d/HealthCareTest.sql
-
-echo "✅ SQL restore completed successfully."
+echo "✅ Restore complete"

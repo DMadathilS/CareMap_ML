@@ -33,6 +33,8 @@ app.include_router(llm_router, prefix=settings.BASE_PATH)
 app.include_router(chat_router, prefix=settings.BASE_PATH)
 app.include_router(stats_router, prefix=settings.BASE_PATH)
 
+
+
 if __name__ == "__main__":
     uvicorn.run(
         "api.main:app",

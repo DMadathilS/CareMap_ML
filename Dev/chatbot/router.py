@@ -1,18 +1,18 @@
 import json
-from chatbot.models import AssistantOutput
-from chatbot.config import EMBEDDER, tool_llm
-from chatbot.prompts import router_prompt, suggest_prompt, summary_prompt,greeting_prompt,realtime_summary_prompt
+from Dev.chatbot.models import AssistantOutput
+from Dev.chatbot.config import EMBEDDER, tool_llm
+from Dev.chatbot.prompts import router_prompt, suggest_prompt, summary_prompt,greeting_prompt,realtime_summary_prompt
 from langchain.chains import LLMChain
-from chatbot.tools.clinics import fetch_hospital_clinic
-from chatbot.tools.providers import fetch_providers
-from chatbot.tools.labs import fetch_labs
+from Dev.chatbot.tools.clinics import fetch_hospital_clinic
+from Dev.chatbot.tools.providers import fetch_providers
+from Dev.chatbot.tools.labs import fetch_labs
 import os
-from chatbot.utils.location import haversine_distance
-from chatbot.utils.text_json import extract_json_from_text
+from Dev.chatbot.utils.location import haversine_distance
+from Dev.chatbot.utils.text_json import extract_json_from_text
 import traceback
 from decimal import Decimal
 
-REALTIME_PATH = r"H:\Ai-ml\sem-2\Projects in Machine Learning\Project\CareMap_ML\data-collection\Real-time\latest.json"
+REALTIME_PATH = r"../data-collection/Real-time/latest.json"
 
 
 router_chain = LLMChain(llm=tool_llm, prompt=router_prompt)
@@ -42,6 +42,8 @@ tools = {
         "func": lambda _: []
     }
 }
+
+
 def combined_score(item, alpha=0.7):
     """
     Compute a weighted score:

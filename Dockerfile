@@ -1,47 +1,32 @@
-# Use Python base
+# Dockerfile
 FROM python:3.11-slim
 
-# Install Node.js (for frontend) and system packages
+ENV PYTHONDONTWRITEBYTECODE=1
+ENV PYTHONUNBUFFERED=1
+ENV PYTHONPATH=/app:/app/Dev
+
 RUN apt-get update && apt-get install -y \
-    curl wget unzip gnupg ca-certificates \
-    nodejs npm \
-    chromium chromium-driver \
+    curl wget unzip gnupg ca-certificates nodejs npm chromium chromium-driver \
     libglib2.0-0 libnss3 libgconf-2-4 libfontconfig1 \
+    && npm install -g serve \
     && rm -rf /var/lib/apt/lists/*
 
-# Set working directory
 WORKDIR /app
 
-# Copy backend requirements and install
 COPY requirements.txt .
-RUN pip install --no-cache-dir -r requirements.txt
+RUN pip install --upgrade pip && pip install --no-cache-dir -r requirements.txt
 
-# Install streamlit separately
-RUN pip install streamlit
-
-# Copy full app into image
 COPY . .
 
-# Install frontend dependencies
 WORKDIR /app/Dev/UI
-RUN npm install -g serve
+RUN npm install --legacy-peer-deps && npm run build
 
-# Build frontend
-RUN rm -rf node_modules package-lock.json && npm install --legacy-peer-deps && npm run build
-
-
-# Set back to main directory
 WORKDIR /app
+RUN mkdir -p /app/caremap_logs && touch /app/caremap_logs/scraper.log
 
-# Expose ports
 EXPOSE 8000 5173 8501
 
-# Run all services together
-CMD bash -c "\
-    export PYTHONPATH=/app && \
-    python Dev/scrapers/orchestrate_data_pipeline.py & \
-    uvicorn Dev.api.main:app --host 0.0.0.0 --port 8000 & \
-    serve -s Dev/UI/dist -l 5173 & \
-    streamlit run Dev/project_logger/streamlit_app.py --server.port=8501 --server.enableCORS false \
-    "
+COPY start_services.sh /app/start_services.sh
+RUN chmod +x /app/start_services.sh
 
+CMD ["/app/start_services.sh"]

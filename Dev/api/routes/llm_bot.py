@@ -1,6 +1,6 @@
 from fastapi import APIRouter, HTTPException
 from pydantic import BaseModel
-from chatbot.router import QueryBasedRouter
+from Dev.chatbot.router import QueryBasedRouter
 from typing import Optional
 
 router = APIRouter()
@@ -10,7 +10,9 @@ class LLMQuery(BaseModel):
     query: str
     latitude: Optional[float] = None
     longitude: Optional[float] = None
-
+@router.get("/")
+def root():
+    return {"message": "Hello from FastAPI"}
 @router.post("/llm/query")
 def handle_llm_query(input: LLMQuery):
     """Route user query to appropriate domain and generate AI-assisted response."""

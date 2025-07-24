@@ -1,4 +1,4 @@
-from chatbot.config import cur, PAGE_SIZE
+from Dev.chatbot.config import cur, PAGE_SIZE
 from pgvector import Vector
 
 def fetch_providers(query_emb, limit=PAGE_SIZE):
