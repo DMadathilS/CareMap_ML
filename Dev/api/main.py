@@ -6,6 +6,7 @@ from Dev.api.routes.users import router as users_router
 from Dev.api.routes.llm_bot import router as llm_router
 from Dev.api.routes.chats import router as chat_router
 from Dev.api.routes.stats import router as stats_router
+from Dev.api.routes.providers import router as providers_router
 
 
 app = FastAPI()
@@ -32,6 +33,7 @@ app.include_router(users_router, prefix=settings.BASE_PATH)
 app.include_router(llm_router, prefix=settings.BASE_PATH)
 app.include_router(chat_router, prefix=settings.BASE_PATH)
 app.include_router(stats_router, prefix=settings.BASE_PATH)
+app.include_router(providers_router, prefix=settings.BASE_PATH)
 
 
 

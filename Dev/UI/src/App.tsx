@@ -16,6 +16,12 @@ import { LiveIndicator } from "./components/LiveIndicator";
 import { hospitalStats } from "./data/mockData";
 import { useRealTimeStats } from "./hooks/useRealTimeStats";
 import { ClinicResults } from "./components/ClinicResults";
+import BookingAgentDemo from './components/BookingAgentDemo';
+import ProviderDashboard from "@/components/ProviderDashboard";
+import ClinicResultsModal from "./components/ClinicResultsModal";
+import ProviderModal from "./components/ProviderModal";
+import { Provider } from "./types/provider";
+
 import { Clinic, CategoryStat } from "./types";
 import {
   FaStethoscope,
@@ -44,8 +50,13 @@ import {
 import { FaEarListen } from "react-icons/fa6";
 import AnimatedBeamDiagram from "./components/AnimatedBeamDiagram";
 import { CategoryGrid } from "./components/CategoryGrid";
+
+
+
 function App() {
   const [isChatbotOpen, setIsChatbotOpen] = useState(false);
+  const [selectedProvider, setSelectedProvider] = useState<Provider | null>(null);
+
   // const stats = useRealTimeStats(hospitalStats);
   const formatTime = (minutes: number) => {
     const roundedMinutes = Math.round(minutes);
@@ -226,49 +237,10 @@ function App() {
             })
           }
         />
-        <div className="my-10">
-          {/* Heading and subtitle */}
-          <div className="text-center mb-6">
-            <h2 className="text-2xl font-bold text-gray-800">
-              Available Healthcare Providers in KWC
-            </h2>
-            <p className="text-sm text-gray-600">
-              Explore the diverse range of providers here to support your
-              well-being.
-            </p>
-          </div>
-
-          {/* Scrollable carousel */}
-          <div className="overflow-x-auto scrollbar-hide" ref={scrollRef}>
-            <div className="flex space-x-4 snap-x snap-mandatory w-max">
-              {categoryStats.map((item, index) => {
-                const color = COLORS[index % COLORS.length];
-                const Icon = categoryIconMap[item.category] || FaQuestionCircle;
-
-                return (
-                  <div
-                    key={index}
-                    className={`min-w-[220px] snap-center rounded-2xl p-6 shadow-lg ${color} flex flex-col items-center text-center transition-transform hover:scale-105`}
-                  >
-                    {/* Icon with soft background circle */}
-                    <div className=" p-3 rounded-md mb-4">
-                      <Icon className="w-8 h-8 text-blue-600" />
-                    </div>
-
-                    <p className="text-3xl font-bold text-gray-800">
-                      {item.count}
-                    </p>
-                    <p className="text-sm text-gray-500 mb-1">Providers</p>
-                    <h3 className="text-base font-semibold text-gray-700">
-                      {item.category}
-                    </h3>
-                  </div>
-                );
-              })}
-            </div>
-          </div>
+        
+        <div className="container mx-auto mt-10">
+          <ProviderDashboard />
         </div>
-
 
         {/* Information Cards */}
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-8 mb-12">
@@ -330,10 +302,13 @@ function App() {
 
       />
 
-      {clinicData.length > 0 && showClinicResults && (
+
+
+
+      {/*clinicData.length > 0 && showClinicResults && (
         <div className="fixed inset-0 bg-black bg-opacity-50 z-[90] flex items-center justify-center">
           <div className="bg-white rounded-xl shadow-2xl w-full max-w-4xl max-h-[90vh] overflow-y-auto p-6 relative">
-            {/* Close Button */}
+            
             <button
               onClick={() => setShowClinicResults(false)}
               className="absolute top-4 right-4 text-gray-500 hover:text-gray-800 text-xl font-bold"
@@ -341,24 +316,68 @@ function App() {
               ✕
             </button>
 
-            {/* Header */}
+           
             <div className="mb-4">
               <h2 className="text-2xl font-bold text-gray-900">
                 Nearby Clinics
               </h2>
             </div>
 
-            {/* Clinic Results */}
+           
             <ClinicResults
               clinics={clinicData}
-              userLocation={userLocation} // fallback if null
+              userLocation={userLocation} 
             />
           </div>
         </div>
-      )}
+      )*/}
+      
+      {clinicData.length > 0 && (
+  <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 mt-6">
+    {clinicData.map((provider) => (
+      <div
+        key={provider.id}
+        className="bg-white shadow-md rounded-md p-4 cursor-pointer hover:bg-blue-50"
+        onClick={() => setSelectedProvider(provider)} // 🟢 opens modal
+      >
+        <h3 className="text-lg font-bold text-blue-700">{provider.provider_name}</h3>
+        <p className="text-sm text-gray-700">{provider.address}</p>
+        <p className="text-sm text-gray-600">{provider.phone_number}</p>
+      </div>
+    ))}
+  </div>
+)}
 
-              <AnimatedBeamDiagram />
 
+              <BookingAgentDemo />
+     {selectedProvider && (
+      <ProviderModal
+        provider={selectedProvider}
+        onClose={() => setSelectedProvider(null)}
+      />
+    )}
+     {clinicData.length > 0 && showClinicResults && (
+  <div className="fixed inset-0 bg-black bg-opacity-50 z-[90] flex items-center justify-center">
+    <div className="bg-white rounded-xl shadow-2xl w-full max-w-4xl max-h-[90vh] overflow-y-auto p-6 relative">
+      {/* Close Button */}
+      <button
+        onClick={() => setShowClinicResults(false)}
+        className="absolute top-4 right-4 text-gray-500 hover:text-gray-800 text-xl font-bold"
+      >
+        ✕
+      </button>
+
+      {/* Header */}
+      <div className="mb-4">
+        <h2 className="text-2xl font-bold text-gray-900">Nearby Clinics</h2>
+      </div>
+
+      {/* Clinic Results List */}
+      <ClinicResults clinics={clinicData} userLocation={userLocation} />
+    </div>
+  </div>
+)}
+    
     </div>
   );
 }
