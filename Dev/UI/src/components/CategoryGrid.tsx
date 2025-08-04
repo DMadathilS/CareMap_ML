@@ -2,6 +2,8 @@ import React from 'react';
 import { Search, Filter, MapPin } from 'lucide-react';
 import { HealthcareCategory } from '../types';
 import { CategoryCard } from './CategoryCard';
+import { SpeakOnHover } from "./SpeakOnHover";
+
 
 interface CategoryGridProps {
   categories: HealthcareCategory[];
@@ -83,13 +85,18 @@ export const CategoryGrid: React.FC<CategoryGridProps> = ({ categories
 
       {/* Category Grid */}
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
-        {filteredAndSortedCategories.map((category, index) => (
+        {/*filteredAndSortedCategories.map((category, index) => (
           <CategoryCard
             key={index}
             category={category}
             // onClick={onCategoryClick}
           />
-        ))}
+        ))*/}
+        {filteredAndSortedCategories.map((category, index) => (
+        <CategoryCard key={index} category={category} />
+
+))}
+
       </div>
 
       {/* No Results */}

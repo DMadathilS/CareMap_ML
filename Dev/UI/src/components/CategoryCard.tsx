@@ -98,23 +98,21 @@ export const CategoryCard: React.FC<CategoryCardProps> = ({ category,
   };
 
   return (
-    <div
-    //   onClick={() => onClick(category.category)}
-      className={`${categoryInfo.bgColor} ${categoryInfo.borderColor} border-2 rounded-xl p-6 cursor-pointer transition-all duration-300 hover:shadow-lg hover:scale-105 group`}
-    >
-      <div className="flex items-center justify-between mb-4">
-        <div className={`p-3 rounded-lg bg-white shadow-sm group-hover:shadow-md transition-shadow`}>
-          <Icon className={`w-6 h-6 ${categoryInfo.iconColor}`} />
-        </div>
-        <div className="text-right">
-          <div className={`text-2xl font-bold ${categoryInfo.iconColor}`}>
-            {category.count}
-          </div>
-          <div className="text-xs text-gray-500 uppercase tracking-wide">
-            Available
-          </div>
-        </div>
-      </div>
+      <div
+  className={`${categoryInfo.bgColor} ${categoryInfo.borderColor} border-2 rounded-xl p-6 cursor-pointer transition-all duration-300 hover:shadow-lg hover:scale-105 group`}
+  onMouseEnter={() => {
+    const message = `${category.count} providers. ${formatCategoryName(category.category)}`;
+    window.speechSynthesis.cancel();
+    const utterance = new SpeechSynthesisUtterance(message);
+    utterance.rate = 1;
+    utterance.pitch = 1;
+    utterance.volume = 1;
+    window.speechSynthesis.speak(utterance);
+  }}
+  onMouseLeave={() => {
+    window.speechSynthesis.cancel();
+  }}
+>
       
       <div>
         <h3 className="font-semibold text-gray-900 text-lg mb-1 group-hover:text-gray-700 transition-colors">

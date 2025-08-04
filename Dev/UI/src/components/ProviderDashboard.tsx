@@ -18,6 +18,7 @@ import {
   FaYinYang,
   FaHeartbeat,
 } from "react-icons/fa";
+import { SpeakOnHover } from "./SpeakOnHover";
 
 const iconMap: Record<string, JSX.Element> = {
   "General Practitioner/Dentist": <FaUserMd className="text-blue-600 w-8 h-8" />,
@@ -105,8 +106,9 @@ const handlePrev = () => {
  
   return (
     <div className="p-4">
+      <SpeakOnHover text ="Available Healthcare Providers in KWC">
       <h2 className="text-2xl font-bold mb-4">Available Healthcare Providers in KWC</h2>
-
+      </SpeakOnHover>
       <input
         type="text"
         placeholder="Search for a provider type..."
@@ -147,10 +149,20 @@ const handlePrev = () => {
           >
             {pageItems.map((category, idx) => (
               <div
-                key={idx}
-                onClick={() => handleCardClick(category.category)}
-                className="bg-white rounded-xl shadow-lg hover:shadow-xl p-6 transition transform hover:-translate-y-1 text-center cursor-pointer"
-              >
+  key={idx}
+  onClick={() => handleCardClick(category.category)}
+  onMouseEnter={() => {
+    const message = `${category.count} providers. ${category.category}`;
+    window.speechSynthesis.cancel();
+    const utterance = new SpeechSynthesisUtterance(message);
+    utterance.rate = 1;
+    utterance.pitch = 1;
+    utterance.volume = 1;
+    window.speechSynthesis.speak(utterance);
+  }}
+  onMouseLeave={() => window.speechSynthesis.cancel()}
+  className="bg-white rounded-xl shadow-lg hover:shadow-xl p-6 transition transform hover:-translate-y-1 text-center cursor-pointer"
+>
                 <div className="text-4xl text-blue-600 mb-4">
                   {iconMap[category.category] || <FaQuestionCircle />}
                 </div>
@@ -168,6 +180,8 @@ const handlePrev = () => {
       })}
     </div>
   </div>
+
+
 
   {/* Right Arrow */}
   {currentPage < totalPages - 1 && (

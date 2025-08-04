@@ -21,6 +21,8 @@ import ProviderDashboard from "@/components/ProviderDashboard";
 import ClinicResultsModal from "./components/ClinicResultsModal";
 import ProviderModal from "./components/ProviderModal";
 import { Provider } from "./types/provider";
+import { SpeakOnHover } from "./components/SpeakOnHover";
+
 
 import { Clinic, CategoryStat } from "./types";
 import {
@@ -150,10 +152,12 @@ function App() {
                 <Heart className="w-6 h-6 text-white" />
               </div>
               <div>
+                <SpeakOnHover text="CareMap. Smart Healthcare Guidance at Your Fingertips">
                 <h1 className="text-2xl font-bold text-gray-900">CareMap</h1>
                 <p className="text-sm text-gray-600">
                   Smart Healthcare Guidance at Your Fingertips
                 </p>
+                </SpeakOnHover>
               </div>
             </div>
           </div>
@@ -164,13 +168,18 @@ function App() {
       <main className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
         {/* Hero Section */}
         <div className="text-center mb-12">
+          <SpeakOnHover text="Real-time Hospital Dashboard">
           <h2 className="text-4xl font-bold text-gray-900 mb-4">
             Real-time Hospital Dashboard
           </h2>
+          </SpeakOnHover>
+          <SpeakOnHover text="Get instant updates on wait times, and connect with our AI assistant
+            to find the best healthcare options near you.">
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
             Get instant updates on wait times, and connect with our AI assistant
             to find the best healthcare options near you.
           </p>
+          </SpeakOnHover>
         </div>
         {/* Emergency Alert */}
         {stats.emergencyWaitTime > 60 && (
@@ -193,6 +202,8 @@ function App() {
         )}
         {/* Stats Grid */}
         <div className="grid grid-cols-1 md:grid-cols-3 lg:grid-cols-2 gap-6 mb-12">
+          <SpeakOnHover text={`Average Emergency Wait Time: ${formatTime(stats.overallAverageWaitNum)}. ${stats.overallAverageWaitNum >= 60 ? 'Consider urgent care if not critical.' : ''}`}>
+
           <StatCard
             title="Avg Emergency Wait Time"
             value={formatTime(stats.overallAverageWaitNum)}
@@ -201,7 +212,9 @@ function App() {
             color="red"
             showLiveIndicator={true}
           />
-          <StatCard
+          </SpeakOnHover>
+          <SpeakOnHover text={`Average Current Patients: ${stats.overallAveragePatients} in hospital now`}>
+            <StatCard
             title="Avg Current Patients"
             value={stats.overallAveragePatients}
             subtitle="In hospital now"
@@ -209,6 +222,7 @@ function App() {
             color="blue"
             showLiveIndicator={true}
           />
+          </SpeakOnHover>
           {/*     
           <StatCard
             title="Status"
@@ -245,38 +259,56 @@ function App() {
         {/* Information Cards */}
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-8 mb-12">
           <div className="bg-white rounded-xl shadow-lg p-8">
+            <SpeakOnHover text ="Hospital Services">
             <h3 className="text-xl font-bold text-gray-900 mb-4">
               Hospital Services
             </h3>
+            </SpeakOnHover>
             <ul className="space-y-3">
               <li className="flex items-center gap-3">
                 <div className="w-2 h-2 bg-blue-500 rounded-full"></div>
+                <SpeakOnHover text ="24/7 Emergency Department">
                 <span className="text-gray-700">24/7 Emergency Department</span>
+                </SpeakOnHover>
               </li>
               <li className="flex items-center gap-3">
                 <div className="w-2 h-2 bg-blue-500 rounded-full"></div>
+                <SpeakOnHover text ="Specialist Consultations">
                 <span className="text-gray-700">Specialist Consultations</span>
+                </SpeakOnHover>
               </li>
               <li className="flex items-center gap-3">
                 <div className="w-2 h-2 bg-blue-500 rounded-full"></div>
+                <SpeakOnHover text ="Diagnostic Imaging">
                 <span className="text-gray-700">Diagnostic Imaging</span>
+                </SpeakOnHover>
               </li>
               <li className="flex items-center gap-3">
                 <div className="w-2 h-2 bg-blue-500 rounded-full"></div>
+                <SpeakOnHover text ="Laboratory Services">
                 <span className="text-gray-700">Laboratory Services</span>
+                </SpeakOnHover>
               </li>
             </ul>
           </div>
-
+          
           <div className="bg-white rounded-xl shadow-lg p-8">
+            <SpeakOnHover text ="Need Help?">
             <h3 className="text-xl font-bold text-gray-900 mb-4">Need Help?</h3>
+            </SpeakOnHover>
+            <SpeakOnHover text ="Welcome to Your Personal Healthcare Assistant">
             <h2 className="text-xl md:text-2xl font-semibold text-blue-700">
               Welcome to Your Personal Healthcare Assistant
             </h2>
+            </SpeakOnHover>
+            <SpeakOnHover text ="Our AI assistant can help you find nearby clinics, check wait
+              times, and answer your healthcare questions.">
             <p className="text-gray-600 mb-4">
               Our AI assistant can help you find nearby clinics, check wait
               times, and answer your healthcare questions.
             </p>
+            </SpeakOnHover>
+            <SpeakOnHover text="Chat with Buddy">
             <button
               onClick={() => setIsChatbotOpen(true)}
               className="bg-blue-500 hover:bg-blue-600 text-white px-6 py-3 rounded-lg font-medium transition-colors flex items-center gap-2"
@@ -284,7 +316,9 @@ function App() {
               <Heart className="w-5 h-5" />
               Chat with Buddy
             </button>
+            </SpeakOnHover>
           </div>
+          
         </div>
       </main>
    {/* <div className="mb-12">
@@ -335,6 +369,11 @@ function App() {
       {clinicData.length > 0 && (
   <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 mt-6">
     {clinicData.map((provider) => (
+    <SpeakOnHover
+    text={`${provider.provider_name}, located at ${provider.address}`}
+    >
+
+
       <div
         key={provider.id}
         className="bg-white shadow-md rounded-md p-4 cursor-pointer hover:bg-blue-50"
@@ -344,6 +383,7 @@ function App() {
         <p className="text-sm text-gray-700">{provider.address}</p>
         <p className="text-sm text-gray-600">{provider.phone_number}</p>
       </div>
+    </SpeakOnHover>
     ))}
   </div>
 )}
@@ -360,6 +400,7 @@ function App() {
   <div className="fixed inset-0 bg-black bg-opacity-50 z-[90] flex items-center justify-center">
     <div className="bg-white rounded-xl shadow-2xl w-full max-w-4xl max-h-[90vh] overflow-y-auto p-6 relative">
       {/* Close Button */}
+      
       <button
         onClick={() => setShowClinicResults(false)}
         className="absolute top-4 right-4 text-gray-500 hover:text-gray-800 text-xl font-bold"
