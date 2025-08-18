@@ -6,6 +6,15 @@ import { TextAnimate } from "./magicui/text-animate";
 import { Marquee } from "./magicui/marquee";
 import { cn } from "../lib/utils";
 
+function speak(text: string) {
+  const utterance = new SpeechSynthesisUtterance(text);
+  utterance.lang = 'en-US';
+  utterance.pitch = 1;
+  utterance.rate = 1;
+  speechSynthesis.speak(utterance);
+}
+
+
 interface ChatbotProps {
   isOpen: boolean;
   onToggle: () => void;
@@ -183,6 +192,16 @@ export const Chatbot: React.FC<ChatbotProps> = ({
 
  
   const [animatedIndex, setAnimatedIndex] = useState(0);
+  useEffect(() => {
+  const lastMessage = messages[messages.length - 1];
+  if (
+    lastMessage &&
+    lastMessage.sender === "bot" &&
+    typeof lastMessage.content === "string"
+  ) {
+    speak(lastMessage.content);
+  }
+}, [messages]);
 
   useEffect(() => {
     const interval = setInterval(() => {
@@ -302,6 +321,33 @@ export const Chatbot: React.FC<ChatbotProps> = ({
     [isLoading, handleSend]
   );
 
+  function startListening() {
+  const SpeechRecognition =
+    (window as any).SpeechRecognition || (window as any).webkitSpeechRecognition;
+
+  if (!SpeechRecognition) {
+    alert("Speech recognition is not supported in this browser.");
+    return;
+  }
+
+  const recognition = new SpeechRecognition();
+  recognition.lang = "en-US";
+  recognition.interimResults = false;
+
+  recognition.onresult = (event: any) => {
+    const transcript = event.results[0][0].transcript;
+    setInput(transcript);
+    handleSend();  // optional: auto-send after speech
+  };
+
+  recognition.onerror = (event: any) => {
+    console.error("Speech recognition error:", event);
+  };
+
+  recognition.start();
+}
+
+
   if (!isOpen) {
     return (
       <button
@@ -314,7 +360,7 @@ export const Chatbot: React.FC<ChatbotProps> = ({
   }
 
   return (
-    <div className="fixed bottom-6 right-6 w-[360px] max-w-[90%] bg-white border border-gray-300 shadow-xl rounded-lg flex flex-col z-[100]">
+    <div className="fixed bottom-6 right-6 w-full max-w-xs sm:max-w-sm md:max-w-md bg-white border border-gray-300 shadow-xl rounded-lg flex flex-col z-[100]">
       <div className="bg-blue-500 text-white px-4 py-3 flex rounded-t-lg justify-between items-center">
         <div className="flex items-center gap-3">
           <img
@@ -354,6 +400,14 @@ export const Chatbot: React.FC<ChatbotProps> = ({
 
           <div className="border-t p-3">
             <div className="flex items-center gap-2">
+              <button
+                onClick={startListening}
+                className="p-2 bg-gray-200 hover:bg-gray-300 text-black rounded-lg"
+                aria-label="Speak your message"
+              >
+                🎤
+              </button>
+
               <div className="relative flex-1">
                 <input
                   type="text"

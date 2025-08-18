@@ -2,46 +2,40 @@ version: "3.9"
 
 services:
   db:
-    image: ankane/pgvector
+    build:
+      context: .
+      dockerfile: Dockerfile.pg
     container_name: caremap-db
+    restart: unless-stopped
     environment:
       POSTGRES_DB: ${DB_NAME}
       POSTGRES_USER: ${DB_USER}
       POSTGRES_PASSWORD: ${PG_PASSWORD}
     ports:
       - "5432:5432"
-    volumes:
-      - pgdata:/var/lib/postgresql/data
-      - ./db:/docker-entrypoint-initdb.d
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U ${DB_USER}"]
+      interval: 5s
+      timeout: 5s
+      retries: 10
 
-  api:
+  caremap:
     build:
       context: .
-      dockerfile: Dev/Dockerfile
-    container_name: caremap-api
+      dockerfile: Dockerfile
+    container_name: caremap-app
+    restart: unless-stopped
     ports:
       - "8000:8000"
-    depends_on:
-      - db
+      - "5173:5173"
+      - "8501:8501"
     env_file:
       - .env
-    command: >
-      bash -c "python scrapers/orchestrate_data_pipeline.py &
-      uvicorn api.main:app --host 0.0.0.0 --port 8000 --reload"
-
-
-
-  frontend:
-    build:
-      context: ./dev/UI
-      dockerfile: Dockerfile
-    container_name: caremap-frontend
-    ports:
-      - "3005:5173"
+    depends_on:
+      db:
+        condition: service_healthy
     volumes:
-      - ./dev/UI:/app
-      - /app/node_modules
-    command: ["npm", "run", "dev", "--", "--host"]
+      - ./caremap_logs:/app/caremap_logs
 
 volumes:
   pgdata:

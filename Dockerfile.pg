@@ -1,0 +1,5 @@
+# Dockerfile.pg
+FROM ankane/pgvector:latest
+
+# Copy SQL file into init directory
+COPY db/HealthCareTest.sql /docker-entrypoint-initdb.d/

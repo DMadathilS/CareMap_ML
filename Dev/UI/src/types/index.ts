@@ -66,3 +66,11 @@ export interface CategoryData {
   borderColor: string;
   iconColor: string;
 }
+
+export interface Clinic {
+  provider_name: string;
+  address: string;
+  opening_hours?: { status: string };
+  latitude: number;
+  longitude: number;
+}

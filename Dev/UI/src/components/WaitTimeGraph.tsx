@@ -22,6 +22,15 @@ interface WaitTimeGraphProps {
   }) => void;
 }
 
+const speak = (text: string) => {
+  if (!text) return;
+  window.speechSynthesis.cancel();
+  const utterance = new SpeechSynthesisUtterance(text);
+  utterance.rate = 1;
+  utterance.pitch = 1;
+  window.speechSynthesis.speak(utterance);
+};
+
 export const WaitTimeGraph: React.FC<WaitTimeGraphProps> = ({ onStatsUpdate }) => {
   const [hospitalData, setHospitalData] = useState<HospitalWaitData[]>([]);
   const [lastUpdated, setLastUpdated] = useState<string>('');
@@ -140,14 +149,24 @@ console.log(formatTime(avgCurrentWait),avgCurrentPatients);
               <div key={i} className="border-t border-gray-100"></div>
             ))}
           </div>
-
+{/*onMouseEnter={() => setHoveredHospital(hospital.name)}
+                onMouseLeave={() => setHoveredHospital(null)}*/}
           <div className="flex items-end justify-between gap-8 h-64 pt-4 pb-4 relative">
             {hospitalData.map((hospital, index) => (
               <div
                 key={hospital.name}
                 className="flex-1 flex flex-col items-center gap-2 relative"
-                onMouseEnter={() => setHoveredHospital(hospital.name)}
-                onMouseLeave={() => setHoveredHospital(null)}
+                
+                onMouseEnter={() => {
+                setHoveredHospital(hospital.name);
+                const message = `${hospital.name}. Current wait: ${formatTime(hospital.currentWait)}. Average wait: ${formatTime(hospital.averageWait)}. Current patients: ${hospital.current_patients}`;
+                speak(message);
+              }}
+              onMouseLeave={() => {
+              setHoveredHospital(null);
+              window.speechSynthesis.cancel();
+            }}
+
               >
                 {/* Tooltip */}
                 {hoveredHospital === hospital.name && (

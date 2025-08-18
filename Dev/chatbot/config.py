@@ -19,6 +19,8 @@ production = os.getenv("PRODUCTION", "false").lower() == "true"
 # Choose DB host based on environment
 db_host = os.getenv("DB_HOST_DOCKER") if production else os.getenv("DB_HOST")
 
+
+
 # Set DB connection parameters
 DB_PARAMS = {
     "dbname": os.getenv("DB_NAME"),
@@ -27,6 +29,7 @@ DB_PARAMS = {
     "host": db_host,
     "port": os.getenv("DB_PORT")
 }
+print("DEBUG - DB_PARAMS:", DB_PARAMS)
 conn = psycopg2.connect(**DB_PARAMS)
 register_vector(conn)
 cur = conn.cursor()
